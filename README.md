@@ -156,6 +156,11 @@ A Large Chest X-Ray Dataset. <br>
 Automatic segmentation of anatomical structures in chest radiographs <br>
 <a href="https://www.diagnijmegen.nl/publications/hoge12/?bibkey=Hoge12"> ![paper](src/paper.png)</a> 
 
+- <a href="https://lola11.grand-challenge.org/"> **LOLA11**</a> (LObe and Lung Analysis 2011) <br>
+Compare methods for (semi-)automatic segmentation of the lungs and lobes from chest <br>
+***Keyboard:*** segmentation, CT-scan <br>
+<a href="https://lola11.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
+
 - <a href="https://luna16.grand-challenge.org"> **LUNA16**</a> (LUng Nodule Analysis 2016) <br>
 Nodule location detection <br>
 ***Keyboard:*** Cancer, CT-scan <br>
@@ -216,6 +221,12 @@ _______
 - <a href="https://pi-cai.grand-challenge.org/"> **PI-CAI**</a> (Prostate Imaging: Cancer AI) <br>
 ***Keyboard:*** Prostate, MRI, Cancer, Labeled <br>
 <a href="https://pi-cai.grand-challenge.org/evaluation/open-development-phase/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://promise12.grand-challenge.org"> **PROMISE12**</a> (Prostate MR Image Segmentation 2012) <br>
+Compare interactive and (semi)-automatic segmentation algorithms for MRI of the prostate <br>
+***Keyboard:*** T2-weighted MRI, Labeled <br>
+<a href="https://promise12.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841513001734"> ![paper](src/paper.png) Overview paper</a>
+
 ______
 ## Other Organs and Systems
 
