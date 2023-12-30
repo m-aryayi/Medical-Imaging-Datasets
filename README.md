@@ -1,7 +1,7 @@
 <h2> Awesome Public Medical Imaging Datasets </h2>
 
 
-***Under construction: This list is being actively updated with additional datasets.***
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Under_construction_icon-red.svg" alt="Under Construction" height="22"> ***Under construction: This list is being actively updated with additional datasets.***
 
 
 
