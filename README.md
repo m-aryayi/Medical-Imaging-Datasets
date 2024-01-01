@@ -195,15 +195,19 @@ Automatic (and semi-automatic) segmentation of blood vessels in the lungs from C
 ### Liver
 
 - <a href="https://competitions.codalab.org/competitions/17094"> **LiTS**</a> (Liver Tumor Segmentation) <br>
-***Keyboard:*** CT scan, Labeled <br>
+***Keyboard:*** CT scan, Cancer, Labeled <br>
 <a href="https://competitions.codalab.org/competitions/17094#results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/1901.04056"> ![paper](src/paper.png)</a>
+
+- <a href="https://sliver07.grand-challenge.org"> **SLIVER07**</a> (Segmentation of the Liver Competition 2007) <br>
+***Keyboard:*** 3D CT scan <br>
+<a href="https://sliver07.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/4781564?isnumber=5175685&arnumber=4781564&count=18&index=11"> ![paper](src/paper.png)</a>
 
 
 
 ### Breast
 
 - <a href="https://iciar2018-challenge.grand-challenge.org"> **BACH**</a> (BreAst Cancer Histology) <br>
-***Keyboard:*** Biopsy 
+***Keyboard:*** Biopsy, Cancer <br>
 <a href="https://iciar2018-challenge.grand-challenge.org/evaluation/part-a/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841518307941"> ![paper](src/paper.png)</a>
 
 - <a href="https://tdsc-abus2023.grand-challenge.org"> **MITOS-ATYPIA-14**</a> <br>
