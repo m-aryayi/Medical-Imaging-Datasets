@@ -111,6 +111,9 @@ Detect and segment various types of fluids on a common dataset of optical cohere
 ***Keyboard:*** OCT images <br>
 <a href="https://retouch.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/8653407"> ![paper](src/paper.png)</a>
 
+- <a href="https://rocc.grand-challenge.org"> **ROCC**</a> (Retinal OCT Classification Challenge) <br>
+A dataset of OCT volumes, acquired with Topcon SD-OCT devices <br>
+***Keyboard:*** OCT images, Diabetic retinopathy <br>
 
 
 ### Ears, Nose, and Throat
@@ -244,7 +247,15 @@ _______
 
 ### Female Reproductive Organs
 
+- <a href="https://hc18.grand-challenge.org"> **HC18**</a> <br>
+Measurement of fetal head circumference (HC)<br>
+***Keyboard:*** Ultrasound imaging, Labeled <br>
+<a href="https://hc18.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
+
+
+
 ### Male Reproductive Organs
+
 - <a href="https://pi-cai.grand-challenge.org/"> **PI-CAI**</a> (Prostate Imaging: Cancer AI) <br>
 ***Keyboard:*** Prostate, MRI, Cancer, Labeled <br>
 <a href="https://pi-cai.grand-challenge.org/evaluation/open-development-phase/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
