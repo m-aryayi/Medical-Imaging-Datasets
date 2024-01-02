@@ -75,10 +75,16 @@ Segmentation of Heterogeneous CT Data <br>
 - <a href="https://www.nitrc.org/projects/ibsr/"> **IBSR**</a> (Internet Brain Segmentation Repository)  <br>
 Manually-guided expert segmentation results along with magnetic resonance brain image data  <br>
 ***Keyboard:*** MRI, Labeled  <br>
+
 - <a href="https://mindboggle.info/data.html"> **Mindboggle**</a>  <br>
 Manually labeled human brain image data. <br>
 ***Keyboard:*** MRI, Labeled <br>
 <a href="https://www.frontiersin.org/articles/10.3389/fnins.2012.00171/full"> ![paper](src/paper.png)</a>
+
+- <a href="https://archive.norstore.no/pages/public/datasetDetail.jsf?id=10.11582/2017.00004"> **RESECT**</a> (REtroSpective Evaluation of Cerebral Tumors)  <br>
+a clinical database of pre-oper, ative MRI and intra-operative ultrasound in low-grade glioma surgeries <br>
+***Keyboard:*** Cancer, Registration, Labeled <br>
+<a href="https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.12268"> ![paper](src/paper.png)</a>
 
 - <a href="https://valdo.grand-challenge.org"> **VALDO**</a> (VAscular Lesions DetectiOn)  <br>
 ***Keyboard:*** MRI, cerebral small vessel disease (CSVD), Labeled  <br>
@@ -105,6 +111,11 @@ Surgical tool detection in 50 videos of cataract surgeries<br>
 - <a href="https://github.com/SaharAlmahfouzNasser/MeDAL-Retina"> **MeDAL Retina Dataset**</a>  <br>
 ***Keyboard:*** Retinal, Labeled <br>
 <a href="https://arxiv.org/pdf/2307.10698.pdf"> ![paper](src/paper.png) Comprehensive details</a> 
+
+- <a href="https://refuge.grand-challenge.org"> **REFUGE**</a> (Retinal Fundus Glaucoma) <br>
+A data set of 1200 fundus images with ground truth segmentations and clinical glaucoma labels <br>
+***Keyboard:*** Segmentation, Classification, Labeled <br>
+<a href="https://refuge.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841519301100"> ![paper](src/paper.png)</a> | <a href="https://www.nature.com/articles/s41746-020-00329-9"> ![paper](src/paper.png)</a>
 
 - <a href="https://retouch.grand-challenge.org"> **RETOUCH**</a> (Retinal OCT Fluid Challenge) <br>
 Detect and segment various types of fluids on a common dataset of optical coherence tomography (OCT) volumes representing different retinal diseases, acquired with devices from different manufacturers. <br>
@@ -182,6 +193,10 @@ Automatic segmentation of anatomical structures in chest radiographs <br>
 Compare methods for (semi-)automatic segmentation of the lungs and lobes from chest <br>
 ***Keyboard:*** segmentation, CT-scan <br>
 <a href="https://lola11.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://lumic.grand-challenge.org"> **LUMIC**</a> <br>
+***Keyboard:*** CT-scan, registration, Labeled<br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/30888690"> ![paper](src/paper.png)</a> 
 
 - <a href="https://luna16.grand-challenge.org"> **LUNA16**</a> (LUng Nodule Analysis 2016) <br>
 Nodule location detection <br>
