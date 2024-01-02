@@ -255,6 +255,11 @@ ______
 
 ### Bones
 
+- <a href="https://stanfordmlgroup.github.io/competitions/mura/t"> **MURA**</a> (MUsculoskeletal RAdiographs) <br>
+Large Dataset for Abnormality Detection in Musculoskeletal Radiographs <br>
+***Keyboard:*** X-ray, Labeled<br>
+<a href="https://arxiv.org/abs/1712.06957"> ![paper](src/paper.png)</a> 
+
 - <a href="http://spineweb.digitalimaginggroup.ca"> **SpineWeb**</a> <br>
 16 spinal imaging datasets
 
@@ -264,6 +269,11 @@ ______
 
 
 ### Joints
+
+- <a href="https://stanfordmlgroup.github.io/competitions/mrnet"> **MRNet**</a> <br>
+Diagnosis of abnormalities from Knee MRs <br>
+***Keyboard:*** MRI, Labeled<br>
+<a href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002699"> ![paper](src/paper.png)</a> 
 
 ### Muscles
 
