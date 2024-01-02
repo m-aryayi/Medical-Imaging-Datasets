@@ -228,6 +228,11 @@ Automatic (and semi-automatic) segmentation of blood vessels in the lungs from C
 ***Keyboard:*** Biopsy, Cancer <br>
 <a href="https://iciar2018-challenge.grand-challenge.org/evaluation/part-a/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841518307941"> ![paper](src/paper.png)</a>
 
+- <a href="https://breastpathq.grand-challenge.org/"> **BreastPathQ**</a> <br>
+Development of quantitative biomarkers for the determination of cancer cellularity from whole slide images (WSI) of breast cancer hematoxylin and eosin (H&E) stained pathological slides <br>
+***Keyboard:*** Cancer, Haematoxylin and eosin (H&E) stained slides <br>
+<a href="https://breastpathq.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
 - <a href="https://tdsc-abus2023.grand-challenge.org"> **MITOS-ATYPIA-14**</a> <br>
 It is made up of two parts: Detection of mitosis on the one hand, and evaluation of nuclear atypia score on the other hand. <br>
 ***Keyboard:*** Cancer, Haematoxylin and eosin (H&E) stained slides <br>
@@ -249,8 +254,14 @@ ______
 ## Musculoskeletal System
 
 ### Bones
-- <a href="http://spineweb.digitalimaginggroup.ca/"> **SpineWeb**</a> <br>
+
+- <a href="http://spineweb.digitalimaginggroup.ca"> **SpineWeb**</a> <br>
 16 spinal imaging datasets
+
+- <a href="https://github.com/anjany/verse"> **VerSe**</a> <br> Large Scale Vertebrae Segmentation <br>
+***Keyboard:*** CT scan, Segmentation <br>
+<a href="https://verse2019.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841521002127"> ![paper](src/paper.png)</a> | <a href="https://pubs.rsna.org/doi/10.1148/ryai.2020190138"> ![paper](src/paper.png)</a>
+
 
 ### Joints
 
