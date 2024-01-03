@@ -19,6 +19,7 @@
   - [Liver](#liver)
   - [Breast](#breast)
   - [Kidneys and Urinary Tract](#kidneys-and-urinary-tract)
+  - [Bowel](#bowel)
 - [Musculoskeletal System](#musculoskeletal-system)
   - [Bones](#bones)
   - [Joints](#joints)
@@ -27,6 +28,7 @@
   - [Female Reproductive Organs](#female-reproductive-organs)
   - [Male Reproductive Organs](#male-reproductive-organs)
 - [Other Organs and Systems](#other-organs-and-systems)
+  - [Lymph Nodes](#lymph-nodes)
 
 ## Introduction
 
@@ -39,32 +41,6 @@ This repository is a collection of publicly available medical imaging datasets. 
 ______
 
 ## Head and Neck
-
-- <a href="https://camelyon16.grand-challenge.org"> **CAMELYON16**</a> <br>
-Detection of metastases in hematoxylin and eosin (H&E) stained whole-slide images of lymph node sections <br>
-***Keyboard:*** Cancer, Digital pathology, Lymph node detection <br>
-<a href="https://camelyon16.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://jamanetwork.com/journals/jama/article-abstract/2665774"> ![paper](src/paper.png)</a> | <a href="https://academic.oup.com/gigascience/article/7/6/giy065/5026175"> ![paper](src/paper.png)</a>
-
-- <a href="https://camelyon17.grand-challenge.org"> **CAMELYON17**</a> <br>
-Evaluate new and existing algorithms for automated detection and classification of breast cancer metastases in whole-slide images of histological lymph node sections <br>
-***Keyboard:*** Cancer, Digital pathology, Lymph node detection <br>
-<a href="https://camelyon17.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/8447230"> ![paper](src/paper.png)</a> | <a href="https://academic.oup.com/gigascience/article/7/6/giy065/5026175"> ![paper](src/paper.png)</a>
-
-- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=19726546"> **CT Lymph nodes**</a> <br>
-90 CTs dataset of lymph nodes <br>
-***Keyboard:*** CT scan, Lymph node detection
-
-- <a href="https://lnq2023.grand-challenge.org"> **LNQ2023**</a> (Mediastinal Lymph Node Quantification) <br>
-Segmentation of Heterogeneous CT Data <br>
-***Keyboard:*** CT scan, Lymph node, Cancer  <br>
-<a href="https://lnq2023.grand-challenge.org/evaluation/validation/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
-
-- <a href="https://huggingface.co/datasets/andreped/LyNoS"> **LyNoS**</a>  <br>
-15 CTs with corresponding lymph nodes, azygos, esophagus, and subclavian carotid arteries  <br>
-***Keyboard:*** CT scan, Lymph node, Segmentation <br>
-<a href="https://www.tandfonline.com/doi/full/10.1080/21681163.2022.2043778"> ![paper](src/paper.png)</a>
-
-
 
 ### Brain
 
@@ -168,7 +144,12 @@ A 3D CT Image Dataset for Automatic Segmentation of of Type-B Aortic Dissection.
 ***Keyboard:*** CTA (Computed tomography angiography), Labeled, Aorta <br>
 <a href="https://multicenteraorta.grand-challenge.org/evaluation/preliminary-phase/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> 
 
+
 ### Lungs
+
+- <a href="https://acdc-lunghp.grand-challenge.org/"> **ACDC-LungHP**</a> (Automatic Cancer Detection and Classification in Lung Histopathology) <br>
+***Keyboard:*** Cancer, H&E staining, Pathology  <br>
+<a href="https://acdc-lunghp.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/9265237"> ![paper](src/paper.png)</a> | <a href="http://arxiv.org/abs/1803.05471"> ![paper](src/paper.png)</a> 
 
 - <a href="https://anode09.grand-challenge.org/"> **ANODE09**</a> (Automatic Nodule Detection 2009) <br>
 Automatic detection of pulmonary nodules in chest <br>
@@ -220,6 +201,9 @@ Automatic (and semi-automatic) segmentation of blood vessels in the lungs from C
 ***Keyboard:*** 3D CT scan <br>
 <a href="https://sliver07.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/4781564?isnumber=5175685&arnumber=4781564&count=18&index=11"> ![paper](src/paper.png)</a>
 
+- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=6885436"> **TCGA-LIHC**</a> (The Cancer Genome Atlas Liver Hepatocellular Carcinoma) <br>
+It has used in <a href='https://zenodo.org/records/8179129'> LiverHccSeg </a> <br>
+***Keyboard:*** MRI, Cancer <br>
 
 
 ### Breast
@@ -248,6 +232,14 @@ It is made up of two parts: Detection of mitosis on the one hand, and evaluation
 - <a href="https://kits19.grand-challenge.org/"> **KiTS19**</a> (Kidney Tumor Segmentation 2019) <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
 <a href="https://kits19.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
+
+
+### Bowel
+
+- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=3539213"> **The National CT Colonography Trial (ACRIN 6664)**</a> <br>
+A collection contains 825 cases of CT colonography imaging with accompanying spreadsheets that provide polyp descriptions and their location within the colon segments. <br>
+<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa0800996"> ![paper](src/paper.png)</a> 
+
 
 ______
 
@@ -303,6 +295,33 @@ Compare interactive and (semi)-automatic segmentation algorithms for MRI of the 
 
 ______
 ## Other Organs and Systems
+
+### Lymph Nodes
+
+
+- <a href="https://camelyon16.grand-challenge.org"> **CAMELYON16**</a> <br>
+Detection of metastases in hematoxylin and eosin (H&E) stained whole-slide images of lymph node sections <br>
+***Keyboard:*** Cancer, Digital pathology, Lymph node detection <br>
+<a href="https://camelyon16.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://jamanetwork.com/journals/jama/article-abstract/2665774"> ![paper](src/paper.png)</a> | <a href="https://academic.oup.com/gigascience/article/7/6/giy065/5026175"> ![paper](src/paper.png)</a>
+
+- <a href="https://camelyon17.grand-challenge.org"> **CAMELYON17**</a> <br>
+Evaluate new and existing algorithms for automated detection and classification of breast cancer metastases in whole-slide images of histological lymph node sections <br>
+***Keyboard:*** Cancer, Digital pathology, Lymph node detection <br>
+<a href="https://camelyon17.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/8447230"> ![paper](src/paper.png)</a> | <a href="https://academic.oup.com/gigascience/article/7/6/giy065/5026175"> ![paper](src/paper.png)</a>
+
+- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=19726546"> **CT Lymph nodes**</a> <br>
+90 CTs dataset of lymph nodes <br>
+***Keyboard:*** CT scan, Lymph node detection
+
+- <a href="https://lnq2023.grand-challenge.org"> **LNQ2023**</a> (Mediastinal Lymph Node Quantification) <br>
+Segmentation of Heterogeneous CT Data <br>
+***Keyboard:*** CT scan, Cancer  <br>
+<a href="https://lnq2023.grand-challenge.org/evaluation/validation/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://huggingface.co/datasets/andreped/LyNoS"> **LyNoS**</a>  <br>
+15 CTs with corresponding lymph nodes, azygos, esophagus, and subclavian carotid arteries  <br>
+***Keyboard:*** CT scan, Segmentation <br>
+<a href="https://www.tandfonline.com/doi/full/10.1080/21681163.2022.2043778"> ![paper](src/paper.png)</a>
 
 __________________
 
