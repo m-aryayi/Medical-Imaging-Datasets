@@ -69,6 +69,11 @@ a clinical database of pre-oper, ative MRI and intra-operative ultrasound in low
 
 ### Eyes
 
+- <a href="https://amd.grand-challenge.org"> **ADAM**</a> <br>
+Diagnosis of Age-related Macular degeneration (AMD) and segmentation of lesions in fundus photos from AMD patients <br>
+***Keyboard:*** Labeled  <br>
+<a href="https://amd.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> 
+
 - <a href="https://cataracts.grand-challenge.org"> **CATARACTS**</a> <br>
 Surgical tool detection in 50 videos of cataract surgeries<br>
 ***Keyboard:*** Video, Labeled  <br>
@@ -87,6 +92,11 @@ Surgical tool detection in 50 videos of cataract surgeries<br>
 - <a href="https://github.com/SaharAlmahfouzNasser/MeDAL-Retina"> **MeDAL Retina Dataset**</a>  <br>
 ***Keyboard:*** Retinal, Labeled <br>
 <a href="https://arxiv.org/pdf/2307.10698.pdf"> ![paper](src/paper.png) Comprehensive details</a> 
+
+- <a href="https://palm.grand-challenge.org"> **PALM**</a> <br>
+Investigation and development of algorithms associated with the diagnosis of Pathological Myopia (PM) and segmentation of lesions in fundus photos from PM patients. <br>
+***Keyboard:*** Labeled <br>
+<a href="https://palm.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
 - <a href="https://refuge.grand-challenge.org"> **REFUGE**</a> (Retinal Fundus Glaucoma) <br>
 A data set of 1200 fundus images with ground truth segmentations and clinical glaucoma labels <br>
