@@ -246,6 +246,10 @@ It is made up of two parts: Detection of mitosis on the one hand, and evaluation
 
 ### Bowel
 
+- <a href="https://paip2020.grand-challenge.org"> **PAIP2020**</a> <br>
+Classification of molecular subtypes in colorectal cancer for whole-slide image analyses <br>
+<a href="https://paip2020.grand-challenge.org/evaluation/validation/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
+
 - <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=3539213"> **The National CT Colonography Trial (ACRIN 6664)**</a> <br>
 A collection contains 825 cases of CT colonography imaging with accompanying spreadsheets that provide polyp descriptions and their location within the colon segments. <br>
 <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa0800996"> ![paper](src/paper.png)</a> 
@@ -271,6 +275,10 @@ Large Dataset for Abnormality Detection in Musculoskeletal Radiographs <br>
 
 
 ### Joints
+
+- <a href="https://k2s.grand-challenge.org"> **K2S**</a> <br>
+A dataset of high-resolution 3D knee MRI including raw k-space data and post-processing annotations with masks for tissue segmentation. <br>
+***Keyboard:*** MRI, Labeled<br>
 
 - <a href="https://stanfordmlgroup.github.io/competitions/mrnet"> **MRNet**</a> <br>
 Diagnosis of abnormalities from Knee MRs <br>
