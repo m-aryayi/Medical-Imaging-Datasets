@@ -210,7 +210,7 @@ Automatic (and semi-automatic) segmentation of blood vessels in the lungs from C
 
 - <a href="https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01"> **3D-IRCADb-01**</a> (3D Image Reconstruction for Comparison of Algorithm Database) <br>
 10 women and 10 men with hepatic tumours in 75% of cases. <br>
-***Keyboard:*** CT scan, Cancer, Labeled, Segmentation <br>
+***Keyboard:*** 3D CT scan, Cancer, Labeled, Segmentation <br>
 
 - <a href="https://competitions.codalab.org/competitions/17094"> **LiTS**</a> (Liver Tumor Segmentation) <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
