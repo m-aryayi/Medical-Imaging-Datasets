@@ -141,9 +141,19 @@ ______
 
 ### Heart and Blood Vessels
 
+- <a href="https://www.creatis.insa-lyon.fr/Challenge/acdc"> **ACDC**</a> (Automated Cardiac Diagnosis Challenge) <br>
+The dataset contains data from 150 multi-equipments CMRI recordings with reference measurements and classification from two medical experts. <br>
+***Keyboard:***  Cardiac MRI (CMR), Segmentation <br>
+<a href="https://www.creatis.insa-lyon.fr/Challenge/acdc/results.html"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/29994302"> ![paper](src/paper.png)</a>
+
 - <a href="https://www.kaggle.com/datasets/xiaoweixumedicalai/imagealcapa"> **CardiacUDA**</a> (Unsupervised Domain Adaption) <br>
 ***Keyboard:*** Echocardiogram Videos <br>
 <a href="https://arxiv.org/abs/2309.11145"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.creatis.insa-lyon.fr/Challenge/CETUS/"> **CETUS**</a> (Challenge on Endocardial Three-dimensional Ultrasound Segmentation) <br>
+The dataset is composed of 45 sequences of 3D ultrasound volumes of one cardiac cycle from 45 patients to compare left ventricle segmentation methods for both End Diastolic and End Systolic phase instances.<br>
+***Keyboard:***  Ultrasound imaging, Segmentation <br>
+<a href="https://www.creatis.insa-lyon.fr/Challenge/CETUS/results.html"> ![Leaderboard](src/leaderboard.png)</a>
 
 - <a href="https://www.kaggle.com/datasets/xiaoweixumedicalai/imagealcapa"> **ImageALCAPA**</a> (Anomalous left coronary artery from pulmonary artery) <br>
 30 3D CTA images. <br>
