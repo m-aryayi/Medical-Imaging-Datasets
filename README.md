@@ -146,6 +146,11 @@ The dataset contains data from 150 multi-equipments CMRI recordings with referen
 ***Keyboard:***  Cardiac MRI (CMR), Segmentation <br>
 <a href="https://www.creatis.insa-lyon.fr/Challenge/acdc/results.html"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/29994302"> ![paper](src/paper.png)</a>
 
+- <a href="https://camus.creatis.insa-lyon.fr/challenge"> **CAMUS**</a> (Cardiac Acquisitions for Multi-structure Ultrasound Segmentation) <br>
+The dataset consists of clinical exams from 500 patients<br>
+***Keyboard:***  2D echocardiographic images <br>
+<a href="https://www.creatis.insa-lyon.fr/Challenge/camus/results.html"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/30802851"> ![paper](src/paper.png)</a>
+
 - <a href="https://www.kaggle.com/datasets/xiaoweixumedicalai/imagealcapa"> **CardiacUDA**</a> (Unsupervised Domain Adaption) <br>
 ***Keyboard:*** Echocardiogram Videos <br>
 <a href="https://arxiv.org/abs/2309.11145"> ![paper](src/paper.png)</a>
@@ -174,6 +179,10 @@ A 3D CT Image Dataset for classification of Congenital Heart Disease. <br>
 A 3D CT Image Dataset for Automatic Segmentation of of Type-B Aortic Dissection. <br>
 ***Keyboard:*** CTA (Computed tomography angiography), Labeled, Aorta <br>
 <a href="https://www.frontiersin.org/articles/10.3389/fphys.2021.732711/full"> ![paper](src/paper.png)</a> 
+
+- <a href="https://www.creatis.insa-lyon.fr/Challenge/myosaiq"> **MYOSAIQ**</a> (MYOcardial Segmentation with Automated Infarct Quantification)<br>
+The full dataset is composed of 467 Late gadolinium enhanced magnetic resonance images from two different cohorts to quantify myocardial infarction (MI) lesions at different phases of the longitudinal evolution of the disease<br>
+***Keyboard:*** MRI, Segmentation <br>
 
 - <a href="https://multicenteraorta.grand-challenge.org/"> **SEG.A. 2023**</a> (Segmentation of the Aorta) <br>
 ***Keyboard:*** CTA (Computed tomography angiography), Labeled, Aorta <br>
