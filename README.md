@@ -184,6 +184,11 @@ A 3D CT Image Dataset for Automatic Segmentation of of Type-B Aortic Dissection.
 The full dataset is composed of 467 Late gadolinium enhanced magnetic resonance images from two different cohorts to quantify myocardial infarction (MI) lesions at different phases of the longitudinal evolution of the disease<br>
 ***Keyboard:*** MRI, Segmentation <br>
 
+- <a href="https://orcascore.grand-challenge.org"> **orCaScore**</a> <br>
+Cardiac CT exams of 72 patients <br>
+***Keyboard:*** CT scan <br>
+<a href="https://orcascore.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/27147348"> ![paper](src/paper.png)</a>
+
 - <a href="https://multicenteraorta.grand-challenge.org/"> **SEG.A. 2023**</a> (Segmentation of the Aorta) <br>
 ***Keyboard:*** CTA (Computed tomography angiography), Labeled, Aorta <br>
 <a href="https://multicenteraorta.grand-challenge.org/evaluation/preliminary-phase/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> 
@@ -244,6 +249,10 @@ Automatic (and semi-automatic) segmentation of blood vessels in the lungs from C
 - <a href="https://competitions.codalab.org/competitions/17094"> **LiTS**</a> (Liver Tumor Segmentation) <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
 <a href="https://competitions.codalab.org/competitions/17094#results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/1901.04056"> ![paper](src/paper.png)</a>
+
+- <a href="https://paip2019.grand-challenge.org"> **PAIP2019**</a> <br>
+***Keyboard:*** Whole-slide images (WSIs), Cancer, Segmentation, Labeled, Hepatocellular Carcinoma (HCC) <br>
+<a href="https://paip2019.grand-challenge.org/Leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
 - <a href="https://sliver07.grand-challenge.org"> **SLIVER07**</a> (Segmentation of the Liver Competition 2007) <br>
 ***Keyboard:*** 3D CT scan <br>
