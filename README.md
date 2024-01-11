@@ -349,6 +349,11 @@ Measurement of fetal head circumference (HC)<br>
 
 ### Male Reproductive Organs
 
+- <a href="https://gleason2019.grand-challenge.org"> **Gleason 2019**</a> <br>
+Gleason grading of prostate cancer in digital histopathology images <br>
+***Keyboard:*** H&E-stained histopathology image, Cancer, Labeled <br>
+<a href="https://gleason2019.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a>
+
 - <a href="https://pi-cai.grand-challenge.org/"> **PI-CAI**</a> (Prostate Imaging: Cancer AI) <br>
 ***Keyboard:*** Prostate, MRI, Cancer, Labeled <br>
 <a href="https://pi-cai.grand-challenge.org/evaluation/open-development-phase/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
@@ -386,6 +391,11 @@ Segmentation of Heterogeneous CT Data <br>
 15 CTs with corresponding lymph nodes, azygos, esophagus, and subclavian carotid arteries  <br>
 ***Keyboard:*** CT scan, Segmentation <br>
 <a href="https://www.tandfonline.com/doi/full/10.1080/21681163.2022.2043778"> ![paper](src/paper.png)</a>
+
+- <a href="https://github.com/basveeling/pcam"> **PatchCamelyon**</a> <br>
+Image classification dataset consists of 327.680 color images extracted from histopathologic scans of lymph node sections. <br>
+***Keyboard:*** Labeled <br>
+<a href="https://patchcamelyon.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/1806.03962"> ![paper](src/paper.png)</a>
 
 __________________
 
