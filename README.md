@@ -103,6 +103,11 @@ The dataset consists of 2D fundus images and 3D optical coherence tomography (OC
 ***Keyboard:*** Retinal, Labeled <br>
 <a href="https://arxiv.org/pdf/2307.10698.pdf"> ![paper](src/paper.png) Comprehensive details</a> 
 
+- <a href="https://odir2019.grand-challenge.org"> **ODIR 2019**</a> (Ocular Disease Intelligent Recognition) <br>
+A database of 5000 patients with age, color fundus photographs from left and right eyes <br>
+***Keyboard:*** Labeled<br>
+<a href="https://odir2019.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
 - <a href="https://palm.grand-challenge.org"> **PALM**</a> <br>
 Investigation and development of algorithms associated with the diagnosis of Pathological Myopia (PM) and segmentation of lesions in fundus photos from PM patients. <br>
 ***Keyboard:*** Labeled <br>
@@ -292,6 +297,11 @@ It is made up of two parts: Detection of mitosis on the one hand, and evaluation
 
 
 ### Bowel
+
+- <a href="https://digestpath2019.grand-challenge.org"> **Digestpath2019**</a> (Digestive-System Pathological 2019)<br>
+Colonoscopy tissue segmentation and classification and Signet ring cell detection dataset  <br>
+***Keyboard:*** Whole slide image (WSI), Cancer, Labeled <br>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522001323"> ![paper](src/paper.png)</a> 
 
 - <a href="https://paip2020.grand-challenge.org"> **PAIP2020**</a> <br>
 Classification of molecular subtypes in colorectal cancer for whole-slide image analyses <br>
