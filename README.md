@@ -35,6 +35,8 @@
 This repository is a collection of publicly available medical imaging datasets. It aims to provide a comprehensive and valuable resource for researchers, healthcare professionals, and developers working in the field of medical imaging analysis.
 
 
+![NumberOfDataSet](src/numberOfDatasets.png)
+
 - ![Leaderboard](src/leaderboard.png) The link of leaderboard.
 - ![paper](src/paper.png) The link of related papers.
 
