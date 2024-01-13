@@ -139,6 +139,10 @@ A dataset of OCT volumes, acquired with Topcon SD-OCT devices <br>
 ***Keyboard:*** CT, Registration of thoracic <br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/21632295"> ![paper](src/paper.png)</a> 
 
+- <a href="https://tn-scui2020.grand-challenge.org"> **TN-SCUI2020**</a> (Thyroid Nodule Segmentation and Classification in Ultrasound Images) <br>
+A dataset of thyroid nodule with over 4,500 patient <br>
+***Keyboard:***  Ultrasound Image, Thyroid <br>
+<a href="https://tn-scui2020.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
 ______
 
@@ -355,6 +359,9 @@ Measurement of fetal head circumference (HC)<br>
 ***Keyboard:*** Ultrasound imaging, Labeled <br>
 <a href="https://hc18.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://hc18.grand-challenge.org"> **Ps-Fh-Aop-2023**</a> (Pubic Symphysis-Fetal Head Segmentation and Angle of Progression) <br>
+Measurement of fetal head circumference (HC)<br>
+***Keyboard:*** Ultrasound imaging, Labeled <br>
 
 
 ### Male Reproductive Organs
