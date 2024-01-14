@@ -324,7 +324,7 @@ ______
 
 ### Bones
 
-- <a href="https://stanfordmlgroup.github.io/competitions/mura/t"> **MURA**</a> (MUsculoskeletal RAdiographs) <br>
+- <a href="https://stanfordmlgroup.github.io/competitions/mura"> **MURA**</a> (MUsculoskeletal RAdiographs) <br>
 Large Dataset for Abnormality Detection in Musculoskeletal Radiographs <br>
 ***Keyboard:*** X-ray, Labeled<br>
 <a href="https://arxiv.org/abs/1712.06957"> ![paper](src/paper.png)</a> 
