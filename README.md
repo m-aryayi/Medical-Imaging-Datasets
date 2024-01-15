@@ -435,6 +435,14 @@ Compare interactive and (semi)-automatic segmentation algorithms for MRI of the 
 ______
 ## Multi Organs Datasets
 
+- <a href="https://chaos.grand-challenge.org"> **CHAOS**</a> (Combined (CT-MR) Healthy Abdominal Organ Segmentation) <br>
+There are 20 training and 20 testing cases in the CT dataset. MRI dataset contains 20 training and 20 testing cases with T1-Dual and T2 SPIR sequences. <br>
+***Keyboard:*** *Liver, Kidneys, Spleen*, CT Scan, MRI, Labeled <br>
+<a href="https://chaos.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841520303145"> ![paper](src/paper.png)</a>
+
+- <a href="https://structseg2019.grand-challenge.org"> **StructSeg2019**</a> <br>
+Segmentation of organs-at-risk (OAR) and gross target volume (GTV) of tumors of two types of cancers, nasopharynx cancer and lung cancer, for radiation therapy planning. <br>
+***Keyboard:*** *Head & neck, Lung*, CT scans, Cancer, Labeled <br>
 
 
 __________________
