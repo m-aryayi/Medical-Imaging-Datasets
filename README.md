@@ -29,7 +29,7 @@
   - [Male Reproductive Organs](#male-reproductive-organs)
 - [Other Organs and Systems](#other-organs-and-systems)
   - [Lymph Nodes](#lymph-nodes)
-- [Multi Oragn Datasets](#multi-organs-datasets)
+- [Multi Oragns Datasets](#multi-organs-datasets)
 
 ## Introduction
 
