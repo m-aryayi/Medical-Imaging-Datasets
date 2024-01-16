@@ -73,9 +73,6 @@ a clinical database of pre-oper, ative MRI and intra-operative ultrasound in low
 
 ### Ears, Nose, and Throat
 
-- <a href="https://empire10.grand-challenge.org"> **EMPIRE10**</a> (Evaluation of Methods for Pulmonary Image Registration 2010) <br>
-***Keyboard:*** CT, Registration of thoracic <br>
-<a href="https://pubmed.ncbi.nlm.nih.gov/21632295"> ![paper](src/paper.png)</a> 
 
 - <a href="https://tn-scui2020.grand-challenge.org"> **TN-SCUI2020**</a> (Thyroid Nodule Segmentation and Classification in Ultrasound Images) <br>
 A dataset of thyroid nodule with over 4,500 patient <br>
@@ -318,6 +315,10 @@ A Large Chest X-Ray Dataset. <br>
 - <a href="https://crass.grand-challenge.org"> **CRASS12**</a> (Chest Radiograph Anatomical Structure Segmentation) <br>
 Automatic segmentation of anatomical structures in chest radiographs <br>
 <a href="https://www.diagnijmegen.nl/publications/hoge12/?bibkey=Hoge12"> ![paper](src/paper.png)</a> 
+
+- <a href="https://empire10.grand-challenge.org"> **EMPIRE10**</a> (Evaluation of Methods for Pulmonary Image Registration 2010) <br>
+***Keyboard:*** CT, Registration of thoracic <br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/21632295"> ![paper](src/paper.png)</a> 
 
 - <a href="https://lndb.grand-challenge.org"> **LNDb**</a> (Lung Nodule Database) <br>
 Lung nodule detection, segmentation and characterization as well as prediction of patient follow-up <br>
