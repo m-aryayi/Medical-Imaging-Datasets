@@ -11,15 +11,15 @@
 - [Introduction](#introduction)
 - [Head and Neck](#head-and-neck)
   - [Brain](#brain)
-  - [Eyes](#eyes)
   - [Ears, Nose, and Throat](#ears-nose-and-throat)
+  - [Eyes](#eyes)
 - [Chest and Abdomen](#chest-and-abdomen)
-  - [Heart and Blood Vessels](#heart-and-blood-vessels)
-  - [Lungs](#lungs)
-  - [Liver](#liver)
-  - [Breast](#breast)
-  - [Kidneys and Urinary Tract](#kidneys-and-urinary-tract)
   - [Bowel](#bowel)
+  - [Breast](#breast)
+  - [Heart and Blood Vessels](#heart-and-blood-vessels)
+  - [Kidneys and Urinary Tract](#kidneys-and-urinary-tract)
+  - [Liver](#liver)
+  - [Lungs](#lungs)
 - [Musculoskeletal System](#musculoskeletal-system)
   - [Bones](#bones)
   - [Joints](#joints)
@@ -68,6 +68,19 @@ a clinical database of pre-oper, ative MRI and intra-operative ultrasound in low
 - <a href="https://valdo.grand-challenge.org"> **VALDO**</a> (VAscular Lesions DetectiOn)  <br>
 ***Keyboard:*** MRI, cerebral small vessel disease (CSVD), Labeled  <br>
 <a href="https://zenodo.org/records/4600654"> ![paper](src/paper.png)</a>
+
+
+
+### Ears, Nose, and Throat
+
+- <a href="https://empire10.grand-challenge.org"> **EMPIRE10**</a> (Evaluation of Methods for Pulmonary Image Registration 2010) <br>
+***Keyboard:*** CT, Registration of thoracic <br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/21632295"> ![paper](src/paper.png)</a> 
+
+- <a href="https://tn-scui2020.grand-challenge.org"> **TN-SCUI2020**</a> (Thyroid Nodule Segmentation and Classification in Ultrasound Images) <br>
+A dataset of thyroid nodule with over 4,500 patient <br>
+***Keyboard:***  Ultrasound Image, Thyroid <br>
+<a href="https://tn-scui2020.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
 
 ### Eyes
@@ -136,20 +149,62 @@ A dataset of OCT volumes, acquired with Topcon SD-OCT devices <br>
 <a href="https://aistudio.baidu.com/competition/detail/1101/0/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
 
-### Ears, Nose, and Throat
-
-- <a href="https://empire10.grand-challenge.org"> **EMPIRE10**</a> (Evaluation of Methods for Pulmonary Image Registration 2010) <br>
-***Keyboard:*** CT, Registration of thoracic <br>
-<a href="https://pubmed.ncbi.nlm.nih.gov/21632295"> ![paper](src/paper.png)</a> 
-
-- <a href="https://tn-scui2020.grand-challenge.org"> **TN-SCUI2020**</a> (Thyroid Nodule Segmentation and Classification in Ultrasound Images) <br>
-A dataset of thyroid nodule with over 4,500 patient <br>
-***Keyboard:***  Ultrasound Image, Thyroid <br>
-<a href="https://tn-scui2020.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
 ______
 
 ## Chest and Abdomen
+
+
+### Bowel
+
+- <a href="https://digestpath2019.grand-challenge.org"> **Digestpath2019**</a> (Digestive-System Pathological 2019)<br>
+Colonoscopy tissue segmentation and classification and Signet ring cell detection dataset  <br>
+***Keyboard:*** Whole slide image (WSI), Cancer, Labeled <br>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522001323"> ![paper](src/paper.png)</a> 
+
+- <a href="https://paip2020.grand-challenge.org"> **PAIP2020**</a> <br>
+Classification of molecular subtypes in colorectal cancer for whole-slide image analyses <br>
+<a href="https://paip2020.grand-challenge.org/evaluation/validation/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=3539213"> **The National CT Colonography Trial (ACRIN 6664)**</a> <br>
+A collection contains 825 cases of CT colonography imaging with accompanying spreadsheets that provide polyp descriptions and their location within the colon segments. <br>
+<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa0800996"> ![paper](src/paper.png)</a> 
+
+
+
+
+### Breast
+
+- <a href="https://acrobat.grand-challenge.org"> **ACROBAT**</a> (AutomatiC Registration Of Breast cAncer Tissue) <br>
+Consisting of 4212 WSIs from 1153 patients <br>
+***Keyboard:*** whole-slide images (WSI), Cancer <br>
+<a href="https://acrobat.grand-challenge.org/evaluation/model-development/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="http://arxiv.org/abs/2211.13621"> ![paper](src/paper.png)</a> 
+
+- <a href="https://iciar2018-challenge.grand-challenge.org"> **BACH**</a> (BreAst Cancer Histology) <br>
+***Keyboard:*** Biopsy, Cancer <br>
+<a href="https://iciar2018-challenge.grand-challenge.org/evaluation/part-a/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841518307941"> ![paper](src/paper.png)</a>
+
+- <a href="https://breastpathq.grand-challenge.org/"> **BreastPathQ**</a> <br>
+Development of quantitative biomarkers for the determination of cancer cellularity from whole slide images (WSI) of breast cancer hematoxylin and eosin (H&E) stained pathological slides <br>
+***Keyboard:*** Cancer, Haematoxylin and eosin (H&E) stained slides <br>
+<a href="https://breastpathq.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://ecdp2020.grand-challenge.org"> **HEROHE**</a> (HER2 on hematoxylin and eosin) <br>
+The dataset consists of annotated, whole-slide images dataset (509), specifically collected for predicting human epidermal growth factor receptor 2 (HER2) status <br>
+***Keyboard:*** whole-slide images (WSI), Cancer <br>
+<a href="https://www.mdpi.com/2313-433X/8/8/213"> ![paper](src/paper.png)</a>
+
+- <a href="https://tdsc-abus2023.grand-challenge.org"> **MITOS-ATYPIA-14**</a> <br>
+It is made up of two parts: Detection of mitosis on the one hand, and evaluation of nuclear atypia score on the other hand. <br>
+***Keyboard:*** Cancer, Haematoxylin and eosin (H&E) stained slides <br>
+<a href="https://mitos-atypia-14.grand-challenge.org/Results2"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://tdsc-abus2023.grand-challenge.org"> **TDSC-ABUS2023**</a> (Tumor Detection, Segmentation and Classification Challenge on Automated 3D Breast Ultrasound 2023) <br>
+***Keyboard:*** Ultrasound, Cancer, Labeled <br>
+<a href="https://tdsc-abus2023.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
+
+
 
 ### Heart and Blood Vessels
 
@@ -206,6 +261,39 @@ Cardiac CT exams of 72 patients <br>
 <a href="https://multicenteraorta.grand-challenge.org/evaluation/preliminary-phase/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> 
 
 
+
+### Kidneys and Urinary Tract
+
+- <a href="https://kits19.grand-challenge.org/"> **KiTS19**</a> (Kidney Tumor Segmentation 2019) <br>
+***Keyboard:*** CT scan, Cancer, Labeled <br>
+<a href="https://kits19.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
+
+
+
+### Liver
+
+- <a href="https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01"> **3D-IRCADb-01**</a> (3D Image Reconstruction for Comparison of Algorithm Database) <br>
+10 women and 10 men with hepatic tumours in 75% of cases. <br>
+***Keyboard:*** 3D CT scan, Cancer, Labeled, Segmentation <br>
+
+- <a href="https://competitions.codalab.org/competitions/17094"> **LiTS**</a> (Liver Tumor Segmentation) <br>
+***Keyboard:*** CT scan, Cancer, Labeled <br>
+<a href="https://competitions.codalab.org/competitions/17094#results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/1901.04056"> ![paper](src/paper.png)</a>
+
+- <a href="https://paip2019.grand-challenge.org"> **PAIP2019**</a> <br>
+***Keyboard:*** Whole-slide images (WSIs), Cancer, Segmentation, Labeled, Hepatocellular Carcinoma (HCC) <br>
+<a href="https://paip2019.grand-challenge.org/Leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://sliver07.grand-challenge.org"> **SLIVER07**</a> (Segmentation of the Liver Competition 2007) <br>
+***Keyboard:*** 3D CT scan <br>
+<a href="https://sliver07.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/4781564?isnumber=5175685&arnumber=4781564&count=18&index=11"> ![paper](src/paper.png)</a>
+
+- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=6885436"> **TCGA-LIHC**</a> (The Cancer Genome Atlas Liver Hepatocellular Carcinoma) <br>
+It has used in <a href='https://zenodo.org/records/8179129'> LiverHccSeg </a> <br>
+***Keyboard:*** MRI, Cancer <br>
+
+
+
 ### Lungs
 
 - <a href="https://acdc-lunghp.grand-challenge.org/"> **ACDC-LungHP**</a> (Automatic Cancer Detection and Classification in Lung Histopathology) <br>
@@ -251,82 +339,6 @@ Automatic (and semi-automatic) segmentation of blood vessels in the lungs from C
 <a href="https://vessel12.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S136184151400111X"> ![paper](src/paper.png) Overview paper</a> 
 
 
-
-### Liver
-
-- <a href="https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01"> **3D-IRCADb-01**</a> (3D Image Reconstruction for Comparison of Algorithm Database) <br>
-10 women and 10 men with hepatic tumours in 75% of cases. <br>
-***Keyboard:*** 3D CT scan, Cancer, Labeled, Segmentation <br>
-
-- <a href="https://competitions.codalab.org/competitions/17094"> **LiTS**</a> (Liver Tumor Segmentation) <br>
-***Keyboard:*** CT scan, Cancer, Labeled <br>
-<a href="https://competitions.codalab.org/competitions/17094#results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/1901.04056"> ![paper](src/paper.png)</a>
-
-- <a href="https://paip2019.grand-challenge.org"> **PAIP2019**</a> <br>
-***Keyboard:*** Whole-slide images (WSIs), Cancer, Segmentation, Labeled, Hepatocellular Carcinoma (HCC) <br>
-<a href="https://paip2019.grand-challenge.org/Leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
-
-- <a href="https://sliver07.grand-challenge.org"> **SLIVER07**</a> (Segmentation of the Liver Competition 2007) <br>
-***Keyboard:*** 3D CT scan <br>
-<a href="https://sliver07.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/4781564?isnumber=5175685&arnumber=4781564&count=18&index=11"> ![paper](src/paper.png)</a>
-
-- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=6885436"> **TCGA-LIHC**</a> (The Cancer Genome Atlas Liver Hepatocellular Carcinoma) <br>
-It has used in <a href='https://zenodo.org/records/8179129'> LiverHccSeg </a> <br>
-***Keyboard:*** MRI, Cancer <br>
-
-
-### Breast
-
-- <a href="https://acrobat.grand-challenge.org"> **ACROBAT**</a> (AutomatiC Registration Of Breast cAncer Tissue) <br>
-Consisting of 4212 WSIs from 1153 patients <br>
-***Keyboard:*** whole-slide images (WSI), Cancer <br>
-<a href="https://acrobat.grand-challenge.org/evaluation/model-development/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="http://arxiv.org/abs/2211.13621"> ![paper](src/paper.png)</a> 
-
-- <a href="https://iciar2018-challenge.grand-challenge.org"> **BACH**</a> (BreAst Cancer Histology) <br>
-***Keyboard:*** Biopsy, Cancer <br>
-<a href="https://iciar2018-challenge.grand-challenge.org/evaluation/part-a/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841518307941"> ![paper](src/paper.png)</a>
-
-- <a href="https://breastpathq.grand-challenge.org/"> **BreastPathQ**</a> <br>
-Development of quantitative biomarkers for the determination of cancer cellularity from whole slide images (WSI) of breast cancer hematoxylin and eosin (H&E) stained pathological slides <br>
-***Keyboard:*** Cancer, Haematoxylin and eosin (H&E) stained slides <br>
-<a href="https://breastpathq.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
-
-- <a href="https://ecdp2020.grand-challenge.org"> **HEROHE**</a> (HER2 on hematoxylin and eosin) <br>
-The dataset consists of annotated, whole-slide images dataset (509), specifically collected for predicting human epidermal growth factor receptor 2 (HER2) status <br>
-***Keyboard:*** whole-slide images (WSI), Cancer <br>
-<a href="https://www.mdpi.com/2313-433X/8/8/213"> ![paper](src/paper.png)</a>
-
-- <a href="https://tdsc-abus2023.grand-challenge.org"> **MITOS-ATYPIA-14**</a> <br>
-It is made up of two parts: Detection of mitosis on the one hand, and evaluation of nuclear atypia score on the other hand. <br>
-***Keyboard:*** Cancer, Haematoxylin and eosin (H&E) stained slides <br>
-<a href="https://mitos-atypia-14.grand-challenge.org/Results2"> ![Leaderboard](src/leaderboard.png)</a>
-
-- <a href="https://tdsc-abus2023.grand-challenge.org"> **TDSC-ABUS2023**</a> (Tumor Detection, Segmentation and Classification Challenge on Automated 3D Breast Ultrasound 2023) <br>
-***Keyboard:*** Ultrasound, Cancer, Labeled <br>
-<a href="https://tdsc-abus2023.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
-
-
-### Kidneys and Urinary Tract
-
-- <a href="https://kits19.grand-challenge.org/"> **KiTS19**</a> (Kidney Tumor Segmentation 2019) <br>
-***Keyboard:*** CT scan, Cancer, Labeled <br>
-<a href="https://kits19.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
-
-
-### Bowel
-
-- <a href="https://digestpath2019.grand-challenge.org"> **Digestpath2019**</a> (Digestive-System Pathological 2019)<br>
-Colonoscopy tissue segmentation and classification and Signet ring cell detection dataset  <br>
-***Keyboard:*** Whole slide image (WSI), Cancer, Labeled <br>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522001323"> ![paper](src/paper.png)</a> 
-
-- <a href="https://paip2020.grand-challenge.org"> **PAIP2020**</a> <br>
-Classification of molecular subtypes in colorectal cancer for whole-slide image analyses <br>
-<a href="https://paip2020.grand-challenge.org/evaluation/validation/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
-
-- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=3539213"> **The National CT Colonography Trial (ACRIN 6664)**</a> <br>
-A collection contains 825 cases of CT colonography imaging with accompanying spreadsheets that provide polyp descriptions and their location within the colon segments. <br>
-<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa0800996"> ![paper](src/paper.png)</a> 
 
 
 ______
