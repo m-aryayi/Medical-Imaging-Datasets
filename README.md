@@ -319,6 +319,11 @@ A Large Chest X-Ray Dataset. <br>
 Automatic segmentation of anatomical structures in chest radiographs <br>
 <a href="https://www.diagnijmegen.nl/publications/hoge12/?bibkey=Hoge12"> ![paper](src/paper.png)</a> 
 
+- <a href="https://lndb.grand-challenge.org"> **LNDb**</a> (Lung Nodule Database) <br>
+Lung nodule detection, segmentation and characterization as well as prediction of patient follow-up <br>
+***Keyboard:*** Cancer, CT-scan <br>
+<a href="https://lndb.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/33740739"> ![paper](src/paper.png) Overview paper</a> 
+
 - <a href="https://lola11.grand-challenge.org/"> **LOLA11**</a> (LObe and Lung Analysis 2011) <br>
 Compare methods for (semi-)automatic segmentation of the lungs and lobes from chest <br>
 ***Keyboard:*** segmentation, CT-scan <br>
@@ -451,6 +456,11 @@ ______
 There are 20 training and 20 testing cases in the CT dataset. MRI dataset contains 20 training and 20 testing cases with T1-Dual and T2 SPIR sequences. <br>
 ***Keyboard:*** *Liver, Kidneys, Spleen*, CT Scan, MRI, Labeled <br>
 <a href="https://chaos.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841520303145"> ![paper](src/paper.png)</a>
+
+- <a href="https://lyon19.grand-challenge.org"> **LYON19**</a> <br>
+The test set contains Region of Interests (ROIs) selected from whole-slide images (WSI) of immunohistochemistry (IHC) stained specimens <br>
+***Keyboard:*** *breast, colon, prostate*, whole-slide images (WSI) <br>
+<a href="https://lyon19.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841519300829"> ![paper](src/paper.png)</a>
 
 - <a href="https://structseg2019.grand-challenge.org"> **StructSeg2019**</a> <br>
 Segmentation of organs-at-risk (OAR) and gross target volume (GTV) of tumors of two types of cancers, nasopharynx cancer and lung cancer, for radiation therapy planning. <br>
