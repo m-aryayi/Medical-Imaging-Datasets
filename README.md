@@ -342,7 +342,7 @@ Automatic segmentation of anatomical structures in chest radiographs <br>
 - <a href="https://lndb.grand-challenge.org"> **LNDb**</a> (Lung Nodule Database) <br>
 Lung nodule detection, segmentation and characterization as well as prediction of patient follow-up <br>
 ***Keyboard:*** Cancer, CT-scan <br>
-<a href="https://lndb.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/33740739"> ![paper](src/paper.png) Overview paper</a> 
+<a href="https://lndb.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/33740739"> ![paper](src/paper.png) </a> 
 
 - <a href="https://lola11.grand-challenge.org/"> **LOLA11**</a> (LObe and Lung Analysis 2011) <br>
 Compare methods for (semi-)automatic segmentation of the lungs and lobes from chest <br>
@@ -433,7 +433,7 @@ Gleason grading of prostate cancer in digital histopathology images <br>
 - <a href="https://www.kaggle.com/c/prostate-cancer-grade-assessment"> **PANDA**</a> (Prostate cANcer graDe Assessment) <br>
 Classifying the severity of prostate cancer from microscopy scans of prostate biopsy samples <br>
 ***Keyboard:*** whole-slide images (WSI), Cancer <br>
-<a href="https://www.nature.com/articles/s41591-021-01620-2"> ![paper](src/paper.png) Overview paper</a>
+<a href="https://www.nature.com/articles/s41591-021-01620-2"> ![paper](src/paper.png)</a>
 
 - <a href="https://pi-cai.grand-challenge.org/"> **PI-CAI**</a> (Prostate Imaging: Cancer AI) <br>
 ***Keyboard:*** Prostate, MRI, Cancer, Labeled <br>
