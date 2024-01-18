@@ -322,6 +322,11 @@ A Large Chest X-Ray Dataset. <br>
 ***Keyboard:*** X-ray, Labeled <br>
 <a href="https://arxiv.org/abs/1901.07031"> ![paper](src/paper.png)</a>
 
+- <a href="https://github.com/UCSD-AI4H/COVID-CT"> **COVID-CT**</a> <br>
+It contains 349 COVID-19 CT images from 216 patients and 463 non-COVID-19 CTs<br>
+***Keyboard:*** CT scan, Classification <br>
+<a href="https://covid-ct.grand-challenge.org/Leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2003.13865"> ![paper](src/paper.png)</a> 
+
 - <a href="https://crass.grand-challenge.org"> **CRASS12**</a> (Chest Radiograph Anatomical Structure Segmentation) <br>
 Automatic segmentation of anatomical structures in chest radiographs <br>
 <a href="https://www.diagnijmegen.nl/publications/hoge12/?bibkey=Hoge12"> ![paper](src/paper.png)</a> 
@@ -329,6 +334,10 @@ Automatic segmentation of anatomical structures in chest radiographs <br>
 - <a href="https://empire10.grand-challenge.org"> **EMPIRE10**</a> (Evaluation of Methods for Pulmonary Image Registration 2010) <br>
 ***Keyboard:*** CT, Registration of thoracic <br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/21632295"> ![paper](src/paper.png)</a> 
+
+- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254"> **LIDC-IDRI**</a> (Lung Image Database Consortium (LIDC) and Image Database Resource Initiative (IDRI)) <br>
+***Keyboard:*** CT scan, Cancer, Labeled <br>
+<a href="https://aapm.onlinelibrary.wiley.com/doi/10.1118/1.3528204"> ![paper](src/paper.png)</a> 
 
 - <a href="https://lndb.grand-challenge.org"> **LNDb**</a> (Lung Nodule Database) <br>
 Lung nodule detection, segmentation and characterization as well as prediction of patient follow-up <br>
@@ -421,6 +430,11 @@ Gleason grading of prostate cancer in digital histopathology images <br>
 ***Keyboard:*** H&E-stained histopathology image, Cancer, Labeled <br>
 <a href="https://gleason2019.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://www.kaggle.com/c/prostate-cancer-grade-assessment"> **PANDA**</a> (Prostate cANcer graDe Assessment) <br>
+Classifying the severity of prostate cancer from microscopy scans of prostate biopsy samples <br>
+***Keyboard:*** whole-slide images (WSI), Cancer <br>
+<a href="https://www.nature.com/articles/s41591-021-01620-2"> ![paper](src/paper.png) Overview paper</a>
+
 - <a href="https://pi-cai.grand-challenge.org/"> **PI-CAI**</a> (Prostate Imaging: Cancer AI) <br>
 ***Keyboard:*** Prostate, MRI, Cancer, Labeled <br>
 <a href="https://pi-cai.grand-challenge.org/evaluation/open-development-phase/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
@@ -476,6 +490,10 @@ There are 20 training and 20 testing cases in the CT dataset. MRI dataset contai
 The test set contains Region of Interests (ROIs) selected from whole-slide images (WSI) of immunohistochemistry (IHC) stained specimens <br>
 ***Keyboard:*** *breast, colon, prostate*, whole-slide images (WSI) <br>
 <a href="https://lyon19.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841519300829"> ![paper](src/paper.png)</a>
+
+- <a href="https://medshapenet.ikim.nrw"> **MedShapeNet**</a> <br>
+This dataset contains over 100,000 3D medical shapes, including bones, organs, vessels, muscles, etc., as well as surgical instruments. It has used in <a href='https://autoimplant.grand-challenge.org'> AutoImplant </a> <br>
+<a href="https://proj-page.github.io/medshapenet_publications.html"> ![paper](src/paper.png)</a>
 
 - <a href="https://structseg2019.grand-challenge.org"> **StructSeg2019**</a> <br>
 Segmentation of organs-at-risk (OAR) and gross target volume (GTV) of tumors of two types of cancers, nasopharynx cancer and lung cancer, for radiation therapy planning. <br>
