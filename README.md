@@ -141,6 +141,11 @@ Detect and segment various types of fluids on a common dataset of optical cohere
 ***Keyboard:*** OCT images <br>
 <a href="https://retouch.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/8653407"> ![paper](src/paper.png)</a>
 
+- <a href="https://riadd.grand-challenge.org"> **RFMiD**</a> (Retinal Fundus Multi-Disease Image Dataset) <br>
+It consists of 3200 fundus images<br>
+***Keyboard:*** Fundus Images, Classification <br>
+<a href="https://riadd.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.mdpi.com/2306-5729/6/2/14"> ![paper](src/paper.png) Data Descriptor</a> 
+
 - <a href="https://rocc.grand-challenge.org"> **ROCC**</a> (Retinal OCT Classification Challenge) <br>
 A dataset of OCT volumes, acquired with Topcon SD-OCT devices <br>
 ***Keyboard:*** OCT images, Diabetic retinopathy <br>
@@ -412,6 +417,10 @@ _______
 ## Pelvis and Reproductive Organs
 
 ### Female Reproductive Organs
+
+- <a href="https://hc18.grand-challenge.org"> **A-AFMA**</a> (Automatic amniotic fluid measurement and analysis) <br>
+The goal is measurement of the maximum vertical pocket (MVP) <br>
+***Keyboard:*** Ultrasound Video Clip <br>
 
 - <a href="https://hc18.grand-challenge.org"> **HC18**</a> <br>
 Measurement of fetal head circumference (HC)<br>
