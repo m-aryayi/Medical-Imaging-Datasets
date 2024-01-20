@@ -169,6 +169,10 @@ Colonoscopy tissue segmentation and classification and Signet ring cell detectio
 ***Keyboard:*** Whole slide image (WSI), Cancer, Labeled <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522001323"> ![paper](src/paper.png)</a> 
 
+- <a href="https://endocv2021.grand-challenge.org"> **EndoCV2021**</a> (Endoscopy Computer Vision 2021)<br>
+Addressing generalisability in polyp detection and segmentation <br>
+***Keyboard:*** Colonoscopy, Labeled <br>
+
 - <a href="https://paip2020.grand-challenge.org"> **PAIP2020**</a> <br>
 Classification of molecular subtypes in colorectal cancer for whole-slide image analyses <br>
 <a href="https://paip2020.grand-challenge.org/evaluation/validation/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
@@ -326,6 +330,11 @@ Automatic detection of pulmonary nodules in chest <br>
 A Large Chest X-Ray Dataset. <br>
 ***Keyboard:*** X-ray, Labeled <br>
 <a href="https://arxiv.org/abs/1901.07031"> ![paper](src/paper.png)</a>
+
+- <a href="https://covid-segmentation.grand-challenge.org"> **COVID-19-20**</a> <br>
+COVID-19 Lung CT Lesion Segmentation <br>
+***Keyboard:*** CT scan, Labeled <br>
+<a href="https://covid-segmentation.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/pii/S1361841522002353"> ![paper](src/paper.png)</a>
 
 - <a href="https://github.com/UCSD-AI4H/COVID-CT"> **COVID-CT**</a> <br>
 It contains 349 COVID-19 CT images from 216 patients and 463 non-COVID-19 CTs<br>
