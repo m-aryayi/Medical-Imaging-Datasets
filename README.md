@@ -282,7 +282,7 @@ Cardiac CT exams of 72 patients <br>
 
 - <a href="https://kits19.grand-challenge.org/"> **KiTS19**</a> (Kidney Tumor Segmentation 2019) <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
-<a href="https://kits19.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
+<a href="https://kits19.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841520301857"> ![paper](src/paper.png)</a>
 
 
 
