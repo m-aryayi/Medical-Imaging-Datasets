@@ -284,6 +284,12 @@ Cardiac CT exams of 72 patients <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
 <a href="https://kits19.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841520301857"> ![paper](src/paper.png)</a>
 
+- <a href="https://kits-challenge.org/kits21"> **KiTS21**</a> (Kidney Tumor Segmentation 2021) <br>
+***Keyboard:*** CT scan, Cancer, Labeled <br>
+<a href="https://kits21.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2307.01984"> ![paper](src/paper.png)</a> | <a href="https://link.springer.com/chapter/10.1007/978-3-030-98385-7_13"> ![paper](src/paper.png)
+
+- <a href="https://kits-challenge.org/kits23"> **KiTS23**</a> (Kidney Tumor Segmentation 2023) <br>
+***Keyboard:*** CT scan, Cancer, Labeled <br>
 
 
 ### Liver
