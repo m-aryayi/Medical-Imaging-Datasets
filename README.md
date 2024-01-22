@@ -510,6 +510,11 @@ There are 20 training and 20 testing cases in the CT dataset. MRI dataset contai
 ***Keyboard:*** *Liver, Kidneys, Spleen*, CT Scan, MRI, Labeled <br>
 <a href="https://chaos.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841520303145"> ![paper](src/paper.png)</a>
 
+- <a href="https://ead2019.grand-challenge.org/"> **EAD 2019**</a> (Endoscopy artifact detection) <br>
+Facilitating diagnosis and treatment of diseases in hollow organs. <br>
+***Keyboard:***  Multi-tissue, Multi-modality, Video Endoscopy, Labeled <br>
+<a href="https://ead2019.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/1905.03209"> ![paper](src/paper.png)</a>
+
 - <a href="https://lyon19.grand-challenge.org"> **LYON19**</a> <br>
 The test set contains Region of Interests (ROIs) selected from whole-slide images (WSI) of immunohistochemistry (IHC) stained specimens <br>
 ***Keyboard:*** *breast, colon, prostate*, whole-slide images (WSI) <br>
@@ -518,6 +523,11 @@ The test set contains Region of Interests (ROIs) selected from whole-slide image
 - <a href="https://medshapenet.ikim.nrw"> **MedShapeNet**</a> <br>
 This dataset contains over 100,000 3D medical shapes, including bones, organs, vessels, muscles, etc., as well as surgical instruments. It has used in <a href='https://autoimplant.grand-challenge.org'> AutoImplant </a> <br>
 <a href="https://proj-page.github.io/medshapenet_publications.html"> ![paper](src/paper.png)</a>
+
+- <a href="https://paip2021.grand-challenge.org"> **PAIP2021**</a> <br>
+Detection of Perineural Invasion in Multiple Organ Cancer <br>
+***Keyboard:*** *Colon, Prostate and Pancreatobiliary tract*, Whole-slide images (WSIs), Cancer, Labeled <br>
+<a href="https://paip2021.grand-challenge.org/evaluation/validation/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
 - <a href="https://structseg2019.grand-challenge.org"> **StructSeg2019**</a> <br>
 Segmentation of organs-at-risk (OAR) and gross target volume (GTV) of tumors of two types of cancers, nasopharynx cancer and lung cancer, for radiation therapy planning. <br>
