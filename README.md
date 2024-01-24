@@ -204,6 +204,11 @@ Consisting of 4212 WSIs from 1153 patients <br>
 ***Keyboard:*** Biopsy, Cancer <br>
 <a href="https://iciar2018-challenge.grand-challenge.org/evaluation/part-a/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841518307941"> ![paper](src/paper.png)</a>
 
+- <a href="https://github.com/PathologyDataScience/BCSS"> **BCSS**</a> (Breast Cancer Semantic Segmentation) <br>
+The dataset contains over 20,000 segmentation annotations of tissue region from breast cancer images from TCGA. <br>
+***Keyboard:***  Cancer, Labeled <br>
+<a href="https://academic.oup.com/bioinformatics/article/35/18/3461/5307750"> ![paper](src/paper.png)</a>
+
 - <a href="https://breastpathq.grand-challenge.org/"> **BreastPathQ**</a> <br>
 Development of quantitative biomarkers for the determination of cancer cellularity from whole slide images (WSI) of breast cancer hematoxylin and eosin (H&E) stained pathological slides <br>
 ***Keyboard:*** Cancer, Haematoxylin and eosin (H&E) stained slides <br>
@@ -218,6 +223,11 @@ The dataset consists of annotated, whole-slide images dataset (509), specificall
 It is made up of two parts: Detection of mitosis on the one hand, and evaluation of nuclear atypia score on the other hand. <br>
 ***Keyboard:*** Cancer, Haematoxylin and eosin (H&E) stained slides <br>
 <a href="https://mitos-atypia-14.grand-challenge.org/Results2"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://sites.google.com/view/nucls"> **NuCLS**</a> <br>
+The datasets contain over 220000 labeled nuclei from breast cancer images from TCGA <br>
+***Keyboard:***  Cancer, Labeled <br>
+<a href="https://arxiv.org/abs/2102.09099"> ![paper](src/paper.png)</a>
 
 - <a href="https://tdsc-abus2023.grand-challenge.org"> **TDSC-ABUS2023**</a> (Tumor Detection, Segmentation and Classification Challenge on Automated 3D Breast Ultrasound 2023) <br>
 ***Keyboard:*** Ultrasound, Cancer, Labeled <br>
