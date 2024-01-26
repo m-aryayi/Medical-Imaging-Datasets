@@ -248,6 +248,10 @@ The datasets contain over 220000 labeled nuclei from breast cancer images from T
 ***Keyboard:*** Ultrasound, Cancer, Labeled <br>
 <a href="https://tdsc-abus2023.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://tiger.grand-challenge.org"> **TIGER**</a> (Tumor InfiltratinG lymphocytes in breast cancER) <br>
+***Keyboard:***  H&E Whole-Slide Images (WSI), Cancer, Detecion, Segmentation <br>
+<a href="https://tiger.grand-challenge.org/evaluation/segmentation-and-detection-public-test/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
 
 
 
@@ -411,6 +415,11 @@ Compare methods for (semi-)automatic segmentation of the lungs and lobes from ch
 Nodule location detection <br>
 ***Keyboard:*** Cancer, CT-scan <br>
 <a href="https://luna16.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841517301020"> ![paper](src/paper.png) Overview paper</a> 
+
+- <a href="https://stoic2021.grand-challenge.org"> **STOIC2021**</a> <br>
+Study of Thoracic CT in COVID-19 <br>
+***Keyboard:*** CT scan <br>
+<a href="https://stoic2021.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubs.rsna.org/doi/10.1148/radiol.2021210384"> ![paper](src/paper.png)</a>
 
 - <a href="https://vessel12.grand-challenge.org/"> **VESSEL12**</a> (VESsel SEgmentation in the Lung 2012) <br>
 Automatic (and semi-automatic) segmentation of blood vessels in the lungs from CT images <br>
