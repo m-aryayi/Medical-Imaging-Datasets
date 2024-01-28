@@ -365,6 +365,10 @@ Automatic detection of pulmonary nodules in chest <br>
 ***Keyboard:*** CT-scan <br>
 <a href="https://anode09.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841510000587"> ![paper](src/paper.png)</a> 
 
+- <a href="https://cxr-covid19.grand-challenge.org"> **Chest XR COVID-19 detection**</a> <br>
+The dataset contains 20,000+ images and 3 classes: COVID-19, Pneumonia and Normal (healthy). <br>
+***Keyboard:*** X-ray, Labeled <br>
+
 - <a href="https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community"> **ChestX-ray8**</a> (ChestXray-NIHCC) <br>
 100,000 anonymized chest x-ray images <br>
 ***Keyboard:*** X-ray, Labeled <br>
@@ -579,6 +583,10 @@ Detection of Perineural Invasion in Multiple Organ Cancer <br>
 - <a href="https://structseg2019.grand-challenge.org"> **StructSeg2019**</a> <br>
 Segmentation of organs-at-risk (OAR) and gross target volume (GTV) of tumors of two types of cancers, nasopharynx cancer and lung cancer, for radiation therapy planning. <br>
 ***Keyboard:*** *Head & neck, Lung*, CT scans, Cancer, Labeled <br>
+
+- <a href="https://ultra-low-dose-pet.grand-challenge.org"> **Ultra-low Dose PET Imaging**</a> <br>
+The dataset contains 1447 subjects of whole-body 18F-FDG PET imaging <br>
+***Keyboard:*** Positron emission tomography (PET) <br>
 
 
 __________________
