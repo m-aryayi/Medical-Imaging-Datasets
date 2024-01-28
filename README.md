@@ -106,7 +106,7 @@ Diagnosis of Age-related Macular degeneration (AMD) and segmentation of lesions 
 ***Keyboard:*** Labeled  <br>
 <a href="https://amd.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/9768802"> ![paper](src/paper.png)</a>
 
-- <a href="https://cataracts.grand-challenge.org"> **AGE**</a> (Angle closure Glaucoma Evaluation) <br>
+- <a href="https://age.grand-challenge.org"> **AGE**</a> (Angle closure Glaucoma Evaluation) <br>
 A dataset of 4800 annotated AS-OCT images<br>
 ***Keyboard:*** OCT <br>
 <a href="https://age.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/31036585"> ![paper](src/paper.png) Clinical Background</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841520301626"> ![paper](src/paper.png)</a>
