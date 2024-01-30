@@ -324,6 +324,11 @@ Cardiac CT exams of 72 patients <br>
 ***Keyboard:*** CT scan <br>
 <a href="https://orcascore.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/27147348"> ![paper](src/paper.png)</a>
 
+- <a href="https://parse2022.grand-challenge.org"> **Parse2022**</a> (Pulmonary Artery Segmentation 2022) <br>
+Our dataset contains 200 3D volumes with refined pulmonary artery label <br>
+***Keyboard:*** CT Pulmonary Angiography (CTPA) <br>
+<a href="https://parse2022.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2304.03708"> ![paper](src/paper.png)</a>
+
 - <a href="https://multicenteraorta.grand-challenge.org/"> **SEG.A. 2023**</a> (Segmentation of the Aorta) <br>
 ***Keyboard:*** CTA (Computed tomography angiography), Labeled, Aorta <br>
 <a href="https://multicenteraorta.grand-challenge.org/evaluation/preliminary-phase/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> 
@@ -331,6 +336,11 @@ Cardiac CT exams of 72 patients <br>
 
 
 ### Kidneys and Urinary Tract
+
+- <a href="https://kipa22.grand-challenge.org"> **KiPA22**</a> (Kidney PArsing 2022) <br>
+Multi-Structure Segmentation for Renal Cancer Treatment <br>
+***Keyboard:*** Computed Tomography Angiography (CTA), Labeled <br>
+<a href="https://kipa22.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
 - <a href="https://kits19.grand-challenge.org/"> **KiTS19**</a> (Kidney Tumor Segmentation 2019) <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
@@ -433,6 +443,11 @@ Compare methods for (semi-)automatic segmentation of the lungs and lobes from ch
 Nodule location detection <br>
 ***Keyboard:*** Cancer, CT-scan <br>
 <a href="https://luna16.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841517301020"> ![paper](src/paper.png) Overview paper</a> 
+
+- <a href="https://mela.grand-challenge.org"> **MELA**</a> (Mediastinal Lesion Analysis) <br>
+Detectition mediastinal lesions from 1100 CT scans, consisting of 770 CTs for training, 110 CTs for validation, and 220 CTs for testing. <br>
+***Keyboard:*** CT Scan <br>
+<a href="https://mela.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
 - <a href="https://stoic2021.grand-challenge.org"> **STOIC2021**</a> <br>
 Study of Thoracic CT in COVID-19 <br>
