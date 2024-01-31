@@ -70,6 +70,12 @@ A dataset of manually segmented pathological and non-pathological fetal magnetic
 Manually-guided expert segmentation results along with magnetic resonance brain image data  <br>
 ***Keyboard:*** MRI, Labeled  <br>
 
+- <a href="https://instance.grand-challenge.org"> **INSTANCE2022**</a> (INtracranial
+hemorrhage SegmenTAtioN ChallengE) <br>
+A training set of 100 cases with ground-truth and a validation set with 30 cases without ground-truth labels.<br>
+***Keyboard:*** Intracranial hemorrhage (ICH), CT Scan, Labeled  <br>
+<a href="https://instance.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2301.03281"> ![paper](src/paper.png)</a>
+
 - <a href="https://mindboggle.info/data.html"> **Mindboggle**</a>  <br>
 Manually labeled human brain image data. <br>
 ***Keyboard:*** MRI, Labeled <br>
@@ -87,6 +93,11 @@ a clinical database of pre-oper, ative MRI and intra-operative ultrasound in low
 
 
 ### Ears, Nose, and Throat
+
+- <a href="https://github.com/abenhamadou/3DTeethSeg22_challenge"> **3DTeethSeg22**</a> <br>
+A total of 1800 3D intra-oral scan for 900 patients covering their upper and lower jaws separately.<br>
+***Keyboard:***  Labeeld, Segmentation <br>
+<a href="https://arxiv.org/abs/2305.18277"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/2210.06094"> ![paper](src/paper.png)</a>
 
 - <a href="https://zenodo.org/records/1473724"> **OpenEar**</a> <br>
 A library consisting of eight three-dimensional models of the human temporal bone. <br>
@@ -155,6 +166,10 @@ Investigation and development of algorithms associated with the diagnosis of Pat
 ***Keyboard:*** Labeled <br>
 <a href="https://palm.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://ravir.grand-challenge.org"> **RAVIR**</a> <br>
+A Dataset and Methodology for the Semantic Segmentation and Quantitative Analysis of Retinal Arteries and Veins in Infrared Reflectance Imaging <br>
+<a href="https://ravir.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/abstract/document/9744459"> ![paper](src/paper.png)</a> | <a href="https://escholarship.org/uc/item/4r63v2bd"> ![paper](src/paper.png)</a>
+
 - <a href="https://refuge.grand-challenge.org"> **REFUGE**</a> (Retinal Fundus Glaucoma) <br>
 A data set of 1200 fundus images with ground truth segmentations and clinical glaucoma labels <br>
 ***Keyboard:*** Segmentation, Classification, Labeled <br>
@@ -222,6 +237,11 @@ Consisting of 4212 WSIs from 1153 patients <br>
 - <a href="https://iciar2018-challenge.grand-challenge.org"> **BACH**</a> (BreAst Cancer Histology) <br>
 ***Keyboard:*** Biopsy, Cancer <br>
 <a href="https://iciar2018-challenge.grand-challenge.org/evaluation/part-a/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841518307941"> ![paper](src/paper.png)</a>
+
+- <a href="https://bcnb.grand-challenge.org"> **BCNB**</a> (Breast Cancer Core-Needle Biopsy) <br>
+A dataset of Early Breast Cancer Core-Needle Biopsy WSI, which includes core-needle biopsy whole slide images of early breast cancer patients and the corresponding clinical data.  <br>
+***Keyboard:***  Whole-Slide Images (WSIs), Labeled <br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/34722313"> ![paper](src/paper.png)</a>
 
 - <a href="https://github.com/PathologyDataScience/BCSS"> **BCSS**</a> (Breast Cancer Semantic Segmentation) <br>
 The dataset contains over 20,000 segmentation annotations of tissue region from breast cancer images from TCGA. <br>
