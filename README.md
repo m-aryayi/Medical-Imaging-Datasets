@@ -23,7 +23,6 @@
 - [Musculoskeletal System](#musculoskeletal-system)
   - [Bones](#bones)
   - [Joints](#joints)
-  - [Muscles](#muscles)
 - [Pelvis and Reproductive Organs](#pelvis-and-reproductive-organs)
   - [Female Reproductive Organs](#female-reproductive-organs)
   - [Male Reproductive Organs](#male-reproductive-organs)
@@ -526,7 +525,9 @@ Diagnosis of abnormalities from Knee MRs <br>
 ***Keyboard:*** MRI, Labeled<br>
 <a href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002699"> ![paper](src/paper.png)</a> 
 
+<!---
 ### Muscles
+-->
 
 _______
 
