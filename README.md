@@ -47,6 +47,11 @@ ______
 
 ### Brain
 
+- <a href="https://atlas.grand-challenge.org"> **ATLAS R2.0**</a> (Anatomical Tracings of Lesions After Stroke) <br>
+A larger dataset of T1w MRIs and manually segmented lesion masks <br>
+***Keyboard:***  MRI, Segmentation, Labeled  <br>
+<a href="https://atlas.grand-challenge.org/evaluation/lesion-segmentation-hidden-test-set/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.nature.com/articles/s41597-022-01401-7"> ![paper](src/paper.png)</a>
+
 - <a href="https://brainptm-2021.grand-challenge.org"> **BrainPTM 2021**</a> (Brain Pre-surgical white matter Tractography Mapping) <br>
 Data consists of 75 cases<br>
 ***Keyboard:*** MRI, Cancer, Segmentation, Labeled  <br>
@@ -614,6 +619,11 @@ Facilitating diagnosis and treatment of diseases in hollow organs. <br>
 - <a href="https://fastpet-ld.grand-challenge.org"> **fastPET-LD**</a> (Fast PET-CT lesion detection) <br>
 ***Keyboard:*** Hot spots, PET - CT scan, Labeled, Detection <br>
 <a href="https://fastpet-ld.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://flare22.grand-challenge.org"> **FLARE 2022**</a> (Fast and Low-resource semi-supervised Abdominal oRgan sEgmentation) <br>
+A small number of labeled cases (50) and a large number of unlabeled cases (2000) in the training set. <br>
+***Keyboard:***  Multi-tissue (13 organs), CT scan, Labeled <br>
+<a href="https://flare22.grand-challenge.org/evaluation/testing-dsc/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2308.05862"> ![paper](src/paper.png)</a>
 
 - <a href="https://lyon19.grand-challenge.org"> **LYON19**</a> <br>
 The test set contains Region of Interests (ROIs) selected from whole-slide images (WSI) of immunohistochemistry (IHC) stained specimens <br>
