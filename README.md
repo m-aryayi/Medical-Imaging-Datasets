@@ -551,6 +551,11 @@ Measurement of fetal head circumference (HC)<br>
 
 ### Male Reproductive Organs
 
+- <a href="https://aggc22.grand-challenge.org">**AGGC22**</a> (Automated Gleason Grading Challenge 2022) <br>
+Dataset of prostatectomy and biopsy specimens with annotations  <br>
+***Keyboard:*** H&E-stained whole slide image <br>
+<a href="https://aggc22.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.researchgate.net/publication/363780482_Comprehensive_AI_Model_Development_for_Gleason_Grading_From_Scanning_Cloud-based_Annotation_to_Pathologist-AI_Interaction"> ![paper](src/paper.png)</a>
+
 - <a href="https://gleason2019.grand-challenge.org"> **Gleason 2019**</a> <br>
 Gleason grading of prostate cancer in digital histopathology images <br>
 ***Keyboard:*** H&E-stained histopathology image, Cancer, Labeled <br>
@@ -569,6 +574,7 @@ Classifying the severity of prostate cancer from microscopy scans of prostate bi
 Compare interactive and (semi)-automatic segmentation algorithms for MRI of the prostate <br>
 ***Keyboard:*** T2-weighted MRI, Labeled <br>
 <a href="https://promise12.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841513001734"> ![paper](src/paper.png) Overview paper</a>
+
 
 ______
 ## Other Organs and Systems
@@ -604,8 +610,13 @@ Image classification dataset consists of 327.680 color images extracted from his
 ***Keyboard:*** Labeled <br>
 <a href="https://patchcamelyon.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/1806.03962"> ![paper](src/paper.png)</a>
 
+
 ______
 ## Multi Organs Datasets
+
+- <a href="https://www.cancerimagingarchive.net/collection/fdg-pet-ct-lesions"> **AutoPET**</a><br>
+A whole-body FDG-PET/CT dataset with manually annotated tumor lesions (FDG-PET-CT-Lesions) <br>
+***Keyboard:*** PET - CT scan, Labeled <br>
 
 - <a href="https://chaos.grand-challenge.org"> **CHAOS**</a> (Combined (CT-MR) Healthy Abdominal Organ Segmentation) <br>
 There are 20 training and 20 testing cases in the CT dataset. MRI dataset contains 20 training and 20 testing cases with T1-Dual and T2 SPIR sequences. <br>
