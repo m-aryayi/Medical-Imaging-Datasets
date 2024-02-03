@@ -86,9 +86,14 @@ Manually labeled human brain image data. <br>
 <a href="https://www.frontiersin.org/articles/10.3389/fnins.2012.00171/full"> ![paper](src/paper.png)</a>
 
 - <a href="https://archive.norstore.no/pages/public/datasetDetail.jsf?id=10.11582/2017.00004"> **RESECT**</a> (REtroSpective Evaluation of Cerebral Tumors)  <br>
-a clinical database of pre-oper, ative MRI and intra-operative ultrasound in low-grade glioma surgeries <br>
+A clinical database of pre-oper, ative MRI and intra-operative ultrasound in low-grade glioma surgeries <br>
 ***Keyboard:*** Cancer, Registration, Labeled <br>
 <a href="https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.12268"> ![paper](src/paper.png)</a>
+
+- <a href="https://slcn.grand-challenge.org"> **SLCN**</a> (Surface Learning for Clinical Neuroimaging)  <br>
+Part of the <a href="http://www.developingconnectome.org"> dHCP</a> (Developing Human Connectome Project) <br>
+***Keyboard:*** MRI <br>
+<a href="https://slcn.grand-challenge.org/evaluation/preliminary-phase/leaderboard"> ![paper](src/paper.png)</a>
 
 - <a href="https://valdo.grand-challenge.org"> **VALDO**</a> (VAscular Lesions DetectiOn)  <br>
 ***Keyboard:*** MRI, cerebral small vessel disease (CSVD), Labeled  <br>
@@ -387,6 +392,10 @@ Multi-Structure Segmentation for Renal Cancer Treatment <br>
 - <a href="https://competitions.codalab.org/competitions/17094"> **LiTS**</a> (Liver Tumor Segmentation) <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
 <a href="https://competitions.codalab.org/competitions/17094#results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/1901.04056"> ![paper](src/paper.png)</a>
+
+- <a href="https://p2ilf.grand-challenge.org"> **P2ILF**</a> (Preoperative to Intraoperative Laparoscopy Fusion) <br>
+***Keyboard:*** Laparoscopic video images, Segmentation, Registration  <br>
+<a href="https://p2ilf.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
 - <a href="https://paip2019.grand-challenge.org"> **PAIP2019**</a> <br>
 ***Keyboard:*** Whole-slide images (WSIs), Cancer, Segmentation, Labeled, Hepatocellular Carcinoma (HCC) <br>
