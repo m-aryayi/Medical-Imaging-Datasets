@@ -93,7 +93,7 @@ A clinical database of pre-oper, ative MRI and intra-operative ultrasound in low
 - <a href="https://slcn.grand-challenge.org"> **SLCN**</a> (Surface Learning for Clinical Neuroimaging)  <br>
 Part of the <a href="http://www.developingconnectome.org"> dHCP</a> (Developing Human Connectome Project) <br>
 ***Keyboard:*** MRI <br>
-<a href="https://slcn.grand-challenge.org/evaluation/preliminary-phase/leaderboard"> ![paper](src/paper.png)</a>
+<a href="https://slcn.grand-challenge.org/evaluation/preliminary-phase/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
 - <a href="https://valdo.grand-challenge.org"> **VALDO**</a> (VAscular Lesions DetectiOn)  <br>
 ***Keyboard:*** MRI, cerebral small vessel disease (CSVD), Labeled  <br>
@@ -358,9 +358,9 @@ Our dataset contains 200 3D volumes with refined pulmonary artery label <br>
 ***Keyboard:*** CT Pulmonary Angiography (CTPA) <br>
 <a href="https://parse2022.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2304.03708"> ![paper](src/paper.png)</a>
 
-- <a href="https://multicenteraorta.grand-challenge.org/"> **SEG.A. 2023**</a> (Segmentation of the Aorta) <br>
+- <a href="https://multicenteraorta.grand-challenge.org"> **SEG.A. 2023**</a> (Segmentation of the Aorta) <br>
 ***Keyboard:*** CTA (Computed tomography angiography), Labeled, Aorta <br>
-<a href="https://multicenteraorta.grand-challenge.org/evaluation/preliminary-phase/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> 
+<a href="https://multicenteraorta.grand-challenge.org/evaluation/preliminary-phase/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> 
 
 
 
