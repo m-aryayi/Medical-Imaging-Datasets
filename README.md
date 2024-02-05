@@ -353,6 +353,17 @@ A 3D CT Image Dataset for Automatic Segmentation of of Type-B Aortic Dissection.
 The full dataset is composed of 467 Late gadolinium enhanced magnetic resonance images from two different cohorts to quantify myocardial infarction (MI) lesions at different phases of the longitudinal evolution of the disease<br>
 ***Keyboard:*** MRI, Segmentation <br>
 
+- <a href="https://www.ub.edu/mnms"> **M&Ms**</a> <br>
+Multi-Centre, Multi-Vendor and Multi-Disease Cardiac Segmentation <br>
+***Keyboard:***  Cardiac MRI (CMR)<br>
+<a href="https://ieeexplore.ieee.org/document/9458279"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.ub.edu/mnms-2"> **M&Ms-2**</a> <br>
+Multi-Disease, Multi-View & Multi-Center
+Right Ventricular Segmentation in Cardiac MRI <br>
+***Keyboard:***  Cardiac MRI (CMR)<br>
+<a href="https://competitions.codalab.org/competitions/31559#results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/10103611"> ![paper](src/paper.png)</a>
+
 - <a href="https://orcascore.grand-challenge.org"> **orCaScore**</a> <br>
 Cardiac CT exams of 72 patients <br>
 ***Keyboard:*** CT scan <br>
