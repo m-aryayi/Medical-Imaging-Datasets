@@ -579,7 +579,7 @@ _______
 
 ### Female Reproductive Organs
 
-- <a href="https://hc18.grand-challenge.org"> **A-AFMA**</a> (Automatic amniotic fluid measurement and analysis) <br>
+- <a href="https://a-afma.grand-challenge.org"> **A-AFMA**</a> (Automatic amniotic fluid measurement and analysis) <br>
 The goal is measurement of the maximum vertical pocket (MVP) <br>
 ***Keyboard:*** Ultrasound Video Clip <br>
 
@@ -588,9 +588,9 @@ Measurement of fetal head circumference (HC)<br>
 ***Keyboard:*** Ultrasound imaging, Labeled <br>
 <a href="https://hc18.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
 
-- <a href="https://hc18.grand-challenge.org"> **Ps-Fh-Aop-2023**</a> (Pubic Symphysis-Fetal Head Segmentation and Angle of Progression) <br>
-Measurement of fetal head circumference (HC)<br>
+- <a href="https://ps-fh-aop-2023.grand-challenge.org"> **Ps-Fh-Aop-2023**</a> (Pubic Symphysis-Fetal Head Segmentation and Angle of Progression) <br>
 ***Keyboard:*** Ultrasound imaging, Labeled <br>
+<a href="https://ps-fh-aop-2023.grand-challenge.org/evaluation/phase-two/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
 
 ### Male Reproductive Organs
