@@ -90,6 +90,11 @@ A training set of 100 cases with ground-truth and a validation set with 30 cases
 ***Keyboard:*** Intracranial hemorrhage (ICH), CT Scan, Labeled  <br>
 <a href="https://instance.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2301.03281"> ![paper](src/paper.png)</a>
 
+- <a href="https://isles22.grand-challenge.org"> **ISLES'22**</a> (Ischemic Stroke Lesion Segmentation) <br>
+Multimodal MRI infarct segmentation in acute and sub-acute stroke<br>
+***Keyboard:*** MRI <br>
+<a href="https://isles22.grand-challenge.org/evaluation/preliminary-docker-evaluation/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
 - <a href="https://mindboggle.info/data.html"> **Mindboggle**</a>  <br>
 Manually labeled human brain image data. <br>
 ***Keyboard:*** MRI, Labeled <br>
@@ -99,6 +104,11 @@ Manually labeled human brain image data. <br>
 A clinical database of pre-oper, ative MRI and intra-operative ultrasound in low-grade glioma surgeries <br>
 ***Keyboard:*** Cancer, Registration, Labeled <br>
 <a href="https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.12268"> ![paper](src/paper.png)</a>
+
+- <a href="https://shifts.grand-challenge.org"> **Shifts Challenge 2022**</a><br>
+White Matter Multiple Sclerosis (MS) lesion segmentation in 3D Magnetic Resonance Imaging (MRI) of the brain <br>
+***Keyboard:*** MRI <br>
+<a href="https://shifts.grand-challenge.org/evaluation/ms-lesion-segmentation-phase-i/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
 - <a href="https://slcn.grand-challenge.org"> **SLCN**</a> (Surface Learning for Clinical Neuroimaging)  <br>
 Part of the <a href="http://www.developingconnectome.org"> dHCP</a> (Developing Human Connectome Project) <br>
@@ -587,6 +597,11 @@ The goal is measurement of the maximum vertical pocket (MVP) <br>
 Measurement of fetal head circumference (HC)<br>
 ***Keyboard:*** Ultrasound imaging, Labeled <br>
 <a href="https://hc18.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://figshare.com/articles/dataset/JNU-IFM/14371652"> **JNU-IFM**</a> <br>
+An intrapartum transperineal ultrasound dataset of the Intelligent Fetal Monitoring <br>
+***Keyboard:*** Ultrasound videos, Labeled <br>
+<a href="https://www.sciencedirect.com/science/article/pii/S2352340922001160"> ![paper](src/paper.png)</a>
 
 - <a href="https://ps-fh-aop-2023.grand-challenge.org"> **Ps-Fh-Aop-2023**</a> (Pubic Symphysis-Fetal Head Segmentation and Angle of Progression) <br>
 ***Keyboard:*** Ultrasound imaging, Labeled <br>
