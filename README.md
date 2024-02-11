@@ -11,7 +11,7 @@
 - [Introduction](#introduction)
 - [Head and Neck](#head-and-neck)
   - [Brain](#brain)
-  - [Ears, Nose, Teeth, and Throat](#ears-nose-and-throat)
+  - [Ears, Nose, Teeth, and Throat](#ears-nose-teeth-and-throat)
   - [Eyes](#eyes)
 - [Chest and Abdomen](#chest-and-abdomen)
   - [Bowel](#bowel)
