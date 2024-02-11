@@ -254,6 +254,10 @@ Addressing generalisability in polyp detection and segmentation <br>
 Classification of molecular subtypes in colorectal cancer for whole-slide image analyses <br>
 <a href="https://paip2020.grand-challenge.org/evaluation/validation/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://2023paip.grand-challenge.org"> **PAIP2023**</a> <br>
+Tumor cellularity prediction in pancreatic cancer (supervised learning) and colon cancer (transfer learning) <br>
+<a href="https://2023paip.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
 - <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=3539213"> **The National CT Colonography Trial (ACRIN 6664)**</a> <br>
 A collection contains 825 cases of CT colonography imaging with accompanying spreadsheets that provide polyp descriptions and their location within the colon segments. <br>
 <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa0800996"> ![paper](src/paper.png)</a> 
@@ -596,6 +600,10 @@ _______
 - <a href="https://a-afma.grand-challenge.org"> **A-AFMA**</a> (Automatic amniotic fluid measurement and analysis) <br>
 The goal is measurement of the maximum vertical pocket (MVP) <br>
 ***Keyboard:*** Ultrasound Video Clip <br>
+
+- <a href="https://zenodo.org/records/7372187"> **ENDO-AID**</a> <br>
+The dataset consists of 91 digital pathology whole-slide images (WSI) of endometrium carcinoma Pipelle biopsies, stained with hematoxylin and eosin (H&E). <br>
+***Keyboard:*** Whole-slide images (WSI), Cancer <br>
 
 - <a href="https://hc18.grand-challenge.org"> **HC18**</a> <br>
 Measurement of fetal head circumference (HC)<br>
