@@ -11,7 +11,7 @@
 - [Introduction](#introduction)
 - [Head and Neck](#head-and-neck)
   - [Brain](#brain)
-  - [Ears, Nose, and Throat](#ears-nose-and-throat)
+  - [Ears, Nose, Teeth, and Throat](#ears-nose-and-throat)
   - [Eyes](#eyes)
 - [Chest and Abdomen](#chest-and-abdomen)
   - [Bowel](#bowel)
@@ -121,7 +121,7 @@ Part of the <a href="http://www.developingconnectome.org"> dHCP</a> (Developing 
 
 
 
-### Ears, Nose, and Throat
+### Ears, Nose, Teeth, and Throat
 
 - <a href="https://github.com/abenhamadou/3DTeethSeg22_challenge"> **3DTeethSeg22**</a> <br>
 A total of 1800 3D intra-oral scan for 900 patients covering their upper and lower jaws separately.<br>
