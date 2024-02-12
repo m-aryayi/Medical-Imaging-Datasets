@@ -138,6 +138,12 @@ A dataset of thyroid nodule with over 4,500 patient <br>
 ***Keyboard:***  Ultrasound Image, Thyroid <br>
 <a href="https://tn-scui2020.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://ditto.ing.unimore.it/toothfairy"> **ToothFairy**</a> <br>
+A dataset of dental scans obtained by 3D CBCT <br>
+***Keyboard:***  Cone Beam Computed Tomography (CBCT), Segmentation <br>
+<a href="https://toothfairy.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://link.springer.com/chapter/10.1007/978-3-031-43148-7_44"> ![paper](src/paper.png)</a>
+
+
 
 ### Eyes
 
@@ -563,6 +569,11 @@ Large Dataset for Abnormality Detection in Musculoskeletal Radiographs <br>
 A dataset for detect and classify around 5,000 rib fractures from 660 computed tomography (CT) scans <br>
 ***Keyboard:*** CT scan, Labeled <br>
 <a href="https://ribfrac.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://spider.grand-challenge.org"> **SPIDER**</a> (SPIne Segmentation: Discs, vERtebrae, and spinal canal)<br>
+A lumbar spine MR dataset with reference segmentations of vertebrae, intervertebral discs (IVDs), and spinal canal <br>
+***Keyboard:*** MRI <br>
+<a href="https://spider.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2306.12217"> ![paper](src/paper.png)</a>
 
 - <a href="http://spineweb.digitalimaginggroup.ca"> **SpineWeb**</a> <br>
 16 spinal imaging datasets
