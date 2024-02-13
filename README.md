@@ -344,6 +344,11 @@ The dataset contains data from 150 multi-equipments CMRI recordings with referen
 ***Keyboard:***  Cardiac MRI (CMR), Segmentation <br>
 <a href="https://www.creatis.insa-lyon.fr/Challenge/acdc/results.html"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/29994302"> ![paper](src/paper.png)</a>
 
+- <a href="https://arcade.grand-challenge.org"> **ARCADE**</a> <br>
+Automatic Region-based Coronary Artery Disease Diagnostics Using X-Ray Angiography Images <br>
+***Keyboard:***  X-ray coronary angiography, Labeled <br>
+<a href="https://arcade.grand-challenge.org/evaluation/phase_1_segmentation_detection/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.nature.com/articles/s41597-023-02871-z"> ![paper](src/paper.png)</a>
+
 - <a href="https://asoca.grand-challenge.org"> **ASOCA**</a> (Automated Segmentation of Coronary Arteries) <br>
 A set of Cardiac Computed Tomography Angiography (CCTA) with contrast agent showing the coronary arteries <br>
 ***Keyboard:***  CCTA, Labeled <br>
