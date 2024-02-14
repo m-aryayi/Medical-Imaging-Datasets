@@ -623,7 +623,7 @@ _______
 
 ### Female Reproductive Organs
 
-- <a href="https://a-afma.grand-challenge.org"> **ATEC23**</a> <br>
+- <a href="https://github.com/cwwang1979/MICCAI_ATEC23challenge"> **ATEC23**</a> <br>
 Automated prediction of treatment effectiveness in ovarian cancer using histopathological images <br>
 ***Keyboard:*** Whole Slide Images (WSIs), Cancer <br>
 <a href="https://arxiv.org/abs/2310.12866"> ![paper](src/paper.png)</a>
