@@ -115,6 +115,11 @@ Part of the <a href="http://www.developingconnectome.org"> dHCP</a> (Developing 
 ***Keyboard:*** MRI <br>
 <a href="https://slcn.grand-challenge.org/evaluation/preliminary-phase/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://topcow23.grand-challenge.org"> **TopCoW**</a> <br>
+Topology-Aware Anatomical Segmentation of the Circle of Willis <br>
+***Keyboard:*** Magnetic Resonance Angiography (MRA) and Computed Tomography Angiography (CTA) <br>
+<a href="https://topcow23.grand-challenge.org/evaluation/validation-cta-multiclass/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2312.17670"> ![paper](src/paper.png)</a>
+
 - <a href="https://valdo.grand-challenge.org"> **VALDO**</a> (VAscular Lesions DetectiOn)  <br>
 ***Keyboard:*** MRI, cerebral small vessel disease (CSVD), Labeled  <br>
 <a href="https://zenodo.org/records/4600654"> ![paper](src/paper.png)</a>
@@ -122,6 +127,11 @@ Part of the <a href="http://www.developingconnectome.org"> dHCP</a> (Developing 
 
 
 ### Ears, Nose, Teeth, and Throat
+
+- <a href="https://dentex.grand-challenge.org"> **DENTEX**</a> <br>
+Dental Enumeration and Diagnosis on Panoramic X-rays <br>
+***Keyboard:*** X-rays, Labeled <br>
+<a href="https://dentex.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2305.19112"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/2303.06500"> ![paper](src/paper.png)</a>
 
 - <a href="https://github.com/abenhamadou/3DTeethSeg22_challenge"> **3DTeethSeg22**</a> <br>
 A total of 1800 3D intra-oral scan for 900 patients covering their upper and lower jaws separately.<br>
