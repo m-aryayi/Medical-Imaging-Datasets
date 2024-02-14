@@ -623,6 +623,11 @@ _______
 
 ### Female Reproductive Organs
 
+- <a href="https://a-afma.grand-challenge.org"> **ATEC23**</a> <br>
+Automated prediction of treatment effectiveness in ovarian cancer using histopathological images <br>
+***Keyboard:*** Whole Slide Images (WSIs), Cancer <br>
+<a href="https://arxiv.org/abs/2310.12866"> ![paper](src/paper.png)</a>
+
 - <a href="https://a-afma.grand-challenge.org"> **A-AFMA**</a> (Automatic amniotic fluid measurement and analysis) <br>
 The goal is measurement of the maximum vertical pocket (MVP) <br>
 ***Keyboard:*** Ultrasound Video Clip <br>
@@ -761,6 +766,11 @@ This dataset contains over 100,000 3D medical shapes, including bones, organs, v
 Detection of Perineural Invasion in Multiple Organ Cancer <br>
 ***Keyboard:*** *Colon, Prostate and Pancreatobiliary tract*, Whole-slide images (WSIs), Cancer, Labeled <br>
 <a href="https://paip2021.grand-challenge.org/evaluation/validation/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://segrap2023.grand-challenge.org"> **SegRap2023**</a> <br>
+A Benchmark of Organs-at-Risk and Gross Tumor Volume Segmentation for Radiotherapy Planning of Nasopharyngeal Carcinoma <br>
+***Keyboard:*** *45 organs-at-risk*, CT Scan, Cancer <br>
+<a href="https://segrap2023.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2312.09576"> ![paper](src/paper.png)</a>
 
 - <a href="https://structseg2019.grand-challenge.org"> **StructSeg2019**</a> <br>
 Segmentation of organs-at-risk (OAR) and gross target volume (GTV) of tumors of two types of cancers, nasopharynx cancer and lung cancer, for radiation therapy planning. <br>
