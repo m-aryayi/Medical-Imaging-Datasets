@@ -762,6 +762,11 @@ The test set contains Region of Interests (ROIs) selected from whole-slide image
 This dataset contains over 100,000 3D medical shapes, including bones, organs, vessels, muscles, etc., as well as surgical instruments. It has used in <a href='https://autoimplant.grand-challenge.org'> AutoImplant </a> <br>
 <a href="https://proj-page.github.io/medshapenet_publications.html"> ![paper](src/paper.png)</a>
 
+- <a href="https://lunit-io.github.io/research/ocelot_dataset"> **OCELOT**</a> <br>
+A dataset purposely dedicated to the study of cell-tissue relationships for cell detection in histopathology <br>
+***Keyboard:*** *Kidney, Head-neck, Prostate, Stomach, Endometrium, and Bladder*, Whole-slide images (WSIs) <br>
+<a href="https://ocelot2023.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2303.13110"> ![paper](src/paper.png)</a>
+
 - <a href="https://paip2021.grand-challenge.org"> **PAIP2021**</a> <br>
 Detection of Perineural Invasion in Multiple Organ Cancer <br>
 ***Keyboard:*** *Colon, Prostate and Pancreatobiliary tract*, Whole-slide images (WSIs), Cancer, Labeled <br>
