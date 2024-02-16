@@ -51,6 +51,10 @@ A larger dataset of T1w MRIs and manually segmented lesion masks <br>
 ***Keyboard:***  MRI, Segmentation, Labeled  <br>
 <a href="https://atlas.grand-challenge.org/evaluation/lesion-segmentation-hidden-test-set/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.nature.com/articles/s41597-022-01401-7"> ![paper](src/paper.png)</a>
 
+- <a href="https://bonbid-hie2023.grand-challenge.org"> **BONBID-HIE**</a> (BOston Neonatal Brain Injury Dataset for Hypoxic Ischemic Encephalopathy) <br>
+***Keyboard:***  MRI, Segmentation, Labeled  <br>
+<a href="https://bonbid-hie2023.grand-challenge.org/evaluation/development-stage/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.biorxiv.org/content/10.1101/2023.06.30.546841v1"> ![paper](src/paper.png)  Data Descriptor</a>
+
 - <a href="https://brainptm-2021.grand-challenge.org"> **BrainPTM 2021**</a> (Brain Pre-surgical white matter Tractography Mapping) <br>
 Data consists of 75 cases<br>
 ***Keyboard:*** MRI, Cancer, Segmentation, Labeled  <br>
