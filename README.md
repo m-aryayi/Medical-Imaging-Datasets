@@ -752,6 +752,11 @@ A small number of labeled cases (50) and a large number of unlabeled cases (2000
 ***Keyboard:***  Multi-tissue (13 organs), CT scan, Labeled <br>
 <a href="https://flare22.grand-challenge.org/evaluation/testing-dsc/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2308.05862"> ![paper](src/paper.png)</a>
 
+- <a href="https://han-seg2023.grand-challenge.org"> **HaN-Seg**</a> (Head and Neck Segmentation) <br>
+Images of 60 patients aged 34–79 years that were appointed for image-guided Radiotherapy in the HaN region <br>
+***Keyboard:*** *30 organs-at-risk*, CT Scan, MRI, Labeled <br>
+<a href="https://han-seg2023.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.16197"> ![paper](src/paper.png)</a>
+
 - <a href="https://hecktor.grand-challenge.org"> **HECKTOR**</a> (HEad and neCK TumOR segmentation and outcome prediction) <br>
 The data were collected for a total of 883 cases consisting of FDG-PET/CT images and clinical information. <br>
 ***Keyboard:*** *Head, Neck, Lymph nodes*, FDG-PET/CT images, Cancer, Labeled <br>
