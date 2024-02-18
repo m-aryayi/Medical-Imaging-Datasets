@@ -560,6 +560,9 @@ Detectition mediastinal lesions from 1100 CT scans, consisting of 770 CTs for tr
 ***Keyboard:*** CT Scan <br>
 <a href="https://mela.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://www.cancerimagingarchive.net/analysis-result/qin-lungct-seg"> **QIN Lung CT**</a> <br>
+***Keyboard:*** Nodule, CT Scan, Segmentation <br>
+
 - <a href="https://stoic2021.grand-challenge.org"> **STOIC2021**</a> <br>
 Study of Thoracic CT in COVID-19 <br>
 ***Keyboard:*** CT scan <br>
