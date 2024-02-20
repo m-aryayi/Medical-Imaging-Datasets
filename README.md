@@ -248,7 +248,8 @@ A dataset of OCT volumes, acquired with Topcon SD-OCT devices <br>
 ***Keyboard:*** OCT images <br>
 <a href="https://aistudio.baidu.com/competition/detail/1101/0/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
-
+- <a href="https://cecas.clemson.edu/~ahoover/stare"> **STARE**</a> (STructured Analysis of the Retina) <br>
+***Keyboard:*** Labeled <br>
 
 ______
 
