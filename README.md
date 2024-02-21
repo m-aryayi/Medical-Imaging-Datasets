@@ -525,6 +525,11 @@ COVID-19 Lung CT Lesion Segmentation <br>
 ***Keyboard:*** CT scan, Labeled <br>
 <a href="https://covid-segmentation.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/pii/S1361841522002353"> ![paper](src/paper.png)</a>
 
+- <a href="https://github.com/ieee8023/covid-chestxray-dataset"> **COVID-ChestXRay**</a> <br>
+An database of COVID-19 cases with chest X-ray or CT images <br>
+***Keyboard:*** CT scan, X-ray <br>
+<a href="https://arxiv.org/abs/2006.11988"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/2004.05405"> ![paper](src/paper.png)</a>
+
 - <a href="https://github.com/UCSD-AI4H/COVID-CT"> **COVID-CT**</a> <br>
 It contains 349 COVID-19 CT images from 216 patients and 463 non-COVID-19 CTs<br>
 ***Keyboard:*** CT scan, Classification <br>
