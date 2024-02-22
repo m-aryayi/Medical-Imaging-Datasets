@@ -525,6 +525,9 @@ COVID-19 Lung CT Lesion Segmentation <br>
 ***Keyboard:*** CT scan, Labeled <br>
 <a href="https://covid-segmentation.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/pii/S1361841522002353"> ![paper](src/paper.png)</a>
 
+- <a href="https://data.uni-hannover.de/dataset/cov-19-img"> **COVID-19 Image Repository**</a> <br>
+An anonymized data set of COVID-19 cases with a focus on radiological imaging <br>
+
 - <a href="https://github.com/ieee8023/covid-chestxray-dataset"> **COVID-ChestXRay**</a> <br>
 An database of COVID-19 cases with chest X-ray or CT images <br>
 ***Keyboard:*** CT scan, X-ray <br>
@@ -534,6 +537,11 @@ An database of COVID-19 cases with chest X-ray or CT images <br>
 It contains 349 COVID-19 CT images from 216 patients and 463 non-COVID-19 CTs<br>
 ***Keyboard:*** CT scan, Classification <br>
 <a href="https://covid-ct.grand-challenge.org/Leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2003.13865"> ![paper](src/paper.png)</a> 
+
+- <a href="https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md"> **COVIDx**</a> <br>
+It is a collection of 8 datasets <br>
+***Keyboard:*** CT scan, X-ray <br>
+<a href="https://arxiv.org/abs/2003.09871"> ![paper](src/paper.png)</a>
 
 - <a href="https://crass.grand-challenge.org"> **CRASS12**</a> (Chest Radiograph Anatomical Structure Segmentation) <br>
 Automatic segmentation of anatomical structures in chest radiographs <br>
