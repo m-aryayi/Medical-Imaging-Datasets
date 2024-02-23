@@ -528,6 +528,10 @@ COVID-19 Lung CT Lesion Segmentation <br>
 - <a href="https://data.uni-hannover.de/dataset/cov-19-img"> **COVID-19 Image Repository**</a> <br>
 An anonymized data set of COVID-19 cases with a focus on radiological imaging <br>
 
+- <a href="https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database"> **COVID-19 Radiography Database**</a> <br>
+3616 COVID-19 Chest X-ray images and lung masks <br>
+<a href="https://www.sciencedirect.com/science/article/pii/S001048252100113X"> ![paper](src/paper.png)</a> | <a href="https://ieeexplore.ieee.org/document/9144185"> ![paper](src/paper.png)</a>
+
 - <a href="https://github.com/ieee8023/covid-chestxray-dataset"> **COVID-ChestXRay**</a> <br>
 An database of COVID-19 cases with chest X-ray or CT images <br>
 ***Keyboard:*** CT scan, X-ray <br>
