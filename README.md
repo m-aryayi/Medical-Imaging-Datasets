@@ -488,7 +488,7 @@ It has used in <a href='https://zenodo.org/records/8179129'> LiverHccSeg </a> <b
 ### Lungs
 
 - <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=21267414"> **4D Lung**</a> <br>
-The images include four-dimensional (4D) fan beam (4D-FBCT) and 4D cone beam CT (4D-CBCT)
+The images include four-dimensional (4D) fan beam (4D-FBCT) and 4D cone beam CT (4D-CBCT) <br>
 ***Keyboard:*** Cancer <br>
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3647023"> ![paper](src/paper.png) The dataset is described</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/22391105"> ![paper](src/paper.png)</a> 
 
@@ -502,7 +502,7 @@ Automatic detection of pulmonary nodules in chest <br>
 <a href="https://anode09.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841510000587"> ![paper](src/paper.png)</a> 
 
 - <a href="https://atm22.grand-challenge.org"> **ATM22**</a> (Airway Tree Modeling) <br>
-Dataset provides CT scans with detailed pulmonary airway annotation.
+Dataset provides CT scans with detailed pulmonary airway annotation. <br>
 ***Keyboard:*** CT-scan, Labeled<br>
 <a href="https://atm22.grand-challenge.org/evaluation/validation-phase-1-live-leaderboard/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841523002177"> ![paper](src/paper.png)</a>
 
