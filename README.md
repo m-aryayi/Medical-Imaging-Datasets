@@ -594,6 +594,21 @@ Detectition mediastinal lesions from 1100 CT scans, consisting of 770 CTs for tr
 ***Keyboard:*** CT Scan <br>
 <a href="https://mela.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=80969742"> **MIDRC-RICORD-1A**</a> (Medical Imaging Data Resource Center - RSNA International COVID-19 Open Radiology Database Release 1a)<br>
+120 Chest CT Covid+ <br>
+***Keyboard:*** CT Scan, Labeled <br>
+<a href="https://pubs.rsna.org/doi/10.1148/radiol.2021203957"> ![paper](src/paper.png)</a>
+
+- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=80969771"> **MIDRC-RICORD-1B**</a> (Medical Imaging Data Resource Center - RSNA International COVID-19 Open Radiology Database Release 1b)<br>
+120 Chest CT Covid+ <br>
+***Keyboard:*** CT Scan, Labeled <br>
+<a href="https://pubs.rsna.org/doi/10.1148/radiol.2021203957"> ![paper](src/paper.png)</a>
+
+- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70230281"> **MIDRC-RICORD-1C**</a> (Medical Imaging Data Resource Center - RSNA International COVID-19 Open Radiology Database Release 1c)<br>
+998 Chest X-rays Covid+ <br>
+***Keyboard:*** X-rays, Labeled <br>
+<a href="https://pubs.rsna.org/doi/10.1148/radiol.2021203957"> ![paper](src/paper.png)</a>
+
 - <a href="https://mela.grand-challenge.org"> **NSCLC-Radiomics**</a> (Non-Small Cell Lung Cancer) <br>
 This collection contains images from 422 patients.  <br>
 ***Keyboard:*** CT Scan, Labeled <br>
