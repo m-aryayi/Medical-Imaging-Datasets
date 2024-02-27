@@ -320,6 +320,11 @@ Development of quantitative biomarkers for the determination of cancer cellulari
 ***Keyboard:*** Cancer, Haematoxylin and eosin (H&E) stained slides <br>
 <a href="https://breastpathq.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=22516629"> **CBIS-DDSM**</a> (Curated Breast Imaging Subset of Digital Database for Screening Mammography) <br>
+The DDSM is a database of 2,620 scanned film mammography studies. It contains normal, benign, and malignant cases with verified pathology information. <br>
+***Keyboard:***  Cancer, Labeled <br>
+<a href="https://www.nature.com/articles/sdata2017177"> ![paper](src/paper.png)</a>
+
 - <a href="https://ecdp2020.grand-challenge.org"> **HEROHE**</a> (HER2 on hematoxylin and eosin) <br>
 The dataset consists of annotated, whole-slide images dataset (509), specifically collected for predicting human epidermal growth factor receptor 2 (HER2) status <br>
 ***Keyboard:*** whole-slide images (WSI), Cancer <br>
@@ -592,6 +597,10 @@ Compare methods for (semi-)automatic segmentation of the lungs and lobes from ch
 Nodule location detection <br>
 ***Keyboard:*** Cancer, CT-scan <br>
 <a href="https://luna16.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841517301020"> ![paper](src/paper.png) Overview paper</a> 
+
+- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70224216"> **Lung-PET-CT-Dx**</a> <br>
+A Large-Scale CT and PET/CT Dataset for Lung Cancer Diagnosis <br>
+***Keyboard:*** Cancer, Labeled <br>
 
 - <a href="https://mela.grand-challenge.org"> **MELA**</a> (Mediastinal Lesion Analysis) <br>
 Detectition mediastinal lesions from 1100 CT scans, consisting of 770 CTs for training, 110 CTs for validation, and 220 CTs for testing. <br>
