@@ -94,6 +94,11 @@ A training set of 100 cases with ground-truth and a validation set with 30 cases
 ***Keyboard:*** Intracranial hemorrhage (ICH), CT Scan, Labeled  <br>
 <a href="https://instance.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2301.03281"> ![paper](src/paper.png)</a>
 
+- <a href="https://iseg2019.web.unc.edu"> **iSeg2019**</a> <br>
+6 month old Infant Brain Segmentation<br>
+***Keyboard:*** MRI, Labeled  <br>
+<a href="https://iseg2019.web.unc.edu/evaluation-results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/9339962"> ![paper](src/paper.png)</a>
+
 - <a href="https://isles22.grand-challenge.org"> **ISLES'22**</a> (Ischemic Stroke Lesion Segmentation) <br>
 Multimodal MRI infarct segmentation in acute and sub-acute stroke<br>
 ***Keyboard:*** MRI <br>
