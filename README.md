@@ -69,6 +69,11 @@ Data of patients with cerebral aneurysms without vasospasm were collected for di
 ***Keyboard:*** Alzheimer's disease (AD), MRI  <br>
 <a href="https://caddementia.grand-challenge.org/results_all"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1053811915000737"> ![paper](src/paper.png)</a> | <a href="https://caddementia.grand-challenge.org/Publications"> ![paper](src/paper.png)</a>
 
+- <a href="http://headctstudy.qure.ai"> **CQ500**</a> <br>
+A dataset of 491 scans with 193,317 slices <br>
+***Keyboard:*** CT Scan <br>
+<a href="https://arxiv.org/abs/1803.05854"> ![paper](src/paper.png)</a>
+
 - <a href="https://crossmoda.grand-challenge.org"> **crossMoDA 2021**</a> (Cross-Modality Domain Adaptation) <br>
 The goal is to segment two key brain structures involved in the follow-up and treatment planning of vestibular schwannoma (VS): the tumour and the cochlea<br>
 ***Keyboard:*** MRI, Segmentation <br>
@@ -766,6 +771,11 @@ Classifying the severity of prostate cancer from microscopy scans of prostate bi
 Compare interactive and (semi)-automatic segmentation algorithms for MRI of the prostate <br>
 ***Keyboard:*** T2-weighted MRI, Labeled <br>
 <a href="https://promise12.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841513001734"> ![paper](src/paper.png) Overview paper</a>
+
+- <a href="https://wiki.cancerimagingarchive.net/display/Public/QIN-PROSTATE-Repeatability"> **QIN-PROSTATE-Repeatability**</a> <br>
+This is a dataset with multiparametric prostate MRI applied in a test-retest setting, allowing to evaluate repeatability of the MRI-based measurements in the prostate. <br>
+***Keyboard:*** MRI, Labeled <br>
+<a href="https://www.nature.com/articles/sdata2018281"> ![paper](src/paper.png)</a>
 
 
 ______
