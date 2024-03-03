@@ -62,7 +62,7 @@ Data consists of 75 cases<br>
 
 - <a href="https://www.smir.ch/BRATS/Start2012"> **BRATS2012**</a> (Brain Tumor Segmentation) <br>
 The tumor and edema regions have been manually delineated.<br>
-***Keyboard:*** Multimodal, Cancer, Labeled <br>
+***Keyboard:*** Multimodal MRI, Cancer, Labeled <br>
 <a href="https://ieeexplore.ieee.org/document/6975210"> ![paper](src/paper.png)</a>
 
 - <a href="https://www.smir.ch/BRATS/Start2013"> **BRATS2013**</a> (Brain Tumor Segmentation) <br>
