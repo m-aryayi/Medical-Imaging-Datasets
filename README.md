@@ -74,6 +74,20 @@ A collection of 60 de-identified clinical cases.<br>
 ***Keyboard:*** MRI, Cancer, Labeled <br>
 <a href="https://ieeexplore.ieee.org/document/6975210"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.smir.ch/BRATS/Start2015"> **BRATS2015**</a> (Brain Tumor Segmentation) <br>
+***Keyboard:*** MRI, Cancer, Labeled <br>
+
+- <a href="https://www.med.upenn.edu/sbia/brats2017/data.html"> **BRATS2017**</a> (Brain Tumor Segmentation) <br>
+***Keyboard:*** MRI, Cancer, Labeled <br>
+
+- <a href="https://www.med.upenn.edu/sbia/brats2018/data.html"> **BRATS2018**</a> (Brain Tumor Segmentation) <br>
+The dataset utilizes multi-institutional pre-operative MRI scans and focuses on the segmentation of intrinsically heterogeneous brain tumors. Furthemore, it also focuses on the prediction of patient overall survival, via integrative analyses of radiomic features and machine learning algorithms. <br>
+***Keyboard:*** MRI, Cancer, Labeled <br>
+
+- <a href="https://www.med.upenn.edu/cbica/brats-2019"> **BRATS2019**</a> (Brain Tumor Segmentation) <br>
+***Keyboard:*** MRI, Cancer, Labeled <br>
+<a href="https://arxiv.org/abs/1811.02629"> ![paper](src/paper.png)</a>
+
 - <a href="https://cada.grand-challenge.org"> **CADA**</a> (Cerebral Aneurysm Detection and Analysis) <br>
 Data of patients with cerebral aneurysms without vasospasm were collected for diagnostic and treatment decision purposes.<br>
 ***Keyboard:*** X-ray rotational angiography (3DRA), Segmentation, Labeled  <br>
