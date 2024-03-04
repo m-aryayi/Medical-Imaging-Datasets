@@ -122,7 +122,7 @@ A dataset of 491 scans with 193,317 slices <br>
 - <a href="https://crossmoda.grand-challenge.org"> **crossMoDA 2021**</a> (Cross-Modality Domain Adaptation) <br>
 The goal is to segment two key brain structures involved in the follow-up and treatment planning of vestibular schwannoma (VS): the tumour and the cochlea<br>
 ***Keyboard:*** MRI, Segmentation <br>
-<a href="https://crossmoda.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+<a href="https://crossmoda.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/pii/S1361841522002560"> ![paper](src/paper.png)</a>
 
 - <a href="https://crossmoda2022.grand-challenge.org"> **crossMoDA 2022**</a> (Cross-Modality Domain Adaptation) <br>
 The goal is to segment two key brain structures involved in the follow-up and treatment planning of vestibular schwannoma (VS): the tumour and the cochlea, and to automatically classify hrT2 images with VS according to the Koos grade<br>
