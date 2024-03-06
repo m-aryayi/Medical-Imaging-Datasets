@@ -153,6 +153,11 @@ A training set of 100 cases with ground-truth and a validation set with 30 cases
 ***Keyboard:*** MRI, Labeled  <br>
 <a href="https://iseg2019.web.unc.edu/evaluation-results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/9339962"> ![paper](src/paper.png)</a>
 
+- <a href="http://www.isles-challenge.org"> **ISLES**</a> (Ischemic Stroke Lesion Segmentation) <br>
+It has multi versions in 2015 to 2018 <br>
+***Keyboard:*** MRI <br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/33957774"> ![paper](src/paper.png)</a>
+
 - <a href="https://isles22.grand-challenge.org"> **ISLES'22**</a> (Ischemic Stroke Lesion Segmentation) <br>
 Multimodal MRI infarct segmentation in acute and sub-acute stroke<br>
 ***Keyboard:*** MRI <br>
@@ -553,6 +558,10 @@ Multi-Structure Segmentation for Renal Cancer Treatment <br>
 - <a href="https://paip2019.grand-challenge.org"> **PAIP2019**</a> <br>
 ***Keyboard:*** Whole-slide images (WSIs), Cancer, Segmentation, Labeled, Hepatocellular Carcinoma (HCC) <br>
 <a href="https://paip2019.grand-challenge.org/Leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://www.smir.ch/ShapeChallenge/Start2014"> **SHAPE 2014**</a><br>
+The dataset is part of the training data from the "VISCERAL Organ Segmentation and Landmark Detection Challenge" <br>
+***Keyboard:*** MRI, CT scan, Labeled, Segmentation <br>
 
 - <a href="https://sliver07.grand-challenge.org"> **SLIVER07**</a> (Segmentation of the Liver Competition 2007) <br>
 ***Keyboard:*** 3D CT scan <br>
