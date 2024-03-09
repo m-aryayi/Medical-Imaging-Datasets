@@ -180,6 +180,11 @@ A clinical database of pre-oper, ative MRI and intra-operative ultrasound in low
 ***Keyboard:*** Cancer, Registration, Labeled <br>
 <a href="https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.12268"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.rsna.org/rsnai/ai-image-challenge/rsna-intracranial-hemorrhage-detection-challenge-2019"> **RSNA Intracranial Hemorrhage Detection**</a> (Radiological Society of North America 2019) <br>
+A dataset of more than 25,000 annotated cranial CT exams <br>
+***Keyboard:*** CT scan, Labeled<br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/33937827"> ![paper](src/paper.png)</a>
+
 - <a href="https://shifts.grand-challenge.org"> **Shifts Challenge 2022**</a><br>
 White Matter Multiple Sclerosis (MS) lesion segmentation in 3D Magnetic Resonance Imaging (MRI) of the brain <br>
 ***Keyboard:*** MRI <br>
@@ -724,6 +729,10 @@ This collection contains images from 422 patients.  <br>
 - <a href="https://www.cancerimagingarchive.net/analysis-result/qin-lungct-seg"> **QIN Lung CT**</a> <br>
 ***Keyboard:*** Nodule, CT Scan, Segmentation <br>
 
+- <a href="https://www.rsna.org/rsnai/ai-image-challenge/RSNA-Pneumonia-Detection-Challenge-2018"> **RSNA Pneumonia Detection**</a> (Radiological Society of North America 2018) <br>
+30,000 frontal view chest radiographs <br>
+***Keyboard:*** X-ray, Labeled <br>
+
 - <a href="https://stoic2021.grand-challenge.org"> **STOIC2021**</a> <br>
 Study of Thoracic CT in COVID-19 <br>
 ***Keyboard:*** CT scan <br>
@@ -752,6 +761,11 @@ Large Dataset for Abnormality Detection in Musculoskeletal Radiographs <br>
 A dataset for detect and classify around 5,000 rib fractures from 660 computed tomography (CT) scans <br>
 ***Keyboard:*** CT scan, Labeled <br>
 <a href="https://ribfrac.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://www.kaggle.com/datasets/kmader/rsna-bone-age"> **RSNA Bone Age**</a> (Radiological Society of North America 2017) <br>
+Identify the age of a child from an X-ray of their hand <br>
+***Keyboard:*** X-ray, Labeled<br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/30480490"> ![paper](src/paper.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/30615556"> ![paper](src/paper.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/29095675"> ![paper](src/paper.png)</a>
 
 - <a href="https://spider.grand-challenge.org"> **SPIDER**</a> (SPIne Segmentation: Discs, vERtebrae, and spinal canal)<br>
 A lumbar spine MR dataset with reference segmentations of vertebrae, intervertebral discs (IVDs), and spinal canal <br>
