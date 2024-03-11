@@ -795,6 +795,14 @@ A lumbar spine MR dataset with reference segmentations of vertebrae, interverteb
 A dataset of high-resolution 3D knee MRI including raw k-space data and post-processing annotations with masks for tissue segmentation. <br>
 ***Keyboard:*** MRI, Labeled<br>
 
+- <a href="https://www.kaggle.com/datasets/shashwatwork/knee-osteoarthritis-dataset-with-severity"> **Knee Osteoarthritis Dataset with Severity Grading**</a> <br>
+***Keyboard:*** X-ray, Labeled<br>
+
+- <a href="www.riteh.uniri.hr/~istajduh/projects/kneeMRI"> **kneeMRI**</a> <br>
+The dataset consists of 917 12-bit grayscale volumes of either left or right knees. <br>
+***Keyboard:*** MRI scans, Labeled<br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/28254071"> ![paper](src/paper.png)</a> 
+
 - <a href="https://knoap2020.grand-challenge.org"> **KNOAP2020**</a> (KNee OsteoArthritis Prediction) <br>
 ***Keyboard:*** MRI scans, X-ray, Labeled<br>
 <a href="https://www.oarsijournal.com/article/S1063-4584(22)00864-0/fulltext"> ![paper](src/paper.png)</a> 
