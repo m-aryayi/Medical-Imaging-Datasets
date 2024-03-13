@@ -845,6 +845,15 @@ Automated prediction of treatment effectiveness in ovarian cancer using histopat
 The goal is measurement of the maximum vertical pocket (MVP) <br>
 ***Keyboard:*** Ultrasound Video Clip <br>
 
+- <a href="https://github.com/parham-ap/cytology_dataset"> **Cervix93**</a> <br>
+A Cervical Cytology Dataset for Nucleus Detection and Image Classification and Methods for Cervical Nucleus Detection <br>
+***Keyboard:*** Pap smear, Cancer, Labeled <br>
+<a href="https://arxiv.org/abs/1811.09651"> ![paper](src/paper.png)</a>
+
+- <a href="https://mde-lab.aegean.gr/index.php/downloads"> **DTU/HERLEV (PAP-SMEAR)**</a> <br>
+***Keyboard:*** Pap smear, Labeled <br>
+<a href="https://www.researchgate.net/publication/265873515_Pap-smear_Benchmark_Data_For_Pattern_Classification"> ![paper](src/paper.png) Benchmark</a>
+
 - <a href="https://zenodo.org/records/7372187"> **ENDO-AID**</a> <br>
 The dataset consists of 91 digital pathology whole-slide images (WSI) of endometrium carcinoma Pipelle biopsies, stained with hematoxylin and eosin (H&E). <br>
 ***Keyboard:*** Whole-slide images (WSI), Cancer <br>
@@ -859,10 +868,19 @@ An intrapartum transperineal ultrasound dataset of the Intelligent Fetal Monitor
 ***Keyboard:*** Ultrasound videos, Labeled <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S2352340922001160"> ![paper](src/paper.png)</a>
 
+- <a href="https://data.mendeley.com/datasets/zddtpgzv63/4"> **Liquid based-cytology Pap smear**</a> <br>
+The repository consists of a total of 963 LBC images <br>
+***Keyboard:*** Pap Smear, Labeled <br>
+<a href="https://www.sciencedirect.com/science/article/pii/S2352340920304832"> ![paper](src/paper.png)</a>
+
 - <a href="https://ps-fh-aop-2023.grand-challenge.org"> **Ps-Fh-Aop-2023**</a> (Pubic Symphysis-Fetal Head Segmentation and Angle of Progression) <br>
 ***Keyboard:*** Ultrasound imaging, Labeled <br>
 <a href="https://ps-fh-aop-2023.grand-challenge.org/evaluation/phase-two/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://www.cs.uoi.gr/~marina/sipakmed.html"> **SIPaKMeD**</a> <br>
+The database consists of 4049 images of isolated cells that have been manually cropped from 966 cluster cell images of Pap smear slides. <br>
+***Keyboard:*** Pap smear, Labeled <br>
+<a href="https://ieeexplore.ieee.org/abstract/document/8451588"> ![paper](src/paper.png)</a>
 
 ### Male Reproductive Organs
 
