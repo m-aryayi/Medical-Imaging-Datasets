@@ -693,6 +693,11 @@ A dataset from 632 patients with COVID-19 infections at initial point of care, a
 ***Keyboard:*** CT, Registration of thoracic <br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/21632295"> ![paper](src/paper.png)</a> 
 
+- <a href="http://db.jsrt.or.jp/eng.php"> **JSRT**</a> (Japanese Society of Radiological Technology) <br>
+The database includes 154 conventional chest radiographs with a lung nodule and 93 radiographs without a nodule <br>
+***Keyboard:*** X-ray <br>
+<a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-ipr.2019.0423"> ![paper](src/paper.png) Cited DB </a>  | <a href="https://arxiv.org/abs/1907.09375"> ![paper](src/paper.png) Cited DB</a>
+
 - <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254"> **LIDC-IDRI**</a> (Lung Image Database Consortium (LIDC) and Image Database Resource Initiative (IDRI)) <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
 <a href="https://aapm.onlinelibrary.wiley.com/doi/10.1118/1.3528204"> ![paper](src/paper.png)</a> 
@@ -862,6 +867,9 @@ The dataset consists of 91 digital pathology whole-slide images (WSI) of endomet
 Measurement of fetal head circumference (HC)<br>
 ***Keyboard:*** Ultrasound imaging, Labeled <br>
 <a href="https://hc18.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening/overview"> **Intel & MobileODT Cervical Cancer Screening**</a><br>
+***Keyboard:*** Colposcopy, Classification, Cancer <br>
 
 - <a href="https://figshare.com/articles/dataset/JNU-IFM/14371652"> **JNU-IFM**</a> <br>
 An intrapartum transperineal ultrasound dataset of the Intelligent Fetal Monitoring <br>
