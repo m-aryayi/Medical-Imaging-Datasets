@@ -963,7 +963,16 @@ Image classification dataset consists of 327.680 color images extracted from his
 
 
 
+
 ### Skin
+
+- <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T"> **HAM10000**</a> <br>
+A collection of multi-source dermatoscopic images of common pigmented skin lesions <br>
+***Keyboard:*** Dermatoscopic images <br>
+
+- <a href="https://www.uco.es/grupos/ayrna/ieeetmi2015"> **Melanoma Dataset**</a> <br>
+***Keyboard:*** Classification, Dermatoscopic images <br>
+<a href="https://ieeexplore.ieee.org/document/7348708"> ![paper](src/paper.png)</a>
 
 
 ______
