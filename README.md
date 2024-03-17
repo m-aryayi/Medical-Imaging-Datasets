@@ -978,7 +978,7 @@ A collection of multi-source dermatoscopic images of common pigmented skin lesio
 - <a href="https://challenge.isic-archive.com/data"> **ISIC**</a> (International Skin Imaging Collaboration) <br>
 It has multi versions. <br>
 ***Keyboard:*** Dermoscopic images <br>
-<a href="https://arxiv.org/abs/1605.01397"> ![paper](src/paper.png)</a>
+<a href="https://arxiv.org/abs/1605.01397"> ![paper](src/paper.png)</a> | 
 <a href="https://ieeexplore.ieee.org/document/8363547"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/1902.03368"> ![paper](src/paper.png)</a>
 
 - <a href="https://www.uco.es/grupos/ayrna/ieeetmi2015"> **Melanoma Dataset**</a> <br>
