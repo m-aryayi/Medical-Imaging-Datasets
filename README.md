@@ -556,6 +556,11 @@ Our dataset contains 200 3D volumes with refined pulmonary artery label <br>
 ***Keyboard:*** CT Pulmonary Angiography (CTPA) <br>
 <a href="https://parse2022.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2304.03708"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.rsna.org/rsnai/ai-image-challenge/rsna-pe-detection-challenge-2020"> **RSNA Cervical Spine Fracture**</a> (Radiological Society of North America 2022) <br>
+Detect and characterize instances of pulmonary embolism (PE) on chest CT studies <br>
+***Keyboard:*** CT scan, Labeled <br>
+<a href="https://www.kaggle.com/competitions/rsna-2022-cervical-spine-fracture-detection/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/33937862"> ![paper](src/paper.png)</a>
+
 - <a href="https://multicenteraorta.grand-challenge.org"> **SEG.A. 2023**</a> (Segmentation of the Aorta) <br>
 ***Keyboard:*** CTA (Computed tomography angiography), Labeled, Aorta <br>
 <a href="https://multicenteraorta.grand-challenge.org/evaluation/preliminary-phase/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> 
@@ -970,9 +975,21 @@ Image classification dataset consists of 327.680 color images extracted from his
 A collection of multi-source dermatoscopic images of common pigmented skin lesions <br>
 ***Keyboard:*** Dermatoscopic images <br>
 
+- <a href="https://challenge.isic-archive.com/data"> **ISIC**</a> (International Skin Imaging Collaboration) <br>
+It has multi versions. <br>
+***Keyboard:*** Dermoscopic images <br>
+<a href="https://arxiv.org/abs/1605.01397"> ![paper](src/paper.png)</a>
+<a href="https://ieeexplore.ieee.org/document/8363547"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/1902.03368"> ![paper](src/paper.png)</a>
+
 - <a href="https://www.uco.es/grupos/ayrna/ieeetmi2015"> **Melanoma Dataset**</a> <br>
 ***Keyboard:*** Classification, Dermatoscopic images <br>
 <a href="https://ieeexplore.ieee.org/document/7348708"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.fc.up.pt/addi/ph2%20database.html"> **PH<sup>2</sup>**</a> <br>
+The database contains a total of 200 dermoscopic images of melanocytic lesions <br>
+***Keyboard:*** Classification, Segmentation, Dermoscopic images, Labeled <br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/24110966"> ![paper](src/paper.png)</a>
+
 
 
 ______
