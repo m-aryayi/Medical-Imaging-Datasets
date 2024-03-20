@@ -438,6 +438,9 @@ The dataset consists of annotated, whole-slide images dataset (509), specificall
 ***Keyboard:*** whole-slide images (WSI), Cancer <br>
 <a href="https://www.mdpi.com/2313-433X/8/8/213"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.kaggle.com/datasets/kmader/mias-mammography"> **MIAS**</a> <br>
+***Keyboard:*** Mammography, Cancer, Labeled <br>
+
 - <a href="https://imig.science/midog2021"> **MIDOG 2021**</a> (Mitosis Domain Generalization 2021) <br>
 Detect mitotic figures (cells undergoing cell division) from histopathology images (object detection) <br>
 ***Keyboard:*** Whole-Slide Images (WSI), Cancer, Labeled <br>
@@ -447,6 +450,11 @@ Detect mitotic figures (cells undergoing cell division) from histopathology imag
 Detect mitotic figures (cells undergoing cell division) from histopathology images (object detection) <br>
 ***Keyboard:*** Whole-Slide Images (WSI), Cancer, Labeled <br>
 <a href="https://midog2022.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2309.15589"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.kaggle.com/datasets/cheddad/miniddsm2"> **Mini-DDSM**</a> (Digital Database for Screening Mammography) <br>
+This is the light-weight version of the popular DDSM. <br>
+***Keyboard:*** Mammography, Cancer <br>
+<a href="https://dl.acm.org/doi/abs/10.1145/3441369.3441370"> ![paper](src/paper.png)</a>
 
 - <a href="https://tdsc-abus2023.grand-challenge.org"> **MITOS-ATYPIA-14**</a> <br>
 It is made up of two parts: Detection of mitosis on the one hand, and evaluation of nuclear atypia score on the other hand. <br>
