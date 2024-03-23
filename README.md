@@ -702,6 +702,10 @@ COVID-19 Lung CT Lesion Segmentation <br>
 Chest Imaging with Clinical and Genomic Correlates Representing a Rural COVID-19 Positive Population <br>
 <a href="https://www.nature.com/articles/s41597-020-00741-6"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset"> **Covid-19 Image**</a> <br>
+3 Way Classification - COVID-19, Viral Pneumonia, Normal <br>
+***Keyboard:*** X ray, Labeled <br>
+
 - <a href="https://data.uni-hannover.de/dataset/cov-19-img"> **COVID-19 Image Repository**</a> <br>
 An anonymized data set of COVID-19 cases with a focus on radiological imaging <br>
 
@@ -711,6 +715,9 @@ This collection of cases was acquired at Stony Brook University from patients wh
 - <a href="https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database"> **COVID-19 Radiography Database**</a> <br>
 3616 COVID-19 Chest X-ray images and lung masks <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S001048252100113X"> ![paper](src/paper.png)</a> | <a href="https://ieeexplore.ieee.org/document/9144185"> ![paper](src/paper.png)</a>
+
+- <a href="https://github.com/v7labs/covid-19-xray-dataset"> **COVID-19 xray**</a> <br>
+This dataset contains 6500 images of AP/PA chest x-rays with pixel-level polygonal lung segmentations <br>
 
 - <a href="https://github.com/ieee8023/covid-chestxray-dataset"> **COVID-ChestXRay**</a> <br>
 An database of COVID-19 cases with chest X-ray or CT images <br>
@@ -825,6 +832,11 @@ ______
 ## Musculoskeletal System
 
 ### Bones
+
+- <a href="https://ivdm3seg.weebly.com"> **IVDM3Seg**</a> <br>
+Intervertebral Disc Localization and Segmentation from 3D Multi-modality MR (M3) Images <br>
+***Keyboard:*** MRI <br>
+<a href="https://ivdm3seg.weebly.com/results.html"> ![Leaderboard](src/leaderboard.png)</a>
 
 - <a href="https://stanfordmlgroup.github.io/competitions/mura"> **MURA**</a> (MUsculoskeletal RAdiographs) <br>
 Large Dataset for Abnormality Detection in Musculoskeletal Radiographs <br>
