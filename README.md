@@ -428,6 +428,9 @@ A dataset of 7909 breast cancer histopathology images acquired on 82 patients <b
 ***Keyboard:*** Cancer, Labeled <br>
 <a href="https://ieeexplore.ieee.org/document/7312934"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.kaggle.com/datasets/sabermalek/bcfpp"> **Breast Cancer CT**</a> <br>
+***Keyboard:*** CT Scan, Labeled, Cancer <br>
+
 - <a href="https://breastpathq.grand-challenge.org/"> **BreastPathQ**</a> <br>
 Development of quantitative biomarkers for the determination of cancer cellularity from whole slide images (WSI) of breast cancer hematoxylin and eosin (H&E) stained pathological slides <br>
 ***Keyboard:*** Cancer, Haematoxylin and eosin (H&E) stained slides <br>
@@ -437,6 +440,11 @@ Development of quantitative biomarkers for the determination of cancer cellulari
 The DDSM is a database of 2,620 scanned film mammography studies. It contains normal, benign, and malignant cases with verified pathology information. <br>
 ***Keyboard:***  Cancer, Labeled <br>
 <a href="https://www.nature.com/articles/sdata2017177"> ![paper](src/paper.png)</a>
+
+- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70226903"> **Duke Breast Cancer MRI**</a> <br>
+Dynamic contrast-enhanced magnetic resonance images of breast cancer patients with tumor locations. <br>
+***Keyboard:*** Cancer, Labeled <br>
+<a href="https://www.nature.com/articles/s41416-018-0185-8"> ![paper](src/paper.png)</a>
 
 - <a href="https://ecdp2020.grand-challenge.org"> **HEROHE**</a> (HER2 on hematoxylin and eosin) <br>
 The dataset consists of annotated, whole-slide images dataset (509), specifically collected for predicting human epidermal growth factor receptor 2 (HER2) status <br>
@@ -565,6 +573,11 @@ A 3D CT Image Dataset for classification of Congenital Heart Disease. <br>
 A 3D CT Image Dataset for Automatic Segmentation of of Type-B Aortic Dissection. <br>
 ***Keyboard:*** CTA (Computed tomography angiography), Labeled, Aorta <br>
 <a href="https://www.frontiersin.org/articles/10.3389/fphys.2021.732711/full"> ![paper](src/paper.png)</a> 
+
+- <a href="https://zmiclab.github.io/zxh/0/mmwhs"> **MM-WHS**</a> (Multi-Modality Whole Heart Segmentation)<br>
+It provides multi-modality cardiac images acquired in real clinical environment. <br>
+***Keyboard:*** Anonymized clinical MRI and CT scan, Labeled <br>
+<a href="https://ieeexplore.ieee.org/document/8458220"> ![paper](src/paper.png)</a> | <a href="https://ieeexplore.ieee.org/document/9921323"> ![paper](src/paper.png)</a>
 
 - <a href="https://www.creatis.insa-lyon.fr/Challenge/myosaiq"> **MYOSAIQ**</a> (MYOcardial Segmentation with Automated Infarct Quantification)<br>
 The full dataset is composed of 467 Late gadolinium enhanced magnetic resonance images from two different cohorts to quantify myocardial infarction (MI) lesions at different phases of the longitudinal evolution of the disease<br>
