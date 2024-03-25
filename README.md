@@ -65,6 +65,10 @@ A larger dataset of T1w MRIs and manually segmented lesion masks <br>
 ***Keyboard:***  MRI, Segmentation, Labeled  <br>
 <a href="https://bonbid-hie2023.grand-challenge.org/evaluation/development-stage/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.biorxiv.org/content/10.1101/2023.06.30.546841v1"> ![paper](src/paper.png)  Data Descriptor</a>
 
+- <a href="https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection"> **BR35H**</a><br>
+Brain Tumor Detection <br>
+***Keyboard:***  MRI, Detection, Classification, Labeled  <br>
+
 - <a href="https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset"> **Brian Tumor Dataset**</a> <br>
 This dataset consists of the scanned images of brain of patient diagnosed of brain tumour.<br>
 ***Keyboard:*** X-ray, Cancer, Labeled  <br>
@@ -176,6 +180,10 @@ It has multi versions in 2015 to 2018 <br>
 Multimodal MRI infarct segmentation in acute and sub-acute stroke<br>
 ***Keyboard:*** MRI <br>
 <a href="https://isles22.grand-challenge.org/evaluation/preliminary-docker-evaluation/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://brain-development.org/ixi-dataset"> **IXI**</a> <br>
+This dataset have been collected nearly 600 MR images from normal, healthy subjects. <br>
+***Keyboard:*** MRI <br>
 
 - <a href="https://mindboggle.info/data.html"> **Mindboggle**</a>  <br>
 Manually labeled human brain image data. <br>
@@ -691,6 +699,10 @@ Automatic detection of pulmonary nodules in chest <br>
 Dataset provides CT scans with detailed pulmonary airway annotation. <br>
 ***Keyboard:*** CT-scan, Labeled<br>
 <a href="https://atm22.grand-challenge.org/evaluation/validation-phase-1-live-leaderboard/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841523002177"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images"> **Chest CT-Scan images**</a><br>
+CT-Scan images with different types of chest cancer <br>
+***Keyboard:*** CT-scan, Labeled<br>
 
 - <a href="https://cxr-covid19.grand-challenge.org"> **Chest XR COVID-19 detection**</a> <br>
 The dataset contains 20,000+ images and 3 classes: COVID-19, Pneumonia and Normal (healthy). <br>
