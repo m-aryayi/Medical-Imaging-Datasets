@@ -69,6 +69,10 @@ A larger dataset of T1w MRIs and manually segmented lesion masks <br>
 Brain Tumor Detection <br>
 ***Keyboard:***  MRI, Detection, Classification, Labeled  <br>
 
+- <a href="https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri"> **Brain Tumor Classification**</a> <br>
+Classify MRI images into four classes <br>
+***Keyboard:*** MRI, Labeled <br>
+
 - <a href="https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset"> **Brian Tumor Dataset**</a> <br>
 This dataset consists of the scanned images of brain of patient diagnosed of brain tumour.<br>
 ***Keyboard:*** X-ray, Cancer, Labeled  <br>
@@ -206,6 +210,10 @@ Evaluating the performance of markerless prospective motion correction and selec
 A clinical database of pre-oper, ative MRI and intra-operative ultrasound in low-grade glioma surgeries <br>
 ***Keyboard:*** Cancer, Registration, Labeled <br>
 <a href="https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.12268"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.rsna.org/rsnai/ai-image-challenge/rsna-pe-detection-challenge-2020"> **RSNA Brain Tumor**</a> (Radiological Society of North America 2021) <br>
+A dataset for brain tumor segmentation and radiogenomic classification <br>
+***Keyboard:*** MRI, Labeled <br>
 
 - <a href="https://www.rsna.org/rsnai/ai-image-challenge/rsna-intracranial-hemorrhage-detection-challenge-2019"> **RSNA Intracranial Hemorrhage Detection**</a> (Radiological Society of North America 2019) <br>
 A dataset of more than 25,000 annotated cranial CT exams <br>
