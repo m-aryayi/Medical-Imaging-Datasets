@@ -762,6 +762,16 @@ It contains 349 COVID-19 CT images from 216 patients and 463 non-COVID-19 CTs<br
 ***Keyboard:*** CT scan, Classification <br>
 <a href="https://covid-ct.grand-challenge.org/Leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2003.13865"> ![paper](src/paper.png)</a> 
 
+- <a href="https://github.com/ShahinSHH/COVID-CT-MD"> **COVID-CT-MD**</a><br>
+The dataset contains volumetric chest CT scans of 169 patients positive for COVID-19 infection, 60 patients with Community Acquired Pneumonia, and 76 normal patients. <br>
+***Keyboard:*** CT scan, Labeled <br>
+<a href="https://www.nature.com/articles/s41597-021-00900-3"> ![paper](src/paper.png) Desription of the Dataset</a>
+
+- <a href="https://github.com/mr7495/COVID-CTset"> **COVID-CTset**</a><br>
+The dataset contains 63849 images from 377 patients <br>
+***Keyboard:*** CT scan, Labeled <br>
+<a href="https://www.sciencedirect.com/science/article/pii/S1746809421001853"> ![paper](src/paper.png) Desription of the Dataset</a>
+
 - <a href="https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md"> **COVIDx**</a> <br>
 It is a collection of 8 datasets <br>
 ***Keyboard:*** CT scan, X-ray <br>
