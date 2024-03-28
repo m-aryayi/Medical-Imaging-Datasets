@@ -735,6 +735,10 @@ COVID-19 Lung CT Lesion Segmentation <br>
 Chest Imaging with Clinical and Genomic Correlates Representing a Rural COVID-19 Positive Population <br>
 <a href="https://www.nature.com/articles/s41597-020-00741-6"> ![paper](src/paper.png)</a>
 
+- <a href="https://zenodo.org/records/3757476"> **COVID-19 CT Lung and Infection**</a> <br>
+The dataset contains 20 labeled COVID-19 CT scans <br>
+***Keyboard:*** Segmentation <br>
+
 - <a href="https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset"> **Covid-19 Image**</a> <br>
 3 Way Classification - COVID-19, Viral Pneumonia, Normal <br>
 ***Keyboard:*** X ray, Labeled <br>
@@ -1132,6 +1136,11 @@ Images of 60 patients aged 34–79 years that were appointed for image-guided Ra
 The data were collected for a total of 883 cases consisting of FDG-PET/CT images and clinical information. <br>
 ***Keyboard:*** *Head, Neck, Lymph nodes*, FDG-PET/CT images, Cancer, Labeled <br>
 <a href="https://hecktor.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/37195050"> ![paper](src/paper.png) Overview paper</a>
+
+- <a href="https://academictorrents.com/details/7a638ed187a6180fd6e464b3666a6ea0499af4af"> **LC25000**</a> <br>
+The dataset contains color 25,000 Lung and colon histopathological images <br>
+***Keyboard:*** *Lung and Colon*, Cancer, Labeled <br>
+<a href="https://arxiv.org/abs/1912.12142v1"> ![paper](src/paper.png)</a>
 
 - <a href="https://lyon19.grand-challenge.org"> **LYON19**</a> <br>
 The test set contains Region of Interests (ROIs) selected from whole-slide images (WSI) of immunohistochemistry (IHC) stained specimens <br>
