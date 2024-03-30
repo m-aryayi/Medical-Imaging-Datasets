@@ -211,7 +211,7 @@ A clinical database of pre-oper, ative MRI and intra-operative ultrasound in low
 ***Keyboard:*** Cancer, Registration, Labeled <br>
 <a href="https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.12268"> ![paper](src/paper.png)</a>
 
-- <a href="https://www.rsna.org/rsnai/ai-image-challenge/rsna-pe-detection-challenge-2020"> **RSNA Brain Tumor**</a> (Radiological Society of North America 2021) <br>
+- <a href="https://www.rsna.org/rsnai/ai-image-challenge/brain-tumor-ai-challenge-2021"> **RSNA Brain Tumor**</a> (Radiological Society of North America 2021) <br>
 A dataset for brain tumor segmentation and radiogenomic classification <br>
 ***Keyboard:*** MRI, Labeled <br>
 
@@ -619,11 +619,6 @@ Cardiac CT exams of 72 patients <br>
 Our dataset contains 200 3D volumes with refined pulmonary artery label <br>
 ***Keyboard:*** CT Pulmonary Angiography (CTPA) <br>
 <a href="https://parse2022.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2304.03708"> ![paper](src/paper.png)</a>
-
-- <a href="https://www.rsna.org/rsnai/ai-image-challenge/rsna-pe-detection-challenge-2020"> **RSNA Cervical Spine Fracture**</a> (Radiological Society of North America 2022) <br>
-Detect and characterize instances of pulmonary embolism (PE) on chest CT studies <br>
-***Keyboard:*** CT scan, Labeled <br>
-<a href="https://www.kaggle.com/competitions/rsna-2022-cervical-spine-fracture-detection/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/33937862"> ![paper](src/paper.png)</a>
 
 - <a href="https://multicenteraorta.grand-challenge.org"> **SEG.A. 2023**</a> (Segmentation of the Aorta) <br>
 ***Keyboard:*** CTA (Computed tomography angiography), Labeled, Aorta <br>
