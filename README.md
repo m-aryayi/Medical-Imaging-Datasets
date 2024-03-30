@@ -1144,6 +1144,13 @@ A small number of labeled cases (50) and a large number of unlabeled cases (2000
 ***Keyboard:***  Multi-tissue (13 organs), CT scan, Labeled <br>
 <a href="https://flare22.grand-challenge.org/evaluation/testing-dsc/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2308.05862"> ![paper](src/paper.png)</a>
 
+<!---
+- <a href="https://flare.grand-challenge.org"> **FLARE21**</a> (Fast and Low GPU memory Abdominal oRgan sEgmentation) <br>
+A abdominal CT organ dataset with 500 CT scans from 11 countries, including multi-center, multi-phase, multi-vendor, and multi-disease cases. <br>
+***Keyboard:*** *Liver, Kidney, Spleen, and Pancreas*, CT scan, Cancer, Segmentation<br>
+<a href="https://flare.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522002444"> ![paper](src/paper.png) Summary Paper</a>
+-->
+
 - <a href="https://han-seg2023.grand-challenge.org"> **HaN-Seg**</a> (Head and Neck Segmentation) <br>
 Images of 60 patients aged 34–79 years that were appointed for image-guided Radiotherapy in the HaN region <br>
 ***Keyboard:*** *30 organs-at-risk*, CT Scan, MRI, Labeled <br>
@@ -1163,6 +1170,13 @@ The dataset contains color 25,000 Lung and colon histopathological images <br>
 The test set contains Region of Interests (ROIs) selected from whole-slide images (WSI) of immunohistochemistry (IHC) stained specimens <br>
 ***Keyboard:*** *breast, colon, prostate*, whole-slide images (WSI) <br>
 <a href="https://lyon19.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841519300829"> ![paper](src/paper.png)</a>
+
+<!---
+- <a href="https://medfm2023.grand-challenge.org"> **MedFMC**</a> <br>
+Foundation Model Prompting for Medical Image Classification <br>
+***Keyboard:*** *Thoracic and Colon*, Multli Modalities <br>
+<a href="https://medfm2023.grand-challenge.org/evaluation/challenge-for-public-long-term/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+-->
 
 - <a href="https://medshapenet.ikim.nrw"> **MedShapeNet**</a> <br>
 This dataset contains over 100,000 3D medical shapes, including bones, organs, vessels, muscles, etc., as well as surgical instruments. It has used in <a href='https://autoimplant.grand-challenge.org'> AutoImplant </a> <br>
