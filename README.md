@@ -1171,12 +1171,10 @@ The test set contains Region of Interests (ROIs) selected from whole-slide image
 ***Keyboard:*** *breast, colon, prostate*, whole-slide images (WSI) <br>
 <a href="https://lyon19.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841519300829"> ![paper](src/paper.png)</a>
 
-<!---
 - <a href="https://medfm2023.grand-challenge.org"> **MedFMC**</a> <br>
 Foundation Model Prompting for Medical Image Classification <br>
 ***Keyboard:*** *Thoracic and Colon*, Multli Modalities <br>
 <a href="https://medfm2023.grand-challenge.org/evaluation/challenge-for-public-long-term/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
--->
 
 - <a href="https://medshapenet.ikim.nrw"> **MedShapeNet**</a> <br>
 This dataset contains over 100,000 3D medical shapes, including bones, organs, vessels, muscles, etc., as well as surgical instruments. It has used in <a href='https://autoimplant.grand-challenge.org'> AutoImplant </a> <br>
