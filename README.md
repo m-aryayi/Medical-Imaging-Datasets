@@ -889,6 +889,11 @@ The database contains a number of annotated CT image scans that highlight many o
 <a href="https://pubmed.ncbi.nlm.nih.gov/19965010"> ![paper](src/paper.png) The dataset is described </a>
 
 
+- <a href="https://wsss4luad.grand-challenge.org"> **WSSS4LUAD**</a> (Weakly-supervised Tissue Semantic Segmentation for Lung Adenocarcinoma) <br>
+Segment tumor epithelial, tumor-associated stroma and normal tissue with only patch-level labels. <br>
+***Keyboard:*** H&E stained Whole Slide Image (WSI), Cancer <br>
+<a href="https://wsss4luad.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2204.06455"> ![paper](src/paper.png)</a>
+
 
 
 ______
