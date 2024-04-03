@@ -230,6 +230,10 @@ Part of the <a href="http://www.developingconnectome.org"> dHCP</a> (Developing 
 ***Keyboard:*** MRI <br>
 <a href="https://slcn.grand-challenge.org/evaluation/preliminary-phase/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://surfer.nmr.mgh.harvard.edu/docs/synthstrip"> **SynthStrip**</a> <br>
+***Keyboard:*** Multi-modality, Labeled, Segmentation <br>
+<a href="https://www.sciencedirect.com/science/article/pii/S1053811922005900"> ![paper](src/paper.png)</a>
+
 - <a href="https://topcow23.grand-challenge.org"> **TopCoW**</a> <br>
 Topology-Aware Anatomical Segmentation of the Circle of Willis <br>
 ***Keyboard:*** Magnetic Resonance Angiography (MRA) and Computed Tomography Angiography (CTA) <br>
@@ -887,7 +891,6 @@ Automatic (and semi-automatic) segmentation of blood vessels in the lungs from C
 The database contains a number of annotated CT image scans that highlight many of the key issues in measuring large lesions in the lung. <br>
 ***Keyboard:*** CT-scan <br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/19965010"> ![paper](src/paper.png) The dataset is described </a>
-
 
 - <a href="https://wsss4luad.grand-challenge.org"> **WSSS4LUAD**</a> (Weakly-supervised Tissue Semantic Segmentation for Lung Adenocarcinoma) <br>
 Segment tumor epithelial, tumor-associated stroma and normal tissue with only patch-level labels. <br>
