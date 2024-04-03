@@ -848,6 +848,11 @@ Detectition mediastinal lesions from 1100 CT scans, consisting of 770 CTs for tr
 ***Keyboard:*** X-rays, Labeled <br>
 <a href="https://pubs.rsna.org/doi/10.1148/radiol.2021203957"> ![paper](src/paper.png)</a>
 
+- <a href="https://physionet.org/content/mimic-cxr"> **MIMIC-CXR**</a> <br>
+The dataset contains 377,110 images corresponding to 227,835 radiographic. <br>
+***Keyboard:*** X-ray <br>
+<a href="https://www.nature.com/articles/s41597-019-0322-0"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/1901.07042"> ![paper](src/paper.png)</a>
+
 - <a href="https://node21.grand-challenge.org"> **NODE21**</a> <br>
 Detection and generation of lung nodules. <br>
 ***Keyboard:*** X-ray <br>
@@ -856,6 +861,11 @@ Detection and generation of lung nodules. <br>
 - <a href="https://mela.grand-challenge.org"> **NSCLC-Radiomics**</a> (Non-Small Cell Lung Cancer) <br>
 This collection contains images from 422 patients.  <br>
 ***Keyboard:*** CT Scan, Labeled <br>
+
+- <a href="https://bimcv.cipf.es/bimcv-projects/padchest"> **PadChest**</a> <br>
+This dataset includes more than 160,000 images of 67,000 patients. <br>
+***Keyboard:*** X-ray, Labeled <br>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841520301614"> ![paper](src/paper.png)</a>
 
 - <a href="https://www.cancerimagingarchive.net/analysis-result/qin-lungct-seg"> **QIN Lung CT**</a> <br>
 ***Keyboard:*** Nodule, CT Scan, Segmentation <br>
