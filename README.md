@@ -61,10 +61,19 @@ T1-weighted MRI scans and fluid intelligence scores for children aged 9–10 yea
 ***Keyboard:*** Multi-modality <br>
 <a href="https://www.neurology.org/doi/abs/10.1212/wnl.0b013e3181cb3e25"> ![paper](src/paper.png)</a>
 
+- <a href="https://nilab-uva.github.io/AOMIC.github.io"> **AOMIC**</a> (the Amsterdam Open MRI Collection) <br>
+It is a collection of three datasets with multimodal (3T) MRI data
+***Keyboard:*** MRI <br>
+<a href="https://www.nature.com/articles/s41597-021-00870-6"> ![paper](src/paper.png) Dataset is described </a>
+
 - <a href="https://atlas.grand-challenge.org"> **ATLAS R2.0**</a> (Anatomical Tracings of Lesions After Stroke) <br>
 A larger dataset of T1w MRIs and manually segmented lesion masks <br>
 ***Keyboard:***  MRI, Segmentation, Labeled  <br>
 <a href="https://atlas.grand-challenge.org/evaluation/lesion-segmentation-hidden-test-set/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.nature.com/articles/s41597-022-01401-7"> ![paper](src/paper.png)</a>
+
+- <a href="https://bigbrain.loris.ca/main.php"> **BigBrain**</a> <br>
+Microscopic resolution 3D model of the human brain. <br>
+***Keyboard:*** X-ray, Labeled <br>
 
 - <a href="https://bonbid-hie2023.grand-challenge.org"> **BONBID-HIE**</a> (BOston Neonatal Brain Injury Dataset for Hypoxic Ischemic Encephalopathy) <br>
 ***Keyboard:***  MRI, Segmentation, Labeled  <br>
