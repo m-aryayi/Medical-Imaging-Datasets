@@ -479,6 +479,11 @@ A dataset of 7909 breast cancer histopathology images acquired on 82 patients <b
 - <a href="https://www.kaggle.com/datasets/sabermalek/bcfpp"> **Breast Cancer CT**</a> <br>
 ***Keyboard:*** CT Scan, Labeled, Cancer <br>
 
+- <a href="https://www.cancerimagingarchive.net/collection/breast-cancer-screening-dbt"> **Breast-Cancer-Screening-DBT**</a> (Digital Breast Tomosynthesis) <br>
+It contains 22,032 reconstructed DBT volumes belonging to 5,610 studies from 5,060 patients. <br>
+***Keyboard:*** Mammography, Cancer <br>
+<a href="https://arxiv.org/abs/2011.07995"> ![paper](src/paper.png)</a>
+
 - <a href="https://breastpathq.grand-challenge.org/"> **BreastPathQ**</a> <br>
 Development of quantitative biomarkers for the determination of cancer cellularity from whole slide images (WSI) of breast cancer hematoxylin and eosin (H&E) stained pathological slides <br>
 ***Keyboard:*** Cancer, Haematoxylin and eosin (H&E) stained slides <br>
@@ -693,6 +698,11 @@ Multi-Structure Segmentation for Renal Cancer Treatment <br>
 ***Keyboard:*** MRI, Cancer, Labeled <br>
 <a href="https://atlas-challenge.u-bourgogne.fr/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.mdpi.com/2306-5729/8/5/79"> ![paper](src/paper.png)</a> | <a href="https://www.nature.com/articles/s41598-024-53528-9"> ![paper](src/paper.png)</a>
 
+- <a href="https://zenodo.org/records/7774566"> **Duke Liver DataSet**</a><br>
+It provides over 2000 anonymized MRI image series acquired in routine liver MRI protocols across 105 subjects. <br>
+***Keyboard:*** MRI, Cancer, Labeled <br>
+<a href="https://ieeexplore.ieee.org/document/9242262"> ![paper](src/paper.png)</a>
+
 - <a href="https://competitions.codalab.org/competitions/17094"> **LiTS**</a> (Liver Tumor Segmentation) <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
 <a href="https://competitions.codalab.org/competitions/17094#results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/1901.04056"> ![paper](src/paper.png)</a>
@@ -752,6 +762,10 @@ The dataset contains 20,000+ images and 3 classes: COVID-19, Pneumonia and Norma
 100,000 anonymized chest x-ray images <br>
 ***Keyboard:*** X-ray, Labeled <br>
 <a href="https://arxiv.org/abs/1705.02315"> ![paper](src/paper.png)</a> 
+
+- <a href="https://www.v7labs.com/open-datasets/chestx-ray14"> **ChestX-ray14**</a> (ChestXray-NIHCC) <br>
+It is a dataset which comprises 112,120 frontal-view X-ray images of 30,805  unique patients with the text-mined fourteen common disease labels, mined from the text radiological reports via NLP techniques. It expands on ChestX-ray8 by adding six additional thorax diseases. <br>
+***Keyboard:*** X-ray, Labeled <br>
 
 - <a href="https://stanfordmlgroup.github.io/competitions/chexpert/"> **CheXpert**</a> <br>
 A Large Chest X-Ray Dataset. <br>
