@@ -208,6 +208,16 @@ Multimodal MRI infarct segmentation in acute and sub-acute stroke<br>
 This dataset have been collected nearly 600 MR images from normal, healthy subjects. <br>
 ***Keyboard:*** MRI <br>
 
+- <a href="https://openneuro.org/datasets/ds001486"> **Longitudinal Neuroimaging on Arithmetic Processing**</a><br>
+Brain Correlates of Math Development in Children. <br>
+***Keyboard:*** MRI <br>
+<a href="https://www.nature.com/articles/sdata201940"> ![paper](src/paper.png)</a>
+
+- <a href="https://openneuro.org/datasets/ds001894"> **Longitudinal Neuroimaging on Multisensory Lexical Processing**</a><br>
+Longitudinal Brain Correlates of Multisensory Lexical Processing in Children. <br>
+***Keyboard:*** MRI <br>
+<a href="https://www.nature.com/articles/s41597-019-0338-5"> ![paper](src/paper.png)</a>
+
 - <a href="https://mindboggle.info/data.html"> **Mindboggle**</a>  <br>
 Manually labeled human brain image data. <br>
 ***Keyboard:*** MRI, Labeled <br>
