@@ -164,6 +164,11 @@ Nearly 700 adults were scanned using structural Magnetic Resonance Imaging, func
 ***Keyboard:*** lifespan, MRI, fMRI, MEG <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S1053811915008150"> ![paper](src/paper.png)</a> | <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4219118"> ![paper](src/paper.png)</a>
 
+- <a href="http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network"> **CMI-HBN**</a> (Child Mind Institute Healthy Brain Network) <br>
+Data from 10,000 children and adolescents (ages 5-21). <br>
+***Keyboard:*** Neuroimaging, MRI, EEG <br>
+<a href="https://www.nature.com/articles/sdata2017181"> ![paper](src/paper.png) Data Descriptor</a> 
+
 - <a href="http://headctstudy.qure.ai"> **CQ500**</a> <br>
 A dataset of 491 scans with 193,317 slices <br>
 ***Keyboard:*** CT Scan <br>
@@ -785,6 +790,9 @@ Automatic detection of pulmonary nodules in chest <br>
 Dataset provides CT scans with detailed pulmonary airway annotation. <br>
 ***Keyboard:*** CT-scan, Labeled<br>
 <a href="https://atm22.grand-challenge.org/evaluation/validation-phase-1-live-leaderboard/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841523002177"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database"> **BSTI COVID19**</a> (British Society of Thoracic Imaging) <br>
+***Keyboard:*** CT scan <br>
 
 - <a href="https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images"> **Chest CT-Scan images**</a><br>
 CT-Scan images with different types of chest cancer <br>
