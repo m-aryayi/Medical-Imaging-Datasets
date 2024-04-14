@@ -791,6 +791,11 @@ Dataset provides CT scans with detailed pulmonary airway annotation. <br>
 ***Keyboard:*** CT-scan, Labeled<br>
 <a href="https://atm22.grand-challenge.org/evaluation/validation-phase-1-live-leaderboard/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841523002177"> ![paper](src/paper.png)</a>
 
+- <a href="https://brixia.github.io"> **BrixIA**</a><br>
+COVID19 severity score assessment project and database. <br>
+***Keyboard:*** Chest radiography (CXR), Labeled <br>
+<a href="https://www.sciencedirect.com/science/article/pii/S136184152100092X"> ![paper](src/paper.png)</a>
+
 - <a href="https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database"> **BSTI COVID19**</a> (British Society of Thoracic Imaging) <br>
 ***Keyboard:*** CT scan <br>
 
@@ -1304,6 +1309,10 @@ It is a list of magnetic resonance imaging raw k-space datasets. <br>
 A dataset purposely dedicated to the study of cell-tissue relationships for cell detection in histopathology <br>
 ***Keyboard:*** *Kidney, Head-neck, Prostate, Stomach, Endometrium, and Bladder*, Whole-slide images (WSIs) <br>
 <a href="https://ocelot2023.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2303.13110"> ![paper](src/paper.png)</a>
+
+- <a href="https://data.mendeley.com/datasets/rscbjbr9sj/2"> **OCT and Chest X-Ray images**</a><br>
+***Keyboard:*** *Eye and Chest*, OCT, X-ray, Classification, Labeled<br>
+<a href="https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5"> ![paper](src/paper.png)</a>
 
 - <a href="https://paip2021.grand-challenge.org"> **PAIP2021**</a> <br>
 Detection of Perineural Invasion in Multiple Organ Cancer <br>
