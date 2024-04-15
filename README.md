@@ -92,6 +92,10 @@ Microscopic resolution 3D model of the human brain. <br>
 Brain Tumor Detection <br>
 ***Keyboard:***  MRI, Detection, Classification, Labeled  <br>
 
+- <a href="https://www.brainsimagebank.ac.uk"> **BRAINS**</a> (Brain Images of Normal Subjects) <br>
+***Keyboard:*** MRI <br>
+<a href="https://www.sciencedirect.com/science/article/pii/S1053811916000331"> ![paper](src/paper.png)</a>
+
 - <a href="https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri"> **Brain Tumor Classification**</a> <br>
 Classify MRI images into four classes <br>
 ***Keyboard:*** MRI, Labeled <br>
@@ -168,6 +172,10 @@ Nearly 700 adults were scanned using structural Magnetic Resonance Imaging, func
 Data from 10,000 children and adolescents (ages 5-21). <br>
 ***Keyboard:*** Neuroimaging, MRI, EEG <br>
 <a href="https://www.nature.com/articles/sdata2017181"> ![paper](src/paper.png) Data Descriptor</a> 
+
+- <a href="http://fcon_1000.projects.nitrc.org/indi/retro/cobre.html"> **COBRE**</a> (Center for Biomedical Research Excellence)<br>
+functional MR data from 72 patients with Schizophrenia and 75 healthy controls (ages ranging from 18 to 65 in each group)<br>
+***Keyboard:*** fMRI <br>
 
 - <a href="http://headctstudy.qure.ai"> **CQ500**</a> <br>
 A dataset of 491 scans with 193,317 slices <br>
