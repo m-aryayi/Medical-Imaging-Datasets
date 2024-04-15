@@ -250,7 +250,7 @@ Manually labeled human brain image data. <br>
 ***Keyboard:*** MRI, Labeled <br>
 <a href="https://www.frontiersin.org/articles/10.3389/fnins.2012.00171/full"> ![paper](src/paper.png)</a>
 
-- <a href="https://mindboggle.info/data.html"> **MTOP2016**</a> (Mild Traumatic Brain Injury Outcome Prediction) <br>
+- <a href="https://www.smir.ch/MTOP/Start2016"> **MTOP2016**</a> (Mild Traumatic Brain Injury Outcome Prediction) <br>
 ***Keyboard:*** MRI, Labeled <br>
 
 - <a href="http://www.naturalscenesdataset.org"> **NSD**</a> (Natural Scenes Dataset) <br>
