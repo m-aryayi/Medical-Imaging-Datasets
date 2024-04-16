@@ -206,7 +206,7 @@ A dataset of manually segmented pathological and non-pathological fetal magnetic
 ***Keyboard:*** MRI, Labeled, Segmentation <br>
 <a href="https://www.nature.com/articles/s41597-021-00946-3"> ![paper](src/paper.png)</a>
 
-- <a href="http://fcon_1000.projects.nitrc.org/indi/CoRR/html"> **GSP**</a> (Genomics Superstruct Project) <br>
+- <a href="https://www.neuroinfo.org/gsp"> **GSP**</a> (Genomics Superstruct Project) <br>
 Personality and cognitive measures were obtained on a subset of participants. Each dataset contains a T1-weighted structural MRI scan and either one (n=1,570) or two (n=1,139) resting state functional MRI scans. <br>
 ***Keyboard:*** MRI <br>
 <a href="https://www.nature.com/articles/sdata201531"> ![paper](src/paper.png)</a>
