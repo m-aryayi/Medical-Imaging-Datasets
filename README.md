@@ -71,7 +71,7 @@ This data set consists of 136 subjects <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S105381191500347X"> ![paper](src/paper.png)</a>
 
 - <a href="https://nilab-uva.github.io/AOMIC.github.io"> **AOMIC**</a> (the Amsterdam Open MRI Collection) <br>
-It is a collection of three datasets with multimodal (3T) MRI data
+It is a collection of three datasets with multimodal (3T) MRI data <br>
 ***Keyboard:*** MRI <br>
 <a href="https://www.nature.com/articles/s41597-021-00870-6"> ![paper](src/paper.png) Dataset is described </a>
 
