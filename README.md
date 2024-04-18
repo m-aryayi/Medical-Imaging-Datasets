@@ -260,6 +260,11 @@ Manually labeled human brain image data. <br>
 ***Keyboard:*** MRI, Labeled <br>
 <a href="https://www.frontiersin.org/articles/10.3389/fnins.2012.00171/full"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.ucl.ac.uk/drc/research-clinical-trials/minimal-interval-resonance-imaging-alzheimers-disease-miriad"> **MIRIAD**</a> (Minimal Interval Resonance Imaging in Alzheimer's Disease) <br>
+Dataset is a series of longitudinal volumetric T1 MRI scans of 46 mild–moderate Alzheimer's subjects and 23 controls. <br>
+***Keyboard:*** Alzheimer's disease (AD), MRI <br>
+<a href="https://www.sciencedirect.com/science/article/pii/S105381191201230X"> ![paper](src/paper.png) Overview </a>
+
 - <a href="https://www.nitrc.org/projects/multimodal"> **MMRR**</a> (Multi-Modal MRI Reproducibility Resource)<br>
 Scan-rescan imaging sessions on 21 healthy volunteers. <br>
 ***Keyboard:*** MRI, resting state fMRI <br>
