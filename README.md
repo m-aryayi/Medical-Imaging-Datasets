@@ -206,6 +206,11 @@ A dataset of manually segmented pathological and non-pathological fetal magnetic
 ***Keyboard:*** MRI, Labeled, Segmentation <br>
 <a href="https://www.nature.com/articles/s41597-021-00946-3"> ![paper](src/paper.png)</a>
 
+- <a href="https://zenodo.org/records/1206163"> **Gray matter segmentation at 7T MRI**</a> <br>
+The dataset consist of 7 Tesla MRI anatomical images of living human brains and hand labeled cortical gray matter images. <br>
+***Keyboard:*** High field MRI, Labeled, Segmentation <br>
+<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0198335"> ![paper](src/paper.png)</a>
+
 - <a href="https://www.neuroinfo.org/gsp"> **GSP**</a> (Genomics Superstruct Project) <br>
 Personality and cognitive measures were obtained on a subset of participants. Each dataset contains a T1-weighted structural MRI scan and either one (n=1,570) or two (n=1,139) resting state functional MRI scans. <br>
 ***Keyboard:*** MRI <br>
@@ -1048,6 +1053,11 @@ ______
 Intervertebral Disc Localization and Segmentation from 3D Multi-modality MR (M3) Images <br>
 ***Keyboard:*** MRI <br>
 <a href="https://ivdm3seg.weebly.com/results.html"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://github.com/kc-santosh/medical-imaging-datasets"> **Fractured Limbs**</a><br>
+5684 CT images (upper limbs: 2057 and lower limbs: 3627) to understand bone injurie. <br>
+***Keyboard:*** CT scan, Labeled <br>
+<a href="https://link.springer.com/article/10.1007/s10916-021-01724-9"> ![paper](src/paper.png)</a>
 
 - <a href="https://stanfordmlgroup.github.io/competitions/mura"> **MURA**</a> (MUsculoskeletal RAdiographs) <br>
 Large Dataset for Abnormality Detection in Musculoskeletal Radiographs <br>
