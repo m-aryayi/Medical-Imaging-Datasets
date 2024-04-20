@@ -338,8 +338,8 @@ Part of the <a href="http://www.developingconnectome.org"> dHCP</a> (Developing 
 <a href="https://slcn.grand-challenge.org/evaluation/preliminary-phase/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
 - <a href="https://www.studyforrest.org"> **StudyForrest**</a> <br>
-A Collection of datasets
-<a href="https://www.studyforrest.org/publications.html"> ![paper](src/paper.png)</a>
+A Collection of datasets <br>
+<a href="https://www.studyforrest.org/publications.html"> ![paper](src/paper.png) List of publications</a>
 
 - <a href="https://surfer.nmr.mgh.harvard.edu/docs/synthstrip"> **SynthStrip**</a> <br>
 ***Keyboard:*** Multi-modality, Labeled, Segmentation <br>
