@@ -16,7 +16,7 @@ plt.rcParams['text.color']='#333F4B'
 
 
 data = {
-       'Brain': 68,
+       'Brain': 69,
        'Ears, Nose, Teeth, and Throat': 5, 
        'Eyes': 23,
        'Bowel': 6,
@@ -30,7 +30,7 @@ data = {
        'Female Reproductive Organs': 11,
        'Male Reproductive Organs': 7,
        'Lymph Nodes': 6,
-       'Skin': 4,
+       'Skin': 5,
        'Multi Organs Datasets' : 23
 }
 
