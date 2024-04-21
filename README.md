@@ -345,6 +345,11 @@ A Collection of datasets <br>
 ***Keyboard:*** Multi-modality, Labeled, Segmentation <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S1053811922005900"> ![paper](src/paper.png)</a>
 
+- <a href="http://hiresmri.ovgu.de"> **T1-weighted with 250 μm resolution**</a><br>
+T1-weighted in vivo human whole brain MRI dataset with an ultrahigh isotropic resolution of 250 μm.<br>
+***Keyboard:*** MRI, High field MRI<br>
+<a href="https://www.nature.com/articles/sdata201732"> ![paper](src/paper.png)</a>
+
 - <a href="https://topcow23.grand-challenge.org"> **TopCoW**</a> <br>
 Topology-Aware Anatomical Segmentation of the Circle of Willis <br>
 ***Keyboard:*** Magnetic Resonance Angiography (MRA) and Computed Tomography Angiography (CTA) <br>
@@ -1276,6 +1281,10 @@ It has multi versions. <br>
 The database contains a total of 200 dermoscopic images of melanocytic lesions <br>
 ***Keyboard:*** Classification, Segmentation, Dermoscopic images, Labeled <br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/24110966"> ![paper](src/paper.png)</a>
+
+- <a href="https://uwaterloo.ca/vision-image-processing-lab/research-demos/skin-cancer-detection"> **Skin Cancer Detection**</a><br>
+This includes images extracted from the public databases DermIS and DermQuest, along with manual segmentations of the lesions. <br>
+***Keyboard:*** Segmentation, Cancer<br>
 
 
 
