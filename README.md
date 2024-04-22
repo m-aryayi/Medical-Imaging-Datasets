@@ -649,6 +649,11 @@ RIDER is a targeted data collection used to generate an initial consensus on how
 ***Keyboard:***  H&E Whole-Slide Images (WSI), Cancer, Detecion, Segmentation <br>
 <a href="https://tiger.grand-challenge.org/evaluation/segmentation-and-detection-public-test/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://tupac.grand-challenge.org"> **TUPAC**</a> (Tumor Proliferation Assessment Challenge) <br>
+The dataset consisted of 500 training and 321 testing breast cancer histopathology WSIs. <br>
+***Keyboard:***  Whole-Slide Images, Cancer <br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/30861443"> ![paper](src/paper.png)</a>
+
 
 
 
@@ -1262,6 +1267,10 @@ Image classification dataset consists of 327.680 color images extracted from his
 
 
 ### Skin
+
+- <a href="https://licensing.edinburgh-innovations.ed.ac.uk/product/dermofit-image-library"> **Dermofit Image Library**</a><br>
+1300 High quality skin lesion images. <br>
+***Keyboard:*** Segmentation, Labeled<br>
 
 - <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T"> **HAM10000**</a> <br>
 A collection of multi-source dermatoscopic images of common pigmented skin lesions <br>
