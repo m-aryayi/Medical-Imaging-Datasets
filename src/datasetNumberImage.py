@@ -1,3 +1,15 @@
+'''
+This code is for plotting the image of the number
+of datasets in the readme file.
+The main code is from the reference below, but I 
+added some features and personalized it.
+
+Simone Centellegher - 
+https://scentellegher.github.io/visualization/2018/10/10/beautiful-bar-plots-matplotlib.html
+(Access: 22/04/2024)
+'''
+
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
