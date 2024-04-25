@@ -302,6 +302,11 @@ It has multi versions. <br>
 ***Keyboard:*** Multi modality, Neuroimaging <br>
 <a href="https://direct.mit.edu/jocn/article-abstract/19/9/1498/4427/Open-Access-Series-of-Imaging-Studies-OASIS-Cross">![paper](src/paper.png)</a> | <a href="https://direct.mit.edu/jocn/article/22/12/2677/4983/Open-Access-Series-of-Imaging-Studies-Longitudinal"> ![paper](src/paper.png)</a> | <a href="https://www.medrxiv.org/content/10.1101/2019.12.13.19014902v1"> ![paper](src/paper.png)</a> | <a href="https://www.sciencedirect.com/science/article/pii/S2213158220300851"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.nitrc.org/projects/ping"> **PING**</a> (Pediatric Imaging, Neurocognition, and Genetics)<br>
+The study includes 1400 children between the ages of 3 and 20 years so that links between genetic variation and developing patterns of brain connectivity can be examined. <br>
+***Keyboard:*** MRI<br>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4628902"> ![paper](src/paper.png)</a>
+
 - <a href="https://f1000research.com/articles/6-93/v2"> **Prenatal brain**</a><br>
 It was collected from three traveling subjects with identical acquisition setting in ten imaging centers. <br>
 ***Keyboard:*** fetal MRI, Segmentation <br>
@@ -429,6 +434,10 @@ Surgical tool detection in 50 videos of cataract surgeries<br>
 A ultra-wide optical coherence tomography angiography (UW-OCTA) dataset addressing three primary clinical tasks: DR lesion segmentation, image quality assessment, and DR grading.<br>
 ***Keyboard:*** Diabetic retinopathy, Segmentation, Classification<br>
 <a href="https://drac22.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2304.02389"> ![paper](src/paper.png)</a> | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4593632"> ![paper](src/paper.png)</a>
+
+- <a href="https://ipg.fer.hr/ipg/resources/image_database"> **DRiDB**</a> (Diabetic Retinopathy Image Dataset)<br>
+***Keyboard:*** Fundus Images, Diabetic retinopathy<br>
+<a href="https://ieeexplore.ieee.org/document/6703830"> ![paper](src/paper.png)</a>
 
 - <a href="https://drive.grand-challenge.org"> **DRIVE**</a> (Digital Retinal Images for Vessel Extraction) <br>
 ***Keyboard:*** Retinal, Segmentation <br>
