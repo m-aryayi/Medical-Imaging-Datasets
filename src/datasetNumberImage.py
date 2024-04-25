@@ -1,6 +1,7 @@
 '''
 This code is for plotting the image of the number
 of datasets in the readme file.
+
 The main code is from the reference below, but I 
 added some features and personalized it.
 
@@ -28,9 +29,9 @@ plt.rcParams['text.color']='#333F4B'
 
 
 data = {
-       'Brain': 71,
+       'Brain': 72,
        'Ears, Nose, Teeth, and Throat': 5, 
-       'Eyes': 24,
+       'Eyes': 25,
        'Bowel': 6,
        'Breast': 26,
        'Heart and Blood Vessels': 22, 
