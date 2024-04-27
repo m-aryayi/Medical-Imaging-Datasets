@@ -60,7 +60,10 @@ range_y=list(range(1,len(df.index)+1))
 
 plt.hlines(y=range_y, xmin=0, xmax=df['number'], color='#0080ff', alpha=0.2, linewidth=5)
 plt.plot(df['number'], range_y, "o", markersize=5, color='#0080ff', alpha=0.6)
-    
+for y, x in enumerate(df['number']):
+    # plt.annotate(str(x), xy=(x+1, y+1) ,va='center')
+    plt.text(x+1, y+0.8, str(x), color = '#0080ff')
+
 # set labels
 ax.set_xlabel('Number', fontsize=15, fontweight='black', color = '#333F4B')
 ax.set_ylabel('')
