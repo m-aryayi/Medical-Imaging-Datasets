@@ -1335,10 +1335,20 @@ ______
 ## Multi Organs Datasets
 
 
+- <a href="https://github.com/MrGiovanni/AbdomenAtlas"> **AbdomenAtlas**</a> <br>
+8,448 CT volumes, totaling 3.2 million CT slices. <br>
+***Keyboard:*** *Spleen, liver, kidneys, stomach, gallbladder, pancreas, aorta, and IVC*, CT Scan, Segmentation, Labeled <br>
+<a href="https://arxiv.org/abs/2305.09666"> ![paper](src/paper.png)</a>
+
 - <a href="https://abdomenct-1k-fully-supervised-learning.grand-challenge.org"> **AbdomenCT-1K**</a> <br>
 The dataset with more than 1000 (1K) abdominal organ scans. <br>
 ***Keyboard:*** *liver, kidney, spleen, and pancreas*, CT Scan, Segmentation, Labeled <br>
 <a href="https://arxiv.org/abs/2010.14808"> ![paper](src/paper.png)</a>
+
+ - <a href="https://www.kaggle.com/datasets/ignaciorlando/ussimandsegm"> **Abdominal ultrasound simulation scans**</a> <br>
+The scans were acquired from 11 subjects without any abdominal pathology or known disease. <br>
+***Keyboard:*** *Liver, kidney, pancreas, vessels, adrenals, 
+ gallbladder, bones, spleen*, Ultrasound (US) imaging, Segmentation, Labeled <br>
 
 - <a href="https://zenodo.org/records/7155725#.Y0OOCOxBztM"> **AMOS**</a> <br>
 A large-scale abdominal multi-organ benchmark for versatile medical image segmentation <br>
