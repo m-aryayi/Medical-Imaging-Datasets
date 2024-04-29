@@ -888,6 +888,10 @@ COVID19 severity score assessment project and database. <br>
 - <a href="https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database"> **BSTI COVID19**</a> (British Society of Thoracic Imaging) <br>
 ***Keyboard:*** CT scan <br>
 
+- <a href="https://auckland.figshare.com/articles/dataset/CANDID-PTX/14173982"> **CANDID-PTX**</a><br>
+19,237 anonymized adult chest x-ray datasets in 1024 x 1024 pixel <br>
+***Keyboard:*** X-ray, Segmentation, Labeled<br>
+
 - <a href="https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images"> **Chest CT-Scan images**</a><br>
 CT-Scan images with different types of chest cancer <br>
 ***Keyboard:*** CT-scan, Labeled<br>
@@ -895,6 +899,10 @@ CT-Scan images with different types of chest cancer <br>
 - <a href="https://cxr-covid19.grand-challenge.org"> **Chest XR COVID-19 detection**</a> <br>
 The dataset contains 20,000+ images and 3 classes: COVID-19, Pneumonia and Normal (healthy). <br>
 ***Keyboard:*** X-ray, Labeled <br>
+
+- <a href="https://github.com/Deepwise-AILab/ChestX-Det-Dataset"> **ChestX-Det**</a> <br>
+It consists of 3578 images from NIH ChestX-14 <br>
+***Keyboard:*** X-ray, Segmentation, Labeled <br>
 
 - <a href="https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community"> **ChestX-ray8**</a> (ChestXray-NIHCC) <br>
 100,000 anonymized chest x-ray images <br>
