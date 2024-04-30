@@ -913,6 +913,16 @@ It consists of 3578 images from NIH ChestX-14 <br>
 It is a dataset which comprises 112,120 frontal-view X-ray images of 30,805  unique patients with the text-mined fourteen common disease labels, mined from the text radiological reports via NLP techniques. It expands on ChestX-ray8 by adding six additional thorax diseases. <br>
 ***Keyboard:*** X-ray, Labeled <br>
 
+- <a href="https://stanfordaimi.azurewebsites.net/datasets/23c56a0d-15de-405b-87c8-99c30138950c"> **CheXlocalize**</a><br>
+234 images with 643 expert segmentations.<br>
+***Keyboard:*** X-ray, Labeled<br>
+<a href="https://www.nature.com/articles/s42256-022-00536-x"> ![paper](src/paper.png)</a>
+
+- <a href="https://physionet.org/content/chexmask-cxr-segmentation-data"> **CheXmask**</a><br>
+The database aggregates 657,566 anatomical segmentation masks from five public databases.<br>
+***Keyboard:*** X-ray, Labeled<br>
+<a href="https://arxiv.org/abs/2307.03293"> ![paper](src/paper.png)</a>
+
 - <a href="https://stanfordmlgroup.github.io/competitions/chexpert/"> **CheXpert**</a> <br>
 A Large Chest X-Ray Dataset. <br>
 ***Keyboard:*** X-ray, Labeled <br>
