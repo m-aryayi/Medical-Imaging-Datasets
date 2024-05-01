@@ -383,6 +383,11 @@ Topology-Aware Anatomical Segmentation of the Circle of Willis <br>
 
 ### Ears, Nose, Teeth, and Throat
 
+- <a href="https://github.com/liangjiubujiu/CTooth"> **CTooth**</a> <br>
+The gathered data set consists of 5803 CBCT slices in total, out of which 4243 contain tooth annotations.<br>
+***Keyboard:*** 3D dental CBCT, Segmentation, Labeled <br>
+<a href="https://arxiv.org/abs/2208.01643"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/2206.08778"> ![paper](src/paper.png)</a>
+
 - <a href="https://dentex.grand-challenge.org"> **DENTEX**</a> <br>
 Dental Enumeration and Diagnosis on Panoramic X-rays <br>
 ***Keyboard:*** X-rays, Labeled <br>
@@ -977,6 +982,9 @@ The dataset contains volumetric chest CT scans of 169 patients positive for COVI
 The dataset contains 63849 images from 377 patients <br>
 ***Keyboard:*** CT scan, Labeled <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S1746809421001853"> ![paper](src/paper.png) Desription of the Dataset</a>
+
+- <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6ACUZJ"> **COVID19-CT**</a><br>
+An Chest CT Image Repository of 1000+ Patients with Confirmed COVID-19 Diagnosis <br>
 
 - <a href="https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md"> **COVIDx**</a> <br>
 It is a collection of 8 datasets <br>
