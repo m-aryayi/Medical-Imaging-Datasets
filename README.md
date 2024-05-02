@@ -999,6 +999,15 @@ Automatic segmentation of anatomical structures in chest radiographs <br>
 A dataset from 632 patients with COVID-19 infections at initial point of care, and a dataset of 121 CTs from 29 patients with COVID-19 infections with serial / sequential CTs. <br>
 <a href="https://www.nature.com/articles/s41467-020-17971-2"> ![paper](src/paper.png) A classification model derived</a> 
 
+- <a href="https://huggingface.co/datasets/ibrahimhamamci/CT-RATE"> **CT-RATE**</a> <br>
+The 3D medical imaging dataset that pairs images with textual reports. <br>
+***Keyboard:*** CT scan, Labeled <br>
+<a href="https://arxiv.org/abs/2403.17834"> ![paper](src/paper.png)</a>
+
+- <a href="https://physionet.org/content/chest-x-ray-segmentation"> **CXLSeg**</a> <br>
+Segmented Chest X-ray radiographs based on the MIMIC-CXR dataset. <br>
+***Keyboard:*** Segmentation <br>
+
 - <a href="https://veet.via.cornell.edu/lungdb.html"> **ELCAP**</a> (Early Lung Cancer Action Program) <br>
 The database currently consists of an image set of 50 low-dose documented whole-lung CT scans for detection. <br>
 ***Keyboard:*** CT scan, Nodules, Labeled <br>
