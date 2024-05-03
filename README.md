@@ -817,6 +817,12 @@ Multi-Structure Segmentation for Renal Cancer Treatment <br>
 - <a href="https://kits-challenge.org/kits23"> **KiTS23**</a> (Kidney Tumor Segmentation 2023) <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
 
+- <a href="https://rodare.hzdr.de/record/2473"> **Urinary tract infections**</a><br>
+A dataset containing 300 images and 3,562 manually annotated urinary cells labelled into seven classes of clinically significant urinary content. <br>
+***Keyboard:*** Segmentation , Labeled <br>
+<a href="https://www.nature.com/articles/s41597-024-02975-0"> ![paper](src/paper.png)</a>
+
+
 
 ### Liver
 
@@ -1344,6 +1350,11 @@ Image classification dataset consists of 327.680 color images extracted from his
 
 
 ### Skin
+
+- <a href="https://ddi-dataset.github.io"> **DDI**</a> (Diverse Dermatology Images)<br>
+A biopsy-proven skin disease dataset with diverse skin tone representation. <br>
+***Keyboard:*** Labeled <br>
+<a href="https://www.science.org/doi/full/10.1126/sciadv.abq6147"> ![paper](src/paper.png)</a>
 
 - <a href="https://licensing.edinburgh-innovations.ed.ac.uk/product/dermofit-image-library"> **Dermofit Image Library**</a><br>
 1300 High quality skin lesion images. <br>
