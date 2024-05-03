@@ -388,6 +388,10 @@ The gathered data set consists of 5803 CBCT slices in total, out of which 4243 c
 ***Keyboard:*** 3D dental CBCT, Segmentation, Labeled <br>
 <a href="https://arxiv.org/abs/2208.01643"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/2206.08778"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.kaggle.com/datasets/dasmehdixtr/ddti-thyroid-ultrasound-images"> **DDTI**</a> <br>
+Thyroid Ultrasound Images to Classify Benign&Malign Cases.<br>
+***Keyboard:*** Labeled <br>
+
 - <a href="https://dentex.grand-challenge.org"> **DENTEX**</a> <br>
 Dental Enumeration and Diagnosis on Panoramic X-rays <br>
 ***Keyboard:*** X-rays, Labeled <br>
@@ -1013,6 +1017,11 @@ The 3D medical imaging dataset that pairs images with textual reports. <br>
 - <a href="https://physionet.org/content/chest-x-ray-segmentation"> **CXLSeg**</a> <br>
 Segmented Chest X-ray radiographs based on the MIMIC-CXR dataset. <br>
 ***Keyboard:*** Segmentation <br>
+
+- <a href="https://med.emory.edu/departments/radiation-oncology/research-laboratories/deformable-image-registration/index.html"> **DIR-Lab**</a> (Deformable Image Registration Laboratory)<br>
+Thoracic 4DCT images. Inspiratory and expiratory breath-hold CT image pairs. <br>
+***Keyboard:*** CT scan, Labeled <br>
+<a href="https://med.emory.edu/departments/radiation-oncology/research-laboratories/deformable-image-registration/publications.html"> ![paper](src/paper.png)</a>
 
 - <a href="https://veet.via.cornell.edu/lungdb.html"> **ELCAP**</a> (Early Lung Cancer Action Program) <br>
 The database currently consists of an image set of 50 low-dose documented whole-lung CT scans for detection. <br>
