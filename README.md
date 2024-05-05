@@ -292,6 +292,10 @@ Scan-rescan imaging sessions on 21 healthy volunteers. <br>
 - <a href="https://www.smir.ch/MTOP/Start2016"> **MTOP2016**</a> (Mild Traumatic Brain Injury Outcome Prediction) <br>
 ***Keyboard:*** MRI, Labeled <br>
 
+- <a href="http://fcon_1000.projects.nitrc.org/indi/retro/Narratives.html"> **Narratives**</a><br>
+fMRI data for evaluating models of naturalistic language comprehension. <br>
+***Keyboard:*** fMRI, Labeled <br>
+
 - <a href="https://openneuro.org/datasets/ds001021"> **NKI-RS**</a> (Nathan Kline Institute-Rockland Sample)<br>
 NKI-RS is an ongoing, institutionally centered endeavor aimed at creating a large-scale (N > 1000), deeply phenotyped, community-ascertained, lifespan sample (ages 6–85 years old) with advanced neuroimaging and genetics. <br>
 ***Keyboard:*** MRI<br>
@@ -1257,6 +1261,11 @@ A Cervical Cytology Dataset for Nucleus Detection and Image Classification and M
 - <a href="https://zenodo.org/records/7372187"> **ENDO-AID**</a> <br>
 The dataset consists of 91 digital pathology whole-slide images (WSI) of endometrium carcinoma Pipelle biopsies, stained with hematoxylin and eosin (H&E). <br>
 ***Keyboard:*** Whole-slide images (WSI), Cancer <br>
+
+- <a href="https://www.ucl.ac.uk/interventional-surgical-sciences/weiss-open-research/weiss-open-data-server/fetoscopy-placenta-data"> **Fetoscopy Placenta**</a> <br>
+The dataset contains 483 frames with ground-truth vessel segmentation annotations taken from six different in vivo fetoscopic procedure videos. <br>
+***Keyboard:*** Segmentation, Labeled <br>
+<a href="https://arxiv.org/abs/2007.04349"> ![paper](src/paper.png)</a>
 
 - <a href="https://hc18.grand-challenge.org"> **HC18**</a> <br>
 Measurement of fetal head circumference (HC)<br>
