@@ -230,6 +230,15 @@ Personality and cognitive measures were obtained on a subset of participants. Ea
 ***Keyboard:*** MRI <br>
 <a href="https://www.nature.com/articles/sdata201531"> ![paper](src/paper.png)</a>
 
+- <a href="http://www.humanconnectomeproject.org"> **HCP**</a> (Human Connectome Project)<br>
+***Keyboard:*** MRI<br>
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.1647"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.kaggle.com/datasets/andrewmvd/hippocampus-segmentation-in-mri-images"> **Hippocampus Segmentation**</a><br>
+This dataset contains T1-weighted MR images of 50 subjects, 40 of whom are patients with temporal lobe epilepsy and 10 are nonepileptic subjects. <br>
+***Keyboard:*** MRI, Labeled <br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/21286946"> ![paper](src/paper.png)</a>
+
 - <a href="https://www.nitrc.org/projects/ibsr/"> **IBSR**</a> (Internet Brain Segmentation Repository)  <br>
 Manually-guided expert segmentation results along with magnetic resonance brain image data  <br>
 ***Keyboard:*** MRI, Labeled  <br>
