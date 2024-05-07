@@ -1218,6 +1218,11 @@ A lumbar spine MR dataset with reference segmentations of vertebrae, interverteb
 
 ### Joints
 
+- <a href="https://data.mendeley.com/datasets/jf3pv98m9g/2"> **DDH x-ray images**</a> <br>
+The hip X-ray images (in anteroposterior view) including 354 subjects (120 DDH, 234 normal)<br>
+***Keyboard:*** Developmental dysplasia of the hip (DDH), Labeled<br>
+<a href="https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-022-01957-9"> ![paper](src/paper.png)</a>
+
 - <a href="https://k2s.grand-challenge.org"> **K2S**</a> <br>
 A dataset of high-resolution 3D knee MRI including raw k-space data and post-processing annotations with masks for tissue segmentation. <br>
 ***Keyboard:*** MRI, Labeled<br>
@@ -1237,7 +1242,11 @@ The dataset consists of 917 12-bit grayscale volumes of either left or right kne
 - <a href="https://stanfordmlgroup.github.io/competitions/mrnet"> **MRNet**</a> <br>
 Diagnosis of abnormalities from Knee MRs <br>
 ***Keyboard:*** MRI, Labeled<br>
-<a href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002699"> ![paper](src/paper.png)</a> 
+<a href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002699"> ![paper](src/paper.png)</a>
+
+- <a href="https://data.mendeley.com/datasets/zm6bxzhmfz/1"> **X-ray images of the hip joints**</a> <br>
+A dataset consisting of x-ray examinations of the lower legs performed as part of routine medical service. <br>
+
 
 <!---
 ### Muscles
