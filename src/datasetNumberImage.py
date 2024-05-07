@@ -39,7 +39,7 @@ data = {
        'Liver': 9, 
        'Lungs': 63,
        'Bones': 9, 
-       'Joints': 5, 
+       'Joints': 7, 
        'Female Reproductive Organs': 12,
        'Male Reproductive Organs': 7,
        'Lymph Nodes': 6,
