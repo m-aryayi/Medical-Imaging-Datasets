@@ -29,9 +29,9 @@ plt.rcParams['text.color']='#333F4B'
 
 
 data = {
-       'Brain': 77,
+       'Brain': 79,
        'Ears, Nose, Teeth, and Throat': 7, 
-       'Eyes': 25,
+       'Eyes': 27,
        'Bowel': 6,
        'Breast': 27,
        'Heart and Blood Vessels': 22, 
