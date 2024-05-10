@@ -662,6 +662,9 @@ The DDSM is a database of 2,620 scanned film mammography studies. It contains no
 ***Keyboard:***  Cancer, Labeled <br>
 <a href="https://www.nature.com/articles/sdata2017177"> ![paper](src/paper.png)</a>
 
+- <a href="https://visual.ic.uff.br/dmi"> **DMR-IR**</a><br>
+***Keyboard:*** Cancer, Thermography image<br>
+
 - <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70226903"> **Duke Breast Cancer MRI**</a> <br>
 Dynamic contrast-enhanced magnetic resonance images of breast cancer patients with tumor locations. <br>
 ***Keyboard:*** Cancer, Labeled <br>
@@ -994,6 +997,10 @@ Chest Imaging with Clinical and Genomic Correlates Representing a Rural COVID-19
 The dataset contains 20 labeled COVID-19 CT scans <br>
 ***Keyboard:*** Segmentation <br>
 
+- <a href="https://covid-segmentation.grand-challenge.org"> **COVID-19 CT scans**</a><br>
+20 CT scans and expert segmentations of patients with COVID-19<br>
+***Keyboard:*** Labeled<br>
+
 - <a href="https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset"> **Covid-19 Image**</a> <br>
 3 Way Classification - COVID-19, Viral Pneumonia, Normal <br>
 ***Keyboard:*** X ray, Labeled <br>
@@ -1167,6 +1174,10 @@ Detect and characterize instances of pulmonary embolism (PE) on chest CT studies
 ***Keyboard:*** CT scan, Labeled <br>
 <a href="https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/33937862"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset"> **SARS-CoV-2 CT-scan**</a><br>
+Containing 1252 CT scans that are positive for SARS-CoV-2 infection (COVID-19) and 1230 CT scans for patients non-infected by SARS-CoV-2, 2482 CT scans in total <br>
+<a href="https://www.medrxiv.org/content/10.1101/2020.04.24.20078584v3"> ![paper](src/paper.png)</a>
+
 - <a href="http://www.via.cornell.edu/databases/simbadb.html"> **SIMBA**</a> <br>
 Chest Health Analysis System Public Lung Image Database.<br>
 ***Keyboard:*** CT scan, Labeled <br>
@@ -1244,6 +1255,10 @@ A lumbar spine MR dataset with reference segmentations of vertebrae, interverteb
 - <a href="https://github.com/anjany/verse"> **VerSe**</a> <br> Large Scale Vertebrae Segmentation <br>
 ***Keyboard:*** CT scan, Segmentation <br>
 <a href="https://verse2019.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841521002127"> ![paper](src/paper.png)</a> | <a href="https://pubs.rsna.org/doi/10.1148/ryai.2020190138"> ![paper](src/paper.png)</a>
+
+- <a href="https://lit.fe.uni-lj.si/xVertSeg/overview.php"> **xVertSeg**</a> <br>
+Classify and segment vertebrae from the spine images that include fractured and non-fractured cases <br>
+***Keyboard:*** CT scan, Segmentation, Classification <br>
 
 
 ### Joints
