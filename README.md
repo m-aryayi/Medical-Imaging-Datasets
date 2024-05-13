@@ -80,6 +80,11 @@ A larger dataset of T1w MRIs and manually segmented lesion masks <br>
 ***Keyboard:***  MRI, Segmentation, Labeled  <br>
 <a href="https://atlas.grand-challenge.org/evaluation/lesion-segmentation-hidden-test-set/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.nature.com/articles/s41597-022-01401-7"> ![paper](src/paper.png)</a>
 
+- <a href="https://github.com/White65534/BHSD"> **BHSD**</a> (Brain Hemorrhage Segmentation Dataset)<br>
+A 3D multi-class ICH dataset containing 192 volumes with pixel-level annotations and 2200 volumes with slice-level annotations across five categories of ICH.<br>
+***Keyboard:*** Intracranial hemorrhage (ICH), CT scan, Labeled<br>
+<a href="https://arxiv.org/abs/2308.11298"> ![paper](src/paper.png)</a>
+
 - <a href="https://bigbrain.loris.ca/main.php"> **BigBrain**</a> <br>
 Microscopic resolution 3D model of the human brain. <br>
 ***Keyboard:*** X-ray, Labeled <br>
@@ -287,6 +292,11 @@ Longitudinal Brain Correlates of Multisensory Lexical Processing in Children. <b
 A multi-contrast, multi-repetition, multi-channel MRI k-space dataset for low-field MRI research. <br>
 ***Keyboard:*** 0.3 Tesla MRI <br>
 <a href="https://www.nature.com/articles/s41597-023-02181-4"> ![paper](src/paper.png)</a>
+
+- <a href="https://openneuro.org/datasets/ds000239"> **Maclaren test-retest brain volume**</a><br>
+The dataset comprises three participants, each of whom was scanned 40 times.<br>
+***Keyboard:*** MRI<br>
+<a href="https://www.nature.com/articles/sdata201437"> ![paper](src/paper.png)</a>
 
 - <a href="https://www.massive-data.org/massive-data"> **MASSIVE**</a> (Multiple Acquisitions for Standardization of Structural Imaging Validation and Evaluation)<br>
 The database consist of 8000 diffusion-weighted volumes and ten 3D FLAIR, T1-, and T2-weighted datasets of a single healthy subject. <br>
