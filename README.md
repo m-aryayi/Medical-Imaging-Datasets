@@ -903,7 +903,7 @@ Multi-Structure Segmentation for Renal Cancer Treatment <br>
 - <a href="https://kits-challenge.org/kits23"> **KiTS23**</a> (Kidney Tumor Segmentation 2023) <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
 
-- <a href="https://www.cancerimagingarchive.net/collection/tcga-kirp;8"> **TCGA-KIRP**</a> (The Cancer Genome Atlas Cervical KIdney Renal Papillary cell carcinoma)<br>
+- <a href="https://www.cancerimagingarchive.net/collection/tcga-kirp"> **TCGA-KIRP**</a> (The Cancer Genome Atlas Cervical KIdney Renal Papillary cell carcinoma)<br>
 Data from 33 subjects.<br>
 ***Keyboard:*** Multi-modality<br>
 
