@@ -955,9 +955,9 @@ The dataset is part of the training data from the "VISCERAL Organ Segmentation a
 ***Keyboard:*** 3D CT scan <br>
 <a href="https://sliver07.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/4781564?isnumber=5175685&arnumber=4781564&count=18&index=11"> ![paper](src/paper.png)</a>
 
-- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=6885436"> **TCGA-LIHC**</a> (The Cancer Genome Atlas Liver Hepatocellular Carcinoma) <br>
+- <a href="https://www.cancerimagingarchive.net/collection/tcga-lihc"> **TCGA-LIHC**</a> (The Cancer Genome Atlas Liver Hepatocellular Carcinoma) <br>
 It has used in <a href='https://zenodo.org/records/8179129'> LiverHccSeg </a> <br>
-***Keyboard:*** MRI, Cancer <br>
+***Keyboard:*** MRI, CT scan, Cancer <br>
 
 
 
@@ -1242,7 +1242,7 @@ Study of Thoracic CT in COVID-19 <br>
 ***Keyboard:*** CT scan <br>
 <a href="https://stoic2021.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubs.rsna.org/doi/10.1148/radiol.2021210384"> ![paper](src/paper.png)</a>
 
-- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=6881474"> **TCGA-LUAD**</a> (The Cancer Genome Atlas Lung Adenocarcinoma) <br>
+- <a href="https://www.cancerimagingarchive.net/collection/tcga-luad"> **TCGA-LUAD**</a> (The Cancer Genome Atlas Lung Adenocarcinoma) <br>
 Data from 69 Participants <br>
 ***Keyboard:*** Multi-modality <br>
 
