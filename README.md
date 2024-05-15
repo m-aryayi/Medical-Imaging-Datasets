@@ -80,6 +80,10 @@ A larger dataset of T1w MRIs and manually segmented lesion masks <br>
 ***Keyboard:***  MRI, Segmentation, Labeled  <br>
 <a href="https://atlas.grand-challenge.org/evaluation/lesion-segmentation-hidden-test-set/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.nature.com/articles/s41597-022-01401-7"> ![paper](src/paper.png)</a>
 
+- <a href="http://fcon_1000.projects.nitrc.org/indi/retro/BeijingEnhanced.html"> **Beijing Enhanced**</a><br>
+These data include 180 healthy controls from a community sample. <br>
+***Keyboard:*** resting state fMRI<br>
+
 - <a href="https://github.com/White65534/BHSD"> **BHSD**</a> (Brain Hemorrhage Segmentation Dataset)<br>
 A 3D multi-class ICH dataset containing 192 volumes with pixel-level annotations and 2200 volumes with slice-level annotations across five categories of ICH.<br>
 ***Keyboard:*** Intracranial hemorrhage (ICH), CT scan, Labeled<br>
@@ -704,6 +708,14 @@ The dataset consists of annotated, whole-slide images dataset (509), specificall
 The database has a total of 115 cases (410 images) from which 90 cases are from women with both breasts affected and 25 cases are from mastectomy patients. <br>
 ***Keyboard:*** Mammography, Cancer <br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/22078258"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.cancerimagingarchive.net/collection/ispy1"> **ISPY1 - Trial**</a> (Investigation of Serial Studies to Predict Your Therapeutic Response with Imaging and moLecular Analysis) <br>
+***Keyboard:***  MRI, Cancer, Segmentation <br>
+<a href="https://pubs.rsna.org/doi/10.1148/radiol.2015150013"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.cancerimagingarchive.net/collection/ispy2"> **ISPY2 - Trial**</a> (Investigation of Serial Studies to Predict Your Therapeutic Response with Imaging and moLecular Analysis) <br>
+***Keyboard:***  MRI, Cancer, Segmentation <br>
+<a href="https://www.nature.com/articles/s41523-020-00203-7"> ![paper](src/paper.png)</a>
 
 - <a href="https://www.kaggle.com/datasets/kmader/mias-mammography"> **MIAS**</a> <br>
 ***Keyboard:*** Mammography, Cancer, Labeled <br>
@@ -1398,6 +1410,10 @@ The repository consists of a total of 963 LBC images <br>
 - <a href="https://ps-fh-aop-2023.grand-challenge.org"> **Ps-Fh-Aop-2023**</a> (Pubic Symphysis-Fetal Head Segmentation and Angle of Progression) <br>
 ***Keyboard:*** Ultrasound imaging, Labeled <br>
 <a href="https://ps-fh-aop-2023.grand-challenge.org/evaluation/phase-two/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://www.cancerimagingarchive.net/collection/tcga-cesc"> **TCGA-CESC**</a> (The Cancer Genome Atlas Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma Collection)<br>
+Data from 54 subjects.<br>
+***Keyboard:*** MRI<br>
 
 - <a href="https://www.cs.uoi.gr/~marina/sipakmed.html"> **SIPaKMeD**</a> <br>
 The database consists of 4049 images of isolated cells that have been manually cropped from 966 cluster cell images of Pap smear slides. <br>
