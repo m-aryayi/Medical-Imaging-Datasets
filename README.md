@@ -422,6 +422,11 @@ T1-weighted in vivo human whole brain MRI dataset with an ultrahigh isotropic re
 ***Keyboard:*** MRI, High field MRI<br>
 <a href="https://www.nature.com/articles/sdata201732"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.cancerimagingarchive.net/collection/tcga-lgg"> **TCGA-LGG**</a> (The Cancer Genome Atlas Low Grade Glioma)<br>
+Data from 199 subjects.<br>
+***Keyboard:*** Multi-Modality<br>
+<a href="https://www.sciencedirect.com/science/article/pii/S0010482519301520"> ![paper](src/paper.png)</a>
+
 - <a href="https://topcow23.grand-challenge.org"> **TopCoW**</a> <br>
 Topology-Aware Anatomical Segmentation of the Circle of Willis <br>
 ***Keyboard:*** Magnetic Resonance Angiography (MRA) and Computed Tomography Angiography (CTA) <br>
@@ -627,6 +632,10 @@ Classification of molecular subtypes in colorectal cancer for whole-slide image 
 - <a href="https://2023paip.grand-challenge.org"> **PAIP2023**</a> <br>
 Tumor cellularity prediction in pancreatic cancer (supervised learning) and colon cancer (transfer learning) <br>
 <a href="https://2023paip.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://www.cancerimagingarchive.net/collection/tcga-coad"> **TCGA-COAD**</a> (The Cancer Genome Atlas Colon Adenocarcinoma)<br>
+Data from 25 subjects.<br>
+***Keyboard:*** CT scan<br>
 
 - <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=3539213"> **The National CT Colonography Trial (ACRIN 6664)**</a> <br>
 A collection contains 825 cases of CT colonography imaging with accompanying spreadsheets that provide polyp descriptions and their location within the colon segments. <br>
@@ -902,6 +911,10 @@ Multi-Structure Segmentation for Renal Cancer Treatment <br>
 
 - <a href="https://kits-challenge.org/kits23"> **KiTS23**</a> (Kidney Tumor Segmentation 2023) <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
+
+- <a href="https://www.cancerimagingarchive.net/collection/tcga-kich"> **TCGA-KICH**</a> (The Cancer Genome Atlas Kidney Chromophobe)<br>
+Data from 15 subjects.<br>
+***Keyboard:*** MRI, CT scan<br>
 
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-kirp"> **TCGA-KIRP**</a> (The Cancer Genome Atlas Cervical KIdney Renal Papillary cell carcinoma)<br>
 Data from 33 subjects.<br>
