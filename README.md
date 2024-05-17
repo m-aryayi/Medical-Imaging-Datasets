@@ -637,6 +637,10 @@ Tumor cellularity prediction in pancreatic cancer (supervised learning) and colo
 Data from 25 subjects.<br>
 ***Keyboard:*** CT scan<br>
 
+- <a href="https://www.cancerimagingarchive.net/collection/tcga-read"> **TCGA-READ**</a> (The Cancer Genome Atlas Rectum Adenocarcinoma)<br>
+Data from 3 subjects and 1,796 images.<br>
+***Keyboard:*** MRI, CT scan<br>
+
 - <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=3539213"> **The National CT Colonography Trial (ACRIN 6664)**</a> <br>
 A collection contains 825 cases of CT colonography imaging with accompanying spreadsheets that provide polyp descriptions and their location within the colon segments. <br>
 <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa0800996"> ![paper](src/paper.png)</a> 
@@ -1428,10 +1432,16 @@ The repository consists of a total of 963 LBC images <br>
 Data from 54 subjects.<br>
 ***Keyboard:*** MRI<br>
 
+- <a href="https://www.cancerimagingarchive.net/collection/tcga-ov"> **TCGA-OV**</a> (The Cancer Genome Atlas Ovarian Cancer)<br>
+Data from 143 subjects and 53,662 images.<br>
+***Keyboard:*** Ovary, MRI, CT scan<br>
+
 - <a href="https://www.cs.uoi.gr/~marina/sipakmed.html"> **SIPaKMeD**</a> <br>
 The database consists of 4049 images of isolated cells that have been manually cropped from 966 cluster cell images of Pap smear slides. <br>
 ***Keyboard:*** Pap smear, Labeled <br>
 <a href="https://ieeexplore.ieee.org/abstract/document/8451588"> ![paper](src/paper.png)</a>
+
+
 
 ### Male Reproductive Organs
 
@@ -1467,6 +1477,10 @@ Compare interactive and (semi)-automatic segmentation algorithms for MRI of the 
 This is a dataset with multiparametric prostate MRI applied in a test-retest setting, allowing to evaluate repeatability of the MRI-based measurements in the prostate. <br>
 ***Keyboard:*** MRI, Labeled <br>
 <a href="https://www.nature.com/articles/sdata2018281"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.cancerimagingarchive.net/collection/tcga-prad"> **TCGA-PRAD**</a> (The Cancer Genome Atlas Prostate Adenocarcinoma)<br>
+Data from 14 subjects and 16,790 images.<br>
+***Keyboard:*** Multi-modality<br>
 
 
 ______
