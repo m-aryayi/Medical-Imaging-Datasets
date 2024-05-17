@@ -101,6 +101,11 @@ Microscopic resolution 3D model of the human brain. <br>
 Brain Tumor Detection <br>
 ***Keyboard:***  MRI, Detection, Classification, Labeled  <br>
 
+- <a href="https://aimi.stanford.edu/brainmetshare"> **BrainMetShare**</a> <br>
+The dataset includes 156 whole brain MRI studies, including high-resolution, multi-modal pre- and post-contrast sequences in patients with at least 1 brain metastasis.<br>
+***Keyboard:*** Detection, MRI, Segmentation, Labeled<br>
+<a href="https://arxiv.org/abs/1903.07988"> ![paper](src/paper.png)</a>
+
 - <a href="https://www.brainsimagebank.ac.uk"> **BRAINS**</a> (Brain Images of Normal Subjects) <br>
 ***Keyboard:*** MRI <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S1053811916000331"> ![paper](src/paper.png)</a>
@@ -340,6 +345,11 @@ This dataset focused on the precise characterization of ten individual subjects 
 - <a href="https://www.smir.ch/MTOP/Start2016"> **MTOP2016**</a> (Mild Traumatic Brain Injury Outcome Prediction) <br>
 ***Keyboard:*** MRI, Labeled <br>
 
+- <a href="https://figshare.com/articles/dataset/Multicenter_dataset_of_multishell_diffusion_magnetic_resonance_imaging_in_healthy_traveling_adults_with_identical_setting/8851955"> **Multi-shell diffusion MRI**</a><br>
+It was collected from three traveling subjects with identical acquisition setting in ten imaging centers. <br>
+***Keyboard:*** MRI <br>
+<a href="https://www.nature.com/articles/s41597-020-0493-8"> ![paper](src/paper.png)</a>
+
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/Narratives.html"> **Narratives**</a><br>
 fMRI data for evaluating models of naturalistic language comprehension. <br>
 ***Keyboard:*** fMRI, Labeled <br>
@@ -518,6 +528,9 @@ A ultra-wide optical coherence tomography angiography (UW-OCTA) dataset addressi
 - <a href="https://drive.grand-challenge.org"> **DRIVE**</a> (Digital Retinal Images for Vessel Extraction) <br>
 ***Keyboard:*** Retinal, Segmentation <br>
 <a href="https://drive.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> 
+
+- <a href="https://www.adcis.net/en/third-party/e-ophtha"> **E-ophtha**</a><br>
+***Keyboard:*** Diabetic retinopathy (DR), Color fundus images, Labeled<br>
 
 - <a href="https://projects.ics.forth.gr/cvrl/fire"> **FIRE**</a> (Fundus Image Registration Dataset) <br>
 ***Keyboard:*** Retinal, Labeled
