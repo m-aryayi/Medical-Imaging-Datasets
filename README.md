@@ -450,6 +450,11 @@ Topology-Aware Anatomical Segmentation of the Circle of Willis <br>
 
 ### Ears, Nose, Teeth, and Throat
 
+- <a href="https://github.com/abenhamadou/3DTeethSeg22_challenge"> **3DTeethSeg22**</a> <br>
+A total of 1800 3D intra-oral scan for 900 patients covering their upper and lower jaws separately.<br>
+***Keyboard:***  Labeeld, Segmentation <br>
+<a href="https://arxiv.org/abs/2305.18277"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/2210.06094"> ![paper](src/paper.png)</a>
+
 - <a href="https://github.com/liangjiubujiu/CTooth"> **CTooth**</a> <br>
 The gathered data set consists of 5803 CBCT slices in total, out of which 4243 contain tooth annotations.<br>
 ***Keyboard:*** 3D dental CBCT, Segmentation, Labeled <br>
@@ -463,11 +468,6 @@ Thyroid Ultrasound Images to Classify Benign&Malign Cases.<br>
 Dental Enumeration and Diagnosis on Panoramic X-rays <br>
 ***Keyboard:*** X-rays, Labeled <br>
 <a href="https://dentex.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2305.19112"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/2303.06500"> ![paper](src/paper.png)</a>
-
-- <a href="https://github.com/abenhamadou/3DTeethSeg22_challenge"> **3DTeethSeg22**</a> <br>
-A total of 1800 3D intra-oral scan for 900 patients covering their upper and lower jaws separately.<br>
-***Keyboard:***  Labeeld, Segmentation <br>
-<a href="https://arxiv.org/abs/2305.18277"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/2210.06094"> ![paper](src/paper.png)</a>
 
 - <a href="https://zenodo.org/records/1473724"> **OpenEar**</a> <br>
 A library consisting of eight three-dimensional models of the human temporal bone. <br>
