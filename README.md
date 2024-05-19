@@ -474,6 +474,10 @@ A library consisting of eight three-dimensional models of the human temporal bon
 ***Keyboard:***  Cone Beam Computed Tomography (CBCT) <br>
 <a href="https://www.nature.com/articles/sdata2018297"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.cancerimagingarchive.net/collection/tcga-thca"> **TCGA-THCA**</a> (The Cancer Genome Atlas Thyroid Cancer)<br>
+Data from 6 subjects and 2780 images<br>
+***Keyboard:*** CT scan <br>
+
 - <a href="https://tn-scui2020.grand-challenge.org"> **TN-SCUI2020**</a> (Thyroid Nodule Segmentation and Classification in Ultrasound Images) <br>
 A dataset of thyroid nodule with over 4,500 patient <br>
 ***Keyboard:***  Ultrasound Image, Thyroid <br>
@@ -1685,6 +1689,10 @@ A Benchmark of Organs-at-Risk and Gross Tumor Volume Segmentation for Radiothera
 - <a href="https://structseg2019.grand-challenge.org"> **StructSeg2019**</a> <br>
 Segmentation of organs-at-risk (OAR) and gross target volume (GTV) of tumors of two types of cancers, nasopharynx cancer and lung cancer, for radiation therapy planning. <br>
 ***Keyboard:*** *Head & neck, Lung*, CT scans, Cancer, Labeled <br>
+
+- <a href="https://www.cancerimagingarchive.net/collection/tcga-sarc"> **TCGA-SARC**</a> (The Cancer Genome Atlas Sarcoma)<br>
+Data from 5 subjects and 5653 images<br>
+***Keyboard:*** *Chest-Abdomen-Pelvis, Leg, and TSpine*, Multi-modality, Segmentation <br>
 
 - <a href="https://zenodo.org/records/10047292"> **TotalSegmentator**</a><br>
 1228 images with segmented 117 anatomical structures
