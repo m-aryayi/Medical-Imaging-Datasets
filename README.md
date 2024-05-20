@@ -933,6 +933,10 @@ Multi-Structure Segmentation for Renal Cancer Treatment <br>
 - <a href="https://kits-challenge.org/kits23"> **KiTS23**</a> (Kidney Tumor Segmentation 2023) <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
 
+- <a href="https://www.cancerimagingarchive.net/collection/tcga-blca"> **TCGA-BLCA**</a> (The Cancer Genome Atlas Urothelial Bladder Carcinoma)<br>
+Data from 120 subjects and 111,781 images<br>
+***Keyboard:*** Multi-modality <br>
+
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-kich"> **TCGA-KICH**</a> (The Cancer Genome Atlas Kidney Chromophobe)<br>
 Data from 15 subjects.<br>
 ***Keyboard:*** MRI, CT scan<br>
@@ -1452,6 +1456,10 @@ Data from 54 subjects.<br>
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-ov"> **TCGA-OV**</a> (The Cancer Genome Atlas Ovarian Cancer)<br>
 Data from 143 subjects and 53,662 images.<br>
 ***Keyboard:*** Ovary, MRI, CT scan<br>
+
+- <a href="https://www.cancerimagingarchive.net/collection/tcga-ucec"> **TCGA-UCEC**</a> (The Cancer Genome Atlas Uterine Corpus Endometrial Carcinoma)<br>
+Data from 65 subjects and 77214 images<br>
+***Keyboard:*** Multi-modality <br>
 
 - <a href="https://www.cs.uoi.gr/~marina/sipakmed.html"> **SIPaKMeD**</a> <br>
 The database consists of 4049 images of isolated cells that have been manually cropped from 966 cluster cell images of Pap smear slides. <br>
