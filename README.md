@@ -30,6 +30,7 @@
   - [Lymph Nodes](#lymph-nodes)
   - [Skin](#skin)
 - [Multi Oragns Datasets](#multi-organs-datasets)
+- [Note and Contributions](#notes-and-contributions)
 
 ## Introduction
 
@@ -1715,6 +1716,16 @@ The dataset contains 1447 subjects of whole-body 18F-FDG PET imaging <br>
 ***Keyboard:*** *Thyroid, Carotid artery, Breast, Liver, and Kidney*, Ultrasound imaging <br>
 <a href="https://ultrasoundenhance2023.grand-challenge.org/evaluation/1st-validationresults-submission-only/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
+
+
+
+______
+## Notes and Contributions
+
+The papers mentioned only use or explain the datasets. They are here to make it easier to find them. You don't have to cite them. <br>
+**To know how to refer to each dataset, check its description.** <br>
+If you find any issues with the datasets (like broken links, order, description, etc.), please let me know.<br>
+If you know of any other datasets that aren't on the list, please ***contribute*** and add them to make the list more complete.
 
 __________________
 
