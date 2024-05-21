@@ -1078,6 +1078,9 @@ A Large Chest X-Ray Dataset. <br>
 ***Keyboard:*** X-ray, Labeled <br>
 <a href="https://arxiv.org/abs/1901.07031"> ![paper](src/paper.png)</a>
 
+- <a href="https://stanfordaimi.azurewebsites.net/datasets/f1577fbd-6f5c-417e-be81-850939f90daa"> **CheXphoto**</a> <br>
+It comprises a training set of natural photos and synthetic transformations of 10,507 x-rays from 3,000 unique patients that were sampled at random from the CheXpert training set, and a validation and test set of natural and synthetic transformations applied to all 234 x-rays from 200 patients and 668 x-rays from 500 patients in the CheXpert validation and test sets, respectively. <br>
+
 - <a href="https://covid-segmentation.grand-challenge.org"> **COVID-19-20**</a> <br>
 COVID-19 Lung CT Lesion Segmentation <br>
 ***Keyboard:*** CT scan, Labeled <br>
@@ -1498,6 +1501,14 @@ Classifying the severity of prostate cancer from microscopy scans of prostate bi
 Compare interactive and (semi)-automatic segmentation algorithms for MRI of the prostate <br>
 ***Keyboard:*** T2-weighted MRI, Labeled <br>
 <a href="https://promise12.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841513001734"> ![paper](src/paper.png) Overview paper</a>
+
+- <a href="https://www.cancerimagingarchive.net/collection/prostate-3t"> **Prostate-3T**</a><br>
+Prostate transversal T2-weighted magnetic resonance images acquired on a 3.0T Siemens TrioTim using only a pelvic phased-array coil were acquired for prostate cancer detection. <br>
+***Keyboard:*** MRI <br>
+
+- <a href="https://www.cancerimagingarchive.net/collection/prostate-diagnosis"> **PROSTATE-DIAGNOSIS**</a><br>
+Prostate cancer T1- and T2-weighted magnetic resonance images were acquired at 1.5 T <br>
+***Keyboard:*** MRI <br>
 
 - <a href="https://wiki.cancerimagingarchive.net/display/Public/QIN-PROSTATE-Repeatability"> **QIN-PROSTATE-Repeatability**</a> <br>
 This is a dataset with multiparametric prostate MRI applied in a test-retest setting, allowing to evaluate repeatability of the MRI-based measurements in the prostate. <br>
