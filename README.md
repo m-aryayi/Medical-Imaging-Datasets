@@ -1488,6 +1488,18 @@ Gleason grading of prostate cancer in digital histopathology images <br>
 ***Keyboard:*** H&E-stained histopathology image, Cancer, Labeled <br>
 <a href="https://gleason2019.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://i2cvb.github.io"> **I2CVB**</a> (Initiative for Collaborative Computer Vision Benchmarking)<br>
+It provides a multi-parametric MRI dataset to help at the development of computer-aided detection and diagnosis system. <br>
+***Keyboard:*** MRI, Segmentation, Labaled<br>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S001048251500058X"> ![paper](src/paper.png)</a>
+
+- <a href="https://liuquande.github.io/SAML"> **Multi-site Dataset for Prostate MRI Segmentation**</a><br>
+It contains prostate T2-weighted MRI data (with segmentation mask) collected from six different data sources out of three public datasets.<br>
+
+- <a href="https://www.cancerimagingarchive.net/analysis-result/isbi-mr-prostate-2013"> **NCI-ISBI 2013**</a><br>
+Automated Segmentation of Prostate Structures. Image data were selected from PROSTATE-DIAGNOSIS and Prostate-3T collections <br>
+***Keyboard:*** MRI, Labeled <br>
+
 - <a href="https://www.kaggle.com/c/prostate-cancer-grade-assessment"> **PANDA**</a> (Prostate cANcer graDe Assessment) <br>
 Classifying the severity of prostate cancer from microscopy scans of prostate biopsy samples <br>
 ***Keyboard:*** whole-slide images (WSI), Cancer <br>
