@@ -443,6 +443,11 @@ Topology-Aware Anatomical Segmentation of the Circle of Willis <br>
 ***Keyboard:*** Magnetic Resonance Angiography (MRA) and Computed Tomography Angiography (CTA) <br>
 <a href="https://topcow23.grand-challenge.org/evaluation/validation-cta-multiclass/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2312.17670"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.cancerimagingarchive.net/collection/upenn-gbm"> **UPenn-GBM**</a> (University of Pennsylvania glioblastoma)<br>
+Multi-parametric magnetic resonance imaging scans for de novo Glioblastoma patients.<br>
+***Keyboard:*** Cancer, mpMRI, Segmentation, Labeled<br>
+<a href="https://www.nature.com/articles/s41597-022-01560-7"> ![paper](src/paper.png)</a>
+
 - <a href="https://valdo.grand-challenge.org"> **VALDO**</a> (VAscular Lesions DetectiOn)  <br>
 ***Keyboard:*** MRI, cerebral small vessel disease (CSVD), Labeled  <br>
 <a href="https://zenodo.org/records/4600654"> ![paper](src/paper.png)</a>
@@ -478,6 +483,10 @@ A library consisting of eight three-dimensional models of the human temporal bon
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-thca"> **TCGA-THCA**</a> (The Cancer Genome Atlas Thyroid Cancer)<br>
 Data from 6 subjects and 2780 images<br>
 ***Keyboard:*** CT scan <br>
+
+- <a href="https://stanfordaimi.azurewebsites.net/datasets/a72f2b02-7b53-4c5d-963c-d7253220bfd5"> **Thyroid Ultrasound Cine-clip**</a> <br>
+Data is collected from 167 patients with biopsy-confirmed thyroid nodules (n=192).<br>
+***Keyboard:*** Ultrasound cine-clip images, Labeeld, Segmentation <br>
 
 - <a href="https://tn-scui2020.grand-challenge.org"> **TN-SCUI2020**</a> (Thyroid Nodule Segmentation and Classification in Ultrasound Images) <br>
 A dataset of thyroid nodule with over 4,500 patient <br>
@@ -1385,10 +1394,19 @@ The dataset consists of 917 12-bit grayscale volumes of either left or right kne
 ***Keyboard:*** MRI scans, X-ray, Labeled<br>
 <a href="https://www.oarsijournal.com/article/S1063-4584(22)00864-0/fulltext"> ![paper](src/paper.png)</a> 
 
+- <a href="https://aimi.stanford.edu/lera-lower-extremity-radiographs"> **LERA**</a> (Lower Extremity Radiographs)<br>
+Data is collected from 182 patients who underwent a radiographic examination. The dataset consists of images of the foot, knee, ankle, or hip associated with each patient.<br>
+***Keyboard:*** X-ray<br>
+
 - <a href="https://stanfordmlgroup.github.io/competitions/mrnet"> **MRNet**</a> <br>
 Diagnosis of abnormalities from Knee MRs <br>
 ***Keyboard:*** MRI, Labeled<br>
 <a href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002699"> ![paper](src/paper.png)</a>
+
+- <a href="https://github.com/StanfordMIMI/skm-tea"> **SKM-TEA**</a> (Stanford Knee MRI Multi-Task Evaluation)<br>
+The dataset consists of 86 scans for training, 33 scans for validation, and 36 scans for testing. <br>
+***Keyboard:*** MRI, Segmentation, Labeled <br>
+<a href="https://openreview.net/forum?id=YDMFgD_qJuA"> ![paper](src/paper.png)</a>
 
 - <a href="https://data.mendeley.com/datasets/zm6bxzhmfz/1"> **X-ray images of the hip joints**</a> <br>
 A dataset consisting of x-ray examinations of the lower legs performed as part of routine medical service. <br>
