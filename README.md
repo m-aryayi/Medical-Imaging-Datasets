@@ -235,10 +235,23 @@ Study about Neurodevelopmental Genomics: Trajectories of Complex Phenotypes<br>
 350 healthy adults, aged 20-89 who are thoroughly characterized in terms of cognition, brain structure and brain function across the adult lifespan<br>
 ***Keyboard:*** MRI, PET, Cognitive Data <br>
 
+- <a href="https://xnat.bmia.nl/data/archive/projects/egd"> **EGD**</a> (Erasmus Glioma Database)<br>
+It is a collection of 774 patients with glioma.<br>
+***Keyboard:*** MRI, Cancer<br>
+
+- <a href="https://rdr.ucl.ac.uk/articles/dataset/EPISURG_a_dataset_of_postoperative_magnetic_resonance_images_MRI_for_quantitative_analysis_of_resection_neurosurgery_for_refractory_epilepsy/9996158"> **EPISURG**</a> <br>
+A dataset of postoperative MRI images for quantitative analysis of resection neurosurgery for refractory epilepsy. <br>
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-59716-0_12"> ![paper](src/paper.png)</a>
+
 - <a href="https://feta.grand-challenge.org"> **FeTA**</a> (Fetal Tissue Annotation) <br>
 A dataset of manually segmented pathological and non-pathological fetal magnetic resonance brain volume reconstructions across a range of gestational ages into different tissue categories <br>
 ***Keyboard:*** MRI, Labeled, Segmentation <br>
 <a href="https://www.nature.com/articles/s41597-021-00946-3"> ![paper](src/paper.png)</a>
+
+
+- <a href="http://niftyweb.cs.ucl.ac.uk/program.php?p=CHALLENGE"> **GMSC**</a> (Grey matter segmentation challenge)<br>
+***Keyboard:*** MRI, Labeled<br>
+<a href="https://www.sciencedirect.com/science/article/pii/S1053811917302185"> ![paper](src/paper.png)</a>
 
 - <a href="https://zenodo.org/records/1206163"> **Gray matter segmentation at 7T MRI**</a> <br>
 The dataset consist of 7 Tesla MRI anatomical images of living human brains and hand labeled cortical gray matter images. <br>
