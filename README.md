@@ -30,7 +30,7 @@
   - [Lymph Nodes](#lymph-nodes)
   - [Skin](#skin)
 - [Multi Oragns Datasets](#multi-organs-datasets)
-- [Note and Contributions](#notes-and-contributions)
+- [Notes and Contributions](#notes-and-contributions)
 
 ## Introduction
 
