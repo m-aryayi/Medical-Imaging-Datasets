@@ -889,6 +889,16 @@ A Cardiac Motion Video Data Resource for Medical Machine Learning includes 10,03
 ***Keyboard:*** Echocardiography, Labeled <br>
 <a href="https://www.semanticscholar.org/paper/EchoNet-Dynamic%3A-a-Large-New-Cardiac-Motion-Video-Ouyang-He/44bfcf2409c0826584c7c409b6a2fcf8c9910c88"> ![paper](src/paper.png)</a>
 
+- <a href="https://echonet.github.io/lvh"> **EchoNet-LVH**</a><br>
+A Parasternal Long Axis Echocardiography Video Data Resource <br>
+***Keyboard:*** Echocardiography, Labeled <br>
+<a href="https://jamanetwork.com/journals/jamacardiology/fullarticle/2789370"> ![paper](src/paper.png)</a>
+
+- <a href="https://echonet.github.io/pediatric"> **EchoNet-Pediatric**</a><br>
+A Pediatric data resource includes 7,643 labeled echocardiogram videos <br>
+***Keyboard:*** Echocardiography, Labeled <br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/36754100"> ![paper](src/paper.png)</a>
+
 - <a href="https://www.kaggle.com/datasets/xiaoweixumedicalai/imagealcapa"> **ImageALCAPA**</a> (Anomalous left coronary artery from pulmonary artery) <br>
 30 3D CTA images. <br>
 ***Keyboard:*** CTA (Computed tomography angiography), Labeled, Segmentation  <br>
