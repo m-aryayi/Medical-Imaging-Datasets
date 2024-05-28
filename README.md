@@ -574,6 +574,10 @@ A ultra-wide optical coherence tomography angiography (UW-OCTA) dataset addressi
 - <a href="https://www.adcis.net/en/third-party/e-ophtha"> **E-ophtha**</a><br>
 ***Keyboard:*** Diabetic retinopathy (DR), Color fundus images, Labeled<br>
 
+- <a href="https://www.kaggle.com/c/diabetic-retinopathy-detection/overview"> **EyePACS Diabetic Retinopathy Detection**</a> <br>
+***Keyboard:*** Retina Images, Labeled<br>
+<a href="https://www.kaggle.com/c/diabetic-retinopathy-detection/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
 - <a href="https://projects.ics.forth.gr/cvrl/fire"> **FIRE**</a> (Fundus Image Registration Dataset) <br>
 ***Keyboard:*** Retinal, Labeled
 
@@ -581,6 +585,11 @@ A ultra-wide optical coherence tomography angiography (UW-OCTA) dataset addressi
 The dataset consists of 2D fundus images and 3D optical coherence tomography (OCT) images of 300 patients. The dataset was annotated with glaucoma grade in every sample, and macular fovea coordinates as well as optic disc/cup segmentation mask in the fundus image. <br>
 ***Keyboard:*** OCT images <br>
 <a href="https://aistudio.baidu.com/competition/detail/90/0/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2202.06511"> ![paper](src/paper.png)</a>
+
+- <a href="https://www5.cs.fau.de/research/data/fundus-images"> **HRF**</a> (High-Resolution Fundus)<br>
+The database contains 15 images of healthy patients, 15 images of patients with diabetic retinopathy and 15 images of glaucomatous patients. <br>
+***Keyboard:*** Fundus Images, Segmentation, Labaled<br>
+<a href="https://www.hindawi.com/journals/ijbi/2013/154860"> ![paper](src/paper.png)</a>
 
 - <a href="https://idrid.grand-challenge.org/"> **IDRiD**</a> (Indian Diabetic Retinopathy Image Dataset) <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841519301033?via%3Dihub"> ![paper](src/paper.png) First Results and Analysis</a>  | <a href="https://www.mdpi.com/2306-5729/3/3/25"> ![paper](src/paper.png) Data Descriptor</a> 
@@ -968,9 +977,23 @@ Our dataset contains 200 3D volumes with refined pulmonary artery label <br>
 ***Keyboard:*** CT Pulmonary Angiography (CTPA) <br>
 <a href="https://parse2022.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2304.03708"> ![paper](src/paper.png)</a>
 
+- <a href="https://stanfordaimi.azurewebsites.net/datasets/3a7548a4-8f65-4ab7-85fa-3d68c9efc1bd"> **RadFusion**</a><br>
+The dataset collected data from 1794 patients susceptible to pulmonary embolism. It consists of Chest CT, patient demographics and medical history.<br>
+***Keyboard:*** CT scan, Labeled <br>
+<a href="https://arxiv.org/abs/2111.11665"> ![paper](src/paper.png)</a>
+
+- <a href="https://rvsc.projets.litislab.fr"> **RVSC**</a> (Right Ventricle Segmentation Challenge)<br>
+***Keyboard:*** Cardiac cine MRI <br>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841514001509"> ![paper](src/paper.png)</a>
+
 - <a href="https://multicenteraorta.grand-challenge.org"> **SEG.A. 2023**</a> (Segmentation of the Aorta) <br>
 ***Keyboard:*** CTA (Computed tomography angiography), Labeled, Aorta <br>
 <a href="https://multicenteraorta.grand-challenge.org/evaluation/preliminary-phase/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> 
+
+- <a href="https://www.doc.ic.ac.uk/~rkarim/la_lv_framework/wall/index.html"> **SLAWT**</a> (Segmentation of Left Atrial Wall for Thickness) <br>
+The image database consisted of cardiac CT (n=10) and MRI (n=10) of healthy and diseased subjects.<br>
+***Keyboard:*** CT scan, MRI, Segmentation, Labeled <br>
+<a href="https://www.sciencedirect.com/science/article/pii/S1361841518306431"> ![paper](src/paper.png)</a>
 
 
 
