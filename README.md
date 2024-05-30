@@ -1801,9 +1801,28 @@ Foundation Model Prompting for Medical Image Classification <br>
 This dataset contains over 100,000 3D medical shapes, including bones, organs, vessels, muscles, etc., as well as surgical instruments. It has used in <a href='https://autoimplant.grand-challenge.org'> AutoImplant </a> <br>
 <a href="https://proj-page.github.io/medshapenet_publications.html"> ![paper](src/paper.png)</a>
 
+- <a href="https://monusac-2020.grand-challenge.org"> **MoNuSAC2020**</a> <br>
+The dataset has over 46,000 nuclei, 71 patients, four organs, and four nucleus types.<br>
+***Keyboard:*** *Lung, Prostate, Kidney, and Breast*, H&E staining, Classification, Segmentation<br>
+<a href="https://monusac-2020.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/abstract/document/9446924"> ![paper](src/paper.png) Details</a>
+
+- <a href="https://monuseg.grand-challenge.org"> **MoNuSeg**</a><br>
+***Keyboard:*** Multi tissues, H&E stained tissue images, Segmentation, Labeled <br>
+<a href="https://monuseg.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/8880654"> ![paper](src/paper.png)</a>
+
 - <a href="http://mridata.org"> **MRIdata**</a> <br>
 It is a list of magnetic resonance imaging raw k-space datasets. <br>
 ***Keyboard:*** MRI <br>
+
+- <a href="https://www.synapse.org/#!Synapse:syn3193805/wiki"> **Multi-Atlas Labeling Beyond the Cranial Vault**</a> <br>
+It has two subdatasets: Abdominal and Cervix<br>
+***Keyboard:*** Multi tissues, CT scan, Segmentation, Labeled <br>
+<a href="https://www.synapse.org/#!Synapse:syn3193805/wiki/94514"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://zenodo.org/records/1169361#.YETa43UzYUE"> **Multi-organ Abdominal CT**</a><br>
+The data comprises reference segmentations for 90 abdominal CT images delineating multiple organs. <br>
+***Keyboard:*** *Spleen, Left kidney, Gallbladder, Esophagus, Liver, Stomach, Pancreas and Duodenum*, CT scan<br>
+<a href="https://ieeexplore.ieee.org/document/8291609"> ![paper](src/paper.png)</a>
 
 - <a href="https://lunit-io.github.io/research/ocelot_dataset"> **OCELOT**</a> <br>
 A dataset purposely dedicated to the study of cell-tissue relationships for cell detection in histopathology <br>
@@ -1818,6 +1837,11 @@ A dataset purposely dedicated to the study of cell-tissue relationships for cell
 Detection of Perineural Invasion in Multiple Organ Cancer <br>
 ***Keyboard:*** *Colon, Prostate and Pancreatobiliary tract*, Whole-slide images (WSIs), Cancer, Labeled <br>
 <a href="https://paip2021.grand-challenge.org/evaluation/validation/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://huggingface.co/datasets/xmcmic/PMC-VQA"> **PMC-VQA**</a><br>
+It contains 227k VQA (Visual Question Answerin) pairs of 149k images, covering various modalities or diseases <br>
+***Keyboard:*** Multi-modality, Labeled<br>
+<a href="https://arxiv.org/abs/2305.10415"> ![paper](src/paper.png)</a>
 
 - <a href="https://www.rsna.org/rsnai/ai-image-challenge/abdominal-trauma-detection-ai-challenge"> **RSNA Abdominal Trauma Detection**</a> (Radiological Society of North America 2023) <br>
 Including more than 4,000 CT exams with various abdominal injuries and a roughly equal number of cases without injury. <br>
