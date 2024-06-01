@@ -39,12 +39,12 @@ data = {
        'Liver': 10, 
        'Lungs': 68,
        'Bones': 11, 
-       'Joints': 9, 
+       'Joints': 10, 
        'Female Reproductive Organs': 16,
        'Male Reproductive Organs': 13,
        'Lymph Nodes': 6,
        'Skin': 7,
-       'Multi Organs Datasets' : 36
+       'Multi Organs Datasets' : 39
 }
 
 df = pd.DataFrame.from_dict(data, orient='index', columns=['number'])
