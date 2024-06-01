@@ -1506,6 +1506,11 @@ Diagnosis of abnormalities from Knee MRs <br>
 ***Keyboard:*** MRI, Labeled<br>
 <a href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002699"> ![paper](src/paper.png)</a>
 
+- <a href="https://pubdata.zib.de"> **OAI**</a> (Osteoarthritis Initiative) <br>
+The dataset contains cases of moderate and severe OA. <br>
+***Keyboard:*** MRI<br>
+<a href="https://www.sciencedirect.com/science/article/pii/S1361841518304882"> ![paper](src/paper.png)</a>
+
 - <a href="https://github.com/StanfordMIMI/skm-tea"> **SKM-TEA**</a> (Stanford Knee MRI Multi-Task Evaluation)<br>
 The dataset consists of 86 scans for training, 33 scans for validation, and 36 scans for testing. <br>
 ***Keyboard:*** MRI, Segmentation, Labeled <br>
@@ -1759,10 +1764,18 @@ A large-scale abdominal multi-organ benchmark for versatile medical image segmen
 A whole-body FDG-PET/CT dataset with manually annotated tumor lesions (FDG-PET-CT-Lesions) <br>
 ***Keyboard:*** PET - CT scan, Labeled <br>
 
+- <a href="https://neurips22-cellseg.grand-challenge.org"> **Cell Segmentation in Multi-modality Microscopy Images**</a> <br>
+***Keyboard:*** Multi tissues, High-Resolution Microscopy Images, Segmentation, Labeled <br>
+<a href="https://neurips22-cellseg.grand-challenge.org/evaluation/testing/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2308.05864"> ![paper](src/paper.png) Summary Paper</a>
+
 - <a href="https://chaos.grand-challenge.org"> **CHAOS**</a> (Combined (CT-MR) Healthy Abdominal Organ Segmentation) <br>
 There are 20 training and 20 testing cases in the CT dataset. MRI dataset contains 20 training and 20 testing cases with T1-Dual and T2 SPIR sequences. <br>
 ***Keyboard:*** *Liver, Kidneys, Spleen*, CT Scan, MRI, Labeled <br>
 <a href="https://chaos.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841520303145"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.cancerimagingarchive.net/collection/ct-org"> **CT-ORG**</a><br>
+This dataset consists of 140 computed tomography scans come from a wide variety of sources. <br>
+***Keyboard:*** *Bone, Liver, Lung, Kidney and Bladder*, CT scan<br>
 
 - <a href="https://ead2019.grand-challenge.org/"> **EAD 2019**</a> (Endoscopy artifact detection) <br>
 Facilitating diagnosis and treatment of diseases in hollow organs. <br>
@@ -1843,6 +1856,11 @@ It has two subdatasets: Abdominal and Cervix<br>
 The data comprises reference segmentations for 90 abdominal CT images delineating multiple organs. <br>
 ***Keyboard:*** *Spleen, Left kidney, Gallbladder, Esophagus, Liver, Stomach, Pancreas and Duodenum*, CT scan<br>
 <a href="https://ieeexplore.ieee.org/document/8291609"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.kaggle.com/datasets/ipateam/nuinsseg"> **NuInsSeg**</a> (Nuclei Instance Segmentation)<br>
+This dataset contains 665 image patches with more than 30,000 manually segmented nuclei from 31 human and mouse organs. <br>
+***Keyboard:*** Multi organs, H&E-Stained Images, Labeled<br>
+<a href="https://arxiv.org/abs/2308.01760"> ![paper](src/paper.png)</a>
 
 - <a href="https://lunit-io.github.io/research/ocelot_dataset"> **OCELOT**</a> <br>
 A dataset purposely dedicated to the study of cell-tissue relationships for cell detection in histopathology <br>
