@@ -525,6 +525,11 @@ A library consisting of eight three-dimensional models of the human temporal bon
 ***Keyboard:***  Cone Beam Computed Tomography (CBCT) <br>
 <a href="https://www.nature.com/articles/sdata2018297"> ![paper](src/paper.png)</a>
 
+- <a href="https://data.mendeley.com/datasets/hxt48yk462"> **Panoramic Dental X-rays**</a> <br>
+This dataset consists of anonymized and deidentified panoramic dental X-rays of 116 patients.<br>
+***Keyboard:***  Labeeld, Segmentation <br>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4652330"> ![paper](src/paper.png)</a> 
+
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-thca"> **TCGA-THCA**</a> (The Cancer Genome Atlas Thyroid Cancer)<br>
 Data from 6 subjects and 2780 images<br>
 ***Keyboard:*** CT scan <br>
@@ -1754,6 +1759,9 @@ The dataset with more than 1000 (1K) abdominal organ scans. <br>
 The scans were acquired from 11 subjects without any abdominal pathology or known disease. <br>
 ***Keyboard:*** *Liver, kidney, pancreas, vessels, adrenals, 
  gallbladder, bones, spleen*, Ultrasound (US) imaging, Segmentation, Labeled <br>
+
+- <a href="https://isbi-aida.grand-challenge.org"> **AIDA-E**</a> (Analysis of Images to Detect Abnormalities in Endoscopy)<br>
+***Keyboard:*** Multi tissues, Endoscopy, Cancer<br>
 
 - <a href="https://zenodo.org/records/7155725#.Y0OOCOxBztM"> **AMOS**</a> <br>
 A large-scale abdominal multi-organ benchmark for versatile medical image segmentation <br>
