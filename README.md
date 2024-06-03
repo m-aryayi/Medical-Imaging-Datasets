@@ -1785,6 +1785,11 @@ There are 20 training and 20 testing cases in the CT dataset. MRI dataset contai
 This dataset consists of 140 computed tomography scans come from a wide variety of sources. <br>
 ***Keyboard:*** *Bone, Liver, Lung, Kidney and Bladder*, CT scan<br>
 
+- <a href="https://nihcc.app.box.com/v/DeepLesion"> **DeepLesion**</a><br>
+A dataset with 32,735 lesions in 32,120 CT slices from 10,594 studies of 4,427 unique patients. <br>
+***Keyboard:*** *Bone, Abdomen, Mediastinum, Liver, Lung, Kidney, Soft tissue, and Pelvis*, CT scan, Cancer<br>
+<a href="https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-5/issue-03/036501/DeepLesion--automated-mining-of-large-scale-lesion-annotations-and/10.1117/1.JMI.5.3.036501.full#_=_"> ![paper](src/paper.png)</a>
+
 - <a href="https://ead2019.grand-challenge.org/"> **EAD 2019**</a> (Endoscopy artifact detection) <br>
 Facilitating diagnosis and treatment of diseases in hollow organs. <br>
 ***Keyboard:***  Multi-tissue, Multi-modality, Video Endoscopy, Labeled <br>
@@ -1883,6 +1888,11 @@ A dataset purposely dedicated to the study of cell-tissue relationships for cell
 Detection of Perineural Invasion in Multiple Organ Cancer <br>
 ***Keyboard:*** *Colon, Prostate and Pancreatobiliary tract*, Whole-slide images (WSIs), Cancer, Labeled <br>
 <a href="https://paip2021.grand-challenge.org/evaluation/validation/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://warwick.ac.uk/fac/cross_fac/tia/data/pannuke"> **PanNuke**</a> <br>
+Nuclei labels across 19 different tissue types.<br>
+***Keyboard:*** Multi-tissue, whole-slide images (WSIs), Classification, Segmentation<br>
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-23937-4_2"> ![paper](src/paper.png) Details</a> | <a href="https://arxiv.org/abs/2003.10778"> ![paper](src/paper.png) Details</a>
 
 - <a href="https://huggingface.co/datasets/xmcmic/PMC-VQA"> **PMC-VQA**</a><br>
 It contains 227k VQA (Visual Question Answerin) pairs of 149k images, covering various modalities or diseases <br>
