@@ -127,6 +127,11 @@ Classify MRI images into four classes <br>
 This dataset consists of the scanned images of brain of patient diagnosed of brain tumour.<br>
 ***Keyboard:*** X-ray, Cancer, Labeled  <br>
 
+- <a href="https://figshare.com/articles/dataset/brain_tumor_dataset/1512427"> **brain tumor dataset**</a><br>
+Containing 3064 T1-weighted contrast-inhanced images from 233 patients with three kinds of brain tumor: meningioma, glioma, and pituitary tumor.<br>
+***Keyboard:*** Cancer, MRI, Labeled <br>
+<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0157112"> ![paper](src/paper.png)</a> | <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140381"> ![paper](src/paper.png)</a>
+
 - <a href="https://brainptm-2021.grand-challenge.org"> **BrainPTM 2021**</a> (Brain Pre-surgical white matter Tractography Mapping) <br>
 Data consists of 75 cases<br>
 ***Keyboard:*** MRI, Cancer, Segmentation, Labeled  <br>
@@ -702,6 +707,10 @@ It is derived from three sources for a total of 750 images. The optic cup and di
 - <a href="https://rocc.grand-challenge.org"> **ROCC**</a> (Retinal OCT Classification Challenge) <br>
 A dataset of OCT volumes, acquired with Topcon SD-OCT devices <br>
 ***Keyboard:*** OCT images, Diabetic retinopathy <br>
+
+- <a href="https://imed.nimte.ac.cn/dataofrose.html"> **ROSE**</a> (Retinal OCT-Angiography Vessel SEgmentation)<br>
+It includes two subsets: ROSE-1 and ROSE-2. <br>
+<a href="https://arxiv.org/abs/2007.05201"> ![paper](src/paper.png)</a>
 
 - <a href="https://aistudio.baidu.com/competition/detail/1101/0/introduction"> **STAGE**</a> (Structural-Functional Transition in Glaucoma Assessment) <br>
 400 OCT data and corresponding Visual Field test reports with Mean Deviation (MD) values, sensitivity maps and pattern deviation probability map labels. <br>
