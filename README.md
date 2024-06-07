@@ -1467,6 +1467,10 @@ Intervertebral Disc Localization and Segmentation from 3D Multi-modality MR (M3)
 ***Keyboard:*** CT scan, Labeled <br>
 <a href="https://link.springer.com/article/10.1007/s10916-021-01724-9"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.cs.cit.tum.de/camp/publications/segthy-dataset"> **Leg-3D-US**</a><br>
+The dataset assembles pairs of Ultrasound volumes and 3-labels muscles of the low-limb leg from 44 healthy volunteers, aged between 18 and 45 years. <br>
+<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268550"> ![paper](src/paper.png)</a>
+
 - <a href="https://stanfordmlgroup.github.io/competitions/mura"> **MURA**</a> (MUsculoskeletal RAdiographs) <br>
 Large Dataset for Abnormality Detection in Musculoskeletal Radiographs <br>
 ***Keyboard:*** X-ray, Labeled<br>
@@ -1476,6 +1480,11 @@ Large Dataset for Abnormality Detection in Musculoskeletal Radiographs <br>
 A dataset for detect and classify around 5,000 rib fractures from 660 computed tomography (CT) scans <br>
 ***Keyboard:*** CT scan, Labeled <br>
 <a href="https://ribfrac.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://github.com/M3DV/RibSeg"> **RibSeg**</a><br>
+It includes two subsets. <br>
+***Keyboard:*** CT scan, Segmentation <br>
+<a href="https://arxiv.org/abs/2210.09309"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/2109.09521"> ![paper](src/paper.png)</a> 
 
 - <a href="https://www.rsna.org/rsnai/ai-image-challenge/cervical-spine-fractures-ai-detection-challenge-2022"> **RSNA Cervical Spine Fracture**</a> (Radiological Society of North America 2022) <br>
 Including approximately 3,000 CT <br>
