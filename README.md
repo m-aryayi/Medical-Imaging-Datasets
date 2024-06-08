@@ -550,9 +550,17 @@ This dataset consists of anonymized and deidentified panoramic dental X-rays of 
 ***Keyboard:***  Labeeld, Segmentation <br>
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4652330"> ![paper](src/paper.png)</a> 
 
+- <a href="https://www.cs.cit.tum.de/camp/publications/segthy-dataset"> **SegThy**</a><br>
+Thyroid and Neck Segmentation. <br>
+***Keyboard:*** MRI, Ultrasound <br>
+
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-thca"> **TCGA-THCA**</a> (The Cancer Genome Atlas Thyroid Cancer)<br>
 Data from 6 subjects and 2780 images<br>
 ***Keyboard:*** CT scan <br>
+
+- <a href="https://humansintheloop.org/resources/datasets/teeth-segmentation-dataset"> **Teeth Segmentation Dataset**</a> <br>
+The dataset consists of 598 images from other dataset with a total of 15,318 polygons, where each tooth is segmented manually with a different class. <br>
+***Keyboard:*** Panoramic X-ray, Segmentation, Labeled <br>
 
 - <a href="https://stanfordaimi.azurewebsites.net/datasets/a72f2b02-7b53-4c5d-963c-d7253220bfd5"> **Thyroid Ultrasound Cine-clip**</a> <br>
 Data is collected from 167 patients with biopsy-confirmed thyroid nodules (n=192).<br>
