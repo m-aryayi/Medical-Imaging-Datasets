@@ -550,9 +550,24 @@ This dataset consists of anonymized and deidentified panoramic dental X-rays of 
 ***Keyboard:***  Labeeld, Segmentation <br>
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4652330"> ![paper](src/paper.png)</a> 
 
+- <a href="https://zenodo.org/records/4457648#.ZDAKbexByWA"> **Panoramic radiography database**</a><br>
+This database contains 598 panoramic radiographs. <br>
+***Keyboard:*** X-ray<br>
+<a href="https://www.mdpi.com/1424-8220/21/9/3110"> ![paper](src/paper.png)</a>
+
 - <a href="https://www.cs.cit.tum.de/camp/publications/segthy-dataset"> **SegThy**</a><br>
 Thyroid and Neck Segmentation. <br>
 ***Keyboard:*** MRI, Ultrasound <br>
+
+- <a href="https://tianchi.aliyun.com/competition/entrance/532086"> **STS-2D**</a> (Semi-supervised Tooth Segmentation)<br>
+The training dataset consists of 4000 panoramic images of teeth. <br>
+***Keyboard:*** Panoramic X-ray, Labeled <br>
+<a href="https://tianchi.aliyun.com/competition/entrance/532086/rankingList"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://tianchi.aliyun.com/competition/entrance/532087"> **STS-3D**</a> (Semi-supervised Tooth Segmentation)<br>
+Training dataset consists of 312 CT scans, containing about 62400 slices. <br>
+***Keyboard:*** Cone Beam Computed Tomography (CT scan), Labeled <br>
+<a href="https://tianchi.aliyun.com/competition/entrance/532087/rankingList"> ![Leaderboard](src/leaderboard.png)</a>
 
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-thca"> **TCGA-THCA**</a> (The Cancer Genome Atlas Thyroid Cancer)<br>
 Data from 6 subjects and 2780 images<br>
