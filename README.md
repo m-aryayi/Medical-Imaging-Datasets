@@ -1467,6 +1467,10 @@ The database contains a number of annotated CT image scans that highlight many o
 ***Keyboard:*** CT-scan <br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/19965010"> ![paper](src/paper.png) The dataset is described </a>
 
+- <a href="https://physionet.org/content/vindr-pcxr"> **VinDr-PCXR**</a><br>
+The dataset consists of 9,125 posteroanterior (PA) view CXR scans in patients younger than ten years and comes with both the localization of critical findings and the classification of common thoracic diseases. <br>
+***Keyboard:*** Labeled <br>
+
 - <a href="https://wsss4luad.grand-challenge.org"> **WSSS4LUAD**</a> (Weakly-supervised Tissue Semantic Segmentation for Lung Adenocarcinoma) <br>
 Segment tumor epithelial, tumor-associated stroma and normal tissue with only patch-level labels. <br>
 ***Keyboard:*** H&E stained Whole Slide Image (WSI), Cancer <br>
@@ -1965,6 +1969,11 @@ Including more than 4,000 CT exams with various abdominal injuries and a roughly
 ***Keyboard:*** *Liver, Spleen, Kidneys, and Bowel*, CT scan, Labeled<br>
 <a href="https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://zenodo.org/records/7056076"> **SCR**</a><br>
+Segmentations Chest X-Rays images from JSRT. <br>
+***Keyboard:*** *Lungs, Heart, Clavicle*, Labeled<br>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841505000368"> ![paper](src/paper.png)</a>
+
 - <a href="https://segrap2023.grand-challenge.org"> **SegRap2023**</a> <br>
 A Benchmark of Organs-at-Risk and Gross Tumor Volume Segmentation for Radiotherapy Planning of Nasopharyngeal Carcinoma <br>
 ***Keyboard:*** *45 organs-at-risk*, CT Scan, Cancer <br>
@@ -1974,6 +1983,9 @@ A Benchmark of Organs-at-Risk and Gross Tumor Volume Segmentation for Radiothera
 The dataset includes 60 3D CT scans, divided into a training set of 40 and a test set of 20 patients. <br>
 ***Keyboard:*** *Heart, Aorta, Trachea, and Esophagus*, CT Scan, Cancer, Labeled <br>
 <a href="https://competitions.codalab.org/competitions/21145#results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/9286453"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.smir.ch/objects/214315"> **SMIR**</a> <br>
+This collection contains post mortem CT scans of the whole body. <br>
 
 - <a href="https://structseg2019.grand-challenge.org"> **StructSeg2019**</a> <br>
 Segmentation of organs-at-risk (OAR) and gross target volume (GTV) of tumors of two types of cancers, nasopharynx cancer and lung cancer, for radiation therapy planning. <br>
