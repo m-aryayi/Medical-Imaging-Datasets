@@ -37,14 +37,14 @@ data = {
        'Heart and Blood Vessels': 30, 
        'Kidneys and Urinary Tract': 8,
        'Liver': 10, 
-       'Lungs': 68,
+       'Lungs': 69,
        'Bones': 13, 
        'Joints': 10, 
        'Female Reproductive Organs': 16,
        'Male Reproductive Organs': 13,
        'Lymph Nodes': 6,
        'Skin': 7,
-       'Multi Organs Datasets' : 42
+       'Multi Organs Datasets' : 44
 }
 
 df = pd.DataFrame.from_dict(data, orient='index', columns=['number'])
