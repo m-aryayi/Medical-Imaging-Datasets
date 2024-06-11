@@ -1001,6 +1001,11 @@ A Pediatric data resource includes 7,643 labeled echocardiogram videos <br>
 ***Keyboard:*** Echocardiography, Labeled <br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/36754100"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.kaggle.com/datasets/aysendegerli/hmcqu-dataset"> **HMC-QU**</a><br>
+The dataset includes a collection of apical 4-chamber (A4C) and apical 2-chamber (A2C) view 2D echocardiography.<br>
+***Keyboard:*** Myocardial Infarction, Detection, Segmentation, Labeled <br>
+<a href="https://www.sciencedirect.com/science/article/pii/S1746809423008819"> ![paper](src/paper.png)</a>
+
 - <a href="https://www.kaggle.com/datasets/xiaoweixumedicalai/imagealcapa"> **ImageALCAPA**</a> (Anomalous left coronary artery from pulmonary artery) <br>
 30 3D CTA images. <br>
 ***Keyboard:*** CTA (Computed tomography angiography), Labeled, Segmentation  <br>
@@ -1073,6 +1078,11 @@ The dataset collected data from 1794 patients susceptible to pulmonary embolism.
 - <a href="https://rvsc.projets.litislab.fr"> **RVSC**</a> (Right Ventricle Segmentation Challenge)<br>
 ***Keyboard:*** Cardiac cine MRI <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841514001509"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.cardiacatlas.org/sunnybrook-cardiac-data"> **SCD**</a> (Sunnybrook Cardiac Data) <br>
+The dataset consist of 45 cine-MRI images from a mixed of patients and pathologies: healthy, hypertrophy, heart failure with infarction and heart failure without infarction.<br>
+***Keyboard:*** Segmentation, Labeled <br>
+<a href="https://midasjournal.org/browse/publication/658"> ![paper](src/paper.png)</a>
 
 - <a href="https://multicenteraorta.grand-challenge.org"> **SEG.A. 2023**</a> (Segmentation of the Aorta) <br>
 ***Keyboard:*** CTA (Computed tomography angiography), Labeled, Aorta <br>
