@@ -774,6 +774,11 @@ Colonoscopy tissue segmentation and classification and Signet ring cell detectio
 Addressing generalisability in polyp detection and segmentation <br>
 ***Keyboard:*** Colonoscopy, Labeled <br>
 
+- <a href="https://github.com/simula/hyper-kvasir"> **HyperKvasir**</a><br>
+The dataset contains 110,079 images and 373 videos where it captures anatomical landmarks and pathological and normal findings.<br>
+***Keyboard:*** Gastrointestinal tract, Labeled, Segmentation <br>
+<a href="https://www.nature.com/articles/s41597-020-00622-y"> ![paper](src/paper.png)</a>
+
 - <a href="https://paip2020.grand-challenge.org"> **PAIP2020**</a> <br>
 Classification of molecular subtypes in colorectal cancer for whole-slide image analyses <br>
 <a href="https://paip2020.grand-challenge.org/evaluation/validation/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
@@ -971,6 +976,9 @@ The dataset consists of clinical exams from 500 patients<br>
 
 - <a href="https://vessel-wall-segmentation.grand-challenge.org"> **Carotid Artery Vessel Wall**</a> <br>
 ***Keyboard:*** Segmentation, Labeled <br>
+
+- <a href="https://www5.cs.fau.de/research/software/cavarev"> **CAVAREV**</a> (CArdiac VAsculature Reconstruction EValuation)<br>
+The goal is to enable an easy and objective comparison of different dynamic reconstruction algorithms.<br>
 
 - <a href="https://figshare.com/articles/dataset/CDEMRIS_fibrosis_scar_challenge_data_2012/4214532"> **cDEMRIS**</a> (Cardiac Delayed Enhancement Segmentation Challenge)<br>
 The dataset includes Late Gadolinium enhancement (LGE) cardiovascular magnetic resonance imaging used to visualise regions of fibrosis and scarring in the left atrium (LA) myocardium.<br>
