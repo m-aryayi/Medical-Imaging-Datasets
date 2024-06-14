@@ -770,6 +770,11 @@ Colonoscopy tissue segmentation and classification and Signet ring cell detectio
 ***Keyboard:*** Whole slide image (WSI), Cancer, Labeled <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522001323"> ![paper](src/paper.png)</a> 
 
+- <a href="https://www.gastrointestinalatlas.com/english/english.html"> **El Salvador atlas of Gastrointestinal**</a><br>
+It displays 5154 video clips.<br>
+***Keyboard:*** Video Endoscopy <br>
+<a href="https://www.omicsonline.org/proceedings/el-salvador-atlas-of-gastrointestinal-video-endoscopy-online-academic-site-as-a-learning-resource-102299.html"> ![paper](src/paper.png)</a>
+
 - <a href="https://endocv2021.grand-challenge.org"> **EndoCV2021**</a> (Endoscopy Computer Vision 2021)<br>
 Addressing generalisability in polyp detection and segmentation <br>
 ***Keyboard:*** Colonoscopy, Labeled <br>
@@ -1974,6 +1979,10 @@ A dataset purposely dedicated to the study of cell-tissue relationships for cell
 - <a href="https://data.mendeley.com/datasets/rscbjbr9sj/2"> **OCT and Chest X-Ray images**</a><br>
 ***Keyboard:*** *Eye and Chest*, OCT, X-ray, Classification, Labeled<br>
 <a href="https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.olympus-europa.com/medical/en/Products-and-Solutions/Medical-Solutions/EndoAtlas"> **Olympus EndoAtlas**</a> <br>
+It is solely for use by qualified medical professionals. <br>
+***Keyboard:*** *Esophagus, stomach, Pancreatobiliary, Small-intestine, and Colorectum*, Gastrointestinal video endoscopy, EndoCapsule <br>
 
 - <a href="https://paip2021.grand-challenge.org"> **PAIP2021**</a> <br>
 Detection of Perineural Invasion in Multiple Organ Cancer <br>
