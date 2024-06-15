@@ -784,6 +784,16 @@ The dataset contains 110,079 images and 373 videos where it captures anatomical 
 ***Keyboard:*** Gastrointestinal tract, Labeled, Segmentation <br>
 <a href="https://www.nature.com/articles/s41597-020-00622-y"> ![paper](src/paper.png)</a>
 
+- <a href="https://github.com/simula/kvasir-capsule"> **Kvasir-Capsule**</a><br>
+The dataset consists of 117 videos which can be used to extract a total of 4,741,504 image frames.<br>
+***Keyboard:*** Video capsule endoscopy (VCE) , Labeled <br>
+<a href="https://www.nature.com/articles/s41597-021-00920-z"> ![paper](src/paper.png)</a>
+
+- <a href="https://datasets.simula.no/kvasir-seg"> **Kvasir-SEG**</a><br>
+It contains 1000 images.<br>
+***Keyboard:*** Gastrointestinal polyp, Labeled, Segmentation, Colonoscopy <br>
+<a href="https://arxiv.org/abs/1911.07069"> ![paper](src/paper.png)</a>
+
 - <a href="https://paip2020.grand-challenge.org"> **PAIP2020**</a> <br>
 Classification of molecular subtypes in colorectal cancer for whole-slide image analyses <br>
 <a href="https://paip2020.grand-challenge.org/evaluation/validation/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
