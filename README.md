@@ -765,10 +765,20 @@ ______
 ***Keyboard:*** whole-slide images (WSI), Nuclear segmentation and classification <br>
 <a href="https://conic-challenge.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2111.14485"> ![paper](src/paper.png)</a> 
 
+- <a href="http://vi.cvc.uab.es/colon-qa/cvccolondb"> **CVC colon DB**</a><br>
+It contains 15 short colonoscopy sequences.<br>
+***Keyboard:*** Colonoscopy video, Segmentation, Classification <br>
+<a href="https://www.sciencedirect.com/science/article/pii/S0031320312001185"> ![paper](src/paper.png)</a>
+
 - <a href="https://digestpath2019.grand-challenge.org"> **Digestpath2019**</a> (Digestive-System Pathological 2019)<br>
 Colonoscopy tissue segmentation and classification and Signet ring cell detection dataset  <br>
 ***Keyboard:*** Whole slide image (WSI), Cancer, Labeled <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522001323"> ![paper](src/paper.png)</a> 
+
+- <a href="https://ieee-dataport.org/competitions/endoscopy-disease-detection-and-segmentation-edd2020"> **EDD2020**</a> (Endoscopy Disease Detection)<br>
+Annotated data consists of 5 different disease classes.<br>
+***Keyboard:*** Video, Segmentation, Detection, Labeled <br>
+<a href="https://www.sciencedirect.com/science/article/pii/S1361841521000487"> ![paper](src/paper.png)</a>
 
 - <a href="https://www.gastrointestinalatlas.com/english/english.html"> **El Salvador atlas of Gastrointestinal**</a><br>
 It displays 5154 video clips.<br>
