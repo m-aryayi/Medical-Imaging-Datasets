@@ -12,9 +12,13 @@ def extract_links_from_readme(file_path):
 
 
 def check_links(links):
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+    }
     for link in links:
         try:
-            response = requests.head(link, allow_redirects=True)
+            response = requests.get(link, allow_redirects=True,
+                                    headers=headers)
             if response.status_code == 404:
                 print(f"404 Not Found: {link}")
             else:
