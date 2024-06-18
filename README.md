@@ -68,7 +68,7 @@ T1-weighted MRI scans and fluid intelligence scores for children aged 9–10 yea
 
 - <a href="http://fcon_1000.projects.nitrc.org/indi/adhd200"> **ADHD-200**</a> (Attention Deficit Hyperactivity Disorder) <br>
 776 resting-state fMRI and anatomical datasets aggregated across 8 independent imaging sites. <br>
-<a href="fcon_1000.projects.nitrc.org/indi/adhd200/results.html"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/pii/S105381191630283X"> ![paper](src/paper.png)</a>
+<a href="http://fcon_1000.projects.nitrc.org/indi/adhd200/results.html"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/pii/S105381191630283X"> ![paper](src/paper.png)</a>
 
 - <a href="https://adni.loni.usc.edu/data-samples/access-data"> **ADNI**</a> (Alzheimer's Disease Neuroimaging Initiative) <br>
 ***Keyboard:*** Multi-modality <br>
@@ -844,7 +844,7 @@ Consisting of 4212 WSIs from 1153 patients <br>
 
 - <a href="https://bci.grand-challenge.org"> **BCI**</a> (Breast Cancer Immunohistochemical) <br>
 ***Keyboard:*** hematoxylin and eosin (HE) stained images, Image Generation, Labeled <br>
-<a href="https://bci.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="Breast Cancer Immunohistochemical"> ![paper](src/paper.png)</a>
+<a href="https://bci.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2204.11425"> ![paper](src/paper.png)</a>
 
 - <a href="https://bcnb.grand-challenge.org"> **BCNB**</a> (Breast Cancer Core-Needle Biopsy) <br>
 A dataset of Early Breast Cancer Core-Needle Biopsy WSI, which includes core-needle biopsy whole slide images of early breast cancer patients and the corresponding clinical data.  <br>
@@ -1340,7 +1340,7 @@ An database of COVID-19 cases with chest X-ray or CT images <br>
 ***Keyboard:*** CT scan, X-ray <br>
 <a href="https://arxiv.org/abs/2006.11988"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/2004.05405"> ![paper](src/paper.png)</a>
 
-- <a href="https://github.com/UCSD-AI4H/COVID-CT"> **COVID-CT**</a> <br>
+- <a href="https://covid-ct.grand-challenge.org"> **COVID-CT**</a> <br>
 It contains 349 COVID-19 CT images from 216 patients and 463 non-COVID-19 CTs<br>
 ***Keyboard:*** CT scan, Classification <br>
 <a href="https://covid-ct.grand-challenge.org/Leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2003.13865"> ![paper](src/paper.png)</a> 
@@ -1609,7 +1609,7 @@ A dataset of high-resolution 3D knee MRI including raw k-space data and post-pro
 - <a href="https://www.kaggle.com/datasets/shashwatwork/knee-osteoarthritis-dataset-with-severity"> **Knee Osteoarthritis Dataset with Severity Grading**</a> <br>
 ***Keyboard:*** X-ray, Labeled<br>
 
-- <a href="www.riteh.uniri.hr/~istajduh/projects/kneeMRI"> **kneeMRI**</a> <br>
+- <a href="http://www.riteh.uniri.hr/~istajduh/projects/kneeMRI"> **kneeMRI**</a> <br>
 The dataset consists of 917 12-bit grayscale volumes of either left or right knees. <br>
 ***Keyboard:*** MRI scans, Labeled<br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/28254071"> ![paper](src/paper.png)</a> 
