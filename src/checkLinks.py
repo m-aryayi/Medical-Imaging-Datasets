@@ -1,3 +1,7 @@
+'''
+This code is for checking the links in the readme file
+'''
+
 import re
 import requests
 
@@ -20,11 +24,11 @@ def check_links(links):
             response = requests.get(link, allow_redirects=True,
                                     headers=headers)
             if response.status_code == 404:
-                print(f"404 Not Found: {link}")
+                print(f" ** 404 Not Found: {link}")
             else:
                 None  # Link is OK, return None
         except requests.RequestException as e:
-            print(f"Error checking {link}: {e}")
+            print(f" ** Error checking {link}: {e}")
 
 
 
