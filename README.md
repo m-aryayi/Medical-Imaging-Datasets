@@ -1125,6 +1125,11 @@ The dataset consist of 45 cine-MRI images from a mixed of patients and pathologi
 ***Keyboard:*** Segmentation, Labeled <br>
 <a href="https://midasjournal.org/browse/publication/658"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.cardiacatlas.org/scmr-consensus-contours"> **SCMR Consensus Contours**</a> (Society for Cardiovascular Magnetic Resonance) <br>
+This dataset is designed to have the most reliable ground truth myocardial contours from short-axis MRI with multiple pathologies (1 healthy and 3 cardiac disease).<br>
+***Keyboard:*** Segmentation, Labeled <br>
+<a href="https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-015-0170-9"> ![paper](src/paper.png)</a>
+
 - <a href="https://multicenteraorta.grand-challenge.org"> **SEG.A. 2023**</a> (Segmentation of the Aorta) <br>
 ***Keyboard:*** CTA (Computed tomography angiography), Labeled, Aorta <br>
 <a href="https://multicenteraorta.grand-challenge.org/evaluation/preliminary-phase/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> 
