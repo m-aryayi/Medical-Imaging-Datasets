@@ -1027,6 +1027,9 @@ Coronary Calcium and chest CT’s.<br>
 A collection of CT pulmonary angiography (CTPA) for patients susceptible to Pulmonary Embolism (PE). In addition to slice-level PE labels, labels for PE location, RV/LV ratio, and PE type are provided. <br>
 ***Keyboard:*** Labeled<br>
 
+- <a href="https://www.cardiacatlas.org/determine"> **DETERMINE**</a> (Defibrillators to Reduce Risk by Magnetic Resonance Imaging Evaluation)<br>
+It consists of MR images and some 3D left ventricular models derived semi-automatically.<br>
+
 - <a href="https://echonet.github.io/dynamic/index.html"> **EchoNet-Dynamic**</a><br>
 A Cardiac Motion Video Data Resource for Medical Machine Learning includes 10,030 labeled echocardiogram videos <br>
 ***Keyboard:*** Echocardiography, Labeled <br>
