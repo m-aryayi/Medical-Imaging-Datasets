@@ -761,6 +761,11 @@ ______
 
 ### Bowel
 
+- <a href="https://polyp.grand-challenge.org/AsuMayo"> **ASU-Mayo**</a><br>
+Containing 19,400 frames and a total of 5,200 polyp instances from 10 unique polyps.<br>
+***Keyboard:*** Colonoscopy videos, Segmentation, Labeled <br>
+<a href="https://ieeexplore.ieee.org/document/7294676"> ![paper](src/paper.png)</a>
+
 - <a href="https://conic-challenge.grand-challenge.org"> **CoNIC**</a> (Colon Nuclei Identification and Counting) <br>
 ***Keyboard:*** whole-slide images (WSI), Nuclear segmentation and classification <br>
 <a href="https://conic-challenge.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2111.14485"> ![paper](src/paper.png)</a> 
