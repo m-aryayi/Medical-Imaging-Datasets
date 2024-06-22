@@ -817,6 +817,11 @@ Classification of molecular subtypes in colorectal cancer for whole-slide image 
 Tumor cellularity prediction in pancreatic cancer (supervised learning) and colon cancer (transfer learning) <br>
 <a href="https://2023paip.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://www.synapse.org/Synapse:syn26376615/wiki/613312"> **PolypGen**</a><br>
+This dataset is composed of a total of 8037 frames including both single and sequence frames.<br>
+***Keyboard:*** Detection, Segmentation, Video <br>
+<a href="https://www.nature.com/articles/s41597-023-01981-y"> ![paper](src/paper.png)</a>
+
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-coad"> **TCGA-COAD**</a> (The Cancer Genome Atlas Colon Adenocarcinoma)<br>
 Data from 25 subjects.<br>
 ***Keyboard:*** CT scan<br>
