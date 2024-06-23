@@ -526,6 +526,11 @@ A total of 1800 3D intra-oral scan for 900 patients covering their upper and low
 ***Keyboard:***  Labeeld, Segmentation <br>
 <a href="https://arxiv.org/abs/2305.18277"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/2210.06094"> ![paper](src/paper.png)</a>
 
+- <a href="https://cl-detection2023.grand-challenge.org"> **Cl-Detection 2023**</a><br>
+Cephalometric Landmark (CL) Detection in Lateral X-ray Images.<br>
+***Keyboard:*** Labeled <br>
+<a href="https://cl-detection2023.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
 - <a href="https://github.com/liangjiubujiu/CTooth"> **CTooth**</a> <br>
 The gathered data set consists of 5803 CBCT slices in total, out of which 4243 contain tooth annotations.<br>
 ***Keyboard:*** 3D dental CBCT, Segmentation, Labeled <br>
