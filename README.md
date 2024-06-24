@@ -1090,19 +1090,6 @@ The image database consists of 30 Late Gadolinium enhancement cardiovascular mag
 ***Keyboard:*** Cardiac MRI (CMR), Segmentation <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S1361841516000050"> ![paper](src/paper.png)</a>
 
-- <a href="https://zmiclab.github.io/zxh/0/mscmrseg19"> **MS-CMRSeg**</a> (Multi-sequence Cardiac MR Segmentation) <br>
-Data from 45 patients. <br>
-***Keyboard:*** Cardiac MRI (CMR), Segmentation, Labeled <br>
-
-- <a href="https://zmiclab.github.io/zxh/0/mmwhs"> **MM-WHS**</a> (Multi-Modality Whole Heart Segmentation)<br>
-It provides multi-modality cardiac images acquired in real clinical environment. <br>
-***Keyboard:*** Anonymized clinical MRI and CT scan, Labeled <br>
-<a href="https://ieeexplore.ieee.org/document/8458220"> ![paper](src/paper.png)</a> | <a href="https://ieeexplore.ieee.org/document/9921323"> ![paper](src/paper.png)</a>
-
-- <a href="https://www.creatis.insa-lyon.fr/Challenge/myosaiq"> **MYOSAIQ**</a> (MYOcardial Segmentation with Automated Infarct Quantification)<br>
-The full dataset is composed of 467 Late gadolinium enhanced magnetic resonance images from two different cohorts to quantify myocardial infarction (MI) lesions at different phases of the longitudinal evolution of the disease<br>
-***Keyboard:*** MRI, Segmentation <br>
-
 - <a href="https://www.ub.edu/mnms"> **M&Ms**</a> <br>
 Multi-Centre, Multi-Vendor and Multi-Disease Cardiac Segmentation <br>
 ***Keyboard:***  Cardiac MRI (CMR)<br>
@@ -1113,6 +1100,19 @@ Multi-Disease, Multi-View & Multi-Center
 Right Ventricular Segmentation in Cardiac MRI <br>
 ***Keyboard:***  Cardiac MRI (CMR)<br>
 <a href="https://competitions.codalab.org/competitions/31559#results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/10103611"> ![paper](src/paper.png)</a>
+
+- <a href="https://zmiclab.github.io/zxh/0/mmwhs"> **MM-WHS**</a> (Multi-Modality Whole Heart Segmentation)<br>
+It provides multi-modality cardiac images acquired in real clinical environment. <br>
+***Keyboard:*** Anonymized clinical MRI and CT scan, Labeled <br>
+<a href="https://ieeexplore.ieee.org/document/8458220"> ![paper](src/paper.png)</a> | <a href="https://ieeexplore.ieee.org/document/9921323"> ![paper](src/paper.png)</a>
+
+- <a href="https://zmiclab.github.io/zxh/0/mscmrseg19"> **MS-CMRSeg**</a> (Multi-sequence Cardiac MR Segmentation) <br>
+Data from 45 patients. <br>
+***Keyboard:*** Cardiac MRI (CMR), Segmentation, Labeled <br>
+
+- <a href="https://www.creatis.insa-lyon.fr/Challenge/myosaiq"> **MYOSAIQ**</a> (MYOcardial Segmentation with Automated Infarct Quantification)<br>
+The full dataset is composed of 467 Late gadolinium enhanced magnetic resonance images from two different cohorts to quantify myocardial infarction (MI) lesions at different phases of the longitudinal evolution of the disease<br>
+***Keyboard:*** MRI, Segmentation <br>
 
 - <a href="https://www.ocmr.info"> **OCMR**</a> <br>
 Open-Access Multi-Coil k-Space Dataset for Cardiovascular Magnetic Resonance Imaging <br>
