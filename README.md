@@ -1587,15 +1587,15 @@ It includes two subsets. <br>
 ***Keyboard:*** CT scan, Segmentation <br>
 <a href="https://arxiv.org/abs/2210.09309"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/2109.09521"> ![paper](src/paper.png)</a> 
 
-- <a href="https://www.rsna.org/rsnai/ai-image-challenge/cervical-spine-fractures-ai-detection-challenge-2022"> **RSNA Cervical Spine Fracture**</a> (Radiological Society of North America 2022) <br>
-Including approximately 3,000 CT <br>
-***Keyboard:*** CT scan, Labeled<br>
-<a href="https://www.kaggle.com/competitions/rsna-2022-cervical-spine-fracture-detection/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
-
 - <a href="https://www.kaggle.com/datasets/kmader/rsna-bone-age"> **RSNA Bone Age**</a> (Radiological Society of North America 2017) <br>
 Identify the age of a child from an X-ray of their hand <br>
 ***Keyboard:*** X-ray, Labeled<br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/30480490"> ![paper](src/paper.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/30615556"> ![paper](src/paper.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/29095675"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.rsna.org/rsnai/ai-image-challenge/cervical-spine-fractures-ai-detection-challenge-2022"> **RSNA Cervical Spine Fracture**</a> (Radiological Society of North America 2022) <br>
+Including approximately 3,000 CT <br>
+***Keyboard:*** CT scan, Labeled<br>
+<a href="https://www.kaggle.com/competitions/rsna-2022-cervical-spine-fracture-detection/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
 - <a href="https://spider.grand-challenge.org"> **SPIDER**</a> (SPIne Segmentation: Discs, vERtebrae, and spinal canal)<br>
 A lumbar spine MR dataset with reference segmentations of vertebrae, intervertebral discs (IVDs), and spinal canal <br>
@@ -1674,14 +1674,14 @@ _______
 
 ### Female Reproductive Organs
 
+- <a href="https://a-afma.grand-challenge.org"> **A-AFMA**</a> (Automatic amniotic fluid measurement and analysis) <br>
+The goal is measurement of the maximum vertical pocket (MVP) <br>
+***Keyboard:*** Ultrasound Video Clip <br>
+
 - <a href="https://github.com/cwwang1979/MICCAI_ATEC23challenge"> **ATEC23**</a> <br>
 Automated prediction of treatment effectiveness in ovarian cancer using histopathological images <br>
 ***Keyboard:*** Whole Slide Images (WSIs), Cancer <br>
 <a href="https://arxiv.org/abs/2310.12866"> ![paper](src/paper.png)</a>
-
-- <a href="https://a-afma.grand-challenge.org"> **A-AFMA**</a> (Automatic amniotic fluid measurement and analysis) <br>
-The goal is measurement of the maximum vertical pocket (MVP) <br>
-***Keyboard:*** Ultrasound Video Clip <br>
 
 - <a href="https://github.com/parham-ap/cytology_dataset"> **Cervix93**</a> <br>
 A Cervical Cytology Dataset for Nucleus Detection and Image Classification and Methods for Cervical Nucleus Detection <br>
