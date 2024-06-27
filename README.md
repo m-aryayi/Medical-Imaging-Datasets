@@ -1030,6 +1030,11 @@ The dataset is composed of 45 sequences of 3D ultrasound volumes of one cardiac 
 ***Keyboard:***  Ultrasound imaging, Segmentation <br>
 <a href="https://www.creatis.insa-lyon.fr/Challenge/CETUS/results.html"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://capchd.ucsd.edu"> **CHD**</a> (Congenital Heart Disease)<br>
+Physiologic clinical data, and computational models from adults and children with various congenital heart defects.<br>
+***Keyboard:*** MRI <br>
+<a href="https://www.nature.com/articles/s41598-023-28358-w"> ![paper](src/paper.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/36849960"> ![paper](src/paper.png)</a>
+
 - <a href="https://stanfordaimi.azurewebsites.net/datasets/e8ca74dc-8dd4-4340-815a-60b41f6cb2aa"> **COCA**</a><br>
 Coronary Calcium and chest CT’s.<br>
 ***Keyboard:*** Segmentation<br>
