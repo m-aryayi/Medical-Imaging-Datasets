@@ -1110,6 +1110,10 @@ Right Ventricular Segmentation in Cardiac MRI <br>
 It aims to investigate the manifestation of subclinical to clinical cardiovascular disease before signs and symptoms develop.<br>
 ***Keyboard:*** MRI<br>
 
+- <a href="https://www.cardiacatlas.org/mitea"> **MITEA**</a> (MR-Informed Three-dimensional Echocardiography Analysis)<br>
+The dataset consists of annotated 3D echocardiography (3DE) data using labels derived from paired CMR scans acquired in a mixed cohort of 134 human subjects (82 healthy controls and 52 patients with acquired cardiac disease).<br>
+<a href="https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2022.1016703/full"> ![paper](src/paper.png)</a>
+
 - <a href="https://zmiclab.github.io/zxh/0/mmwhs"> **MM-WHS**</a> (Multi-Modality Whole Heart Segmentation)<br>
 It provides multi-modality cardiac images acquired in real clinical environment. <br>
 ***Keyboard:*** Anonymized clinical MRI and CT scan, Labeled <br>
