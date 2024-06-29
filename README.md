@@ -995,6 +995,9 @@ The dataset contains data from 150 multi-equipments CMRI recordings with referen
 ***Keyboard:***  Cardiac MRI (CMR), Segmentation <br>
 <a href="https://www.creatis.insa-lyon.fr/Challenge/acdc/results.html"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/29994302"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.creatis.insa-lyon.fr/Challenge/acdc"> **AMRG Cardiac Atlas**</a><br>
+There are 4 protocols used to create the cardiac atlas: T1-Weighted Images, True FISP Cines, MR tagging and contrast MRI. <br>
+
 - <a href="https://arcade.grand-challenge.org"> **ARCADE**</a> <br>
 Automatic Region-based Coronary Artery Disease Diagnostics Using X-Ray Angiography Images <br>
 ***Keyboard:***  X-ray coronary angiography, Labeled <br>
