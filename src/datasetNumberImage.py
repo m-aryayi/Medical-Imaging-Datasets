@@ -44,7 +44,7 @@ data = {
        'Male Reproductive Organs': 13,
        'Lymph Nodes': 6,
        'Skin': 7,
-       'Multi Organs Datasets' : 45
+       'Multi Organs Datasets' : 46
 }
 
 df = pd.DataFrame.from_dict(data, orient='index', columns=['number'])
