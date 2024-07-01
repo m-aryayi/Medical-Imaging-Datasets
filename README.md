@@ -39,6 +39,7 @@ This repository is a collection of publicly available medical imaging datasets. 
 
 - ![Leaderboard](src/leaderboard.png) The link of leaderboard.
 - ![paper](src/paper.png) The link of related papers.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/64px-Cc.logo.circle.svg.png?20101104143155" alt="Creative Commons logo" height="22"> The licence of the dataset.
 
 ![NumberOfDataSet](src/numberOfDatasets.png)
 
