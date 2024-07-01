@@ -2120,7 +2120,7 @@ ______
 ## Notes and Contributions
 
 The papers mentioned only use or explain the datasets. They are here to make it easier to find them. You don't have to cite them. <br>
-**To know how to refer to each dataset, check its description.** <br>
+**To know how to refer to each dataset and be sure of their latest usage license, <u>check its description</u>.** <br>
 If you find any issues with the datasets (like broken links, order, description, etc.), please let me know.<br>
 If you know of any other datasets that aren't on the list, please ***contribute*** and add them to make the list more complete.
 
