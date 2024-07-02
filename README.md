@@ -39,7 +39,7 @@ This repository is a collection of publicly available medical imaging datasets. 
 
 - ![Leaderboard](src/leaderboard.png) The link of leaderboard.
 - ![paper](src/paper.png) The link of related papers.
-- ![paper](src/CcLogo.png) The licence of the dataset.
+- ![licence](src/CcLogo.png) The licence of the dataset.
 
 ![NumberOfDataSet](src/numberOfDatasets.png)
 
@@ -1841,7 +1841,8 @@ Evaluate new and existing algorithms for automated detection and classification 
 
 - <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=19726546"> **CT Lymph nodes**</a> <br>
 90 CTs dataset of lymph nodes <br>
-***Keyboard:*** CT scan, Lymph node detection
+***Keyboard:*** CT scan, Lymph node detection <br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 - <a href="https://lnq2023.grand-challenge.org"> **LNQ2023**</a> (Mediastinal Lymph Node Quantification) <br>
 Segmentation of Heterogeneous CT Data <br>
@@ -1904,7 +1905,8 @@ ______
 - <a href="https://github.com/MrGiovanni/AbdomenAtlas"> **AbdomenAtlas**</a> <br>
 8,448 CT volumes, totaling 3.2 million CT slices. <br>
 ***Keyboard:*** *Spleen, liver, kidneys, stomach, gallbladder, pancreas, aorta, and IVC*, CT Scan, Segmentation, Labeled <br>
-<a href="https://arxiv.org/abs/2305.09666"> ![paper](src/paper.png)</a>
+<a href="https://arxiv.org/abs/2305.09666"> ![paper](src/paper.png)</a> <br>
+![licence](src/CcLogo.png) CC BY-NC 4.0
 
 - <a href="https://abdomenct-1k-fully-supervised-learning.grand-challenge.org"> **AbdomenCT-1K**</a> <br>
 The dataset with more than 1000 (1K) abdominal organ scans. <br>
@@ -1927,10 +1929,12 @@ A large-scale abdominal multi-organ benchmark for versatile medical image segmen
 - <a href="https://www.cancerimagingarchive.net/collection/fdg-pet-ct-lesions"> **AutoPET**</a><br>
 A whole-body FDG-PET/CT dataset with manually annotated tumor lesions (FDG-PET-CT-Lesions) <br>
 ***Keyboard:*** PET - CT scan, Labeled <br>
+![licence](src/CcLogo.png) TCIA Restricted 
 
 - <a href="https://neurips22-cellseg.grand-challenge.org"> **Cell Segmentation in Multi-modality Microscopy Images**</a> <br>
 ***Keyboard:*** Multi tissues, High-Resolution Microscopy Images, Segmentation, Labeled <br>
-<a href="https://neurips22-cellseg.grand-challenge.org/evaluation/testing/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2308.05864"> ![paper](src/paper.png) Summary Paper</a>
+<a href="https://neurips22-cellseg.grand-challenge.org/evaluation/testing/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2308.05864"> ![paper](src/paper.png) Summary Paper</a> <br>
+![licence](src/CcLogo.png) CC BY-NC-ND
 
 - <a href="https://chaos.grand-challenge.org"> **CHAOS**</a> (Combined (CT-MR) Healthy Abdominal Organ Segmentation) <br>
 There are 20 training and 20 testing cases in the CT dataset. MRI dataset contains 20 training and 20 testing cases with T1-Dual and T2 SPIR sequences. <br>
@@ -1940,11 +1944,13 @@ There are 20 training and 20 testing cases in the CT dataset. MRI dataset contai
 - <a href="https://www.cancerimagingarchive.net/collection/ct-org"> **CT-ORG**</a><br>
 This dataset consists of 140 computed tomography scans come from a wide variety of sources. <br>
 ***Keyboard:*** *Bone, Liver, Lung, Kidney and Bladder*, CT scan<br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 - <a href="http://medicaldecathlon.com"> **Decathlon**</a> <br>
 Medical Segmentation Decathlon (MSD) Generalisable 3D Semantic Segmentation. <br>
 ***Keyboard:***  *Liver, Brain, Hippocampus, Lung, Prostate, Cardiac, Pancreas, Colon,  Hepatic Vessels  and Spleen*, Multi-modality, Labeled <br>
-<a href="http://medicaldecathlon.com/results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.nature.com/articles/s41467-022-30695-9"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/1902.09063"> ![paper](src/paper.png)</a>
+<a href="http://medicaldecathlon.com/results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.nature.com/articles/s41467-022-30695-9"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/1902.09063"> ![paper](src/paper.png)</a> <br>
+![licence](src/CcLogo.png) CC-BY-SA 4.0
 
 - <a href="https://nihcc.app.box.com/v/DeepLesion"> **DeepLesion**</a><br>
 A dataset with 32,735 lesions in 32,120 CT slices from 10,594 studies of 4,427 unique patients. <br>
