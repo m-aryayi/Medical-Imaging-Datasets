@@ -1968,7 +1968,8 @@ Facilitating diagnosis and treatment of diseases in hollow organs. <br>
 
 - <a href="https://fastpet-ld.grand-challenge.org"> **fastPET-LD**</a> (Fast PET-CT lesion detection) <br>
 ***Keyboard:*** Hot spots, PET - CT scan, Labeled, Detection <br>
-<a href="https://fastpet-ld.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+<a href="https://fastpet-ld.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> <br>
+![licence](src/CcLogo.png) Participants cannot share the data, cannot use it for any commercial purpose.
 
 - <a href="https://flare22.grand-challenge.org"> **FLARE 2022**</a> (Fast and Low-resource semi-supervised Abdominal oRgan sEgmentation) <br>
 A small number of labeled cases (50) and a large number of unlabeled cases (2000) in the training set. <br>
@@ -2012,20 +2013,24 @@ Foundation Model Prompting for Medical Image Classification <br>
 
 - <a href="https://medshapenet.ikim.nrw"> **MedShapeNet**</a> <br>
 This dataset contains over 100,000 3D medical shapes, including bones, organs, vessels, muscles, etc., as well as surgical instruments. It has used in <a href='https://autoimplant.grand-challenge.org'> AutoImplant </a> <br>
-<a href="https://proj-page.github.io/medshapenet_publications.html"> ![paper](src/paper.png)</a>
+<a href="https://proj-page.github.io/medshapenet_publications.html"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY NC 4.0
 
 - <a href="https://monusac-2020.grand-challenge.org"> **MoNuSAC2020**</a> <br>
 The dataset has over 46,000 nuclei, 71 patients, four organs, and four nucleus types.<br>
 ***Keyboard:*** *Lung, Prostate, Kidney, and Breast*, H&E staining, Classification, Segmentation<br>
-<a href="https://monusac-2020.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/abstract/document/9446924"> ![paper](src/paper.png) Details</a>
+<a href="https://monusac-2020.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/abstract/document/9446924"> ![paper](src/paper.png) Details</a> <br>
+![licence](src/CcLogo.png) CC BY-NC-SA 4.0
 
 - <a href="https://monuseg.grand-challenge.org"> **MoNuSeg**</a><br>
 ***Keyboard:*** Multi tissues, H&E stained tissue images, Segmentation, Labeled <br>
-<a href="https://monuseg.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/8880654"> ![paper](src/paper.png)</a>
+<a href="https://monuseg.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/8880654"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC-SA 4.0
 
 - <a href="http://mridata.org"> **MRIdata**</a> <br>
 It is a list of magnetic resonance imaging raw k-space datasets. <br>
 ***Keyboard:*** MRI <br>
+![licence](src/CcLogo.png) CC BY-NC 4.0
 
 - <a href="https://www.synapse.org/#!Synapse:syn3193805/wiki"> **Multi-Atlas Labeling Beyond the Cranial Vault**</a> <br>
 It has two subdatasets: Abdominal and Cervix<br>
@@ -2045,11 +2050,13 @@ This dataset contains 665 image patches with more than 30,000 manually segmented
 - <a href="https://lunit-io.github.io/research/ocelot_dataset"> **OCELOT**</a> <br>
 A dataset purposely dedicated to the study of cell-tissue relationships for cell detection in histopathology <br>
 ***Keyboard:*** *Kidney, Head-neck, Prostate, Stomach, Endometrium, and Bladder*, Whole-slide images (WSIs) <br>
-<a href="https://ocelot2023.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2303.13110"> ![paper](src/paper.png)</a>
+<a href="https://ocelot2023.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2303.13110"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC-BY-NC 4.0
 
 - <a href="https://data.mendeley.com/datasets/rscbjbr9sj/2"> **OCT and Chest X-Ray images**</a><br>
 ***Keyboard:*** *Eye and Chest*, OCT, X-ray, Classification, Labeled<br>
-<a href="https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5"> ![paper](src/paper.png)</a>
+<a href="https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://www.olympus-europa.com/medical/en/Products-and-Solutions/Medical-Solutions/EndoAtlas"> **Olympus EndoAtlas**</a> <br>
 It is solely for use by qualified medical professionals. <br>
@@ -2058,12 +2065,14 @@ It is solely for use by qualified medical professionals. <br>
 - <a href="https://paip2021.grand-challenge.org"> **PAIP2021**</a> <br>
 Detection of Perineural Invasion in Multiple Organ Cancer <br>
 ***Keyboard:*** *Colon, Prostate and Pancreatobiliary tract*, Whole-slide images (WSIs), Cancer, Labeled <br>
-<a href="https://paip2021.grand-challenge.org/evaluation/validation/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+<a href="https://paip2021.grand-challenge.org/evaluation/validation/leaderboard"> ![Leaderboard](src/leaderboard.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC 4.0
 
 - <a href="https://warwick.ac.uk/fac/cross_fac/tia/data/pannuke"> **PanNuke**</a> <br>
 Nuclei labels across 19 different tissue types.<br>
 ***Keyboard:*** Multi-tissue, whole-slide images (WSIs), Classification, Segmentation<br>
-<a href="https://link.springer.com/chapter/10.1007/978-3-030-23937-4_2"> ![paper](src/paper.png) Details</a> | <a href="https://arxiv.org/abs/2003.10778"> ![paper](src/paper.png) Details</a>
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-23937-4_2"> ![paper](src/paper.png) Details</a> | <a href="https://arxiv.org/abs/2003.10778"> ![paper](src/paper.png) Details</a><br>
+![licence](src/CcLogo.png) CC BY-NC-SA 4.0
 
 - <a href="https://huggingface.co/datasets/xmcmic/PMC-VQA"> **PMC-VQA**</a><br>
 It contains 227k VQA (Visual Question Answerin) pairs of 149k images, covering various modalities or diseases <br>
@@ -2078,7 +2087,8 @@ Including more than 4,000 CT exams with various abdominal injuries and a roughly
 - <a href="https://zenodo.org/records/7056076"> **SCR**</a><br>
 Segmentations Chest X-Rays images from JSRT. <br>
 ***Keyboard:*** *Lungs, Heart, Clavicle*, Labeled<br>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841505000368"> ![paper](src/paper.png)</a>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841505000368"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://segrap2023.grand-challenge.org"> **SegRap2023**</a> <br>
 A Benchmark of Organs-at-Risk and Gross Tumor Volume Segmentation for Radiotherapy Planning of Nasopharyngeal Carcinoma <br>
@@ -2091,7 +2101,9 @@ The dataset includes 60 3D CT scans, divided into a training set of 40 and a tes
 <a href="https://competitions.codalab.org/competitions/21145#results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/9286453"> ![paper](src/paper.png)</a>
 
 - <a href="https://www.smir.ch/objects/214315"> **SMIR**</a> <br>
-This collection contains post mortem CT scans of the whole body. <br>
+This collection contains post mortem CT scans of the whole body. <br><br>
+![licence](src/CcLogo.png) CC_BY_NC_SA_3.0
+
 
 - <a href="https://structseg2019.grand-challenge.org"> **StructSeg2019**</a> <br>
 Segmentation of organs-at-risk (OAR) and gross target volume (GTV) of tumors of two types of cancers, nasopharynx cancer and lung cancer, for radiation therapy planning. <br>
@@ -2100,11 +2112,13 @@ Segmentation of organs-at-risk (OAR) and gross target volume (GTV) of tumors of 
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-sarc"> **TCGA-SARC**</a> (The Cancer Genome Atlas Sarcoma)<br>
 Data from 5 subjects and 5653 images<br>
 ***Keyboard:*** *Chest-Abdomen-Pelvis, Leg, and TSpine*, Multi-modality, Segmentation <br>
+![licence](src/CcLogo.png) CC BY 3.0 
 
 - <a href="https://zenodo.org/records/10047292"> **TotalSegmentator**</a><br>
 1228 images with segmented 117 anatomical structures
 ***Keyboard:*** Multi-tissue, CT scan, Segmentation, Labeled<br>
-<a href="https://pubs.rsna.org/doi/10.1148/ryai.230024"> ![paper](src/paper.png)</a>
+<a href="https://pubs.rsna.org/doi/10.1148/ryai.230024"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0 
 
 - <a href="https://ultra-low-dose-pet.grand-challenge.org"> **Ultra-low Dose PET Imaging**</a> <br>
 The dataset contains 1447 subjects of whole-body 18F-FDG PET imaging <br>
@@ -2117,7 +2131,8 @@ The dataset contains 1447 subjects of whole-body 18F-FDG PET imaging <br>
 - <a href="https://github.com/HiLab-git/WORD"> **WORD**</a><br>
 This dataset contains 150 abdominal CT volumes (30495 slices). <br>
 ***Keyboard:*** 16 organs, CT scan, Segmentation<br>
-<a href="https://arxiv.org/abs/2111.02403"> ![paper](src/paper.png)</a>
+<a href="https://arxiv.org/abs/2111.02403"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) GNU General Public License v3.0
 
 
 
