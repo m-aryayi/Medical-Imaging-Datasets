@@ -41,9 +41,9 @@ data = {
        'Bones': 13, 
        'Joints': 10, 
        'Female Reproductive Organs': 16,
-       'Male Reproductive Organs': 13,
-       'Lymph Nodes': 6,
-       'Skin': 7,
+       'Male Reproductive Organs': 14,
+       'Lymph Nodes': 7,
+       'Skin': 8,
        'Multi Organs Datasets' : 46
 }
 
