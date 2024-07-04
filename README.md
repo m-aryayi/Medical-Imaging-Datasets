@@ -1775,6 +1775,10 @@ Dataset of prostatectomy and biopsy specimens with annotations  <br>
 ***Keyboard:*** Cancer<br>
 <a href="https://auto-rtp.grand-challenge.org/evaluation/data-format-confirmation/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://www.cancerimagingarchive.net/collection/cmb-pca">**CMB-PCA**</a> (Cancer Moonshot Biobank - Prostate Cancer) <br>
+***Keyboard:*** Multi-modality <br>
+![licence](src/CcLogo.png) CC BY 4.0 - TCIA Restricted 
+
 - <a href="https://gleason2019.grand-challenge.org"> **Gleason 2019**</a> <br>
 Gleason grading of prostate cancer in digital histopathology images <br>
 ***Keyboard:*** H&E-stained histopathology image, Cancer, Labeled <br>
@@ -1829,6 +1833,11 @@ ______
 
 ### Lymph Nodes
 
+- <a href="https://www.cancerimagingarchive.net/collection/calgb50303"> **CALGB50303**</a> <br>
+Rituximab and Combination Chemotherapy in Treating Patients With Diffuse Large B-Cell Non-Hodgkin's Lymphoma <br>
+***Keyboard:*** Cancer, Multi-modality<br>
+<a href="https://ascopubs.org/doi/10.1200/JCO.18.01994"> ![paper](src/paper.png)</a> | <a href="https://ashpublications.org/blood/article/135/25/2224/452697/Prognostic-value-of-interim-FDG-PET-in-diffuse"> ![paper](src/paper.png)</a>
+
 - <a href="https://camelyon16.grand-challenge.org"> **CAMELYON16**</a> <br>
 Detection of metastases in hematoxylin and eosin (H&E) stained whole-slide images of lymph node sections <br>
 ***Keyboard:*** Cancer, Digital pathology, Lymph node detection <br>
@@ -1863,6 +1872,10 @@ Image classification dataset consists of 327.680 color images extracted from his
 
 
 ### Skin
+
+- <a href="https://www.cancerimagingarchive.net/collection/cptac-cm">**CPTAC-CM**</a> (Clinical Proteomic Tumor Analysis Consortium Cutaneous Melanoma) <br>
+***Keyboard:*** Multi-modality, Cancer <br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 - <a href="https://ddi-dataset.github.io"> **DDI**</a> (Diverse Dermatology Images)<br>
 A biopsy-proven skin disease dataset with diverse skin tone representation. <br>
