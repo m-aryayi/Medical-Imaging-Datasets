@@ -1853,6 +1853,11 @@ Evaluate new and existing algorithms for automated detection and classification 
 ***Keyboard:*** CT scan, Lymph node detection <br>
 ![licence](src/CcLogo.png) CC BY 3.0
 
+- <a href="https://www.cancerimagingarchive.net/collection/dlbcl-morphology">**DLBCL-Morphology**</a><br>
+H&E and immunohistochemical stain images of 209 cases of diffuse large B-cell lymphoma linked with cytogenetic features and clinical outcomes. <br>
+***Keyboard:*** Histopathology, Cancer <br>
+![licence](src/CcLogo.png) CC BY-NC 4.0
+
 - <a href="https://lnq2023.grand-challenge.org"> **LNQ2023**</a> (Mediastinal Lymph Node Quantification) <br>
 Segmentation of Heterogeneous CT Data <br>
 ***Keyboard:*** CT scan, Cancer  <br>
@@ -1872,6 +1877,11 @@ Image classification dataset consists of 327.680 color images extracted from his
 
 
 ### Skin
+
+- <a href="https://www.cancerimagingarchive.net/collection/anti-pd-1_melanoma">**Anti-PD-1_MELANOMA**</a><br>
+This collection includes 47 melanoma cases treated with anti-PD1 immunotherapy, each with pre-treatment and 1 or more imaging follow-up timepoints. <br>
+***Keyboard:*** Multi-modality, Cancer <br>
+![licence](src/CcLogo.png) TCIA Restricted
 
 - <a href="https://www.cancerimagingarchive.net/collection/cptac-cm">**CPTAC-CM**</a> (Clinical Proteomic Tumor Analysis Consortium Cutaneous Melanoma) <br>
 ***Keyboard:*** Multi-modality, Cancer <br>
