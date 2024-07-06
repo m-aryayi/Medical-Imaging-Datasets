@@ -31,7 +31,28 @@ def check_links(links):
             print(f" ** Error checking {link}: {e}")
 
 
+def check_for_duplicates(links):
+    seen_links = {}
+    for link in links:
+        if link in seen_links:
+            seen_links[link] += 1
+        else:
+            seen_links[link] = 1
+
+    duplicates_found = False
+    for link, count in seen_links.items():
+        if count > 1:
+            if not duplicates_found:
+                print(" ** Duplicate links found:")
+                duplicates_found = True
+            print(f" ** {link} appears {count} times")
+
+    if not duplicates_found:
+        print(" ** No duplicate links found")
+
+
 
 file_path = './README.md'
 links = extract_links_from_readme(file_path)
 check_links(links)
+check_for_duplicates(links)
