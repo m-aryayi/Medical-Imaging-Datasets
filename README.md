@@ -1014,7 +1014,7 @@ The dataset consists of clinical exams from 500 patients<br>
 ***Keyboard:***  2D echocardiographic images <br>
 <a href="https://www.creatis.insa-lyon.fr/Challenge/camus/results.html"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/30802851"> ![paper](src/paper.png)</a>
 
-- <a href="https://www.kaggle.com/datasets/xiaoweixumedicalai/imagealcapa"> **CardiacUDA**</a> (Unsupervised Domain Adaption) <br>
+- <a href="https://www.kaggle.com/datasets/xiaoweixumedicalai/cardiacudc-dataset"> **CardiacUDA**</a> (Unsupervised Domain Adaption) <br>
 ***Keyboard:*** Echocardiogram Videos <br>
 <a href="https://arxiv.org/abs/2309.11145"> ![paper](src/paper.png)</a>
 
