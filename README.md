@@ -1016,7 +1016,8 @@ The dataset consists of clinical exams from 500 patients<br>
 
 - <a href="https://www.kaggle.com/datasets/xiaoweixumedicalai/cardiacudc-dataset"> **CardiacUDA**</a> (Unsupervised Domain Adaption) <br>
 ***Keyboard:*** Echocardiogram Videos <br>
-<a href="https://arxiv.org/abs/2309.11145"> ![paper](src/paper.png)</a>
+<a href="https://arxiv.org/abs/2309.11145"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Apache 2.0
 
 - <a href="https://vessel-wall-segmentation.grand-challenge.org"> **Carotid Artery Vessel Wall**</a> <br>
 ***Keyboard:*** Segmentation, Labeled <br>
@@ -1027,7 +1028,8 @@ The goal is to enable an easy and objective comparison of different dynamic reco
 - <a href="https://figshare.com/articles/dataset/CDEMRIS_fibrosis_scar_challenge_data_2012/4214532"> **cDEMRIS**</a> (Cardiac Delayed Enhancement Segmentation Challenge)<br>
 The dataset includes Late Gadolinium enhancement (LGE) cardiovascular magnetic resonance imaging used to visualise regions of fibrosis and scarring in the left atrium (LA) myocardium.<br>
 ***Keyboard:*** Cardiac MRI (CMR), Segmentation <br>
-<a href="https://jcmr-online.biomedcentral.com/articles/10.1186/1532-429X-15-105"> ![paper](src/paper.png)</a>
+<a href="https://jcmr-online.biomedcentral.com/articles/10.1186/1532-429X-15-105"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://www.creatis.insa-lyon.fr/Challenge/CETUS/"> **CETUS**</a> (Challenge on Endocardial Three-dimensional Ultrasound Segmentation) <br>
 The dataset is composed of 45 sequences of 3D ultrasound volumes of one cardiac cycle from 45 patients to compare left ventricle segmentation methods for both End Diastolic and End Systolic phase instances.<br>
@@ -1042,6 +1044,7 @@ Physiologic clinical data, and computational models from adults and children wit
 - <a href="https://stanfordaimi.azurewebsites.net/datasets/e8ca74dc-8dd4-4340-815a-60b41f6cb2aa"> **COCA**</a><br>
 Coronary Calcium and chest CT’s.<br>
 ***Keyboard:*** Segmentation<br>
+![licence](src/CcLogo.png) Stanford university dataset research use aggrement
 
 - <a href="https://vessel-wall-segmentation-2022.grand-challenge.org"> **COSMOS**</a> (CarOtid vessel wall SegMentation and atherosclerOsis diagnosiS) <br>
 ***Keyboard:***  3D-VISTA (volume isotropic turbo spin echo acquisition) images <br>
@@ -1050,6 +1053,7 @@ Coronary Calcium and chest CT’s.<br>
 - <a href="https://stanfordaimi.azurewebsites.net/datasets/12c02840-2e13-42a2-b4ef-f682472d4694"> **CT Pulmonary Angiography**</a><br>
 A collection of CT pulmonary angiography (CTPA) for patients susceptible to Pulmonary Embolism (PE). In addition to slice-level PE labels, labels for PE location, RV/LV ratio, and PE type are provided. <br>
 ***Keyboard:*** Labeled<br>
+![licence](src/CcLogo.png) Stanford university dataset research use aggrement
 
 - <a href="https://www.cardiacatlas.org/determine"> **DETERMINE**</a> (Defibrillators to Reduce Risk by Magnetic Resonance Imaging Evaluation)<br>
 It consists of MR images and some 3D left ventricular models derived semi-automatically.<br>
@@ -1072,7 +1076,8 @@ A Pediatric data resource includes 7,643 labeled echocardiogram videos <br>
 - <a href="https://www.kaggle.com/datasets/aysendegerli/hmcqu-dataset"> **HMC-QU**</a><br>
 The dataset includes a collection of apical 4-chamber (A4C) and apical 2-chamber (A2C) view 2D echocardiography.<br>
 ***Keyboard:*** Myocardial Infarction, Detection, Segmentation, Labeled <br>
-<a href="https://www.sciencedirect.com/science/article/pii/S1746809423008819"> ![paper](src/paper.png)</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S1746809423008819"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO)
 
 - <a href="https://www.kaggle.com/datasets/xiaoweixumedicalai/imagealcapa"> **ImageALCAPA**</a> (Anomalous left coronary artery from pulmonary artery) <br>
 30 3D CTA images. <br>
