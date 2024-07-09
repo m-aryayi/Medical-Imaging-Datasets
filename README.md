@@ -1082,27 +1082,32 @@ The dataset includes a collection of apical 4-chamber (A4C) and apical 2-chamber
 - <a href="https://www.kaggle.com/datasets/xiaoweixumedicalai/imagealcapa"> **ImageALCAPA**</a> (Anomalous left coronary artery from pulmonary artery) <br>
 30 3D CTA images. <br>
 ***Keyboard:*** CTA (Computed tomography angiography), Labeled, Segmentation  <br>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0895611123001052"> ![paper](src/paper.png)</a>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0895611123001052"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Apache 2.0
 
 - <a href="https://www.kaggle.com/datasets/xiaoweixumedicalai/imagecas"> **ImageCAS**</a> (Coronary Artery Segmentation) <br>
 A Dataset and for Coronary Artery Segmentation based on CT. <br>
 ***Keyboard:*** CTA (Computed tomography angiography), Segmentation  <br>
-<a href="https://ieeexplore.ieee.org/document/9994951"> ![paper](src/paper.png)</a>
+<a href="https://ieeexplore.ieee.org/document/9994951"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Apache 2.0
 
 - <a href="https://www.kaggle.com/datasets/xiaoweixumedicalai/imagechd"> **ImageCHD**</a> (Congenital Heart Disease) <br>
 A 3D CT Image Dataset for classification of Congenital Heart Disease. <br>
 ***Keyboard:*** CT scan, Labeled <br>
-<a href="https://arxiv.org/abs/2101.10799"> ![paper](src/paper.png)</a> 
+<a href="https://arxiv.org/abs/2101.10799"> ![paper](src/paper.png)</a> <br>
+![licence](src/CcLogo.png) Apache 2.0
 
 - <a href="https://www.kaggle.com/datasets/xiaoweixumedicalai/imagetbad"> **ImageTBAD**</a> <br>
 A 3D CT Image Dataset for Automatic Segmentation of of Type-B Aortic Dissection. <br>
 ***Keyboard:*** CTA (Computed tomography angiography), Labeled, Aorta <br>
-<a href="https://www.frontiersin.org/articles/10.3389/fphys.2021.732711/full"> ![paper](src/paper.png)</a> 
+<a href="https://www.frontiersin.org/articles/10.3389/fphys.2021.732711/full"> ![paper](src/paper.png)</a> <br>
+![licence](src/CcLogo.png) Apache 2.0
 
 - <a href="https://figshare.com/articles/figure/Left_ventricular_LV_scar_dataset/4214622"> **LivScar**</a><br>
 The image database consists of 30 Late Gadolinium enhancement cardiovascular magnetic resonance images of both humans and pigs that were acquired from two separate imaging centres.<br>
 ***Keyboard:*** Cardiac MRI (CMR), Segmentation <br>
-<a href="https://www.sciencedirect.com/science/article/pii/S1361841516000050"> ![paper](src/paper.png)</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S1361841516000050"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://www.ub.edu/mnms"> **M&Ms**</a> <br>
 Multi-Centre, Multi-Vendor and Multi-Disease Cardiac Segmentation <br>
@@ -1154,7 +1159,8 @@ Our dataset contains 200 3D volumes with refined pulmonary artery label <br>
 - <a href="https://stanfordaimi.azurewebsites.net/datasets/3a7548a4-8f65-4ab7-85fa-3d68c9efc1bd"> **RadFusion**</a><br>
 The dataset collected data from 1794 patients susceptible to pulmonary embolism. It consists of Chest CT, patient demographics and medical history.<br>
 ***Keyboard:*** CT scan, Labeled <br>
-<a href="https://arxiv.org/abs/2111.11665"> ![paper](src/paper.png)</a>
+<a href="https://arxiv.org/abs/2111.11665"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Stanford university dataset research use aggrement
 
 - <a href="https://rvsc.projets.litislab.fr"> **RVSC**</a> (Right Ventricle Segmentation Challenge)<br>
 ***Keyboard:*** Cardiac cine MRI <br>
@@ -1163,7 +1169,8 @@ The dataset collected data from 1794 patients susceptible to pulmonary embolism.
 - <a href="https://www.cardiacatlas.org/sunnybrook-cardiac-data"> **SCD**</a> (Sunnybrook Cardiac Data) <br>
 The dataset consist of 45 cine-MRI images from a mixed of patients and pathologies: healthy, hypertrophy, heart failure with infarction and heart failure without infarction.<br>
 ***Keyboard:*** Segmentation, Labeled <br>
-<a href="https://midasjournal.org/browse/publication/658"> ![paper](src/paper.png)</a>
+<a href="https://midasjournal.org/browse/publication/658"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Public Domain (CC0 1.0 Universal)
 
 - <a href="https://www.cardiacatlas.org/scmr-consensus-contours"> **SCMR Consensus Contours**</a> (Society for Cardiovascular Magnetic Resonance) <br>
 This dataset is designed to have the most reliable ground truth myocardial contours from short-axis MRI with multiple pathologies (1 healthy and 3 cardiac disease).<br>
