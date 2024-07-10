@@ -1781,11 +1781,13 @@ The database consists of 4049 images of isolated cells that have been manually c
 - <a href="https://aggc22.grand-challenge.org">**AGGC22**</a> (Automated Gleason Grading Challenge 2022) <br>
 Dataset of prostatectomy and biopsy specimens with annotations  <br>
 ***Keyboard:*** H&E-stained whole slide image <br>
-<a href="https://aggc22.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.researchgate.net/publication/363780482_Comprehensive_AI_Model_Development_for_Gleason_Grading_From_Scanning_Cloud-based_Annotation_to_Pathologist-AI_Interaction"> ![paper](src/paper.png)</a>
+<a href="https://aggc22.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.researchgate.net/publication/363780482_Comprehensive_AI_Model_Development_for_Gleason_Grading_From_Scanning_Cloud-based_Annotation_to_Pathologist-AI_Interaction"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC-SA 4.0
 
 - <a href="https://auto-rtp.grand-challenge.org">**AUTO-RTP**</a> (Fully Automated Radiotherapy Treatment Planning) <br>
 ***Keyboard:*** Cancer<br>
-<a href="https://auto-rtp.grand-challenge.org/evaluation/data-format-confirmation/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+<a href="https://auto-rtp.grand-challenge.org/evaluation/data-format-confirmation/leaderboard"> ![Leaderboard](src/leaderboard.png)</a><br>
+![licence](src/CcLogo.png) Use of the data is restricted to this challenge and related publications
 
 - <a href="https://www.cancerimagingarchive.net/collection/cmb-pca">**CMB-PCA**</a> (Cancer Moonshot Biobank - Prostate Cancer) <br>
 ***Keyboard:*** Multi-modality <br>
@@ -1807,11 +1809,15 @@ It contains prostate T2-weighted MRI data (with segmentation mask) collected fro
 - <a href="https://www.cancerimagingarchive.net/analysis-result/isbi-mr-prostate-2013"> **NCI-ISBI 2013**</a><br>
 Automated Segmentation of Prostate Structures. Image data were selected from PROSTATE-DIAGNOSIS and Prostate-3T collections <br>
 ***Keyboard:*** MRI, Labeled <br>
+![licence](src/CcLogo.png) CC BY 3.0
+
 
 - <a href="https://www.kaggle.com/c/prostate-cancer-grade-assessment"> **PANDA**</a> (Prostate cANcer graDe Assessment) <br>
 Classifying the severity of prostate cancer from microscopy scans of prostate biopsy samples <br>
 ***Keyboard:*** whole-slide images (WSI), Cancer <br>
-<a href="https://www.nature.com/articles/s41591-021-01620-2"> ![paper](src/paper.png)</a>
+<a href="https://www.nature.com/articles/s41591-021-01620-2"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Subject to Competition Rules
+
 
 - <a href="https://pi-cai.grand-challenge.org/"> **PI-CAI**</a> (Prostate Imaging: Cancer AI) <br>
 ***Keyboard:*** Prostate, MRI, Cancer, Labeled <br>
@@ -1825,19 +1831,23 @@ Compare interactive and (semi)-automatic segmentation algorithms for MRI of the 
 - <a href="https://www.cancerimagingarchive.net/collection/prostate-3t"> **Prostate-3T**</a><br>
 Prostate transversal T2-weighted magnetic resonance images acquired on a 3.0T Siemens TrioTim using only a pelvic phased-array coil were acquired for prostate cancer detection. <br>
 ***Keyboard:*** MRI <br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 - <a href="https://www.cancerimagingarchive.net/collection/prostate-diagnosis"> **PROSTATE-DIAGNOSIS**</a><br>
 Prostate cancer T1- and T2-weighted magnetic resonance images were acquired at 1.5 T <br>
 ***Keyboard:*** MRI <br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 - <a href="https://wiki.cancerimagingarchive.net/display/Public/QIN-PROSTATE-Repeatability"> **QIN-PROSTATE-Repeatability**</a> <br>
 This is a dataset with multiparametric prostate MRI applied in a test-retest setting, allowing to evaluate repeatability of the MRI-based measurements in the prostate. <br>
 ***Keyboard:*** MRI, Labeled <br>
-<a href="https://www.nature.com/articles/sdata2018281"> ![paper](src/paper.png)</a>
+<a href="https://www.nature.com/articles/sdata2018281"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-prad"> **TCGA-PRAD**</a> (The Cancer Genome Atlas Prostate Adenocarcinoma)<br>
 Data from 14 subjects and 16,790 images.<br>
 ***Keyboard:*** Multi-modality<br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 
 ______
