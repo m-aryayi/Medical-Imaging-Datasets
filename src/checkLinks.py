@@ -32,13 +32,22 @@ def check_links(links):
 
 
 def check_for_duplicates(links):
+    duplicated_links = [
+        'https://arxiv.org/abs/1811.02629',
+        'https://academic.oup.com/gigascience/article/7/6/giy065/5026175',
+        'https://pubs.rsna.org/doi/10.1148/radiol.2021203957',
+        'https://ieeexplore.ieee.org/document/6975210',
+    ] #List of links that relate to some datasets
+    
     seen_links = {}
     for link in links:
-        if link in seen_links:
+        if link in duplicated_links:
+            pass
+        elif link in seen_links:
             seen_links[link] += 1
         else:
             seen_links[link] = 1
-
+    
     duplicates_found = False
     for link, count in seen_links.items():
         if count > 1:
