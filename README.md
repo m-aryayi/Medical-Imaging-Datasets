@@ -425,7 +425,7 @@ Data from Parkinson’s Disease, Prodromal Cohort, and Healthy Controls. <br>
 It was collected from three traveling subjects with identical acquisition setting in ten imaging centers. <br>
 ***Keyboard:*** fetal MRI, Segmentation <br>
 
-- <a href="https://oasis-brains.org"> **PREVENT-AD**</a> (Pre-symptomatic Evaluation of Experimental or Novel Treatments for Alzheimer Disease) <br>
+- <a href="https://openpreventad.loris.ca"> **PREVENT-AD**</a> (Pre-symptomatic Evaluation of Experimental or Novel Treatments for Alzheimer Disease) <br>
 ***Keyboard:*** MRI, Labeled <br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/33964608">![paper](src/paper.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/32474466"> ![paper](src/paper.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/34192666"> ![paper](src/paper.png)</a>
 
@@ -943,7 +943,7 @@ This is the light-weight version of the popular DDSM. <br>
 ***Keyboard:*** Mammography, Cancer <br>
 <a href="https://dl.acm.org/doi/abs/10.1145/3441369.3441370"> ![paper](src/paper.png)</a>
 
-- <a href="https://tdsc-abus2023.grand-challenge.org"> **MITOS-ATYPIA-14**</a> <br>
+- <a href="https://mitos-atypia-14.grand-challenge.org"> **MITOS-ATYPIA-14**</a> <br>
 It is made up of two parts: Detection of mitosis on the one hand, and evaluation of nuclear atypia score on the other hand. <br>
 ***Keyboard:*** Cancer, Haematoxylin and eosin (H&E) stained slides <br>
 <a href="https://mitos-atypia-14.grand-challenge.org/Results2"> ![Leaderboard](src/leaderboard.png)</a>
@@ -996,7 +996,7 @@ The dataset contains data from 150 multi-equipments CMRI recordings with referen
 ***Keyboard:***  Cardiac MRI (CMR), Segmentation <br>
 <a href="https://www.creatis.insa-lyon.fr/Challenge/acdc/results.html"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/29994302"> ![paper](src/paper.png)</a>
 
-- <a href="https://www.creatis.insa-lyon.fr/Challenge/acdc"> **AMRG Cardiac Atlas**</a><br>
+- <a href="https://www.cardiacatlas.org/amrg-cardiac-atlas"> **AMRG Cardiac Atlas**</a><br>
 There are 4 protocols used to create the cardiac atlas: T1-Weighted Images, True FISP Cines, MR tagging and contrast MRI. <br>
 
 - <a href="https://arcade.grand-challenge.org"> **ARCADE**</a> <br>
@@ -1366,7 +1366,7 @@ Chest Imaging with Clinical and Genomic Correlates Representing a Rural COVID-19
 The dataset contains 20 labeled COVID-19 CT scans <br>
 ***Keyboard:*** Segmentation <br>
 
-- <a href="https://covid-segmentation.grand-challenge.org"> **COVID-19 CT scans**</a><br>
+- <a href="https://www.kaggle.com/datasets/andrewmvd/covid19-ct-scans"> **COVID-19 CT scans**</a><br>
 20 CT scans and expert segmentations of patients with COVID-19<br>
 ***Keyboard:*** Labeled<br>
 
@@ -1453,7 +1453,6 @@ It contains data from 19,402 patients, including CT images, radiology report imp
 - <a href="https://www.kaggle.com/datasets/hamdallak/the-iqothnccd-lung-cancer-dataset"> **IQ-OTH/NCCD**</a> (Iraq-Oncology Teaching Hospital/National Center for Cancer Diseases) <br>
 The dataset contains a total of 1190 images representing CT scan slices of 110 cases. <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
-<a href="https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/33937862"> ![paper](src/paper.png)</a>
 
 - <a href="http://db.jsrt.or.jp/eng.php"> **JSRT**</a> (Japanese Society of Radiological Technology) <br>
 The database includes 154 conventional chest radiographs with a lung nodule and 93 radiographs without a nodule <br>
@@ -1522,7 +1521,7 @@ Detection and generation of lung nodules. <br>
 ***Keyboard:*** X-ray <br>
 <a href="https://node21.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2401.02192"> ![paper](src/paper.png)</a>
 
-- <a href="https://mela.grand-challenge.org"> **NSCLC-Radiomics**</a> (Non-Small Cell Lung Cancer) <br>
+- <a href="https://www.cancerimagingarchive.net/collection/nsclc-radiomics"> **NSCLC-Radiomics**</a> (Non-Small Cell Lung Cancer) <br>
 This collection contains images from 422 patients.  <br>
 ***Keyboard:*** CT Scan, Labeled <br>
 
