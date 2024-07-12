@@ -1705,11 +1705,13 @@ _______
 - <a href="https://a-afma.grand-challenge.org"> **A-AFMA**</a> (Automatic amniotic fluid measurement and analysis) <br>
 The goal is measurement of the maximum vertical pocket (MVP) <br>
 ***Keyboard:*** Ultrasound Video Clip <br>
+![licence](src/CcLogo.png) No publication rights are given on this data.  The data may only be used for the purpose of this challenge.
 
 - <a href="https://github.com/cwwang1979/MICCAI_ATEC23challenge"> **ATEC23**</a> <br>
 Automated prediction of treatment effectiveness in ovarian cancer using histopathological images <br>
 ***Keyboard:*** Whole Slide Images (WSIs), Cancer <br>
-<a href="https://arxiv.org/abs/2310.12866"> ![paper](src/paper.png)</a>
+<a href="https://arxiv.org/abs/2310.12866"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC 4.0
 
 - <a href="https://github.com/parham-ap/cytology_dataset"> **Cervix93**</a> <br>
 A Cervical Cytology Dataset for Nucleus Detection and Image Classification and Methods for Cervical Nucleus Detection <br>
@@ -1723,11 +1725,13 @@ A Cervical Cytology Dataset for Nucleus Detection and Image Classification and M
 - <a href="https://zenodo.org/records/7372187"> **ENDO-AID**</a> <br>
 The dataset consists of 91 digital pathology whole-slide images (WSI) of endometrium carcinoma Pipelle biopsies, stained with hematoxylin and eosin (H&E). <br>
 ***Keyboard:*** Whole-slide images (WSI), Cancer <br>
+![licence](src/CcLogo.png) Creative Commons Attribution Non Commercial 4.0 International 
 
 - <a href="https://www.ucl.ac.uk/interventional-surgical-sciences/weiss-open-research/weiss-open-data-server/fetoscopy-placenta-data"> **Fetoscopy Placenta**</a> <br>
 The dataset contains 483 frames with ground-truth vessel segmentation annotations taken from six different in vivo fetoscopic procedure videos. <br>
 ***Keyboard:*** Segmentation, Labeled <br>
-<a href="https://arxiv.org/abs/2007.04349"> ![paper](src/paper.png)</a>
+<a href="https://arxiv.org/abs/2007.04349"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC-SA 4.0
 
 - <a href="https://hc18.grand-challenge.org"> **HC18**</a> <br>
 Measurement of fetal head circumference (HC)<br>
@@ -1740,12 +1744,14 @@ Measurement of fetal head circumference (HC)<br>
 - <a href="https://figshare.com/articles/dataset/JNU-IFM/14371652"> **JNU-IFM**</a> <br>
 An intrapartum transperineal ultrasound dataset of the Intelligent Fetal Monitoring <br>
 ***Keyboard:*** Ultrasound videos, Labeled <br>
-<a href="https://www.sciencedirect.com/science/article/pii/S2352340922001160"> ![paper](src/paper.png)</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S2352340922001160"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://data.mendeley.com/datasets/zddtpgzv63/4"> **Liquid based-cytology Pap smear**</a> <br>
 The repository consists of a total of 963 LBC images <br>
 ***Keyboard:*** Pap Smear, Labeled <br>
-<a href="https://www.sciencedirect.com/science/article/pii/S2352340920304832"> ![paper](src/paper.png)</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S2352340920304832"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://github.com/cv516Buaa/MMOTU_DS2Net">**MMOTU**</a> (Multi-Modality Ovarian Tumor Ultrasound Image) <br>
 It consists of two sub-sets with two modalities, which are OTU_2d and OTU_CEUS respectively including 1469 2d ultrasound images and 170 CEUS images.<br>
@@ -1759,19 +1765,23 @@ It consists of two sub-sets with two modalities, which are OTU_2d and OTU_CEUS r
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-cesc"> **TCGA-CESC**</a> (The Cancer Genome Atlas Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma Collection)<br>
 Data from 54 subjects.<br>
 ***Keyboard:*** MRI<br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-ov"> **TCGA-OV**</a> (The Cancer Genome Atlas Ovarian Cancer)<br>
 Data from 143 subjects and 53,662 images.<br>
 ***Keyboard:*** Ovary, MRI, CT scan<br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-ucec"> **TCGA-UCEC**</a> (The Cancer Genome Atlas Uterine Corpus Endometrial Carcinoma)<br>
 Data from 65 subjects and 77214 images<br>
-***Keyboard:*** Multi-modality <br>
+***Keyboard:*** Multi-modality<br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 - <a href="https://www.cs.uoi.gr/~marina/sipakmed.html"> **SIPaKMeD**</a> <br>
 The database consists of 4049 images of isolated cells that have been manually cropped from 966 cluster cell images of Pap smear slides. <br>
 ***Keyboard:*** Pap smear, Labeled <br>
-<a href="https://ieeexplore.ieee.org/abstract/document/8451588"> ![paper](src/paper.png)</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/8451588"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) It can be used for experimental purposes with the request to cite the paper.
 
 
 
