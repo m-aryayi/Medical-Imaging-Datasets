@@ -1598,22 +1598,26 @@ Intervertebral Disc Localization and Segmentation from 3D Multi-modality MR (M3)
 
 - <a href="https://www.cs.cit.tum.de/camp/publications/leg-3d-us-dataset"> **Leg-3D-US**</a><br>
 The dataset assembles pairs of Ultrasound volumes and 3-labels muscles of the low-limb leg from 44 healthy volunteers, aged between 18 and 45 years. <br>
-<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268550"> ![paper](src/paper.png)</a>
+<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268550"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) GNU General Public License
 
 - <a href="https://stanfordmlgroup.github.io/competitions/mura"> **MURA**</a> (MUsculoskeletal RAdiographs) <br>
 Large Dataset for Abnormality Detection in Musculoskeletal Radiographs <br>
 ***Keyboard:*** X-ray, Labeled<br>
-<a href="https://arxiv.org/abs/1712.06957"> ![paper](src/paper.png)</a> 
+<a href="https://arxiv.org/abs/1712.06957"> ![paper](src/paper.png)</a> <br>
+![licence](src/CcLogo.png) Stanford university dataset research use aggrement
 
 - <a href="https://ribfrac.grand-challenge.org"> **RibFrac**</a> <br> 
 A dataset for detect and classify around 5,000 rib fractures from 660 computed tomography (CT) scans <br>
 ***Keyboard:*** CT scan, Labeled <br>
-<a href="https://ribfrac.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+<a href="https://ribfrac.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC 4.0
 
 - <a href="https://github.com/M3DV/RibSeg"> **RibSeg**</a><br>
 It includes two subsets. <br>
 ***Keyboard:*** CT scan, Segmentation <br>
-<a href="https://arxiv.org/abs/2210.09309"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/2109.09521"> ![paper](src/paper.png)</a> 
+<a href="https://arxiv.org/abs/2210.09309"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/2109.09521"> ![paper](src/paper.png)</a> <br>
+![licence](src/CcLogo.png) CC BY-NC 4.0
 
 - <a href="https://www.kaggle.com/datasets/kmader/rsna-bone-age"> **RSNA Bone Age**</a> (Radiological Society of North America 2017) <br>
 Identify the age of a child from an X-ray of their hand <br>
@@ -1628,18 +1632,21 @@ Including approximately 3,000 CT <br>
 - <a href="https://spider.grand-challenge.org"> **SPIDER**</a> (SPIne Segmentation: Discs, vERtebrae, and spinal canal)<br>
 A lumbar spine MR dataset with reference segmentations of vertebrae, intervertebral discs (IVDs), and spinal canal <br>
 ***Keyboard:*** MRI <br>
-<a href="https://spider.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2306.12217"> ![paper](src/paper.png)</a>
+<a href="https://spider.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2306.12217"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC-BY 4.0
 
 - <a href="https://tianchi.aliyun.com/dataset/79463"> **Spinal Disease Dataset**</a><br>
 The dataset includes MRI images of T1 and T2 sagittal plane and T2 axial plane (FSE/TSE).<br>
 ***Keyboard:*** MRI, Segmentation, Labeled<br>
+![licence](src/CcLogo.png) CC-BY-SA-NC 4.0
 
 - <a href="http://spineweb.digitalimaginggroup.ca"> **SpineWeb**</a> <br>
 16 spinal imaging datasets
 
 - <a href="https://github.com/anjany/verse"> **VerSe**</a> <br> Large Scale Vertebrae Segmentation <br>
 ***Keyboard:*** CT scan, Segmentation <br>
-<a href="https://verse2019.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841521002127"> ![paper](src/paper.png)</a> | <a href="https://pubs.rsna.org/doi/10.1148/ryai.2020190138"> ![paper](src/paper.png)</a>
+<a href="https://verse2019.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841521002127"> ![paper](src/paper.png)</a> | <a href="https://pubs.rsna.org/doi/10.1148/ryai.2020190138"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-SA 4.0
 
 - <a href="https://lit.fe.uni-lj.si/xVertSeg/overview.php"> **xVertSeg**</a> <br>
 Classify and segment vertebrae from the spine images that include fractured and non-fractured cases <br>
@@ -1651,32 +1658,39 @@ Classify and segment vertebrae from the spine images that include fractured and 
 - <a href="https://data.mendeley.com/datasets/jf3pv98m9g/2"> **DDH x-ray images**</a> <br>
 The hip X-ray images (in anteroposterior view) including 354 subjects (120 DDH, 234 normal)<br>
 ***Keyboard:*** Developmental dysplasia of the hip (DDH), Labeled<br>
-<a href="https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-022-01957-9"> ![paper](src/paper.png)</a>
+<a href="https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-022-01957-9"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://k2s.grand-challenge.org"> **K2S**</a> <br>
 A dataset of high-resolution 3D knee MRI including raw k-space data and post-processing annotations with masks for tissue segmentation. <br>
 ***Keyboard:*** MRI, Labeled<br>
+![licence](src/CcLogo.png) CC BY NC ND
 
 - <a href="https://www.kaggle.com/datasets/shashwatwork/knee-osteoarthritis-dataset-with-severity"> **Knee Osteoarthritis Dataset with Severity Grading**</a> <br>
 ***Keyboard:*** X-ray, Labeled<br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="http://www.riteh.uniri.hr/~istajduh/projects/kneeMRI"> **kneeMRI**</a> <br>
 The dataset consists of 917 12-bit grayscale volumes of either left or right knees. <br>
 ***Keyboard:*** MRI scans, Labeled<br>
-<a href="https://pubmed.ncbi.nlm.nih.gov/28254071"> ![paper](src/paper.png)</a> 
+<a href="https://pubmed.ncbi.nlm.nih.gov/28254071"> ![paper](src/paper.png)</a> <br>
+![licence](src/CcLogo.png) CC BY-NC-ND 4.0
 
 - <a href="https://knoap2020.grand-challenge.org"> **KNOAP2020**</a> (KNee OsteoArthritis Prediction) <br>
 ***Keyboard:*** MRI scans, X-ray, Labeled<br>
-<a href="https://www.oarsijournal.com/article/S1063-4584(22)00864-0/fulltext"> ![paper](src/paper.png)</a> 
+<a href="https://www.oarsijournal.com/article/S1063-4584(22)00864-0/fulltext"> ![paper](src/paper.png)</a> <br>
+![licence](src/CcLogo.png) The provided data may only be used for preparing an entry to be submitted to this challenge.
 
 - <a href="https://aimi.stanford.edu/lera-lower-extremity-radiographs"> **LERA**</a> (Lower Extremity Radiographs)<br>
 Data is collected from 182 patients who underwent a radiographic examination. The dataset consists of images of the foot, knee, ankle, or hip associated with each patient.<br>
 ***Keyboard:*** X-ray<br>
+![licence](src/CcLogo.png) Stanford University School of Medicine LERA- Lower Extremity RAdiographs Dataset Research Use Agreement
 
 - <a href="https://stanfordmlgroup.github.io/competitions/mrnet"> **MRNet**</a> <br>
 Diagnosis of abnormalities from Knee MRs <br>
 ***Keyboard:*** MRI, Labeled<br>
-<a href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002699"> ![paper](src/paper.png)</a>
+<a href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002699"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Stanford University School of Medicine MRNet Dataset Research Use Agreement
 
 - <a href="https://pubdata.zib.de"> **OAI**</a> (Osteoarthritis Initiative) <br>
 The dataset contains cases of moderate and severe OA. <br>
@@ -1686,10 +1700,12 @@ The dataset contains cases of moderate and severe OA. <br>
 - <a href="https://github.com/StanfordMIMI/skm-tea"> **SKM-TEA**</a> (Stanford Knee MRI Multi-Task Evaluation)<br>
 The dataset consists of 86 scans for training, 33 scans for validation, and 36 scans for testing. <br>
 ***Keyboard:*** MRI, Segmentation, Labeled <br>
-<a href="https://openreview.net/forum?id=YDMFgD_qJuA"> ![paper](src/paper.png)</a>
+<a href="https://openreview.net/forum?id=YDMFgD_qJuA"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Stanford University School of Medicine SKM-TEA Dataset Research Use Agreement
 
 - <a href="https://data.mendeley.com/datasets/zm6bxzhmfz/1"> **X-ray images of the hip joints**</a> <br>
 A dataset consisting of x-ray examinations of the lower legs performed as part of routine medical service. <br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 
 <!---
