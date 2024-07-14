@@ -1197,7 +1197,8 @@ Multi-Structure Segmentation for Renal Cancer Treatment <br>
 
 - <a href="https://kits19.grand-challenge.org/"> **KiTS19**</a> (Kidney Tumor Segmentation 2019) <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
-<a href="https://kits19.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841520301857"> ![paper](src/paper.png)</a>
+<a href="https://kits19.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841520301857"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC-SA 4.0
 
 - <a href="https://kits-challenge.org/kits21"> **KiTS21**</a> (Kidney Tumor Segmentation 2021) <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
@@ -1209,19 +1210,23 @@ Multi-Structure Segmentation for Renal Cancer Treatment <br>
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-blca"> **TCGA-BLCA**</a> (The Cancer Genome Atlas Urothelial Bladder Carcinoma)<br>
 Data from 120 subjects and 111,781 images<br>
 ***Keyboard:*** Multi-modality <br>
+![licence](src/CcLogo.png) CC BY 3.0 
 
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-kich"> **TCGA-KICH**</a> (The Cancer Genome Atlas Kidney Chromophobe)<br>
 Data from 15 subjects.<br>
 ***Keyboard:*** MRI, CT scan<br>
+![licence](src/CcLogo.png) CC BY 3.0 
 
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-kirp"> **TCGA-KIRP**</a> (The Cancer Genome Atlas Cervical KIdney Renal Papillary cell carcinoma)<br>
 Data from 33 subjects.<br>
 ***Keyboard:*** Multi-modality<br>
+![licence](src/CcLogo.png) CC BY 3.0 
 
 - <a href="https://rodare.hzdr.de/record/2473"> **Urinary tract infections**</a><br>
 A dataset containing 300 images and 3,562 manually annotated urinary cells labelled into seven classes of clinically significant urinary content. <br>
 ***Keyboard:*** Segmentation , Labeled <br>
-<a href="https://www.nature.com/articles/s41597-024-02975-0"> ![paper](src/paper.png)</a>
+<a href="https://www.nature.com/articles/s41597-024-02975-0"> ![paper](src/paper.png)</a> <br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 
 
@@ -1230,6 +1235,7 @@ A dataset containing 300 images and 3,562 manually annotated urinary cells label
 - <a href="https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01"> **3D-IRCADb-01**</a> (3D Image Reconstruction for Comparison of Algorithm Database) <br>
 10 women and 10 men with hepatic tumours in 75% of cases. <br>
 ***Keyboard:*** 3D CT scan, Cancer, Labeled, Segmentation <br>
+![licence](src/CcLogo.png) CC BY-NC-ND 4.0
 
 - <a href="https://atlas-challenge.u-bourgogne.fr"> **ATLAS**</a> (A Tumour and Liver Automatic Segmentation) <br>
 60 Public images <br>
@@ -1239,16 +1245,19 @@ A dataset containing 300 images and 3,562 manually annotated urinary cells label
 - <a href="https://www.cancerimagingarchive.net/collection/colorectal-liver-metastases"> **Colorectal Liver Metastases**</a><br>
 This collection consists of images for 197 patients with Colorectal Liver Metastases (CRLM). <br>
 ***Keyboard:*** CT scan, Cancer, Segmentation, Labeled<br>
-<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10847495"> ![paper](src/paper.png)</a>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10847495"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0 
 
 - <a href="https://zenodo.org/records/7774566"> **Duke Liver DataSet**</a><br>
 It provides over 2000 anonymized MRI image series acquired in routine liver MRI protocols across 105 subjects. <br>
 ***Keyboard:*** MRI, Cancer, Labeled <br>
-<a href="https://ieeexplore.ieee.org/document/9242262"> ![paper](src/paper.png)</a>
+<a href="https://ieeexplore.ieee.org/document/9242262"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC-BY-NC-ND-4.0
 
 - <a href="https://competitions.codalab.org/competitions/17094"> **LiTS**</a> (Liver Tumor Segmentation) <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
-<a href="https://competitions.codalab.org/competitions/17094#results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/1901.04056"> ![paper](src/paper.png)</a>
+<a href="https://competitions.codalab.org/competitions/17094#results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/1901.04056"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
 
 - <a href="https://p2ilf.grand-challenge.org"> **P2ILF**</a> (Preoperative to Intraoperative Laparoscopy Fusion) <br>
 ***Keyboard:*** Laparoscopic video images, Segmentation, Registration  <br>
@@ -1269,6 +1278,7 @@ The dataset is part of the training data from the "VISCERAL Organ Segmentation a
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-lihc"> **TCGA-LIHC**</a> (The Cancer Genome Atlas Liver Hepatocellular Carcinoma) <br>
 It has used in <a href='https://zenodo.org/records/8179129'> LiverHccSeg </a> <br>
 ***Keyboard:*** MRI, CT scan, Cancer <br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 
 
