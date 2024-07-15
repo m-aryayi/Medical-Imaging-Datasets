@@ -848,6 +848,7 @@ A collection contains 825 cases of CT colonography imaging with accompanying spr
 - <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=30671268"> **ACRIN-FLT-Breast (ACRIN 6688)**</a> <br>
 Examination both pre-therapy and post-therapy <br>
 ***Keyboard:*** 18F-FLT PET imaging, CT Scan, Cancer <br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 - <a href="https://acrobat.grand-challenge.org"> **ACROBAT**</a> (AutomatiC Registration Of Breast cAncer Tissue) <br>
 Consisting of 4212 WSIs from 1153 patients <br>
@@ -856,7 +857,8 @@ Consisting of 4212 WSIs from 1153 patients <br>
 
 - <a href="https://iciar2018-challenge.grand-challenge.org"> **BACH**</a> (BreAst Cancer Histology) <br>
 ***Keyboard:*** Biopsy, Cancer <br>
-<a href="https://iciar2018-challenge.grand-challenge.org/evaluation/part-a/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841518307941"> ![paper](src/paper.png)</a>
+<a href="https://iciar2018-challenge.grand-challenge.org/evaluation/part-a/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841518307941"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC-ND
 
 - <a href="https://bci.grand-challenge.org"> **BCI**</a> (Breast Cancer Immunohistochemical) <br>
 ***Keyboard:*** hematoxylin and eosin (HE) stained images, Image Generation, Labeled <br>
@@ -870,20 +872,24 @@ A dataset of Early Breast Cancer Core-Needle Biopsy WSI, which includes core-nee
 - <a href="https://github.com/PathologyDataScience/BCSS"> **BCSS**</a> (Breast Cancer Semantic Segmentation) <br>
 The dataset contains over 20,000 segmentation annotations of tissue region from breast cancer images from TCGA. <br>
 ***Keyboard:***  Cancer, Labeled <br>
-<a href="https://academic.oup.com/bioinformatics/article/35/18/3461/5307750"> ![paper](src/paper.png)</a>
+<a href="https://academic.oup.com/bioinformatics/article/35/18/3461/5307750"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC0 1.0 Universal (CC0 1.0)
 
 - <a href="https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis"> **BreakHis**</a> (Breast Cancer Histopathological) <br>
 A dataset of 7909 breast cancer histopathology images acquired on 82 patients <br>
 ***Keyboard:*** Cancer, Labeled <br>
-<a href="https://ieeexplore.ieee.org/document/7312934"> ![paper](src/paper.png)</a>
+<a href="https://ieeexplore.ieee.org/document/7312934"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) The Database may be used for non-commercial research
 
 - <a href="https://www.kaggle.com/datasets/sabermalek/bcfpp"> **Breast Cancer CT**</a> <br>
 ***Keyboard:*** CT Scan, Labeled, Cancer <br>
+![licence](src/CcLogo.png) CC BY-NC-SA 4.0
 
 - <a href="https://www.cancerimagingarchive.net/collection/breast-cancer-screening-dbt"> **Breast-Cancer-Screening-DBT**</a> (Digital Breast Tomosynthesis) <br>
 It contains 22,032 reconstructed DBT volumes belonging to 5,610 studies from 5,060 patients. <br>
 ***Keyboard:*** Mammography, Cancer <br>
-<a href="https://arxiv.org/abs/2011.07995"> ![paper](src/paper.png)</a>
+<a href="https://arxiv.org/abs/2011.07995"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC 4.0
 
 - <a href="https://breastpathq.grand-challenge.org/"> **BreastPathQ**</a> <br>
 Development of quantitative biomarkers for the determination of cancer cellularity from whole slide images (WSI) of breast cancer hematoxylin and eosin (H&E) stained pathological slides <br>
@@ -897,7 +903,8 @@ Development of quantitative biomarkers for the determination of cancer cellulari
 - <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=22516629"> **CBIS-DDSM**</a> (Curated Breast Imaging Subset of Digital Database for Screening Mammography) <br>
 The DDSM is a database of 2,620 scanned film mammography studies. It contains normal, benign, and malignant cases with verified pathology information. <br>
 ***Keyboard:***  Cancer, Labeled <br>
-<a href="https://www.nature.com/articles/sdata2017177"> ![paper](src/paper.png)</a>
+<a href="https://www.nature.com/articles/sdata2017177"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 - <a href="https://visual.ic.uff.br/dmi"> **DMR-IR**</a><br>
 ***Keyboard:*** Cancer, Thermography image<br>
@@ -905,12 +912,14 @@ The DDSM is a database of 2,620 scanned film mammography studies. It contains no
 - <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70226903"> **Duke Breast Cancer MRI**</a> <br>
 Dynamic contrast-enhanced magnetic resonance images of breast cancer patients with tumor locations. <br>
 ***Keyboard:*** Cancer, Labeled <br>
-<a href="https://www.nature.com/articles/s41416-018-0185-8"> ![paper](src/paper.png)</a>
+<a href="https://www.nature.com/articles/s41416-018-0185-8"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC 4.0
 
 - <a href="https://ecdp2020.grand-challenge.org"> **HEROHE**</a> (HER2 on hematoxylin and eosin) <br>
 The dataset consists of annotated, whole-slide images dataset (509), specifically collected for predicting human epidermal growth factor receptor 2 (HER2) status <br>
 ***Keyboard:*** whole-slide images (WSI), Cancer <br>
-<a href="https://www.mdpi.com/2313-433X/8/8/213"> ![paper](src/paper.png)</a>
+<a href="https://www.mdpi.com/2313-433X/8/8/213"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC-ND 3.0
 
 - <a href="https://www.kaggle.com/datasets/martholi/inbreast"> **INbreast**</a> <br>
 The database has a total of 115 cases (410 images) from which 90 cases are from women with both breasts affected and 25 cases are from mastectomy patients. <br>
@@ -919,11 +928,13 @@ The database has a total of 115 cases (410 images) from which 90 cases are from 
 
 - <a href="https://www.cancerimagingarchive.net/collection/ispy1"> **ISPY1 - Trial**</a> (Investigation of Serial Studies to Predict Your Therapeutic Response with Imaging and moLecular Analysis) <br>
 ***Keyboard:***  MRI, Cancer, Segmentation <br>
-<a href="https://pubs.rsna.org/doi/10.1148/radiol.2015150013"> ![paper](src/paper.png)</a>
+<a href="https://pubs.rsna.org/doi/10.1148/radiol.2015150013"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 - <a href="https://www.cancerimagingarchive.net/collection/ispy2"> **ISPY2 - Trial**</a> (Investigation of Serial Studies to Predict Your Therapeutic Response with Imaging and moLecular Analysis) <br>
 ***Keyboard:***  MRI, Cancer, Segmentation <br>
-<a href="https://www.nature.com/articles/s41523-020-00203-7"> ![paper](src/paper.png)</a>
+<a href="https://www.nature.com/articles/s41523-020-00203-7"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://www.kaggle.com/datasets/kmader/mias-mammography"> **MIAS**</a> <br>
 ***Keyboard:*** Mammography, Cancer, Labeled <br>
