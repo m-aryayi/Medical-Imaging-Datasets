@@ -938,21 +938,26 @@ The database has a total of 115 cases (410 images) from which 90 cases are from 
 
 - <a href="https://www.kaggle.com/datasets/kmader/mias-mammography"> **MIAS**</a> <br>
 ***Keyboard:*** Mammography, Cancer, Labeled <br>
+![licence](src/CcLogo.png) For research purposes
+ONLY
 
 - <a href="https://imig.science/midog2021"> **MIDOG 2021**</a> (Mitosis Domain Generalization 2021) <br>
 Detect mitotic figures (cells undergoing cell division) from histopathology images (object detection) <br>
 ***Keyboard:*** Whole-Slide Images (WSI), Cancer, Labeled <br>
-<a href="https://midog2021.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522003279"> ![paper](src/paper.png)</a> 
+<a href="https://midog2021.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522003279"> ![paper](src/paper.png)</a> <br>
+![licence](src/CcLogo.png) CC BY-NC-ND
 
 - <a href="https://imig.science/midog"> **MIDOG 2022**</a> (Mitosis Domain Generalization 2022) <br>
 Detect mitotic figures (cells undergoing cell division) from histopathology images (object detection) <br>
 ***Keyboard:*** Whole-Slide Images (WSI), Cancer, Labeled <br>
-<a href="https://midog2022.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2309.15589"> ![paper](src/paper.png)</a>
+<a href="https://midog2022.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2309.15589"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC-ND
 
 - <a href="https://www.kaggle.com/datasets/cheddad/miniddsm2"> **Mini-DDSM**</a> (Digital Database for Screening Mammography) <br>
 This is the light-weight version of the popular DDSM. <br>
 ***Keyboard:*** Mammography, Cancer <br>
-<a href="https://dl.acm.org/doi/abs/10.1145/3441369.3441370"> ![paper](src/paper.png)</a>
+<a href="https://dl.acm.org/doi/abs/10.1145/3441369.3441370"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-ND 4.0
 
 - <a href="https://mitos-atypia-14.grand-challenge.org"> **MITOS-ATYPIA-14**</a> <br>
 It is made up of two parts: Detection of mitosis on the one hand, and evaluation of nuclear atypia score on the other hand. <br>
@@ -962,19 +967,23 @@ It is made up of two parts: Detection of mitosis on the one hand, and evaluation
 - <a href="https://sites.google.com/view/nucls"> **NuCLS**</a> <br>
 The datasets contain over 220000 labeled nuclei from breast cancer images from TCGA <br>
 ***Keyboard:***  Cancer, Labeled <br>
-<a href="https://arxiv.org/abs/2102.09099"> ![paper](src/paper.png)</a>
+<a href="https://arxiv.org/abs/2102.09099"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC0 1.0 license
 
 - <a href="https://wiki.cancerimagingarchive.net/display/Public/QIN-Breast"> **QIN-Breast**</a> <br>
 This collection contains longitudinal PET/CT and quantitative MR images collected for the purpose of studying treatment assessment in breast cancer in the neoadjuvant setting. <br>
 ***Keyboard:*** PET/CT, MRI, Cancer <br>
+![licence](src/CcLogo.png) CC BY 3.0 
 
 - <a href="https://wiki.cancerimagingarchive.net/display/Public/QIN-BREAST-02"> **QIN-Breast-02**</a> <br>
 This data is from a multi-site, multi-parametric quantitative MRI study of adult (18+ years old) females diagnosed with invasive breast cancer. <br>
 ***Keyboard:*** Cancer <br>
+![licence](src/CcLogo.png) TCIA Limited CC0 1.0 license - CC BY 3.0
 
 - <a href="https://wiki.cancerimagingarchive.net/display/Public/RIDER+Breast+MRI"> **RIDER Breast MRI**</a> (Reference Image Database to Evaluate Therapy Response) <br>
 RIDER is a targeted data collection used to generate an initial consensus on how to harmonize data collection and analysis for quantitative imaging methods applied to measure the response to drug or radiation therapy. <br>
 ***Keyboard:***  Cancer <br>
+![licence](src/CcLogo.png) CC BY 3.0 
 
 - <a href="https://www.rsna.org/rsnai/ai-image-challenge/screening-mammography-breast-cancer-detection-ai-challenge"> **RSNA Screening Mammography Breast Cancer Detection**</a> (Radiological Society of North America 2023) <br>
 ***Keyboard:*** Radiographic breast images, Labeled<br>
@@ -983,6 +992,7 @@ RIDER is a targeted data collection used to generate an initial consensus on how
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-brca"> **TCGA-BRCA**</a> (The Cancer Genome Atlas Breast Invasive Carcinoma)<br>
 Data from 139 subjects.<br>
 ***Keyboard:*** MRI, Cancer<br>
+![licence](src/CcLogo.png) CC BY 3.0 
 
 - <a href="https://tdsc-abus2023.grand-challenge.org"> **TDSC-ABUS2023**</a> (Tumor Detection, Segmentation and Classification Challenge on Automated 3D Breast Ultrasound 2023) <br>
 ***Keyboard:*** Ultrasound, Cancer, Labeled <br>
@@ -990,7 +1000,8 @@ Data from 139 subjects.<br>
 
 - <a href="https://tiger.grand-challenge.org"> **TIGER**</a> (Tumor InfiltratinG lymphocytes in breast cancER) <br>
 ***Keyboard:***  H&E Whole-Slide Images (WSI), Cancer, Detecion, Segmentation <br>
-<a href="https://tiger.grand-challenge.org/evaluation/segmentation-and-detection-public-test/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+<a href="https://tiger.grand-challenge.org/evaluation/segmentation-and-detection-public-test/leaderboard"> ![Leaderboard](src/leaderboard.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC 4.0
 
 - <a href="https://tupac.grand-challenge.org"> **TUPAC**</a> (Tumor Proliferation Assessment Challenge) <br>
 The dataset consisted of 500 training and 321 testing breast cancer histopathology WSIs. <br>
