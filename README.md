@@ -1309,7 +1309,8 @@ It has used in <a href='https://zenodo.org/records/8179129'> LiverHccSeg </a> <b
 - <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=21267414"> **4D Lung**</a> <br>
 The images include four-dimensional (4D) fan beam (4D-FBCT) and 4D cone beam CT (4D-CBCT) <br>
 ***Keyboard:*** Cancer <br>
-<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3647023"> ![paper](src/paper.png) The dataset is described</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/22391105"> ![paper](src/paper.png)</a> 
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3647023"> ![paper](src/paper.png) The dataset is described</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/22391105"> ![paper](src/paper.png)</a> <br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 - <a href="https://acdc-lunghp.grand-challenge.org/"> **ACDC-LungHP**</a> (Automatic Cancer Detection and Classification in Lung Histopathology) <br>
 ***Keyboard:*** Cancer, H&E staining, Pathology  <br>
@@ -1317,12 +1318,14 @@ The images include four-dimensional (4D) fan beam (4D-FBCT) and 4D cone beam CT 
 
 - <a href="https://datadryad.org/stash/dataset/doi:10.5061/dryad.mj76c"> **Airway**</a><br>
 Airway Segmentation and Centerline Extraction from Thoracic CT scan<br>
-<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144282"> ![paper](src/paper.png)</a>
+<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144282"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
 
 - <a href="https://anode09.grand-challenge.org/"> **ANODE09**</a> (Automatic Nodule Detection 2009) <br>
 Automatic detection of pulmonary nodules in chest <br>
 ***Keyboard:*** CT-scan <br>
-<a href="https://anode09.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841510000587"> ![paper](src/paper.png)</a> 
+<a href="https://anode09.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841510000587"> ![paper](src/paper.png)</a> <br>
+![licence](src/CcLogo.png) Data downloaded from their site may only be used for the purpose of preparing an entry to be submitted on the site
 
 - <a href="https://atm22.grand-challenge.org"> **ATM22**</a> (Airway Tree Modeling) <br>
 Dataset provides CT scans with detailed pulmonary airway annotation. <br>
@@ -1341,10 +1344,12 @@ COVID19 severity score assessment project and database. <br>
 
 - <a href="https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database"> **BSTI COVID19**</a> (British Society of Thoracic Imaging) <br>
 ***Keyboard:*** CT scan <br>
+![licence](src/CcLogo.png) It is not intended for download or research applications.
 
 - <a href="https://auckland.figshare.com/articles/dataset/CANDID-PTX/14173982"> **CANDID-PTX**</a><br>
 19,237 anonymized adult chest x-ray datasets in 1024 x 1024 pixel <br>
 ***Keyboard:*** X-ray, Segmentation, Labeled<br>
+![licence](src/CcLogo.png) CC BY-NC-SA 4.0
 
 - <a href="https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images"> **Chest CT-Scan images**</a><br>
 CT-Scan images with different types of chest cancer <br>
@@ -1353,6 +1358,7 @@ CT-Scan images with different types of chest cancer <br>
 - <a href="https://cxr-covid19.grand-challenge.org"> **Chest XR COVID-19 detection**</a> <br>
 The dataset contains 20,000+ images and 3 classes: COVID-19, Pneumonia and Normal (healthy). <br>
 ***Keyboard:*** X-ray, Labeled <br>
+![licence](src/CcLogo.png) The dataset can only be used for this challenge
 
 - <a href="https://github.com/Deepwise-AILab/ChestX-Det-Dataset"> **ChestX-Det**</a> <br>
 It consists of 3578 images from NIH ChestX-14 <br>
@@ -1370,20 +1376,23 @@ It is a dataset which comprises 112,120 frontal-view X-ray images of 30,805  uni
 - <a href="https://stanfordaimi.azurewebsites.net/datasets/23c56a0d-15de-405b-87c8-99c30138950c"> **CheXlocalize**</a><br>
 234 images with 643 expert segmentations.<br>
 ***Keyboard:*** X-ray, Labeled<br>
-<a href="https://www.nature.com/articles/s42256-022-00536-x"> ![paper](src/paper.png)</a>
+<a href="https://www.nature.com/articles/s42256-022-00536-x"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Stanford university dataset research use aggrement
 
 - <a href="https://physionet.org/content/chexmask-cxr-segmentation-data"> **CheXmask**</a><br>
 The database aggregates 657,566 anatomical segmentation masks from five public databases.<br>
 ***Keyboard:*** X-ray, Labeled<br>
-<a href="https://arxiv.org/abs/2307.03293"> ![paper](src/paper.png)</a>
+<a href="https://arxiv.org/abs/2307.03293"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Creative Commons Attribution 4.0 International Public License
 
 - <a href="https://stanfordmlgroup.github.io/competitions/chexpert/"> **CheXpert**</a> <br>
 A Large Chest X-Ray Dataset. <br>
 ***Keyboard:*** X-ray, Labeled <br>
 <a href="https://arxiv.org/abs/1901.07031"> ![paper](src/paper.png)</a>
 
-- <a href="https://stanfordaimi.azurewebsites.net/datasets/f1577fbd-6f5c-417e-be81-850939f90daa"> **CheXphoto**</a> <br>
-It comprises a training set of natural photos and synthetic transformations of 10,507 x-rays from 3,000 unique patients that were sampled at random from the CheXpert training set, and a validation and test set of natural and synthetic transformations applied to all 234 x-rays from 200 patients and 668 x-rays from 500 patients in the CheXpert validation and test sets, respectively. <br>
+- <a href="https://stanfordaimi.azurewebsites.net/datasets/f1577fbd-6f5c-417e-be81-850939f90daa"> **CheXphoto**</a><br>
+It comprises a training set of natural photos and synthetic transformations of 10,507 x-rays from 3,000 unique patients that were sampled at random from the CheXpert training set, and a validation and test set of natural and synthetic transformations applied to all 234 x-rays from 200 patients and 668 x-rays from 500 patients in the CheXpert validation and test sets, respectively.<br>
+![licence](src/CcLogo.png) Stanford university dataset research use aggrement
 
 - <a href="https://covid-segmentation.grand-challenge.org"> **COVID-19-20**</a> <br>
 COVID-19 Lung CT Lesion Segmentation <br>
@@ -1453,16 +1462,19 @@ Automatic segmentation of anatomical structures in chest radiographs <br>
 
 - <a href="https://www.cancerimagingarchive.net/collection/ct-images-in-covid-19"> **CT Images in COVID-19**</a> <br>
 A dataset from 632 patients with COVID-19 infections at initial point of care, and a dataset of 121 CTs from 29 patients with COVID-19 infections with serial / sequential CTs. <br>
-<a href="https://www.nature.com/articles/s41467-020-17971-2"> ![paper](src/paper.png) A classification model derived</a> 
+<a href="https://www.nature.com/articles/s41467-020-17971-2"> ![paper](src/paper.png) A classification model derived</a> <br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://huggingface.co/datasets/ibrahimhamamci/CT-RATE"> **CT-RATE**</a> <br>
 The 3D medical imaging dataset that pairs images with textual reports. <br>
 ***Keyboard:*** CT scan, Labeled <br>
-<a href="https://arxiv.org/abs/2403.17834"> ![paper](src/paper.png)</a>
+<a href="https://arxiv.org/abs/2403.17834"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC-SA
 
 - <a href="https://physionet.org/content/chest-x-ray-segmentation"> **CXLSeg**</a> <br>
 Segmented Chest X-ray radiographs based on the MIMIC-CXR dataset. <br>
 ***Keyboard:*** Segmentation <br>
+![licence](src/CcLogo.png) PhysioNet Credentialed Health Data License 1.5.0
 
 - <a href="https://med.emory.edu/departments/radiation-oncology/research-laboratories/deformable-image-registration/index.html"> **DIR-Lab**</a> (Deformable Image Registration Laboratory)<br>
 Thoracic 4DCT images. Inspiratory and expiratory breath-hold CT image pairs. <br>
