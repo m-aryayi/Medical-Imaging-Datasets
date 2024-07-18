@@ -1397,29 +1397,36 @@ It comprises a training set of natural photos and synthetic transformations of 1
 - <a href="https://covid-segmentation.grand-challenge.org"> **COVID-19-20**</a> <br>
 COVID-19 Lung CT Lesion Segmentation <br>
 ***Keyboard:*** CT scan, Labeled <br>
-<a href="https://covid-segmentation.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/pii/S1361841522002353"> ![paper](src/paper.png)</a>
+<a href="https://covid-segmentation.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/pii/S1361841522002353"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Annotation data are available under CC0 license
 
 - <a href="https://www.cancerimagingarchive.net/collection/covid-19-ar"> **COVID-19-AR**</a> <br>
 Chest Imaging with Clinical and Genomic Correlates Representing a Rural COVID-19 Positive Population <br>
-<a href="https://www.nature.com/articles/s41597-020-00741-6"> ![paper](src/paper.png)</a>
+<a href="https://www.nature.com/articles/s41597-020-00741-6"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://zenodo.org/records/3757476"> **COVID-19 CT Lung and Infection**</a> <br>
 The dataset contains 20 labeled COVID-19 CT scans <br>
 ***Keyboard:*** Segmentation <br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://www.kaggle.com/datasets/andrewmvd/covid19-ct-scans"> **COVID-19 CT scans**</a><br>
 20 CT scans and expert segmentations of patients with COVID-19<br>
 ***Keyboard:*** Labeled<br>
+![licence](src/CcLogo.png) Coronacases (CC BY NC 3.0) - Radiopedia (CC BY NC SA 3.0) - Annotations (CC BY 4.0)
 
 - <a href="https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset"> **Covid-19 Image**</a> <br>
 3 Way Classification - COVID-19, Viral Pneumonia, Normal <br>
 ***Keyboard:*** X ray, Labeled <br>
+![licence](src/CcLogo.png) CC BY-SA 4.0
 
-- <a href="https://data.uni-hannover.de/dataset/cov-19-img"> **COVID-19 Image Repository**</a> <br>
+- <a href="https://data.uni-hannover.de/dataset/cov-19-img"> **COVID-19 Image Repository**</a><br>
 An anonymized data set of COVID-19 cases with a focus on radiological imaging <br>
+![licence](src/CcLogo.png) CC BY 3.0
 
-- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=89096912"> **COVID-19-NY-SBU**</a> <br>
-This collection of cases was acquired at Stony Brook University from patients who tested positive for COVID-19. <br>
+- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=89096912"> **COVID-19-NY-SBU**</a><br>
+This collection of cases was acquired at Stony Brook University from patients who tested positive for COVID-19.<br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database"> **COVID-19 Radiography Database**</a> <br>
 3616 COVID-19 Chest X-ray images and lung masks <br>
@@ -1450,6 +1457,7 @@ The dataset contains 63849 images from 377 patients <br>
 
 - <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6ACUZJ"> **COVID19-CT**</a><br>
 An Chest CT Image Repository of 1000+ Patients with Confirmed COVID-19 Diagnosis <br>
+![licence](src/CcLogo.png) CC0 1.0
 
 - <a href="https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md"> **COVIDx**</a> <br>
 It is a collection of 8 datasets <br>
@@ -1487,16 +1495,19 @@ The database currently consists of an image set of 50 low-dose documented whole-
 
 - <a href="https://empire10.grand-challenge.org"> **EMPIRE10**</a> (Evaluation of Methods for Pulmonary Image Registration 2010) <br>
 ***Keyboard:*** CT, Registration of thoracic <br>
-<a href="https://pubmed.ncbi.nlm.nih.gov/21632295"> ![paper](src/paper.png)</a> 
+<a href="https://pubmed.ncbi.nlm.nih.gov/21632295"> ![paper](src/paper.png)</a> <br>
+![licence](src/CcLogo.png) Data downloaded from this site may only be used for the purpose of preparing an entry to be submitted on this site.
 
 - <a href="https://som-shahlab.github.io/inspect-website"> **INSPECT**</a><br>
 It contains data from 19,402 patients, including CT images, radiology report impression sections, and structured electronic health record (EHR) data. <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
-<a href="https://arxiv.org/abs/2311.10798"> ![paper](src/paper.png)</a>
+<a href="https://arxiv.org/abs/2311.10798"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Stanford university dataset research use aggrement
 
 - <a href="https://www.kaggle.com/datasets/hamdallak/the-iqothnccd-lung-cancer-dataset"> **IQ-OTH/NCCD**</a> (Iraq-Oncology Teaching Hospital/National Center for Cancer Diseases) <br>
 The dataset contains a total of 1190 images representing CT scan slices of 110 cases. <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
+![licence](src/CcLogo.png) CC0: Public Domain
 
 - <a href="http://db.jsrt.or.jp/eng.php"> **JSRT**</a> (Japanese Society of Radiological Technology) <br>
 The database includes 154 conventional chest radiographs with a lung nodule and 93 radiographs without a nodule <br>
