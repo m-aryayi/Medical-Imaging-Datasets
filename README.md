@@ -1516,17 +1516,19 @@ The database includes 154 conventional chest radiographs with a lung nodule and 
 
 - <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254"> **LIDC-IDRI**</a> (Lung Image Database Consortium (LIDC) and Image Database Resource Initiative (IDRI)) <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
-<a href="https://aapm.onlinelibrary.wiley.com/doi/10.1118/1.3528204"> ![paper](src/paper.png)</a> 
+<a href="https://aapm.onlinelibrary.wiley.com/doi/10.1118/1.3528204"> ![paper](src/paper.png)</a> <br>
+![licence](src/CcLogo.png) CC BY 3.0 
 
 - <a href="https://lndb.grand-challenge.org"> **LNDb**</a> (Lung Nodule Database) <br>
 Lung nodule detection, segmentation and characterization as well as prediction of patient follow-up <br>
 ***Keyboard:*** Cancer, CT-scan <br>
-<a href="https://lndb.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/33740739"> ![paper](src/paper.png) </a> 
+<a href="https://lndb.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/33740739"> ![paper](src/paper.png) </a> <br> ![licence](src/CcLogo.png) CC BY-NC-ND 4.0
 
 - <a href="https://lola11.grand-challenge.org/"> **LOLA11**</a> (LObe and Lung Analysis 2011) <br>
 Compare methods for (semi-)automatic segmentation of the lungs and lobes from chest <br>
 ***Keyboard:*** segmentation, CT-scan <br>
-<a href="https://lola11.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
+<a href="https://lola11.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a><br>
+![licence](src/CcLogo.png) Data downloaded from this site may only be used for the purpose of preparing an entry to be submitted on this site. ...
 
 - <a href="https://lumic.grand-challenge.org"> **LUMIC**</a> <br>
 ***Keyboard:*** CT-scan, registration, Labeled<br>
@@ -1535,11 +1537,11 @@ Compare methods for (semi-)automatic segmentation of the lungs and lobes from ch
 - <a href="https://luna16.grand-challenge.org"> **LUNA16**</a> (LUng Nodule Analysis 2016) <br>
 Nodule location detection <br>
 ***Keyboard:*** Cancer, CT-scan <br>
-<a href="https://luna16.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841517301020"> ![paper](src/paper.png) Overview paper</a> 
+<a href="https://luna16.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841517301020"> ![paper](src/paper.png) Overview paper</a> </a> <br> ![licence](src/CcLogo.png) Creative Commons Attribution 4.0 International License
 
 - <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70224216"> **Lung-PET-CT-Dx**</a> <br>
 A Large-Scale CT and PET/CT Dataset for Lung Cancer Diagnosis <br>
-***Keyboard:*** Cancer, Labeled <br>
+***Keyboard:*** Cancer, Labeled <br>![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://mela.grand-challenge.org"> **MELA**</a> (Mediastinal Lesion Analysis) <br>
 Detectition mediastinal lesions from 1100 CT scans, consisting of 770 CTs for training, 110 CTs for validation, and 220 CTs for testing. <br>
@@ -1549,36 +1551,36 @@ Detectition mediastinal lesions from 1100 CT scans, consisting of 770 CTs for tr
 - <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=80969742"> **MIDRC-RICORD-1A**</a> (Medical Imaging Data Resource Center - RSNA International COVID-19 Open Radiology Database Release 1a)<br>
 120 Chest CT Covid+ <br>
 ***Keyboard:*** CT Scan, Labeled <br>
-<a href="https://pubs.rsna.org/doi/10.1148/radiol.2021203957"> ![paper](src/paper.png)</a>
+<a href="https://pubs.rsna.org/doi/10.1148/radiol.2021203957"> ![paper](src/paper.png)</a><br>![licence](src/CcLogo.png) CC BY-NC 4.0
 
 - <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=80969771"> **MIDRC-RICORD-1B**</a> (Medical Imaging Data Resource Center - RSNA International COVID-19 Open Radiology Database Release 1b)<br>
 120 Chest CT Covid+ <br>
 ***Keyboard:*** CT Scan, Labeled <br>
-<a href="https://pubs.rsna.org/doi/10.1148/radiol.2021203957"> ![paper](src/paper.png)</a>
+<a href="https://pubs.rsna.org/doi/10.1148/radiol.2021203957"> ![paper](src/paper.png)</a><br>![licence](src/CcLogo.png) CC BY-NC 4.0
 
 - <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70230281"> **MIDRC-RICORD-1C**</a> (Medical Imaging Data Resource Center - RSNA International COVID-19 Open Radiology Database Release 1c)<br>
 998 Chest X-rays Covid+ <br>
 ***Keyboard:*** X-rays, Labeled <br>
-<a href="https://pubs.rsna.org/doi/10.1148/radiol.2021203957"> ![paper](src/paper.png)</a>
+<a href="https://pubs.rsna.org/doi/10.1148/radiol.2021203957"> ![paper](src/paper.png)</a><br>![licence](src/CcLogo.png) CC BY-NC 4.0
 
 - <a href="https://physionet.org/content/mimic-cxr"> **MIMIC-CXR**</a> <br>
 The dataset contains 377,110 images corresponding to 227,835 radiographic. <br>
 ***Keyboard:*** X-ray <br>
-<a href="https://www.nature.com/articles/s41597-019-0322-0"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/1901.07042"> ![paper](src/paper.png)</a>
+<a href="https://www.nature.com/articles/s41597-019-0322-0"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/1901.07042"> ![paper](src/paper.png)</a><br>![licence](src/CcLogo.png) PhysioNet Credentialed Health Data License 1.5.0
 
 - <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=5800702"> **NLST**</a> (National Lung Screening Trial)<br>
 26,254 low-dose CT scans <br>
 ***Keyboard:*** CT Scan, Labeled <br>
-<a href="https://www.nejm.org/doi/10.1056/NEJMoa1102873"> ![paper](src/paper.png)</a>
+<a href="https://www.nejm.org/doi/10.1056/NEJMoa1102873"> ![paper](src/paper.png)</a><br>![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://node21.grand-challenge.org"> **NODE21**</a> <br>
 Detection and generation of lung nodules. <br>
 ***Keyboard:*** X-ray <br>
-<a href="https://node21.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2401.02192"> ![paper](src/paper.png)</a>
+<a href="https://node21.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2401.02192"> ![paper](src/paper.png)</a><br>![licence](src/CcLogo.png) CC BY-NC-ND 4.0
 
 - <a href="https://www.cancerimagingarchive.net/collection/nsclc-radiomics"> **NSCLC-Radiomics**</a> (Non-Small Cell Lung Cancer) <br>
 This collection contains images from 422 patients.  <br>
-***Keyboard:*** CT Scan, Labeled <br>
+***Keyboard:*** CT Scan, Labeled <br>![licence](src/CcLogo.png) CC BY-NC 3.0
 
 - <a href="https://bimcv.cipf.es/bimcv-projects/padchest"> **PadChest**</a> <br>
 This dataset includes more than 160,000 images of 67,000 patients. <br>
@@ -1587,6 +1589,7 @@ This dataset includes more than 160,000 images of 67,000 patients. <br>
 
 - <a href="https://www.cancerimagingarchive.net/analysis-result/qin-lungct-seg"> **QIN Lung CT**</a> <br>
 ***Keyboard:*** Nodule, CT Scan, Segmentation <br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 - <a href="https://www.rsna.org/rsnai/ai-image-challenge/RSNA-Pneumonia-Detection-Challenge-2018"> **RSNA Pneumonia Detection**</a> (Radiological Society of North America 2018) <br>
 30,000 frontal view chest radiographs <br>
@@ -1599,7 +1602,8 @@ Detect and characterize instances of pulmonary embolism (PE) on chest CT studies
 
 - <a href="https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset"> **SARS-CoV-2 CT-scan**</a><br>
 Containing 1252 CT scans that are positive for SARS-CoV-2 infection (COVID-19) and 1230 CT scans for patients non-infected by SARS-CoV-2, 2482 CT scans in total <br>
-<a href="https://www.medrxiv.org/content/10.1101/2020.04.24.20078584v3"> ![paper](src/paper.png)</a>
+<a href="https://www.medrxiv.org/content/10.1101/2020.04.24.20078584v3"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC-SA 4.0
 
 - <a href="http://www.via.cornell.edu/databases/simbadb.html"> **SIMBA**</a> <br>
 Chest Health Analysis System Public Lung Image Database.<br>
@@ -1608,11 +1612,13 @@ Chest Health Analysis System Public Lung Image Database.<br>
 - <a href="https://stoic2021.grand-challenge.org"> **STOIC2021**</a> <br>
 Study of Thoracic CT in COVID-19 <br>
 ***Keyboard:*** CT scan <br>
-<a href="https://stoic2021.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubs.rsna.org/doi/10.1148/radiol.2021210384"> ![paper](src/paper.png)</a>
+<a href="https://stoic2021.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubs.rsna.org/doi/10.1148/radiol.2021210384"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC 4.0
 
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-luad"> **TCGA-LUAD**</a> (The Cancer Genome Atlas Lung Adenocarcinoma) <br>
 Data from 69 Participants <br>
 ***Keyboard:*** Multi-modality <br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 - <a href="https://vessel12.grand-challenge.org/"> **VESSEL12**</a> (VESsel SEgmentation in the Lung 2012) <br>
 Automatic (and semi-automatic) segmentation of blood vessels in the lungs from CT images <br>
@@ -1627,11 +1633,13 @@ The database contains a number of annotated CT image scans that highlight many o
 - <a href="https://physionet.org/content/vindr-pcxr"> **VinDr-PCXR**</a><br>
 The dataset consists of 9,125 posteroanterior (PA) view CXR scans in patients younger than ten years and comes with both the localization of critical findings and the classification of common thoracic diseases. <br>
 ***Keyboard:*** Labeled <br>
+![licence](src/CcLogo.png) PhysioNet Restricted Health Data License 1.5.0
 
 - <a href="https://wsss4luad.grand-challenge.org"> **WSSS4LUAD**</a> (Weakly-supervised Tissue Semantic Segmentation for Lung Adenocarcinoma) <br>
 Segment tumor epithelial, tumor-associated stroma and normal tissue with only patch-level labels. <br>
 ***Keyboard:*** H&E stained Whole Slide Image (WSI), Cancer <br>
-<a href="https://wsss4luad.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2204.06455"> ![paper](src/paper.png)</a>
+<a href="https://wsss4luad.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2204.06455"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 
 
