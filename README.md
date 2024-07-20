@@ -1212,6 +1212,11 @@ The image database consisted of cardiac CT (n=10) and MRI (n=10) of healthy and 
 
 ### Kidneys and Urinary Tract
 
+- <a href="https://www.cancerimagingarchive.net/collection/cptac-ccrcc"> **CPTAC-CCRCC**</a> (The Clinical Proteomic Tumor Analysis Consortium Clear Cell Renal Cell Carcinoma)<br>
+Data from 262 subjects.<br>
+***Keyboard:*** Multi-modality<br>
+![licence](src/CcLogo.png) CC BY 3.0 
+
 - <a href="https://kipa22.grand-challenge.org"> **KiPA22**</a> (Kidney PArsing 2022) <br>
 Multi-Structure Segmentation for Renal Cancer Treatment <br>
 ***Keyboard:*** Computed Tomography Angiography (CTA), Labeled <br>
@@ -1237,6 +1242,11 @@ Data from 120 subjects and 111,781 images<br>
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-kich"> **TCGA-KICH**</a> (The Cancer Genome Atlas Kidney Chromophobe)<br>
 Data from 15 subjects.<br>
 ***Keyboard:*** MRI, CT scan<br>
+![licence](src/CcLogo.png) CC BY 3.0 
+
+- <a href="https://www.cancerimagingarchive.net/collection/tcga-kirc"> **TCGA-KIRC**</a> (The Cancer Genome Atlas Kidney Renal Clear Cell Carcinoma)<br>
+Data from 267 subjects.<br>
+***Keyboard:*** Multi-modality<br>
 ![licence](src/CcLogo.png) CC BY 3.0 
 
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-kirp"> **TCGA-KIRP**</a> (The Cancer Genome Atlas Cervical KIdney Renal Papillary cell carcinoma)<br>
@@ -2073,6 +2083,10 @@ A whole-body FDG-PET/CT dataset with manually annotated tumor lesions (FDG-PET-C
 There are 20 training and 20 testing cases in the CT dataset. MRI dataset contains 20 training and 20 testing cases with T1-Dual and T2 SPIR sequences. <br>
 ***Keyboard:*** *Liver, Kidneys, Spleen*, CT Scan, MRI, Labeled <br>
 <a href="https://chaos.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841520303145"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.cancerimagingarchive.net/collection/cptac-sar"> **CPTAC-SAR**</a> (The Clinical Proteomic Tumor Analysis Consortium SARcomas)<br>
+***Keyboard:*** *Abdomen, Arm, Bladder, Chest, Head-Neck, Kidney, Leg, Retroperitoneum, Stomach, and Uterus*, Multi-modality<br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 - <a href="https://www.cancerimagingarchive.net/collection/ct-org"> **CT-ORG**</a><br>
 This dataset consists of 140 computed tomography scans come from a wide variety of sources. <br>
