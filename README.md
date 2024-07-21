@@ -1286,6 +1286,12 @@ It provides over 2000 anonymized MRI image series acquired in routine liver MRI 
 <a href="https://ieeexplore.ieee.org/document/9242262"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC-BY-NC-ND-4.0
 
+- <a href="https://www.cancerimagingarchive.net/collection/hcc-tace-seg"> **HCC-TACE-Seg**</a><br>
+Multimodality annotated Hepatocellular carcinoma (HCC) cases with and without advanced imaging segmentation. <br>
+***Keyboard:*** CT scan, Cancer, Segmentation, Labeled<br>
+<a href="https://www.nature.com/articles/s41597-023-01928-3"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
+
 - <a href="https://competitions.codalab.org/competitions/17094"> **LiTS**</a> (Liver Tumor Segmentation) <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
 <a href="https://competitions.codalab.org/competitions/17094#results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/1901.04056"> ![paper](src/paper.png)</a><br>
@@ -2068,6 +2074,11 @@ The scans were acquired from 11 subjects without any abdominal pathology or know
 A large-scale abdominal multi-organ benchmark for versatile medical image segmentation <br>
 ***Keyboard:***  Multi-tissue (15 abdominal organs), MRI, CT scan<br>
 <a href="https://amos22.grand-challenge.org/evaluation/amos-ct-regular-evaluation/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://www.cancerimagingarchive.net/collection/apollo-5"> **APOLLO-5**</a> (Applied Proteogenomics OrganizationaL Learning and Outcomes)<br>
+A collection of 31 datasets for different organs. <br>
+***Keyboard:*** Cancer, Multi-modality<br>
+![licence](src/CcLogo.png) TCIA Limited (contact Support)
 
 - <a href="https://www.cancerimagingarchive.net/collection/fdg-pet-ct-lesions"> **AutoPET**</a><br>
 A whole-body FDG-PET/CT dataset with manually annotated tumor lesions (FDG-PET-CT-Lesions) <br>
