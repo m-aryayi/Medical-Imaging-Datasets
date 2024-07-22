@@ -525,7 +525,8 @@ Multi-parametric magnetic resonance imaging scans for de novo Glioblastoma patie
 - <a href="https://github.com/abenhamadou/3DTeethSeg22_challenge"> **3DTeethSeg22**</a> <br>
 A total of 1800 3D intra-oral scan for 900 patients covering their upper and lower jaws separately.<br>
 ***Keyboard:***  Labeeld, Segmentation <br>
-<a href="https://arxiv.org/abs/2305.18277"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/2210.06094"> ![paper](src/paper.png)</a>
+<a href="https://arxiv.org/abs/2305.18277"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/2210.06094"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC-ND 4.0
 
 - <a href="https://cl-detection2023.grand-challenge.org"> **Cl-Detection 2023**</a><br>
 Cephalometric Landmark (CL) Detection in Lateral X-ray Images.<br>
@@ -535,7 +536,8 @@ Cephalometric Landmark (CL) Detection in Lateral X-ray Images.<br>
 - <a href="https://github.com/liangjiubujiu/CTooth"> **CTooth**</a> <br>
 The gathered data set consists of 5803 CBCT slices in total, out of which 4243 contain tooth annotations.<br>
 ***Keyboard:*** 3D dental CBCT, Segmentation, Labeled <br>
-<a href="https://arxiv.org/abs/2208.01643"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/2206.08778"> ![paper](src/paper.png)</a>
+<a href="https://arxiv.org/abs/2208.01643"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/2206.08778"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://www.kaggle.com/datasets/dasmehdixtr/ddti-thyroid-ultrasound-images"> **DDTI**</a> <br>
 Thyroid Ultrasound Images to Classify Benign&Malign Cases.<br>
@@ -544,7 +546,8 @@ Thyroid Ultrasound Images to Classify Benign&Malign Cases.<br>
 - <a href="https://dentex.grand-challenge.org"> **DENTEX**</a> <br>
 Dental Enumeration and Diagnosis on Panoramic X-rays <br>
 ***Keyboard:*** X-rays, Labeled <br>
-<a href="https://dentex.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2305.19112"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/2303.06500"> ![paper](src/paper.png)</a>
+<a href="https://dentex.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2305.19112"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/2303.06500"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-SA 4.0
 
 - <a href="https://zenodo.org/records/1473724"> **OpenEar**</a> <br>
 A library consisting of eight three-dimensional models of the human temporal bone. <br>
@@ -770,7 +773,8 @@ ______
 - <a href="https://polyp.grand-challenge.org/AsuMayo"> **ASU-Mayo**</a><br>
 Containing 19,400 frames and a total of 5,200 polyp instances from 10 unique polyps.<br>
 ***Keyboard:*** Colonoscopy videos, Segmentation, Labeled <br>
-<a href="https://ieeexplore.ieee.org/document/7294676"> ![paper](src/paper.png)</a>
+<a href="https://ieeexplore.ieee.org/document/7294676"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Contact provider
 
 - <a href="https://conic-challenge.grand-challenge.org"> **CoNIC**</a> (Colon Nuclei Identification and Counting) <br>
 ***Keyboard:*** whole-slide images (WSI), Nuclear segmentation and classification <br>
@@ -789,7 +793,8 @@ Colonoscopy tissue segmentation and classification and Signet ring cell detectio
 - <a href="https://ieee-dataport.org/competitions/endoscopy-disease-detection-and-segmentation-edd2020"> **EDD2020**</a> (Endoscopy Disease Detection)<br>
 Annotated data consists of 5 different disease classes.<br>
 ***Keyboard:*** Video, Segmentation, Detection, Labeled <br>
-<a href="https://www.sciencedirect.com/science/article/pii/S1361841521000487"> ![paper](src/paper.png)</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S1361841521000487"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://www.gastrointestinalatlas.com/english/english.html"> **El Salvador atlas of Gastrointestinal**</a><br>
 It displays 5154 video clips.<br>
@@ -803,42 +808,51 @@ Addressing generalisability in polyp detection and segmentation <br>
 - <a href="https://github.com/simula/hyper-kvasir"> **HyperKvasir**</a><br>
 The dataset contains 110,079 images and 373 videos where it captures anatomical landmarks and pathological and normal findings.<br>
 ***Keyboard:*** Gastrointestinal tract, Labeled, Segmentation <br>
-<a href="https://www.nature.com/articles/s41597-020-00622-y"> ![paper](src/paper.png)</a>
+<a href="https://www.nature.com/articles/s41597-020-00622-y"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) The data is released fully open for research and educational purposes.
 
 - <a href="https://github.com/simula/kvasir-capsule"> **Kvasir-Capsule**</a><br>
 The dataset consists of 117 videos which can be used to extract a total of 4,741,504 image frames.<br>
 ***Keyboard:*** Video capsule endoscopy (VCE) , Labeled <br>
-<a href="https://www.nature.com/articles/s41597-021-00920-z"> ![paper](src/paper.png)</a>
+<a href="https://www.nature.com/articles/s41597-021-00920-z"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) The data is released fully open for research and educational purposes.
 
 - <a href="https://datasets.simula.no/kvasir-seg"> **Kvasir-SEG**</a><br>
 It contains 1000 images.<br>
 ***Keyboard:*** Gastrointestinal polyp, Labeled, Segmentation, Colonoscopy <br>
-<a href="https://arxiv.org/abs/1911.07069"> ![paper](src/paper.png)</a>
+<a href="https://arxiv.org/abs/1911.07069"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) The use of the dataset is restricted for research and educational purposes.
 
 - <a href="https://paip2020.grand-challenge.org"> **PAIP2020**</a> <br>
 Classification of molecular subtypes in colorectal cancer for whole-slide image analyses <br>
-<a href="https://paip2020.grand-challenge.org/evaluation/validation/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a>
+<a href="https://paip2020.grand-challenge.org/evaluation/validation/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC 4.0
 
 - <a href="https://2023paip.grand-challenge.org"> **PAIP2023**</a> <br>
 Tumor cellularity prediction in pancreatic cancer (supervised learning) and colon cancer (transfer learning) <br>
-<a href="https://2023paip.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+<a href="https://2023paip.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC 4.0
 
 - <a href="https://www.synapse.org/Synapse:syn26376615/wiki/613312"> **PolypGen**</a><br>
 This dataset is composed of a total of 8037 frames including both single and sequence frames.<br>
 ***Keyboard:*** Detection, Segmentation, Video <br>
-<a href="https://www.nature.com/articles/s41597-023-01981-y"> ![paper](src/paper.png)</a>
+<a href="https://www.nature.com/articles/s41597-023-01981-y"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-coad"> **TCGA-COAD**</a> (The Cancer Genome Atlas Colon Adenocarcinoma)<br>
 Data from 25 subjects.<br>
 ***Keyboard:*** CT scan<br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-read"> **TCGA-READ**</a> (The Cancer Genome Atlas Rectum Adenocarcinoma)<br>
 Data from 3 subjects and 1,796 images.<br>
 ***Keyboard:*** MRI, CT scan<br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 - <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=3539213"> **The National CT Colonography Trial (ACRIN 6664)**</a> <br>
 A collection contains 825 cases of CT colonography imaging with accompanying spreadsheets that provide polyp descriptions and their location within the colon segments. <br>
-<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa0800996"> ![paper](src/paper.png)</a> 
+<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa0800996"> ![paper](src/paper.png)</a> <br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 
 
