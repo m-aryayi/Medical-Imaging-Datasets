@@ -552,48 +552,58 @@ Dental Enumeration and Diagnosis on Panoramic X-rays <br>
 - <a href="https://zenodo.org/records/1473724"> **OpenEar**</a> <br>
 A library consisting of eight three-dimensional models of the human temporal bone. <br>
 ***Keyboard:***  Cone Beam Computed Tomography (CBCT) <br>
-<a href="https://www.nature.com/articles/sdata2018297"> ![paper](src/paper.png)</a>
+<a href="https://www.nature.com/articles/sdata2018297"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://data.mendeley.com/datasets/hxt48yk462"> **Panoramic Dental X-rays**</a> <br>
 This dataset consists of anonymized and deidentified panoramic dental X-rays of 116 patients.<br>
 ***Keyboard:***  Labeeld, Segmentation <br>
-<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4652330"> ![paper](src/paper.png)</a> 
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4652330"> ![paper](src/paper.png)</a> <br>
+![licence](src/CcLogo.png) CC BY NC 3.0
 
 - <a href="https://zenodo.org/records/4457648#.ZDAKbexByWA"> **Panoramic radiography database**</a><br>
 This database contains 598 panoramic radiographs. <br>
 ***Keyboard:*** X-ray<br>
-<a href="https://www.mdpi.com/1424-8220/21/9/3110"> ![paper](src/paper.png)</a>
+<a href="https://www.mdpi.com/1424-8220/21/9/3110"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://www.cs.cit.tum.de/camp/publications/segthy-dataset"> **SegThy**</a><br>
 Thyroid and Neck Segmentation. <br>
 ***Keyboard:*** MRI, Ultrasound <br>
+![licence](src/CcLogo.png) CC BY
 
 - <a href="https://tianchi.aliyun.com/competition/entrance/532086"> **STS-2D**</a> (Semi-supervised Tooth Segmentation)<br>
 The training dataset consists of 4000 panoramic images of teeth. <br>
 ***Keyboard:*** Panoramic X-ray, Labeled <br>
-<a href="https://tianchi.aliyun.com/competition/entrance/532086/rankingList"> ![Leaderboard](src/leaderboard.png)</a>
+<a href="https://tianchi.aliyun.com/competition/entrance/532086/rankingList"> ![Leaderboard](src/leaderboard.png)</a><br>
+![licence](src/CcLogo.png) Any individual or company is prohibited from using it for commercial purposes.
 
 - <a href="https://tianchi.aliyun.com/competition/entrance/532087"> **STS-3D**</a> (Semi-supervised Tooth Segmentation)<br>
 Training dataset consists of 312 CT scans, containing about 62400 slices. <br>
 ***Keyboard:*** Cone Beam Computed Tomography (CT scan), Labeled <br>
-<a href="https://tianchi.aliyun.com/competition/entrance/532087/rankingList"> ![Leaderboard](src/leaderboard.png)</a>
+<a href="https://tianchi.aliyun.com/competition/entrance/532087/rankingList"> ![Leaderboard](src/leaderboard.png)</a><br>
+![licence](src/CcLogo.png) Any individual or company is prohibited from using it for commercial purposes.
 
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-thca"> **TCGA-THCA**</a> (The Cancer Genome Atlas Thyroid Cancer)<br>
 Data from 6 subjects and 2780 images<br>
 ***Keyboard:*** CT scan <br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 - <a href="https://humansintheloop.org/resources/datasets/teeth-segmentation-dataset"> **Teeth Segmentation Dataset**</a> <br>
 The dataset consists of 598 images from other dataset with a total of 15,318 polygons, where each tooth is segmented manually with a different class. <br>
 ***Keyboard:*** Panoramic X-ray, Segmentation, Labeled <br>
+![licence](src/CcLogo.png) CC0 1.0
 
 - <a href="https://stanfordaimi.azurewebsites.net/datasets/a72f2b02-7b53-4c5d-963c-d7253220bfd5"> **Thyroid Ultrasound Cine-clip**</a> <br>
 Data is collected from 167 patients with biopsy-confirmed thyroid nodules (n=192).<br>
 ***Keyboard:*** Ultrasound cine-clip images, Labeeld, Segmentation <br>
+![licence](src/CcLogo.png) Stanford university dataset research use aggrement
 
 - <a href="https://tn-scui2020.grand-challenge.org"> **TN-SCUI2020**</a> (Thyroid Nodule Segmentation and Classification in Ultrasound Images) <br>
 A dataset of thyroid nodule with over 4,500 patient <br>
 ***Keyboard:***  Ultrasound Image, Thyroid <br>
-<a href="https://tn-scui2020.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+<a href="https://tn-scui2020.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a><br>
+![licence](src/CcLogo.png) The publish right of this dataset is limited to the purpose of this challenge only
 
 - <a href="https://ditto.ing.unimore.it/toothfairy"> **ToothFairy**</a> <br>
 A dataset of dental scans obtained by 3D CBCT <br>
@@ -603,7 +613,8 @@ A dataset of dental scans obtained by 3D CBCT <br>
 - <a href="https://www.cancerimagingarchive.net/collection/vestibular-schwannoma-seg"> **Vestibular Schwannoma SEG**</a> <br>
 242 consecutive patients with vestibular schwannoma (VS) undergoing Gamma Knife stereotactic radiosurgery (GK SRS). <br>
 ***Keyboard:*** MRI, Segmentation, Labeled<br>
-<a href="https://thejns.org/view/journals/j-neurosurg/134/1/article-p171.xml"> ![paper](src/paper.png)</a> | <a href="https://www.nature.com/articles/s41597-021-01064-w"> ![paper](src/paper.png)</a>
+<a href="https://thejns.org/view/journals/j-neurosurg/134/1/article-p171.xml"> ![paper](src/paper.png)</a> | <a href="https://www.nature.com/articles/s41597-021-01064-w"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 
 
@@ -622,12 +633,14 @@ A dataset of 4800 annotated AS-OCT images<br>
 - <a href="https://airogs.grand-challenge.org"> **AIROGS**</a> (Artificial Intelligence for RObust Glaucoma Screening) <br>
 This dataset includes around 113,000 images from about 60,000 patients<br>
 ***Keyboard:*** Fundus Images <br>
-<a href="https://airogs.grand-challenge.org/evaluation/preliminary-test-phase-1/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/abstract/document/10253652"> ![paper](src/paper.png) Summary Paper</a>
+<a href="https://airogs.grand-challenge.org/evaluation/preliminary-test-phase-1/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/abstract/document/10253652"> ![paper](src/paper.png) Summary Paper</a><br>
+![licence](src/CcLogo.png) CC BY-NC-ND 4.0
 
 - <a href="https://cataracts.grand-challenge.org"> **CATARACTS**</a> <br>
 Surgical tool detection in 50 videos of cataract surgeries<br>
 ***Keyboard:*** Video, Labeled  <br>
-<a href="https://cataracts.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S136184151830865X"> ![paper](src/paper.png)</a>
+<a href="https://cataracts.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S136184151830865X"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://blogs.kingston.ac.uk/retinal/chasedb1"> **CHASE-DB1**</a> <br>
 ***Keyboard:*** Retinal, Labeled <br>
@@ -644,7 +657,8 @@ A ultra-wide optical coherence tomography angiography (UW-OCTA) dataset addressi
 
 - <a href="https://ipg.fer.hr/ipg/resources/image_database"> **DRiDB**</a> (Diabetic Retinopathy Image Dataset)<br>
 ***Keyboard:*** Fundus Images, Diabetic retinopathy<br>
-<a href="https://ieeexplore.ieee.org/document/6703830"> ![paper](src/paper.png)</a>
+<a href="https://ieeexplore.ieee.org/document/6703830"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) The data included in the dataset can be used, free of charge, for research and educational purposes. Copy, redistribution, and any unauthorized commercial use is prohibited.
 
 - <a href="https://drive.grand-challenge.org"> **DRIVE**</a> (Digital Retinal Images for Vessel Extraction) <br>
 ***Keyboard:*** Retinal, Segmentation <br>
@@ -671,16 +685,19 @@ The database contains 15 images of healthy patients, 15 images of patients with 
 <a href="https://www.hindawi.com/journals/ijbi/2013/154860"> ![paper](src/paper.png)</a>
 
 - <a href="https://idrid.grand-challenge.org/"> **IDRiD**</a> (Indian Diabetic Retinopathy Image Dataset) <br>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841519301033?via%3Dihub"> ![paper](src/paper.png) First Results and Analysis</a>  | <a href="https://www.mdpi.com/2306-5729/3/3/25"> ![paper](src/paper.png) Data Descriptor</a> 
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841519301033?via%3Dihub"> ![paper](src/paper.png) First Results and Analysis</a>  | <a href="https://www.mdpi.com/2306-5729/3/3/25"> ![paper](src/paper.png) Data Descriptor</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://justraigs.grand-challenge.org"> **JustRAIGS**</a> (Justified Referral in AI Glaucoma Screening) <br>
 The dataset is divided into a training subset with 101,442 gradable fundus images, spanning both referable and no referable glaucomatous cases, and a test subset comprising 9,741 fundus images. <br>
 ***Keyboard:*** Fundus Images, Labeled  <br>
-<a href="https://justraigs.grand-challenge.org/evaluation/development-phase/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/pii/S2666914523000325"> ![paper](src/paper.png)</a>
+<a href="https://justraigs.grand-challenge.org/evaluation/development-phase/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/pii/S2666914523000325"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC-SA
 
-- <a href="https://github.com/SaharAlmahfouzNasser/MeDAL-Retina"> **MeDAL Retina Dataset**</a>  <br>
+- <a href="https://github.com/SaharAlmahfouzNasser/MeDAL-Retina"> **MeDAL Retina Dataset**</a><br>
 ***Keyboard:*** Retinal, Labeled <br>
-<a href="https://arxiv.org/pdf/2307.10698.pdf"> ![paper](src/paper.png) Comprehensive details</a> 
+<a href="https://arxiv.org/pdf/2307.10698.pdf"> ![paper](src/paper.png) Comprehensive details</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://blogs.kingston.ac.uk/retinal/messidor-ma-groundturth"> **Messidor MA Groundturth**</a> <br>
 Microaneurysm (MA) detection in 20 retinal images <br>
