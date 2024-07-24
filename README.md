@@ -699,15 +699,16 @@ The dataset is divided into a training subset with 101,442 gradable fundus image
 <a href="https://arxiv.org/pdf/2307.10698.pdf"> ![paper](src/paper.png) Comprehensive details</a><br>
 ![licence](src/CcLogo.png) CC BY 4.0
 
-- <a href="https://blogs.kingston.ac.uk/retinal/messidor-ma-groundturth"> **Messidor MA Groundturth**</a> <br>
+- <a href="https://blogs.kingston.ac.uk/retinal/messidor-ma-groundturth"> **Messidor MA Groundturth**</a><br>
 Microaneurysm (MA) detection in 20 retinal images <br>
 ***Keyboard:*** Retinal, Labeled <br>
-<a href="https://ieeexplore.ieee.org/abstract/document/7820998"> ![paper](src/paper.png)</a>  | <a href="https://www.sciencedirect.com/science/article/pii/S2352914817300229"> ![paper](src/paper.png)</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/7820998"> ![paper](src/paper.png)</a> | <a href="https://www.sciencedirect.com/science/article/pii/S2352914817300229"> ![paper](src/paper.png)</a>
 
 - <a href="https://ieee-dataport.org/open-access/octa-500"> **OCTA-500**</a> <br>
 It contains OCTA imaging under two fields of view (FOVs) from 500 subjects. <br>
 ***Keyboard:*** Optical coherence tomography angiography (OCTA), Segmentation, Labeled<br>
-<a href="https://arxiv.org/abs/2012.07261"> ![paper](src/paper.png)</a>
+<a href="https://arxiv.org/abs/2012.07261"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://odir2019.grand-challenge.org"> **ODIR 2019**</a> (Ocular Disease Intelligent Recognition) <br>
 A database of 5000 patients with age, color fundus photographs from left and right eyes <br>
@@ -722,11 +723,13 @@ Investigation and development of algorithms associated with the diagnosis of Pat
 - <a href="https://ieee-dataport.org/open-access/prime-fp20-ultra-widefield-fundus-photography-vessel-segmentation-dataset"> **PRIME-FP20**</a><br>
 It provides 15 high-resolution ultra-widefield (UWF) fundus photography (FP) images<br>
 ***Keyboard:*** Retinal vessel, Segmentation, Labeled <br>
-<a href="https://ieeexplore.ieee.org/document/9208757"> ![paper](src/paper.png)</a>
+<a href="https://ieeexplore.ieee.org/document/9208757"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://ravir.grand-challenge.org"> **RAVIR**</a> <br>
 A Dataset and Methodology for the Semantic Segmentation and Quantitative Analysis of Retinal Arteries and Veins in Infrared Reflectance Imaging <br>
-<a href="https://ravir.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/abstract/document/9744459"> ![paper](src/paper.png)</a> | <a href="https://escholarship.org/uc/item/4r63v2bd"> ![paper](src/paper.png)</a>
+<a href="https://ravir.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/abstract/document/9744459"> ![paper](src/paper.png)</a> | <a href="https://escholarship.org/uc/item/4r63v2bd"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC-SA 4.0
 
 - <a href="https://refuge.grand-challenge.org"> **REFUGE**</a> (Retinal Fundus Glaucoma) <br>
 A data set of 1200 fundus images with ground truth segmentations and clinical glaucoma labels <br>
@@ -736,7 +739,8 @@ A data set of 1200 fundus images with ground truth segmentations and clinical gl
 - <a href="https://retouch.grand-challenge.org"> **RETOUCH**</a> (Retinal OCT Fluid Challenge) <br>
 Detect and segment various types of fluids on a common dataset of optical coherence tomography (OCT) volumes representing different retinal diseases, acquired with devices from different manufacturers. <br>
 ***Keyboard:*** OCT images <br>
-<a href="https://retouch.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/8653407"> ![paper](src/paper.png)</a>
+<a href="https://retouch.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/8653407"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) The data shared in this challenge is strictly limited to research purpose only, any commercial use is prohibited.
 
 - <a href="https://riadd.grand-challenge.org"> **RFMiD**</a> (Retinal Fundus Multi-Disease Image Dataset) <br>
 It consists of 3200 fundus images<br>
@@ -746,7 +750,8 @@ It consists of 3200 fundus images<br>
 - <a href="https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z"> **RIGA**</a> (Retinal fundus images for glaucoma analysis)<br>
 It is derived from three sources for a total of 750 images. The optic cup and disc boundaries for each image was marked and annotated. <br>
 ***Keyboard:*** Fundus images, Labeled<br>
-<a href="https://doi.org/10.1117/12.2293584"> ![paper](src/paper.png)</a>
+<a href="https://doi.org/10.1117/12.2293584"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC 4.0
 
 - <a href="http://webeye.ophth.uiowa.edu/ROC"> **ROC**</a> (Retinopathy Online Challenge) <br>
 50 training images and 50 test images <br>
@@ -759,7 +764,8 @@ A dataset of OCT volumes, acquired with Topcon SD-OCT devices <br>
 
 - <a href="https://imed.nimte.ac.cn/dataofrose.html"> **ROSE**</a> (Retinal OCT-Angiography Vessel SEgmentation)<br>
 It includes two subsets: ROSE-1 and ROSE-2. <br>
-<a href="https://arxiv.org/abs/2007.05201"> ![paper](src/paper.png)</a>
+<a href="https://arxiv.org/abs/2007.05201"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://aistudio.baidu.com/competition/detail/1101/0/introduction"> **STAGE**</a> (Structural-Functional Transition in Glaucoma Assessment) <br>
 400 OCT data and corresponding Visual Field test reports with Mean Deviation (MD) values, sensitivity maps and pattern deviation probability map labels. <br>
@@ -777,7 +783,8 @@ It includes two subsets: ROSE-1 and ROSE-2. <br>
 - <a href="https://auckland.figshare.com/articles/journal_contribution/UoA-DR_Database_Info/5985208/5"> **UoA-DR**</a> (University of Auckland Diabetic Retinopathy)<br>
 This database consists of 200 retinal images mostly affected with diabetic retinopathy. <br>
 ***Keyboard:*** Segmentation, Labeled<br>
-<a href="https://dl.acm.org/doi/10.1145/3163080.3163087"> ![paper](src/paper.png)</a>
+<a href="https://dl.acm.org/doi/10.1145/3163080.3163087"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC0 1.0
 
 
 ______
