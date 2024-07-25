@@ -893,6 +893,11 @@ Consisting of 4212 WSIs from 1153 patients <br>
 ***Keyboard:*** whole-slide images (WSI), Cancer <br>
 <a href="https://acrobat.grand-challenge.org/evaluation/model-development/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="http://arxiv.org/abs/2211.13621"> ![paper](src/paper.png)</a> 
 
+- <a href="https://www.cancerimagingarchive.net/collection/advanced-mri-breast-lesions"> **Advanced-MRI-Breast-Lesions**</a> <br>
+Standard and Delayed Contrast-Enhanced MRI of Malignant and Benign Breast Lesions with Histological and Clinical Supporting Data <br>
+***Keyboard:*** Segmentation, Cancer <br>
+![licence](src/CcLogo.png) CC BY 4.0
+
 - <a href="https://iciar2018-challenge.grand-challenge.org"> **BACH**</a> (BreAst Cancer Histology) <br>
 ***Keyboard:*** Biopsy, Cancer <br>
 <a href="https://iciar2018-challenge.grand-challenge.org/evaluation/part-a/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841518307941"> ![paper](src/paper.png)</a><br>
@@ -1850,6 +1855,10 @@ Automated prediction of treatment effectiveness in ovarian cancer using histopat
 A Cervical Cytology Dataset for Nucleus Detection and Image Classification and Methods for Cervical Nucleus Detection <br>
 ***Keyboard:*** Pap smear, Cancer, Labeled <br>
 <a href="https://arxiv.org/abs/1811.09651"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.cancerimagingarchive.net/collection/cptac-ucec"> **CPTAC-UCEC**</a> (Clinical Proteomic Tumor Analysis Consortium Uterine Corpus Endometrial Carcinoma) <br>
+***Keyboard:*** Multi-modality, Cancer <br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 - <a href="https://mde-lab.aegean.gr/index.php/downloads"> **DTU/HERLEV (PAP-SMEAR)**</a> <br>
 ***Keyboard:*** Pap smear, Labeled <br>
