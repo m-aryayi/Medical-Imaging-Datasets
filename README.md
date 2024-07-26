@@ -226,6 +226,10 @@ It has aggregated 1,629 typical individuals resting state fMRI data. <br>
 ***Keyboard:*** Resting state fMRI (rfMRI) <br>
 <a href="https://www.nature.com/articles/sdata201449"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.cancerimagingarchive.net/collection/cptac-gbm"> **CPTAC-GBM**</a> (Clinical Proteomic Tumor Analysis Consortium Glioblastoma Multiforme)<br>
+***Keyboard:*** Multi-modality, Cancer <br>
+![licence](src/CcLogo.png) CC BY 3.0 - TCIA Restricted
+
 - <a href="http://headctstudy.qure.ai"> **CQ500**</a> <br>
 A dataset of 491 scans with 193,317 slices <br>
 ***Keyboard:*** CT Scan <br>
@@ -803,6 +807,10 @@ Containing 19,400 frames and a total of 5,200 polyp instances from 10 unique pol
 - <a href="https://conic-challenge.grand-challenge.org"> **CoNIC**</a> (Colon Nuclei Identification and Counting) <br>
 ***Keyboard:*** whole-slide images (WSI), Nuclear segmentation and classification <br>
 <a href="https://conic-challenge.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2111.14485"> ![paper](src/paper.png)</a> 
+
+- <a href="https://www.cancerimagingarchive.net/collection/cptac-coad"> **CPTAC-COAD**</a> (Clinical Proteomic Tumor Analysis Consortium Colon Adenocarcinoma)<br>
+***Keyboard:*** Histopathology, Cancer <br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 - <a href="http://vi.cvc.uab.es/colon-qa/cvccolondb"> **CVC colon DB**</a><br>
 It contains 15 short colonoscopy sequences.<br>
@@ -1522,6 +1530,10 @@ An Chest CT Image Repository of 1000+ Patients with Confirmed COVID-19 Diagnosis
 It is a collection of 8 datasets <br>
 ***Keyboard:*** CT scan, X-ray <br>
 <a href="https://arxiv.org/abs/2003.09871"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.cancerimagingarchive.net/collection/cptac-lscc"> **CPTAC-LSCC**</a> (Clinical Proteomic Tumor Analysis Consortium Lung Squamous Cell Carcinoma)<br>
+***Keyboard:*** CT scan, PT, Histopathology, Cancer <br>
+![licence](src/CcLogo.png) CC BY 3.0 - TCIA Restricted
 
 - <a href="https://crass.grand-challenge.org"> **CRASS12**</a> (Chest Radiograph Anatomical Structure Segmentation) <br>
 Automatic segmentation of anatomical structures in chest radiographs <br>
