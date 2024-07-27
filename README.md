@@ -259,6 +259,11 @@ Study about Neurodevelopmental Genomics: Trajectories of Complex Phenotypes<br>
 ***Keyboard:*** MRI, Multimodal Neuroimaging <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1053811915002529"> ![paper](src/paper.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1053811913008331"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.cancerimagingarchive.net/collection/dfci-bch-bwh-peds-hgg"> **DFCI-BCH-BWH-PEDs-HGG**</a> <br>
+MR imaging of pediatric subjects with high-grade gliomas. It is a subset of the BraTS-PEDs 2023 challenge<br>
+***Keyboard:*** Cancer <br>
+![licence](src/CcLogo.png) CC BY 4.0
+
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/dlbs.html"> **DLBS**</a> (Dallas Lifespan Brain Study)<br>
 350 healthy adults, aged 20-89 who are thoroughly characterized in terms of cognition, brain structure and brain function across the adult lifespan<br>
 ***Keyboard:*** MRI, PET, Cognitive Data <br>
@@ -803,6 +808,10 @@ Containing 19,400 frames and a total of 5,200 polyp instances from 10 unique pol
 ***Keyboard:*** Colonoscopy videos, Segmentation, Labeled <br>
 <a href="https://ieeexplore.ieee.org/document/7294676"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) Contact provider
+
+- <a href="https://www.cancerimagingarchive.net/collection/cmb-crc"> **CMB-CRC**</a> (Cancer Moonshot Biobank - Colorectal Cancer)<br>
+***Keyboard:*** Multi-modality, Cancer <br>
+![licence](src/CcLogo.png) CC BY 4.0 - TCIA Restricted
 
 - <a href="https://conic-challenge.grand-challenge.org"> **CoNIC**</a> (Colon Nuclei Identification and Counting) <br>
 ***Keyboard:*** whole-slide images (WSI), Nuclear segmentation and classification <br>
@@ -1460,6 +1469,10 @@ A Large Chest X-Ray Dataset. <br>
 - <a href="https://stanfordaimi.azurewebsites.net/datasets/f1577fbd-6f5c-417e-be81-850939f90daa"> **CheXphoto**</a><br>
 It comprises a training set of natural photos and synthetic transformations of 10,507 x-rays from 3,000 unique patients that were sampled at random from the CheXpert training set, and a validation and test set of natural and synthetic transformations applied to all 234 x-rays from 200 patients and 668 x-rays from 500 patients in the CheXpert validation and test sets, respectively.<br>
 ![licence](src/CcLogo.png) Stanford university dataset research use aggrement
+
+- <a href="https://www.cancerimagingarchive.net/collection/cmb-lca"> **CMB-LCA**</a> (Cancer Moonshot Biobank - Lung Cancer)<br>
+***Keyboard:*** Multi-modality, Cancer <br>
+![licence](src/CcLogo.png) CC BY 4.0 - TCIA Restricted
 
 - <a href="https://covid-segmentation.grand-challenge.org"> **COVID-19-20**</a> <br>
 COVID-19 Lung CT Lesion Segmentation <br>
