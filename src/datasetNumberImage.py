@@ -29,7 +29,7 @@ plt.rcParams['text.color']='#333F4B'
 
 
 data = {
-       'Brain': 105,
+       'Brain': 106,
        'Ears, Nose, Teeth, and Throat': 17, 
        'Eyes': 34,
        'Bowel': 18,
@@ -44,7 +44,7 @@ data = {
        'Male Reproductive Organs': 14,
        'Lymph Nodes': 8,
        'Skin': 9,
-       'Multi Organs Datasets' : 48
+       'Multi Organs Datasets' : 49
 }
 
 df = pd.DataFrame.from_dict(data, orient='index', columns=['number'])
