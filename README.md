@@ -71,7 +71,7 @@ T1-weighted MRI scans and fluid intelligence scores for children aged 9–10 yea
 776 resting-state fMRI and anatomical datasets aggregated across 8 independent imaging sites. <br>
 <a href="http://fcon_1000.projects.nitrc.org/indi/adhd200/results.html"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/pii/S105381191630283X"> ![paper](src/paper.png)</a>
 
-- <a href="https://adni.loni.usc.edu/data-samples/access-data"> **ADNI**</a> (Alzheimer's Disease Neuroimaging Initiative) <br>
+- <a href="https://adni.loni.usc.edu/data-samples/adni-data"> **ADNI**</a> (Alzheimer's Disease Neuroimaging Initiative) <br>
 ***Keyboard:*** Multi-modality <br>
 <a href="https://www.neurology.org/doi/abs/10.1212/wnl.0b013e3181cb3e25"> ![paper](src/paper.png)</a>
 
