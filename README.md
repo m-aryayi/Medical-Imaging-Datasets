@@ -52,11 +52,13 @@ ______
 - <a href="https://academictorrents.com/details/5fc2f273123336ee34b9ea635ef8440377a42888"> **7-Tesla resting-state fMRI test-retest**</a><br>
 22 participants were scanned during two sessions spaced one week apart.<br>
 ***Keyboard:*** High field fMRI, Labeled <br>
-<a href="https://www.biorxiv.org/content/10.1101/008706v2"> ![paper](src/paper.png)</a>
+<a href="https://www.biorxiv.org/content/10.1101/008706v2"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC0
 
 - <a href="http://www.med.harvard.edu/AANLIB"> **AANLIB**</a><br>
 Harward Atlas the Whole Brain <br>
 ***Keyboard:***  Multi-modality<br>
+![licence](src/CcLogo.png) Commercial reproduction or multiple distribution of any kind is prohibited.
 
 - <a href="https://nda.nih.gov/edit_collection.html?id=3104"> **ABCD Neurocognitive Prediction**</a><br>
 T1-weighted MRI scans and fluid intelligence scores for children aged 9–10 year <br>
@@ -65,11 +67,13 @@ T1-weighted MRI scans and fluid intelligence scores for children aged 9–10 yea
 
 - <a href="http://fcon_1000.projects.nitrc.org/indi/abide"> **ABIDE**</a> (Autism Brain Imaging Data Exchange) <br>
 ***Keyboard:*** Autism spectrum disorders (ASDs), MRI <br>
-<a href="https://pubmed.ncbi.nlm.nih.gov/23774715"> ![paper](src/paper.png)</a>
+<a href="https://pubmed.ncbi.nlm.nih.gov/23774715"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC-SA 3.0
 
 - <a href="http://fcon_1000.projects.nitrc.org/indi/adhd200"> **ADHD-200**</a> (Attention Deficit Hyperactivity Disorder) <br>
 776 resting-state fMRI and anatomical datasets aggregated across 8 independent imaging sites. <br>
-<a href="http://fcon_1000.projects.nitrc.org/indi/adhd200/results.html"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/pii/S105381191630283X"> ![paper](src/paper.png)</a>
+<a href="http://fcon_1000.projects.nitrc.org/indi/adhd200/results.html"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/pii/S105381191630283X"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Consistent with the policies of the 1000 Functional Connectome Project
 
 - <a href="https://adni.loni.usc.edu/data-samples/adni-data"> **ADNI**</a> (Alzheimer's Disease Neuroimaging Initiative) <br>
 ***Keyboard:*** Multi-modality <br>
@@ -78,7 +82,8 @@ T1-weighted MRI scans and fluid intelligence scores for children aged 9–10 yea
 - <a href="https://www.nitrc.org/projects/age-ility"> **Age-ility**</a><br>
 This data set consists of 136 subjects <br>
 ***Keyboard:*** MRI, EEG <br>
-<a href="https://www.sciencedirect.com/science/article/pii/S105381191500347X"> ![paper](src/paper.png)</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S105381191500347X"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Attribution Non-Commercial Share Alike
 
 - <a href="https://nilab-uva.github.io/AOMIC.github.io"> **AOMIC**</a> (the Amsterdam Open MRI Collection) <br>
 It is a collection of three datasets with multimodal (3T) MRI data <br>
@@ -93,6 +98,7 @@ A larger dataset of T1w MRIs and manually segmented lesion masks <br>
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/BeijingEnhanced.html"> **Beijing Enhanced**</a><br>
 These data include 180 healthy controls from a community sample. <br>
 ***Keyboard:*** resting state fMRI<br>
+![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
 
 - <a href="https://github.com/White65534/BHSD"> **BHSD**</a> (Brain Hemorrhage Segmentation Dataset)<br>
 A 3D multi-class ICH dataset containing 192 volumes with pixel-level annotations and 2200 volumes with slice-level annotations across five categories of ICH.<br>
@@ -102,10 +108,12 @@ A 3D multi-class ICH dataset containing 192 volumes with pixel-level annotations
 - <a href="https://bigbrain.loris.ca/main.php"> **BigBrain**</a> <br>
 Microscopic resolution 3D model of the human brain. <br>
 ***Keyboard:*** X-ray, Labeled <br>
+![licence](src/CcLogo.png) CC BY-NC-SA 4.0
 
 - <a href="https://bonbid-hie2023.grand-challenge.org"> **BONBID-HIE**</a> (BOston Neonatal Brain Injury Dataset for Hypoxic Ischemic Encephalopathy) <br>
 ***Keyboard:***  MRI, Segmentation, Labeled  <br>
-<a href="https://bonbid-hie2023.grand-challenge.org/evaluation/development-stage/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.biorxiv.org/content/10.1101/2023.06.30.546841v1"> ![paper](src/paper.png)  Data Descriptor</a>
+<a href="https://bonbid-hie2023.grand-challenge.org/evaluation/development-stage/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.biorxiv.org/content/10.1101/2023.06.30.546841v1"> ![paper](src/paper.png)  Data Descriptor</a><br>
+![licence](src/CcLogo.png) CC BY NC ND
 
 - <a href="https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection"> **BR35H**</a><br>
 Brain Tumor Detection <br>
