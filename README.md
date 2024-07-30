@@ -122,7 +122,8 @@ Brain Tumor Detection <br>
 - <a href="https://aimi.stanford.edu/brainmetshare"> **BrainMetShare**</a> <br>
 The dataset includes 156 whole brain MRI studies, including high-resolution, multi-modal pre- and post-contrast sequences in patients with at least 1 brain metastasis.<br>
 ***Keyboard:*** Detection, MRI, Segmentation, Labeled<br>
-<a href="https://arxiv.org/abs/1903.07988"> ![paper](src/paper.png)</a>
+<a href="https://arxiv.org/abs/1903.07988"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Their Research Use Agreement, as well as to the Terms of Use of the Stanford University School of Medicine website
 
 - <a href="https://www.brainsimagebank.ac.uk"> **BRAINS**</a> (Brain Images of Normal Subjects) <br>
 ***Keyboard:*** MRI <br>
@@ -134,12 +135,14 @@ Classify MRI images into four classes <br>
 
 - <a href="https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset"> **Brian Tumor Dataset**</a> <br>
 This dataset consists of the scanned images of brain of patient diagnosed of brain tumour.<br>
-***Keyboard:*** X-ray, Cancer, Labeled  <br>
+***Keyboard:*** X-ray, Cancer, Labeled<br>
+![licence](src/CcLogo.png) GPL 2 
 
 - <a href="https://figshare.com/articles/dataset/brain_tumor_dataset/1512427"> **brain tumor dataset**</a><br>
 Containing 3064 T1-weighted contrast-inhanced images from 233 patients with three kinds of brain tumor: meningioma, glioma, and pituitary tumor.<br>
 ***Keyboard:*** Cancer, MRI, Labeled <br>
-<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0157112"> ![paper](src/paper.png)</a> | <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140381"> ![paper](src/paper.png)</a>
+<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0157112"> ![paper](src/paper.png)</a> | <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140381"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://brainptm-2021.grand-challenge.org"> **BrainPTM 2021**</a> (Brain Pre-surgical white matter Tractography Mapping) <br>
 Data consists of 75 cases<br>
@@ -194,11 +197,13 @@ This version addressing additional, populations, tumors (e.g., meningioma), clin
 - <a href="https://cada.grand-challenge.org"> **CADA**</a> (Cerebral Aneurysm Detection and Analysis) <br>
 Data of patients with cerebral aneurysms without vasospasm were collected for diagnostic and treatment decision purposes.<br>
 ***Keyboard:*** X-ray rotational angiography (3DRA), Segmentation, Labeled  <br>
-<a href="https://cada.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841521003789"> ![paper](src/paper.png)</a>
+<a href="https://cada.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841521003789"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC-ND 4.0
 
 - <a href="https://caddementia.grand-challenge.org"> **CADDementia**</a> (Computer-Aided Diagnosis of Dementia) <br>
 ***Keyboard:*** Alzheimer's disease (AD), MRI  <br>
-<a href="https://caddementia.grand-challenge.org/results_all"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1053811915000737"> ![paper](src/paper.png)</a> | <a href="https://caddementia.grand-challenge.org/Publications"> ![paper](src/paper.png)</a>
+<a href="https://caddementia.grand-challenge.org/results_all"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1053811915000737"> ![paper](src/paper.png)</a> | <a href="https://caddementia.grand-challenge.org/Publications"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) The data of the evaluation framework may only be used for the evaluation of methods for computer-aided diagnosis dementia through this challenge.
 
 - <a href="https://sites.google.com/view/calgary-campinas-dataset/home"> **Calgary-Campinas**</a> <br>
 It is comprised of 359 datasets, approximately 60 subjects per vendor and magnetic field strength.<br>
@@ -213,7 +218,8 @@ Nearly 700 adults were scanned using structural Magnetic Resonance Imaging, func
 - <a href="https://openfmri.org/dataset/ds000174"> **Changes Associated with Heavy Cannabis Use**</a> <br>
 T1-weighted structural MRI study of cannabis users at baseline and 3 years follow up.<br>
 ***Keyboard:*** MRI<br>
-<a href="https://pubmed.ncbi.nlm.nih.gov/27224247"> ![paper](src/paper.png)</a>
+<a href="https://pubmed.ncbi.nlm.nih.gov/27224247"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC
 
 - <a href="http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network"> **CMI-HBN**</a> (Child Mind Institute Healthy Brain Network) <br>
 Data from 10,000 children and adolescents (ages 5-21). <br>
