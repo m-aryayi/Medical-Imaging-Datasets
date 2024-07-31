@@ -229,11 +229,13 @@ Data from 10,000 children and adolescents (ages 5-21). <br>
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/cobre.html"> **COBRE**</a> (Center for Biomedical Research Excellence)<br>
 functional MR data from 72 patients with Schizophrenia and 75 healthy controls (ages ranging from 18 to 65 in each group)<br>
 ***Keyboard:*** fMRI <br>
+![licence](src/CcLogo.png) Attribution - Non-Commercial
 
 - <a href="https://physionet.org/content/ct-ich"> **Computed Tomography Images for Intracranial Hemorrhage Detection and Segmentation**</a><br>
 A dataset of 82 CT scans was collected, including 36 scans for patients diagnosed with intracranial hemorrhage (ICH).<br>
 ***Keyboard:*** CT scan, Labeled<br>
-<a href="https://www.mdpi.com/2306-5729/5/1/14"> ![paper](src/paper.png)</a>
+<a href="https://www.mdpi.com/2306-5729/5/1/14"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) PhysioNet Restricted Health Data License 1.5.0
 
 - <a href="http://fcon_1000.projects.nitrc.org/indi/CoRR/html"> **CoRR**</a> (Consortium for Reliability and Reproducibility) <br>
 It has aggregated 1,629 typical individuals resting state fMRI data. <br>
@@ -252,7 +254,8 @@ A dataset of 491 scans with 193,317 slices <br>
 - <a href="https://openneuro.org/datasets/ds002236/versions/1.1.1"> **Cross-Sectional Multidomain Lexical Processing**</a><br>
 This dataset explores the neural mechanisms and development of lexical processing through task based fMRI of rhyming, spelling, and semantic judgement tasks in both the auditory and visual modalities.<br>
 ***Keyboard:*** fMRI <br>
-<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6957861"> ![paper](src/paper.png)</a>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6957861"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC0
 
 - <a href="https://crossmoda.grand-challenge.org"> **crossMoDA 2021**</a> (Cross-Modality Domain Adaptation) <br>
 The goal is to segment two key brain structures involved in the follow-up and treatment planning of vestibular schwannoma (VS): the tumour and the cochlea<br>
@@ -281,6 +284,7 @@ MR imaging of pediatric subjects with high-grade gliomas. It is a subset of the 
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/dlbs.html"> **DLBS**</a> (Dallas Lifespan Brain Study)<br>
 350 healthy adults, aged 20-89 who are thoroughly characterized in terms of cognition, brain structure and brain function across the adult lifespan<br>
 ***Keyboard:*** MRI, PET, Cognitive Data <br>
+![licence](src/CcLogo.png) Attribution - Non-Commercial
 
 - <a href="https://xnat.bmia.nl/data/archive/projects/egd"> **EGD**</a> (Erasmus Glioma Database)<br>
 It is a collection of 774 patients with glioma.<br>
@@ -288,7 +292,8 @@ It is a collection of 774 patients with glioma.<br>
 
 - <a href="https://rdr.ucl.ac.uk/articles/dataset/EPISURG_a_dataset_of_postoperative_magnetic_resonance_images_MRI_for_quantitative_analysis_of_resection_neurosurgery_for_refractory_epilepsy/9996158"> **EPISURG**</a> <br>
 A dataset of postoperative MRI images for quantitative analysis of resection neurosurgery for refractory epilepsy. <br>
-<a href="https://link.springer.com/chapter/10.1007/978-3-030-59716-0_12"> ![paper](src/paper.png)</a>
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-59716-0_12"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC-SA 4.0
 
 - <a href="https://feta.grand-challenge.org"> **FeTA**</a> (Fetal Tissue Annotation) <br>
 A dataset of manually segmented pathological and non-pathological fetal magnetic resonance brain volume reconstructions across a range of gestational ages into different tissue categories <br>
