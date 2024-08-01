@@ -300,7 +300,6 @@ A dataset of manually segmented pathological and non-pathological fetal magnetic
 ***Keyboard:*** MRI, Labeled, Segmentation <br>
 <a href="https://www.nature.com/articles/s41597-021-00946-3"> ![paper](src/paper.png)</a>
 
-
 - <a href="http://niftyweb.cs.ucl.ac.uk/program.php?p=CHALLENGE"> **GMSC**</a> (Grey matter segmentation challenge)<br>
 ***Keyboard:*** MRI, Labeled<br>
 <a href="https://www.sciencedirect.com/science/article/pii/S1053811917302185"> ![paper](src/paper.png)</a>
@@ -308,7 +307,8 @@ A dataset of manually segmented pathological and non-pathological fetal magnetic
 - <a href="https://zenodo.org/records/1206163"> **Gray matter segmentation at 7T MRI**</a> <br>
 The dataset consist of 7 Tesla MRI anatomical images of living human brains and hand labeled cortical gray matter images. <br>
 ***Keyboard:*** High field MRI, Labeled, Segmentation <br>
-<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0198335"> ![paper](src/paper.png)</a>
+<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0198335"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://www.neuroinfo.org/gsp"> **GSP**</a> (Genomics Superstruct Project) <br>
 Personality and cognitive measures were obtained on a subset of participants. Each dataset contains a T1-weighted structural MRI scan and either one (n=1,570) or two (n=1,139) resting state functional MRI scans. <br>
@@ -322,11 +322,13 @@ Personality and cognitive measures were obtained on a subset of participants. Ea
 - <a href="https://www.kaggle.com/datasets/andrewmvd/hippocampus-segmentation-in-mri-images"> **Hippocampus Segmentation**</a><br>
 This dataset contains T1-weighted MR images of 50 subjects, 40 of whom are patients with temporal lobe epilepsy and 10 are nonepileptic subjects. <br>
 ***Keyboard:*** MRI, Labeled <br>
-<a href="https://pubmed.ncbi.nlm.nih.gov/21286946"> ![paper](src/paper.png)</a>
+<a href="https://pubmed.ncbi.nlm.nih.gov/21286946"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) The dataset is free to use for research and education.
 
 - <a href="https://www.nitrc.org/projects/ibsr/"> **IBSR**</a> (Internet Brain Segmentation Repository)  <br>
 Manually-guided expert segmentation results along with magnetic resonance brain image data  <br>
-***Keyboard:*** MRI, Labeled  <br>
+***Keyboard:*** MRI, Labeled <br>
+![licence](src/CcLogo.png) Free For Non-Commercial Use Only
 
 - <a href="https://instance.grand-challenge.org"> **INSTANCE2022**</a> (INtracranial
 hemorrhage SegmenTAtioN ChallengE) <br>
@@ -349,29 +351,34 @@ Multimodal MRI infarct segmentation in acute and sub-acute stroke<br>
 ***Keyboard:*** MRI <br>
 <a href="https://isles22.grand-challenge.org/evaluation/preliminary-docker-evaluation/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
-- <a href="https://brain-development.org/ixi-dataset"> **IXI**</a> <br>
-This dataset have been collected nearly 600 MR images from normal, healthy subjects. <br>
-***Keyboard:*** MRI <br>
+- <a href="https://brain-development.org/ixi-dataset"> **IXI**</a><br>
+This dataset have been collected nearly 600 MR images from normal, healthy subjects.<br>
+***Keyboard:*** MRI<br>
+![licence](src/CcLogo.png) CC BY-SA 3.0
 
 - <a href="https://openneuro.org/datasets/ds001486"> **Longitudinal Neuroimaging on Arithmetic Processing**</a><br>
 Brain Correlates of Math Development in Children. <br>
 ***Keyboard:*** MRI <br>
-<a href="https://www.nature.com/articles/sdata201940"> ![paper](src/paper.png)</a>
+<a href="https://www.nature.com/articles/sdata201940"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC0
 
 - <a href="https://openneuro.org/datasets/ds001894"> **Longitudinal Neuroimaging on Multisensory Lexical Processing**</a><br>
 Longitudinal Brain Correlates of Multisensory Lexical Processing in Children. <br>
 ***Keyboard:*** MRI <br>
-<a href="https://www.nature.com/articles/s41597-019-0338-5"> ![paper](src/paper.png)</a>
+<a href="https://www.nature.com/articles/s41597-019-0338-5"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC0
 
 - <a href="https://zenodo.org/records/7523691"> **M4Raw**</a><br>
 A multi-contrast, multi-repetition, multi-channel MRI k-space dataset for low-field MRI research. <br>
 ***Keyboard:*** 0.3 Tesla MRI <br>
-<a href="https://www.nature.com/articles/s41597-023-02181-4"> ![paper](src/paper.png)</a>
+<a href="https://www.nature.com/articles/s41597-023-02181-4"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://openneuro.org/datasets/ds000239"> **Maclaren test-retest brain volume**</a><br>
 The dataset comprises three participants, each of whom was scanned 40 times.<br>
 ***Keyboard:*** MRI<br>
-<a href="https://www.nature.com/articles/sdata201437"> ![paper](src/paper.png)</a>
+<a href="https://www.nature.com/articles/sdata201437"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC0
 
 - <a href="https://www.massive-data.org/massive-data"> **MASSIVE**</a> (Multiple Acquisitions for Standardization of Structural Imaging Validation and Evaluation)<br>
 The database consist of 8000 diffusion-weighted volumes and ten 3D FLAIR, T1-, and T2-weighted datasets of a single healthy subject. <br>
