@@ -388,17 +388,20 @@ The database consist of 8000 diffusion-weighted volumes and ten 3D FLAIR, T1-, a
 - <a href="https://portal.conp.ca/dataset?id=projects/mica-mics"> **MICA-MICs**</a> (Microstructure-Informed Connectomics)<br>
 The dataset provides raw and fully processed multimodal neuroimaging data acquired in 50 healthy control participants at a filed strength of 3T. <br>
 ***Keyboard:*** multimodal MRI <br>
-<a href="https://www.nature.com/articles/s41597-022-01682-y"> ![paper](src/paper.png)</a>
+<a href="https://www.nature.com/articles/s41597-022-01682-y"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC0
 
 - <a href="https://mindboggle.info/data.html"> **Mindboggle**</a>  <br>
 Manually labeled human brain image data. <br>
 ***Keyboard:*** MRI, Labeled <br>
-<a href="https://www.frontiersin.org/articles/10.3389/fnins.2012.00171/full"> ![paper](src/paper.png)</a>
+<a href="https://www.frontiersin.org/articles/10.3389/fnins.2012.00171/full"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://www.ucl.ac.uk/drc/research-clinical-trials/minimal-interval-resonance-imaging-alzheimers-disease-miriad"> **MIRIAD**</a> (Minimal Interval Resonance Imaging in Alzheimer's Disease) <br>
 Dataset is a series of longitudinal volumetric T1 MRI scans of 46 mild–moderate Alzheimer's subjects and 23 controls. <br>
 ***Keyboard:*** Alzheimer's disease (AD), MRI <br>
-<a href="https://www.sciencedirect.com/science/article/pii/S105381191201230X"> ![paper](src/paper.png) Overview </a>
+<a href="https://www.sciencedirect.com/science/article/pii/S105381191201230X"> ![paper](src/paper.png) Overview </a><br>
+![licence](src/CcLogo.png) BIRN Data License
 
 - <a href="https://www.nitrc.org/projects/multimodal"> **MMRR**</a> (Multi-Modal MRI Reproducibility Resource)<br>
 Scan-rescan imaging sessions on 21 healthy volunteers. <br>
@@ -408,7 +411,8 @@ Scan-rescan imaging sessions on 21 healthy volunteers. <br>
 - <a href="https://openneuro.org/datasets/ds000221"> **MPILMBB**</a> (MPI-Leipzig Mind-Brain-Body)<br>
 A functional connectome phenotyping dataset including cognitive state and personality measures. <br>
 ***Keyboard:*** MRI, Cognitive Data <br>
-<a href="https://www.nature.com/articles/sdata2018307"> ![paper](src/paper.png)</a>
+<a href="https://www.nature.com/articles/sdata2018307"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC0
 
 - <a href="https://iacl.ece.jhu.edu/index.php/MSChallenge"> **MS**</a> (Multiple sclerosis) <br>
 82 data sets had the white matter lesions associated with multiple sclerosis delineated by two human expert raters. <br>
@@ -418,7 +422,8 @@ A functional connectome phenotyping dataset including cognitive state and person
 - <a href="https://openneuro.org/datasets/ds000224"> **MSC**</a> (Midnight Scan Club)<br>
 This dataset focused on the precise characterization of ten individual subjects via collection of large amounts of per-individual data.<br>
 ***Keyboard:*** Resting-state fMRI, MRI, Neuropsychological testing<br>
-<a href="https://www.cell.com/neuron/fulltext/S0896-6273(17)30613-X"> ![paper](src/paper.png)</a>
+<a href="https://www.cell.com/neuron/fulltext/S0896-6273(17)30613-X"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC0
 
 - <a href="https://www.smir.ch/MTOP/Start2016"> **MTOP2016**</a> (Mild Traumatic Brain Injury Outcome Prediction) <br>
 ***Keyboard:*** MRI, Labeled <br>
@@ -426,11 +431,13 @@ This dataset focused on the precise characterization of ten individual subjects 
 - <a href="https://figshare.com/articles/dataset/Multicenter_dataset_of_multishell_diffusion_magnetic_resonance_imaging_in_healthy_traveling_adults_with_identical_setting/8851955"> **Multi-shell diffusion MRI**</a><br>
 It was collected from three traveling subjects with identical acquisition setting in ten imaging centers. <br>
 ***Keyboard:*** MRI <br>
-<a href="https://www.nature.com/articles/s41597-020-0493-8"> ![paper](src/paper.png)</a>
+<a href="https://www.nature.com/articles/s41597-020-0493-8"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/Narratives.html"> **Narratives**</a><br>
 fMRI data for evaluating models of naturalistic language comprehension. <br>
 ***Keyboard:*** fMRI, Labeled <br>
+![licence](src/CcLogo.png) CC0
 
 - <a href="https://openneuro.org/datasets/ds001021"> **NKI-RS**</a> (Nathan Kline Institute-Rockland Sample)<br>
 NKI-RS is an ongoing, institutionally centered endeavor aimed at creating a large-scale (N > 1000), deeply phenotyped, community-ascertained, lifespan sample (ages 6–85 years old) with advanced neuroimaging and genetics. <br>
