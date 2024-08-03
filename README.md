@@ -469,6 +469,7 @@ Data from Parkinson’s Disease, Prodromal Cohort, and Healthy Controls. <br>
 - <a href="https://f1000research.com/articles/6-93/v2"> **Prenatal brain**</a><br>
 It was collected from three traveling subjects with identical acquisition setting in ten imaging centers. <br>
 ***Keyboard:*** fetal MRI, Segmentation <br>
+![licence](src/CcLogo.png) CC0 1.0
 
 - <a href="https://openpreventad.loris.ca"> **PREVENT-AD**</a> (Pre-symptomatic Evaluation of Experimental or Novel Treatments for Alzheimer Disease) <br>
 ***Keyboard:*** MRI, Labeled <br>
@@ -477,6 +478,7 @@ It was collected from three traveling subjects with identical acquisition settin
 - <a href="https://realnoisemri.grand-challenge.org"> **RealNoiseMRI**</a> <br>
 Evaluating the performance of markerless prospective motion correction and selective reacquisition in a general clinical protocol <br>
 ***Keyboard:*** MRI <br>
+![licence](src/CcLogo.png) CC0
 
 - <a href="https://www.cancerimagingarchive.net/collection/rembrandt"> **REMBRANDT**</a><br>
 It contains data generated through the Glioma Molecular Diagnostic Initiative from 874 glioma specimens comprising approximately 566 gene expression arrays, 834 copy number arrays, and 13,472 clinical phenotype data points. <br>
