@@ -483,15 +483,18 @@ Evaluating the performance of markerless prospective motion correction and selec
 - <a href="https://www.cancerimagingarchive.net/collection/rembrandt"> **REMBRANDT**</a><br>
 It contains data generated through the Glioma Molecular Diagnostic Initiative from 874 glioma specimens comprising approximately 566 gene expression arrays, 834 copy number arrays, and 13,472 clinical phenotype data points. <br>
 ***Keyboard:*** MRI<br>
+![licence](src/CcLogo.png) TCIA Restricted - CC BY 3.0
 
 - <a href="https://archive.norstore.no/pages/public/datasetDetail.jsf?id=10.11582/2017.00004"> **RESECT**</a> (REtroSpective Evaluation of Cerebral Tumors)  <br>
 A clinical database of pre-oper, ative MRI and intra-operative ultrasound in low-grade glioma surgeries <br>
 ***Keyboard:*** Cancer, Registration, Labeled <br>
-<a href="https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.12268"> ![paper](src/paper.png)</a>
+<a href="https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.12268"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://www.cancerimagingarchive.net/collection/rider-neuro-mri"> **RIDER NEURO MRI**</a> (Reference Image Database to Evaluate Therapy Response)<br>
 It contains data on 19 patients with recurrent glioblastoma who underwent repeat imaging sets.<br>
 ***Keyboard:*** Cancer<br>
+![licence](src/CcLogo.png) TCIA Restricted - CC BY 3.0
 
 - <a href="https://www.rsna.org/rsnai/ai-image-challenge/brain-tumor-ai-challenge-2021"> **RSNA Brain Tumor**</a> (Radiological Society of North America 2021) <br>
 A dataset for brain tumor segmentation and radiogenomic classification <br>
