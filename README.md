@@ -302,7 +302,8 @@ A dataset of manually segmented pathological and non-pathological fetal magnetic
 
 - <a href="http://niftyweb.cs.ucl.ac.uk/program.php?p=CHALLENGE"> **GMSC**</a> (Grey matter segmentation challenge)<br>
 ***Keyboard:*** MRI, Labeled<br>
-<a href="https://www.sciencedirect.com/science/article/pii/S1053811917302185"> ![paper](src/paper.png)</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S1053811917302185"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Data is intended for research and educational purposes only
 
 - <a href="https://zenodo.org/records/1206163"> **Gray matter segmentation at 7T MRI**</a> <br>
 The dataset consist of 7 Tesla MRI anatomical images of living human brains and hand labeled cortical gray matter images. <br>
@@ -508,7 +509,8 @@ A dataset of more than 25,000 annotated cranial CT exams <br>
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/sald.html"> **SALD**</a> (Southwest University Adult Lifespan Dataset)<br>
 494 healthy adults (age range: 19-80 years; Males=187) were recruited and completed two multi-modal MRI scan sessions. <br>
 ***Keyboard:*** MRI, resting-state functional MRI (rs-fMRI)<br>
-<a href="https://www.biorxiv.org/content/10.1101/177279v2"> ![paper](src/paper.png) Detailed description </a>
+<a href="https://www.biorxiv.org/content/10.1101/177279v2"> ![paper](src/paper.png) Detailed description </a><br>
+![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
 
 - <a href="https://shifts.grand-challenge.org"> **Shifts Challenge 2022**</a><br>
 White Matter Multiple Sclerosis (MS) lesion segmentation in 3D Magnetic Resonance Imaging (MRI) of the brain <br>
@@ -516,13 +518,15 @@ White Matter Multiple Sclerosis (MS) lesion segmentation in 3D Magnetic Resonanc
 <a href="https://shifts.grand-challenge.org/evaluation/ms-lesion-segmentation-phase-i/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/SIMON.html"> **SIMON**</a> (Single Individual volunteer for Multiple Observations across Networks)<br>
-A sample of convenience of one healthy male aged between 29 and 46 years old, scanned in 73 sessions at multiple sites and with various scanner models. <br>
-***Keyboard:*** MRI <br>
+A sample of convenience of one healthy male aged between 29 and 46 years old, scanned in 73 sessions at multiple sites and with various scanner models.<br>
+***Keyboard:*** MRI<br>
+![licence](src/CcLogo.png) CC BY-SA
 
 - <a href="https://stanfordaimi.azurewebsites.net/datasets/3de8cef8-0626-4c5d-ac47-ed0fed22ac99"> **SinoCT**</a><br>
 This dataset contains over 9,000 head CT scans, each labeled as normal or abnormal. Each scan contains a reconstructed image and a corresponding sinogram.<br>
 ***Keyboard:*** Labeled <br>
-<a href="https://pubs.rsna.org/doi/full/10.1148/ryai.2021200229"> ![paper](src/paper.png)</a>
+<a href="https://pubs.rsna.org/doi/full/10.1148/ryai.2021200229"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Stanford university dataset research use aggrement
 
 - <a href="https://slcn.grand-challenge.org"> **SLCN**</a> (Surface Learning for Clinical Neuroimaging)  <br>
 Part of the <a href="http://www.developingconnectome.org"> dHCP</a> (Developing Human Connectome Project) <br>
@@ -531,7 +535,8 @@ Part of the <a href="http://www.developingconnectome.org"> dHCP</a> (Developing 
 
 - <a href="https://www.studyforrest.org"> **StudyForrest**</a> <br>
 A Collection of datasets <br>
-<a href="https://www.studyforrest.org/publications.html"> ![paper](src/paper.png) List of publications</a>
+<a href="https://www.studyforrest.org/publications.html"> ![paper](src/paper.png) List of publications</a><br>
+![licence](src/CcLogo.png) ODC Public Domain Dedication and Licence (PDDL)
 
 - <a href="https://surfer.nmr.mgh.harvard.edu/docs/synthstrip"> **SynthStrip**</a> <br>
 ***Keyboard:*** Multi-modality, Labeled, Segmentation <br>
