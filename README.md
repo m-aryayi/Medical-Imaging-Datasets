@@ -550,17 +550,20 @@ T1-weighted in vivo human whole brain MRI dataset with an ultrahigh isotropic re
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-lgg"> **TCGA-LGG**</a> (The Cancer Genome Atlas Low Grade Glioma)<br>
 Data from 199 subjects.<br>
 ***Keyboard:*** Multi-Modality<br>
-<a href="https://www.sciencedirect.com/science/article/pii/S0010482519301520"> ![paper](src/paper.png)</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0010482519301520"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) TCIA Restricted
 
 - <a href="https://topcow23.grand-challenge.org"> **TopCoW**</a> <br>
 Topology-Aware Anatomical Segmentation of the Circle of Willis <br>
 ***Keyboard:*** Magnetic Resonance Angiography (MRA) and Computed Tomography Angiography (CTA) <br>
-<a href="https://topcow23.grand-challenge.org/evaluation/validation-cta-multiclass/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2312.17670"> ![paper](src/paper.png)</a>
+<a href="https://topcow23.grand-challenge.org/evaluation/validation-cta-multiclass/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2312.17670"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC
 
 - <a href="https://www.cancerimagingarchive.net/collection/upenn-gbm"> **UPenn-GBM**</a> (University of Pennsylvania glioblastoma)<br>
 Multi-parametric magnetic resonance imaging scans for de novo Glioblastoma patients.<br>
 ***Keyboard:*** Cancer, mpMRI, Segmentation, Labeled<br>
-<a href="https://www.nature.com/articles/s41597-022-01560-7"> ![paper](src/paper.png)</a>
+<a href="https://www.nature.com/articles/s41597-022-01560-7"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://valdo.grand-challenge.org"> **VALDO**</a> (VAscular Lesions DetectiOn)  <br>
 ***Keyboard:*** MRI, cerebral small vessel disease (CSVD), Labeled  <br>
@@ -568,7 +571,8 @@ Multi-parametric magnetic resonance imaging scans for de novo Glioblastoma patie
 
 - <a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/AECRSD"> **WMH**</a> (White Matter Hyperintensity)<br>
 ***Keyboard:*** MRI, Segmentation<br>
-<a href="https://pubmed.ncbi.nlm.nih.gov/30908194"> ![paper](src/paper.png)</a>
+<a href="https://pubmed.ncbi.nlm.nih.gov/30908194"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC-BY-NC-4.0
 
 - <a href="http://niftyweb.cs.ucl.ac.uk/program.php?p=CHALLENGE"> **WMH**</a> (White Matter Hyperintensity)<br>
 ***Keyboard:*** MRI, Segmentation<br>
