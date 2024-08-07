@@ -215,6 +215,10 @@ Nearly 700 adults were scanned using structural Magnetic Resonance Imaging, func
 ***Keyboard:*** lifespan, MRI, fMRI, MEG <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S1053811915008150"> ![paper](src/paper.png)</a> | <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4219118"> ![paper](src/paper.png)</a>
 
+- <a href="https://openneuro.org/datasets/ds002207/versions/1.0.0"> **CEREBRuM**</a> (Convolutional Encoder-decodeR for Fully Volumetric Fast sEgmentation of BRain MRI)<br>
+<a href="https://arxiv.org/abs/1909.05085"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC0
+
 - <a href="https://openfmri.org/dataset/ds000174"> **Changes Associated with Heavy Cannabis Use**</a> <br>
 T1-weighted structural MRI study of cannabis users at baseline and 3 years follow up.<br>
 ***Keyboard:*** MRI<br>
@@ -337,6 +341,11 @@ A training set of 100 cases with ground-truth and a validation set with 30 cases
 ***Keyboard:*** Intracranial hemorrhage (ICH), CT Scan, Labeled  <br>
 <a href="https://instance.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2301.03281"> ![paper](src/paper.png)</a>
 
+- <a href="https://iseg2017.web.unc.edu"> **iSeg2017**</a> <br>
+6 month old Infant Brain Segmentation<br>
+***Keyboard:*** MRI, Labeled  <br>
+<a href="https://iseg2017.web.unc.edu/rules/results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/8654000"> ![paper](src/paper.png)</a>
+
 - <a href="https://iseg2019.web.unc.edu"> **iSeg2019**</a> <br>
 6 month old Infant Brain Segmentation<br>
 ***Keyboard:*** MRI, Labeled  <br>
@@ -414,6 +423,14 @@ A functional connectome phenotyping dataset including cognitive state and person
 ***Keyboard:*** MRI, Cognitive Data <br>
 <a href="https://www.nature.com/articles/sdata2018307"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC0
+
+- <a href="https://mrbrains13.isi.uu.nl"> **MRBrainS13**</a> <br>
+Evaluation Framework for Brain Image Segmentation in 3T MRI Scans<br>
+<a href="https://onlinelibrary.wiley.com/doi/10.1155/2015/813696"> ![paper](src/paper.png)</a>
+
+- <a href="https://mrbrains18.isi.uu.nl/"> **MRBrainS18**</a> <br>
+The purpose is to directly compare methods for segmentation of gray matter, white matter, cerebrospinal fluid, and other structures on 3T MRI scans of the brain, and to assess the effect of (large) pathologies on segmentation and volumetry.<br>
+<a href="https://mrbrains18.isi.uu.nl/results/index.html"> ![Leaderboard](src/leaderboard.png)</a>
 
 - <a href="https://iacl.ece.jhu.edu/index.php/MSChallenge"> **MS**</a> (Multiple sclerosis) <br>
 82 data sets had the white matter lesions associated with multiple sclerosis delineated by two human expert raters. <br>
