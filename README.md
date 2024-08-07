@@ -574,9 +574,6 @@ Multi-parametric magnetic resonance imaging scans for de novo Glioblastoma patie
 <a href="https://pubmed.ncbi.nlm.nih.gov/30908194"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC-BY-NC-4.0
 
-- <a href="http://niftyweb.cs.ucl.ac.uk/program.php?p=CHALLENGE"> **WMH**</a> (White Matter Hyperintensity)<br>
-***Keyboard:*** MRI, Segmentation<br>
-
 
 
 ### Ears, Nose, Teeth, and Throat
