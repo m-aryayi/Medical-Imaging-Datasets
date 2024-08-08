@@ -215,6 +215,10 @@ Nearly 700 adults were scanned using structural Magnetic Resonance Imaging, func
 ***Keyboard:*** lifespan, MRI, fMRI, MEG <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S1053811915008150"> ![paper](src/paper.png)</a> | <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4219118"> ![paper](src/paper.png)</a>
 
+- <a href="https://cause07.grand-challenge.org"> **CAUSE07**</a> (Caudate Segmentation Evaluation 2007)<br>
+***Keyboard:*** MRI<br>
+![licence](src/CcLogo.png) CC0
+
 - <a href="https://openneuro.org/datasets/ds002207/versions/1.0.0"> **CEREBRuM**</a> (Convolutional Encoder-decodeR for Fully Volumetric Fast sEgmentation of BRain MRI)<br>
 <a href="https://arxiv.org/abs/1909.05085"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC0
@@ -432,6 +436,11 @@ Evaluation Framework for Brain Image Segmentation in 3T MRI Scans<br>
 The purpose is to directly compare methods for segmentation of gray matter, white matter, cerebrospinal fluid, and other structures on 3T MRI scans of the brain, and to assess the effect of (large) pathologies on segmentation and volumetry.<br>
 <a href="https://mrbrains18.isi.uu.nl/results/index.html"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://www.kaggle.com/datasets/sabermalek/mrihs"> **MRI Hippocampus Segmentation**</a> <br>
+All images are for people suffering from Alzheimer's.<br>
+***Keyboard:*** MRI, Segmentation, Alzheimer's Detection<br>
+![licence](src/CcLogo.png) CC BY-NC-SA 4.0
+
 - <a href="https://iacl.ece.jhu.edu/index.php/MSChallenge"> **MS**</a> (Multiple sclerosis) <br>
 82 data sets had the white matter lesions associated with multiple sclerosis delineated by two human expert raters. <br>
 ***Keyboard:*** MRI, Labeled, Segmentation <br>
@@ -456,6 +465,9 @@ It was collected from three traveling subjects with identical acquisition settin
 fMRI data for evaluating models of naturalistic language comprehension. <br>
 ***Keyboard:*** fMRI, Labeled <br>
 ![licence](src/CcLogo.png) CC0
+
+- <a href="http://www.neuromorphometrics.com/?page_id=23"> **NeuAtlas Labeled Brain Scans**</a><br>
+***Keyboard:*** MRI, Labeled, Segmentation <br>
 
 - <a href="https://openneuro.org/datasets/ds001021"> **NKI-RS**</a> (Nathan Kline Institute-Rockland Sample)<br>
 NKI-RS is an ongoing, institutionally centered endeavor aimed at creating a large-scale (N > 1000), deeply phenotyped, community-ascertained, lifespan sample (ages 6–85 years old) with advanced neuroimaging and genetics. <br>
