@@ -324,6 +324,10 @@ Personality and cognitive measures were obtained on a subset of participants. Ea
 ***Keyboard:*** MRI <br>
 <a href="https://www.nature.com/articles/sdata201531"> ![paper](src/paper.png)</a>
 
+- <a href="https://github.com/Jianningli/SciData"> **HARDI**</a> <br>
+It focuses on the effect of the local reconstruction accuracy on the quality of connectivity reconstruction. <br>
+***Keyboard:*** Diffusion MRI <br>
+
 - <a href="http://www.humanconnectomeproject.org"> **HCP**</a> (Human Connectome Project)<br>
 ***Keyboard:*** MRI<br>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.1647"> ![paper](src/paper.png)</a>
@@ -566,6 +570,12 @@ Part of the <a href="http://www.developingconnectome.org"> dHCP</a> (Developing 
 A Collection of datasets <br>
 <a href="https://www.studyforrest.org/publications.html"> ![paper](src/paper.png) List of publications</a><br>
 ![licence](src/CcLogo.png) ODC Public Domain Dedication and Licence (PDDL)
+
+- <a href="https://github.com/Jianningli/SciData"> **Synthetic skull bone defects**</a> <br>
+For automatic patient-specific craniofacial implant design <br>
+***Keyboard:*** CT scan <br>
+<a href="https://www.nature.com/articles/s41597-021-00806-0"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://surfer.nmr.mgh.harvard.edu/docs/synthstrip"> **SynthStrip**</a> <br>
 ***Keyboard:*** Multi-modality, Labeled, Segmentation <br>
