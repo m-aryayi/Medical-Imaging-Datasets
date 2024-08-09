@@ -324,7 +324,7 @@ Personality and cognitive measures were obtained on a subset of participants. Ea
 ***Keyboard:*** MRI <br>
 <a href="https://www.nature.com/articles/sdata201531"> ![paper](src/paper.png)</a>
 
-- <a href="https://github.com/Jianningli/SciData"> **HARDI**</a> <br>
+- <a href="http://hardi.epfl.ch/static/events/2013_ISBI"> **HARDI 2013**</a> <br>
 It focuses on the effect of the local reconstruction accuracy on the quality of connectivity reconstruction. <br>
 ***Keyboard:*** Diffusion MRI <br>
 
