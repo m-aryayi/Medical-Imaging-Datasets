@@ -324,6 +324,10 @@ Personality and cognitive measures were obtained on a subset of participants. Ea
 ***Keyboard:*** MRI <br>
 <a href="https://www.nature.com/articles/sdata201531"> ![paper](src/paper.png)</a>
 
+- <a href="http://hardi.epfl.ch/static/events/2012_ISBI"> **HARDI 2012**</a><br>
+***Keyboard:*** Diffusion MRI<br>
+<a href="https://ieeexplore.ieee.org/document/6630106"> ![paper](src/paper.png)</a>
+
 - <a href="http://hardi.epfl.ch/static/events/2013_ISBI"> **HARDI 2013**</a> <br>
 It focuses on the effect of the local reconstruction accuracy on the quality of connectivity reconstruction. <br>
 ***Keyboard:*** Diffusion MRI <br>
@@ -402,6 +406,10 @@ The dataset comprises three participants, each of whom was scanned 40 times.<br>
 The database consist of 8000 diffusion-weighted volumes and ten 3D FLAIR, T1-, and T2-weighted datasets of a single healthy subject. <br>
 ***Keyboard:*** diffusion MRI <br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/27173617"> ![paper](src/paper.png)</a>
+
+- <a href="https://my.vanderbilt.edu/memento"> **MEMENTO**</a> (Mri whitE Matter rEcoNstrucTiOn)<br>
+The aim is evaluating and advancing the state of the microstructural modeling field.<br>
+***Keyboard:*** Diffusion MRI<br>
 
 - <a href="https://portal.conp.ca/dataset?id=projects/mica-mics"> **MICA-MICs**</a> (Microstructure-Informed Connectomics)<br>
 The dataset provides raw and fully processed multimodal neuroimaging data acquired in 50 healthy control participants at a filed strength of 3T. <br>
