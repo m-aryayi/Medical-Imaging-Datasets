@@ -739,6 +739,10 @@ This dataset includes around 113,000 images from about 60,000 patients<br>
 <a href="https://airogs.grand-challenge.org/evaluation/preliminary-test-phase-1/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/abstract/document/10253652"> ![paper](src/paper.png) Summary Paper</a><br>
 ![licence](src/CcLogo.png) CC BY-NC-ND 4.0
 
+- <a href="https://www.kaggle.com/c/aptos2019-blindness-detection/overview"> **APTOS 2019**</a> (Asia Pacific Tele-Ophthalmology Society) <br>
+***Keyboard:*** Fundus photography, Diabetic retinopathy<br>
+<a href="https://www.kaggle.com/c/aptos2019-blindness-detection/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
 - <a href="https://cataracts.grand-challenge.org"> **CATARACTS**</a> <br>
 Surgical tool detection in 50 videos of cataract surgeries<br>
 ***Keyboard:*** Video, Labeled  <br>
@@ -869,6 +873,11 @@ A dataset of OCT volumes, acquired with Topcon SD-OCT devices <br>
 It includes two subsets: ROSE-1 and ROSE-2. <br>
 <a href="https://arxiv.org/abs/2007.05201"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY 4.0
+
+- <a href="https://www.kaggle.com/datasets/paultimothymooney/chiu-2015"> **Segmentation of OCT images**</a><br>
+Images for segmentation of optical coherence tomography images with diabetic macular edema (DME). <br>
+***Keyboard:*** OCT images<br>
+<a href="https://opg.optica.org/boe/fulltext.cfm?uri=boe-6-4-1172"> ![paper](src/paper.png)</a>
 
 - <a href="https://aistudio.baidu.com/competition/detail/1101/0/introduction"> **STAGE**</a> (Structural-Functional Transition in Glaucoma Assessment) <br>
 400 OCT data and corresponding Visual Field test reports with Mean Deviation (MD) values, sensitivity maps and pattern deviation probability map labels. <br>
