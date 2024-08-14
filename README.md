@@ -346,6 +346,11 @@ It focuses on the effect of the local reconstruction accuracy on the quality of 
 ***Keyboard:*** MRI<br>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.1647"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.kaggle.com/datasets/felipekitamura/head-ct-hemorrhage"> **Head CT - hemorrhage**</a><br>
+This dataset contains 100 normal head CT slices and 100 other with hemorrhage. No distinction between kinds of hemorrhage. <br>
+***Keyboard:*** CT scan, Labeled <br>
+![licence](src/CcLogo.png) CC0: Public Domain
+
 - <a href="https://www.kaggle.com/datasets/andrewmvd/hippocampus-segmentation-in-mri-images"> **Hippocampus Segmentation**</a><br>
 This dataset contains T1-weighted MR images of 50 subjects, 40 of whom are patients with temporal lobe epilepsy and 10 are nonepileptic subjects. <br>
 ***Keyboard:*** MRI, Labeled <br>
