@@ -485,6 +485,15 @@ This dataset focused on the precise characterization of ten individual subjects 
 <a href="https://www.cell.com/neuron/fulltext/S0896-6273(17)30613-X"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC0
 
+- <a href="https://portal.fli-iam.irisa.fr/msseg-challenge"> **MSSeg 2008**</a><br>
+The goal is to compare algorithms to segment the multiple sclerosis (MS) lesions.<br>
+***Keyboard:*** MRI, Segmentation<br>
+
+- <a href="https://portal.fli-iam.irisa.fr/msseg-challenge"> **MSSEG 2016**</a><br>
+A total of 100 multiple sclerosis patients<br>
+***Keyboard:*** MRI, Segmentation<br>
+<a href="https://www.nature.com/articles/s41598-018-31911-7"> ![paper](src/paper.png)</a>
+
 - <a href="https://www.smir.ch/MTOP/Start2016"> **MTOP2016**</a> (Mild Traumatic Brain Injury Outcome Prediction) <br>
 ***Keyboard:*** MRI, Labeled <br>
 
