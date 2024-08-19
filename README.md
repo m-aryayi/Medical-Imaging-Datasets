@@ -1734,6 +1734,10 @@ The database currently consists of an image set of 50 low-dose documented whole-
 <a href="https://pubmed.ncbi.nlm.nih.gov/21632295"> ![paper](src/paper.png)</a> <br>
 ![licence](src/CcLogo.png) Data downloaded from this site may only be used for the purpose of preparing an entry to be submitted on this site.
 
+- <a href="http://image.diku.dk/exact"> **EXACT09**</a> (Extraction of Airways from CT 2009) <br>
+The images are volumetric chest CT scans acquired at different sites using several different scanners, scanning protocols, and reconstruction parameters. <br>
+<a href="https://ieeexplore.ieee.org/document/6249784"> ![paper](src/paper.png)</a>
+
 - <a href="https://som-shahlab.github.io/inspect-website"> **INSPECT**</a><br>
 It contains data from 19,402 patients, including CT images, radiology report impression sections, and structured electronic health record (EHR) data. <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
