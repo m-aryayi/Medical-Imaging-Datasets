@@ -1845,6 +1845,11 @@ Containing 1252 CT scans that are positive for SARS-CoV-2 infection (COVID-19) a
 <a href="https://www.medrxiv.org/content/10.1101/2020.04.24.20078584v3"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY-NC-SA 4.0
 
+- <a href="https://www.kaggle.com/datasets/yoctoman/shcxr-lung-mask"> **SHCXR Lung Mask**</a><br>
+Manually Segmented Lungs Masks for Shenzhen Hospital Chest X-ray Set<br>
+<a href="https://ieeexplore.ieee.org/document/8477564"> ![paper](src/paper.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/24108713"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC-SA 4.0
+
 - <a href="http://www.via.cornell.edu/databases/simbadb.html"> **SIMBA**</a> <br>
 Chest Health Analysis System Public Lung Image Database.<br>
 ***Keyboard:*** CT scan, Labeled <br>
