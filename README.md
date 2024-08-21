@@ -1343,6 +1343,10 @@ The image database consists of 30 Late Gadolinium enhancement cardiovascular mag
 <a href="https://www.sciencedirect.com/science/article/pii/S1361841516000050"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY 4.0
 
+- <a href="https://lvquan19.github.io"> **LVQuan19**</a> (Left Ventricle Full Quantification)<br>
+A dataset with processed SAX MR sequences of 86 subjects.<br>
+<a href="https://link.springer.com/book/10.1007/978-3-030-12029-0"> ![paper](src/paper.png)</a>
+
 - <a href="https://www.ub.edu/mnms"> **M&Ms**</a> <br>
 Multi-Centre, Multi-Vendor and Multi-Disease Cardiac Segmentation <br>
 ***Keyboard:***  Cardiac MRI (CMR)<br>
@@ -2381,6 +2385,11 @@ A abdominal CT organ dataset with 500 CT scans from 11 countries, including mult
 Images of 60 patients aged 34–79 years that were appointed for image-guided Radiotherapy in the HaN region <br>
 ***Keyboard:*** *30 organs-at-risk*, CT Scan, MRI, Labeled <br>
 <a href="https://han-seg2023.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.16197"> ![paper](src/paper.png)</a>
+
+- <a href="http://www.imagenglab.com/wiki/mediawiki/index.php?title=2015_MICCAI_Challenge"> **Head and Neck Auto Segmentation**</a><br>
+With manual segmentation of left and right parotid glands, brainstem, optic chiasm, optic nerves (both left and right), mandible, submandibular glands (both left and right) and manual identification of bony landmarks..<br>
+***Keyboard:*** CT scan, Labeled<br>
+<a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.12197"> ![paper](src/paper.png)</a>
 
 - <a href="https://www.cancerimagingarchive.net/collection/head-neck-radiomics-hn1"> **HEAD-NECK-RADIOMICS-HN1**</a><br>
 This collection contains clinical data and computed tomography (CT) from 137 head and neck squamous cell carcinoma (HNSCC) patients treated by radiotherapy. <br>
