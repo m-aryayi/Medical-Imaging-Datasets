@@ -1758,6 +1758,11 @@ The database includes 154 conventional chest radiographs with a lung nodule and 
 ***Keyboard:*** X-ray <br>
 <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-ipr.2019.0423"> ![paper](src/paper.png) Cited DB </a>  | <a href="https://arxiv.org/abs/1907.09375"> ![paper](src/paper.png) Cited DB</a>
 
+- <a href="https://www.cancerimagingarchive.net/collection/lctsc"> **LCTSC**</a> (Lung CT Segmentation Challenge) <br>
+***Keyboard:*** CT scan, Cancer <br>
+<a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.13141"> ![paper](src/paper.png)</a> <br>
+![licence](src/CcLogo.png) CC BY 3.0 
+
 - <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254"> **LIDC-IDRI**</a> (Lung Image Database Consortium (LIDC) and Image Database Resource Initiative (IDRI)) <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
 <a href="https://aapm.onlinelibrary.wiley.com/doi/10.1118/1.3528204"> ![paper](src/paper.png)</a> <br>
@@ -2178,6 +2183,9 @@ Prostate transversal T2-weighted magnetic resonance images acquired on a 3.0T Si
 Prostate cancer T1- and T2-weighted magnetic resonance images were acquired at 1.5 T <br>
 ***Keyboard:*** MRI <br>
 ![licence](src/CcLogo.png) CC BY 3.0
+
+- <a href="https://www.na-mic.org/wiki/2009_prostate_segmentation_challenge_MICCAI"> **Prostate segmentation 2009**</a><br>
+***Keyboard:*** MRI<br>
 
 - <a href="https://wiki.cancerimagingarchive.net/display/Public/QIN-PROSTATE-Repeatability"> **QIN-PROSTATE-Repeatability**</a> <br>
 This is a dataset with multiparametric prostate MRI applied in a test-retest setting, allowing to evaluate repeatability of the MRI-based measurements in the prostate. <br>
