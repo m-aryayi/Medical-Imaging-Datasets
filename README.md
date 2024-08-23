@@ -494,7 +494,7 @@ This dataset focused on the precise characterization of ten individual subjects 
 <a href="https://www.cell.com/neuron/fulltext/S0896-6273(17)30613-X"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC0
 
-- <a href="https://portal.fli-iam.irisa.fr/msseg-challenge"> **MSSeg 2008**</a><br>
+- <a href="https://www.nitrc.org/projects/msseg"> **MSSeg 2008**</a><br>
 The goal is to compare algorithms to segment the multiple sclerosis (MS) lesions.<br>
 ***Keyboard:*** MRI, Segmentation<br>
 
@@ -1374,6 +1374,7 @@ It provides multi-modality cardiac images acquired in real clinical environment.
 - <a href="https://zmiclab.github.io/zxh/0/mscmrseg19"> **MS-CMRSeg**</a> (Multi-sequence Cardiac MR Segmentation) <br>
 Data from 45 patients. <br>
 ***Keyboard:*** Cardiac MRI (CMR), Segmentation, Labeled <br>
+<a href="https://ieeexplore.ieee.org/document/8458220"> ![paper](src/paper.png)</a>
 
 - <a href="https://www.creatis.insa-lyon.fr/Challenge/myosaiq"> **MYOSAIQ**</a> (MYOcardial Segmentation with Automated Infarct Quantification)<br>
 The full dataset is composed of 467 Late gadolinium enhanced magnetic resonance images from two different cohorts to quantify myocardial infarction (MI) lesions at different phases of the longitudinal evolution of the disease<br>
