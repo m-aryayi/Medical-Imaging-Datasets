@@ -1248,6 +1248,11 @@ A set of Cardiac Computed Tomography Angiography (CCTA) with contrast agent show
 ***Keyboard:***  CCTA, Labeled <br>
 <a href="https://asoca.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://www.cardiacatlas.org/atriaseg2018-challenge"> **Atria Segmentaion 2018**</a><br>
+A total of 154 3D MRIs from patients with Atrial fibrillation (AF) are used.<br>
+***Keyboard:*** Labeled <br>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841520301961"> ![paper](src/paper.png)</a>
+
 - <a href="https://camus.creatis.insa-lyon.fr/challenge"> **CAMUS**</a> (Cardiac Acquisitions for Multi-structure Ultrasound Segmentation) <br>
 The dataset consists of clinical exams from 500 patients<br>
 ***Keyboard:***  2D echocardiographic images <br>
@@ -1381,6 +1386,11 @@ The dataset consists of annotated 3D echocardiography (3DE) data using labels de
 It provides multi-modality cardiac images acquired in real clinical environment. <br>
 ***Keyboard:*** Anonymized clinical MRI and CT scan, Labeled <br>
 <a href="https://ieeexplore.ieee.org/document/8458220"> ![paper](src/paper.png)</a> | <a href="https://ieeexplore.ieee.org/document/9921323"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.cardiacatlas.org/motion-correction-challenge"> **Motion Correction Challenge**</a><br>
+The dataset consists of 10 cases. <br>
+***Keyboard:*** MRI, Labeled <br>
+<a href="https://ieeexplore.ieee.org/document/7542127"> ![paper](src/paper.png)</a>
 
 - <a href="https://zmiclab.github.io/zxh/0/mscmrseg19"> **MS-CMRSeg**</a> (Multi-sequence Cardiac MR Segmentation) <br>
 Data from 45 patients. <br>
