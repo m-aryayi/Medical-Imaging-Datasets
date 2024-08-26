@@ -1359,6 +1359,10 @@ The image database consists of 30 Late Gadolinium enhancement cardiovascular mag
 <a href="https://www.sciencedirect.com/science/article/pii/S1361841516000050"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY 4.0
 
+- <a href="https://www.cardiacatlas.org/lv-landmark-detection-challenge"> **LV Landmark Detection Challenge**</a><br>
+This challenge uses the same data set as in the LV Segmentation Challenge with manually annotated landmark positions were placed in the training data set as annotation data.<br>
+***Keyboard:*** MRI, Labeled<br>
+
 - <a href="https://lvquan19.github.io"> **LVQuan19**</a> (Left Ventricle Full Quantification)<br>
 A dataset with processed SAX MR sequences of 86 subjects.<br>
 <a href="https://link.springer.com/book/10.1007/978-3-030-12029-0"> ![paper](src/paper.png)</a>
