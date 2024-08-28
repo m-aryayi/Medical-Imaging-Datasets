@@ -1317,6 +1317,12 @@ A Pediatric data resource includes 7,643 labeled echocardiogram videos <br>
 ***Keyboard:*** Echocardiography, Labeled <br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/36754100"> ![paper](src/paper.png)</a>
 
+- <a href="https://kits19.grand-challenge.org/"> **EMIDEC**</a> (automatic Evaluation of Myocardial Infarction from Delayed-Enhancement Cardiac MRI)<br>
+The database consists of 150 exams divided into 50 cases with normal MRI after injection of a contrast agent and 100 cases with myocardial infarction.<br>
+***Keyboard:*** Segmentation, Classification<br>
+<a href="https://emidec.com/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522000792"> ![paper](src/paper.png)</a> | <a href="https://emidec.com/accepted-papers"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC-SA 4.0
+
 - <a href="https://www.kaggle.com/datasets/aysendegerli/hmcqu-dataset"> **HMC-QU**</a><br>
 The dataset includes a collection of apical 4-chamber (A4C) and apical 2-chamber (A2C) view 2D echocardiography.<br>
 ***Keyboard:*** Myocardial Infarction, Detection, Segmentation, Labeled <br>
@@ -1365,6 +1371,10 @@ This challenge uses the same data set as in the LV Segmentation Challenge with m
 
 - <a href="https://www.cardiacatlas.org/lv-segmentation-challenge"> **LV Segmentation Challenge**</a><br>
 This challenge was aimed to establish a set of ground truth or consensus segmentation derived from participants.<br>
+***Keyboard:*** MRI<br>
+
+- <a href="https://www.cardiacatlas.org/lv-statistical-shape-challenge"> **LV Statistical Shape Challenge**</a><br>
+The training dataset will comprise one hundred (100) cases with myocardial infarction and an additional one hundred (100) asymptomatic cases from the DETERMINE and MESA datasets respectively.<br>
 ***Keyboard:*** MRI<br>
 
 - <a href="https://lvquan19.github.io"> **LVQuan19**</a> (Left Ventricle Full Quantification)<br>
