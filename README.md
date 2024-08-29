@@ -1415,6 +1415,10 @@ Data from 45 patients. <br>
 ***Keyboard:*** Cardiac MRI (CMR), Segmentation, Labeled <br>
 <a href="https://ieeexplore.ieee.org/document/8458220"> ![paper](src/paper.png)</a>
 
+- <a href="https://zmiclab.github.io/zxh/0/myops20"> **MyoPS 2020**</a><br>
+Myocardial pathology segmentation combining multi-sequence cardiac magnetic resonance (CMR)<br>
+<a href="https://www.sciencedirect.com/science/article/pii/S136184152200322X"> ![paper](src/paper.png)</a>
+
 - <a href="https://www.creatis.insa-lyon.fr/Challenge/myosaiq"> **MYOSAIQ**</a> (MYOcardial Segmentation with Automated Infarct Quantification)<br>
 The full dataset is composed of 467 Late gadolinium enhanced magnetic resonance images from two different cohorts to quantify myocardial infarction (MI) lesions at different phases of the longitudinal evolution of the disease<br>
 ***Keyboard:*** MRI, Segmentation <br>
