@@ -128,16 +128,6 @@ Microscopic resolution 3D model of the human brain. <br>
 Brain Tumor Detection <br>
 ***Keyboard:***  MRI, Detection, Classification, Labeled  <br>
 
-- <a href="https://aimi.stanford.edu/brainmetshare"> **BrainMetShare**</a> <br>
-The dataset includes 156 whole brain MRI studies, including high-resolution, multi-modal pre- and post-contrast sequences in patients with at least 1 brain metastasis.<br>
-***Keyboard:*** Detection, MRI, Segmentation, Labeled<br>
-<a href="https://arxiv.org/abs/1903.07988"> ![paper](src/paper.png)</a><br>
-![licence](src/CcLogo.png) Their Research Use Agreement, as well as to the Terms of Use of the Stanford University School of Medicine website
-
-- <a href="https://www.brainsimagebank.ac.uk"> **BRAINS**</a> (Brain Images of Normal Subjects) <br>
-***Keyboard:*** MRI <br>
-<a href="https://www.sciencedirect.com/science/article/pii/S1053811916000331"> ![paper](src/paper.png)</a>
-
 - <a href="https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri"> **Brain Tumor Classification**</a> <br>
 Classify MRI images into four classes <br>
 ***Keyboard:*** MRI, Labeled <br>
@@ -159,10 +149,20 @@ Each patient had two MR exams acquired: within ninety days after completing chem
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7392220"> ![paper](src/paper.png)</a>
 ![licence](src/CcLogo.png) TCIA Restricted
 
+- <a href="https://aimi.stanford.edu/brainmetshare"> **BrainMetShare**</a> <br>
+The dataset includes 156 whole brain MRI studies, including high-resolution, multi-modal pre- and post-contrast sequences in patients with at least 1 brain metastasis.<br>
+***Keyboard:*** Detection, MRI, Segmentation, Labeled<br>
+<a href="https://arxiv.org/abs/1903.07988"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Their Research Use Agreement, as well as to the Terms of Use of the Stanford University School of Medicine website
+
 - <a href="https://brainptm-2021.grand-challenge.org"> **BrainPTM 2021**</a> (Brain Pre-surgical white matter Tractography Mapping) <br>
 Data consists of 75 cases<br>
 ***Keyboard:*** MRI, Cancer, Segmentation, Labeled  <br>
 <a href="https://brainptm-2021.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://www.brainsimagebank.ac.uk"> **BRAINS**</a> (Brain Images of Normal Subjects) <br>
+***Keyboard:*** MRI <br>
+<a href="https://www.sciencedirect.com/science/article/pii/S1053811916000331"> ![paper](src/paper.png)</a>
 
 - <a href="https://www.smir.ch/BRATS/Start2012"> **BRATS2012**</a> (Brain Tumor Segmentation) <br>
 The tumor and edema regions have been manually delineated.<br>
@@ -2564,7 +2564,7 @@ The dataset includes 60 3D CT scans, divided into a training set of 40 and a tes
 <a href="https://competitions.codalab.org/competitions/21145#results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/9286453"> ![paper](src/paper.png)</a>
 
 - <a href="https://www.smir.ch/objects/214315"> **SMIR**</a> <br>
-This collection contains post mortem CT scans of the whole body. <br><br>
+This collection contains post mortem CT scans of the whole body. <br>
 ![licence](src/CcLogo.png) CC_BY_NC_SA_3.0
 
 
