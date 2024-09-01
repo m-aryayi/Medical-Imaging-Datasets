@@ -1363,6 +1363,12 @@ The benchmark consists of 30 CT and 30 MRI datasets. <br>
 <a href="https://ieeexplore.ieee.org/document/7029623"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY 4.0
 
+- <a href="https://zmiclab.github.io/projects/lascarqs22"> **LAScarQS**</a> (Left Atrial and Scar Quantification & Segmentation)<br>
+It provides 194 LGE MRIs from patients suffering atrial fibrillation (AF). <br>
+***Keyboard:*** Labeled <br>
+<a href="https://zmiclab.github.io/projects/lascarqs22/result.html"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY NC ND
+
 - <a href="https://figshare.com/articles/figure/Left_ventricular_LV_scar_dataset/4214622"> **LivScar**</a><br>
 The image database consists of 30 Late Gadolinium enhancement cardiovascular magnetic resonance images of both humans and pigs that were acquired from two separate imaging centres.<br>
 ***Keyboard:*** Cardiac MRI (CMR), Segmentation <br>
