@@ -1298,6 +1298,10 @@ Coronary Calcium and chest CT’s.<br>
 Extreme Cardiac MRI Analysis under Respiratory Motion <br>
 <a href="http://cmr.miccai.cloud/validation-leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="http://cmr.miccai.cloud"> **CMRxRecon**</a><br>
+It aims to establish a platform for fast CMR image reconstruction<br>
+***Keyboard:*** 3T MRI, Segmentation, Labeled <br>
+
 - <a href="https://stanfordaimi.azurewebsites.net/datasets/12c02840-2e13-42a2-b4ef-f682472d4694"> **CT Pulmonary Angiography**</a><br>
 A collection of CT pulmonary angiography (CTPA) for patients susceptible to Pulmonary Embolism (PE). In addition to slice-level PE labels, labels for PE location, RV/LV ratio, and PE type are provided. <br>
 ***Keyboard:*** Labeled<br>
