@@ -1406,6 +1406,10 @@ Right Ventricular Segmentation in Cardiac MRI <br>
 ***Keyboard:***  Cardiac MRI (CMR)<br>
 <a href="https://competitions.codalab.org/competitions/31559#results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/10103611"> ![paper](src/paper.png)</a>
 
+- <a href="https://zmiclab.github.io/zxh/0/mscmrseg19"> **MBAS24**</a> (Multi-class Bi-Atrial  2024)<br>
+Concluding 70 3D LGE-MRI scans for training, 30 for validation, and an additional 100 designated for the final test phase.<br>
+![licence](src/CcLogo.png) CC BY NC ND
+
 - <a href="https://www.cardiacatlas.org/mesa"> **MESA**</a> (Multi-Ethnic Study of Atherosclerosis)<br>
 It aims to investigate the manifestation of subclinical to clinical cardiovascular disease before signs and symptoms develop.<br>
 ***Keyboard:*** MRI<br>
