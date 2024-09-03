@@ -1298,7 +1298,7 @@ Coronary Calcium and chest CT’s.<br>
 Extreme Cardiac MRI Analysis under Respiratory Motion <br>
 <a href="http://cmr.miccai.cloud/validation-leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
-- <a href="http://cmr.miccai.cloud"> **CMRxRecon**</a><br>
+- <a href="https://cmrxrecon.github.io/Home.html"> **CMRxRecon**</a><br>
 It aims to establish a platform for fast CMR image reconstruction<br>
 ***Keyboard:*** 3T MRI, Segmentation, Labeled <br>
 
