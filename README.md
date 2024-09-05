@@ -4,8 +4,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Under_construction_icon-red.svg" alt="Under Construction" height="22"> ***Under construction: This list is being actively updated with additional datasets.***
 
 
-
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -35,7 +33,6 @@
 ## Introduction
 
 This repository is a collection of publicly available medical imaging datasets. It aims to provide a comprehensive and valuable resource for researchers, healthcare professionals, and developers working in the field of medical imaging analysis.
-
 
 - ![Leaderboard](src/leaderboard.png) The link of leaderboard.
 - ![paper](src/paper.png) The link of related papers.
@@ -948,10 +945,10 @@ This database consists of 200 retinal images mostly affected with diabetic retin
 ![licence](src/CcLogo.png) CC0 1.0
 
 
+
 ______
 
 ## Chest and Abdomen
-
 
 ### Bowel
 
@@ -1046,7 +1043,6 @@ Data from 3 subjects and 1,796 images.<br>
 A collection contains 825 cases of CT colonography imaging with accompanying spreadsheets that provide polyp descriptions and their location within the colon segments. <br>
 <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa0800996"> ![paper](src/paper.png)</a> <br>
 ![licence](src/CcLogo.png) CC BY 3.0
-
 
 
 
@@ -1227,7 +1223,6 @@ The dataset consisted of 500 training and 321 testing breast cancer histopatholo
 
 
 
-
 ### Heart and Blood Vessels
 
 - <a href="https://www.creatis.insa-lyon.fr/Challenge/acdc"> **ACDC**</a> (Automated Cardiac Diagnosis Challenge) <br>
@@ -1329,7 +1324,7 @@ A Pediatric data resource includes 7,643 labeled echocardiogram videos <br>
 ***Keyboard:*** Echocardiography, Labeled <br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/36754100"> ![paper](src/paper.png)</a>
 
-- <a href="https://kits19.grand-challenge.org/"> **EMIDEC**</a> (automatic Evaluation of Myocardial Infarction from Delayed-Enhancement Cardiac MRI)<br>
+- <a href="https://emidec.com"> **EMIDEC**</a> (automatic Evaluation of Myocardial Infarction from Delayed-Enhancement Cardiac MRI)<br>
 The database consists of 150 exams divided into 50 cases with normal MRI after injection of a contrast agent and 100 cases with myocardial infarction.<br>
 ***Keyboard:*** Segmentation, Classification<br>
 <a href="https://emidec.com/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522000792"> ![paper](src/paper.png)</a> | <a href="https://emidec.com/accepted-papers"> ![paper](src/paper.png)</a><br>
@@ -1410,7 +1405,7 @@ Right Ventricular Segmentation in Cardiac MRI <br>
 ***Keyboard:***  Cardiac MRI (CMR)<br>
 <a href="https://competitions.codalab.org/competitions/31559#results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/10103611"> ![paper](src/paper.png)</a>
 
-- <a href="https://zmiclab.github.io/zxh/0/mscmrseg19"> **MBAS24**</a> (Multi-class Bi-Atrial  2024)<br>
+- <a href="https://codalab.lisn.upsaclay.fr/competitions/18516"> **MBAS24**</a> (Multi-class Bi-Atrial  2024)<br>
 Concluding 70 3D LGE-MRI scans for training, 30 for validation, and an additional 100 designated for the final test phase.<br>
 ![licence](src/CcLogo.png) CC BY NC ND
 
@@ -2036,6 +2031,7 @@ Classify and segment vertebrae from the spine images that include fractured and 
 ***Keyboard:*** CT scan, Segmentation, Classification <br>
 
 
+
 ### Joints
 
 - <a href="https://data.mendeley.com/datasets/jf3pv98m9g/2"> **DDH x-ray images**</a> <br>
@@ -2223,13 +2219,11 @@ Automated Segmentation of Prostate Structures. Image data were selected from PRO
 ***Keyboard:*** MRI, Labeled <br>
 ![licence](src/CcLogo.png) CC BY 3.0
 
-
 - <a href="https://www.kaggle.com/c/prostate-cancer-grade-assessment"> **PANDA**</a> (Prostate cANcer graDe Assessment) <br>
 Classifying the severity of prostate cancer from microscopy scans of prostate biopsy samples <br>
 ***Keyboard:*** whole-slide images (WSI), Cancer <br>
 <a href="https://www.nature.com/articles/s41591-021-01620-2"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) Subject to Competition Rules
-
 
 - <a href="https://pi-cai.grand-challenge.org/"> **PI-CAI**</a> (Prostate Imaging: Cancer AI) <br>
 ***Keyboard:*** Prostate, MRI, Cancer, Labeled <br>
@@ -2263,6 +2257,7 @@ This is a dataset with multiparametric prostate MRI applied in a test-retest set
 Data from 14 subjects and 16,790 images.<br>
 ***Keyboard:*** Multi-modality<br>
 ![licence](src/CcLogo.png) CC BY 3.0
+
 
 
 ______
@@ -2309,7 +2304,6 @@ Segmentation of Heterogeneous CT Data <br>
 Image classification dataset consists of 327.680 color images extracted from histopathologic scans of lymph node sections. <br>
 ***Keyboard:*** Labeled <br>
 <a href="https://patchcamelyon.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/1806.03962"> ![paper](src/paper.png)</a>
-
 
 
 
@@ -2360,7 +2354,6 @@ This includes images extracted from the public databases DermIS and DermQuest, a
 
 ______
 ## Multi Organs Datasets
-
 
 - <a href="https://www.cancerimagingarchive.net/collection/aapm-rt-mac"> **AAPM-RT-MAC**</a><br>
 The data contains a total of 55 MRI cases, each from a single examination from a distinct patient.<br>
@@ -2589,7 +2582,6 @@ The dataset includes 60 3D CT scans, divided into a training set of 40 and a tes
 This collection contains post mortem CT scans of the whole body. <br>
 ![licence](src/CcLogo.png) CC_BY_NC_SA_3.0
 
-
 - <a href="https://structseg2019.grand-challenge.org"> **StructSeg2019**</a> <br>
 Segmentation of organs-at-risk (OAR) and gross target volume (GTV) of tumors of two types of cancers, nasopharynx cancer and lung cancer, for radiation therapy planning. <br>
 ***Keyboard:*** *Head & neck, Lung*, CT scans, Cancer, Labeled <br>
@@ -2603,7 +2595,6 @@ Data from 5 subjects and 5653 images<br>
 Stanford Tissue Microarray Database<br>
 ***Keyboard:*** Multi tissue <br>
 <a href="https://tma.im/tma_portal"> ![paper](src/paper.png)</a>
-
 
 - <a href="https://zenodo.org/records/10047292"> **TotalSegmentator**</a><br>
 1228 images with segmented 117 anatomical structures
@@ -2627,7 +2618,6 @@ This dataset contains 150 abdominal CT volumes (30495 slices). <br>
 
 
 
-
 ______
 ## Notes and Contributions
 
@@ -2637,5 +2627,3 @@ If you find any issues with the datasets (like broken links, order, description,
 If you know of any other datasets that aren't on the list, please ***contribute*** and add them to make the list more complete.
 
 __________________
-
-
