@@ -2247,6 +2247,11 @@ Prostate cancer T1- and T2-weighted magnetic resonance images were acquired at 1
 - <a href="https://www.na-mic.org/wiki/2009_prostate_segmentation_challenge_MICCAI"> **Prostate segmentation 2009**</a><br>
 ***Keyboard:*** MRI<br>
 
+- <a href="https://www.cancerimagingarchive.net/collection/prostatex"> **PROSTATEx**</a><br>
+This dataset have been included in the PI-CAI Public Training and Development dataset. <br>
+***Keyboard:*** MRI, Cancer <br>
+![licence](src/CcLogo.png) CC BY 3.0
+
 - <a href="https://wiki.cancerimagingarchive.net/display/Public/QIN-PROSTATE-Repeatability"> **QIN-PROSTATE-Repeatability**</a> <br>
 This is a dataset with multiparametric prostate MRI applied in a test-retest setting, allowing to evaluate repeatability of the MRI-based measurements in the prostate. <br>
 ***Keyboard:*** MRI, Labeled <br>
@@ -2581,6 +2586,11 @@ The dataset includes 60 3D CT scans, divided into a training set of 40 and a tes
 - <a href="https://www.smir.ch/objects/214315"> **SMIR**</a> <br>
 This collection contains post mortem CT scans of the whole body. <br>
 ![licence](src/CcLogo.png) CC_BY_NC_SA_3.0
+
+- <a href="https://www.cancerimagingarchive.net/collection/soft-tissue-sarcoma"> **Soft-tissue-Sarcoma**</a> <br>
+A radiomics model from joint FDG-PET and MRI texture features for the prediction of lung metastases in soft-tissue sarcomas of the extremities. <br>
+<a href="https://iopscience.iop.org/article/10.1088/0031-9155/60/14/5471"> ![paper](src/paper.png)</a> <br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 - <a href="https://structseg2019.grand-challenge.org"> **StructSeg2019**</a> <br>
 Segmentation of organs-at-risk (OAR) and gross target volume (GTV) of tumors of two types of cancers, nasopharynx cancer and lung cancer, for radiation therapy planning. <br>
