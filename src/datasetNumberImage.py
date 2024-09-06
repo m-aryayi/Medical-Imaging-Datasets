@@ -41,10 +41,10 @@ data = {
        'Bones': 13, 
        'Joints': 10, 
        'Female Reproductive Organs': 17,
-       'Male Reproductive Organs': 15,
+       'Male Reproductive Organs': 16,
        'Lymph Nodes': 8,
        'Skin': 9,
-       'Multi Organs Datasets' : 52
+       'Multi Organs Datasets' : 53
 }
 
 df = pd.DataFrame.from_dict(data, orient='index', columns=['number'])
