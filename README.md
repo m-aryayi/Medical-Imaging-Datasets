@@ -1897,6 +1897,10 @@ This dataset includes more than 160,000 images of 67,000 patients. <br>
 ***Keyboard:*** X-ray, Labeled <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841520301614"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.kaggle.com/datasets/kmader/pulmonary-chest-xray-abnormalities"> **Pulmonary Chest X-Ray Abnormalities**</a><br>
+Diagnose tuberculosis and other diseases from x-rays.<br>
+***Keyboard:*** Labeled<br>
+
 - <a href="https://www.cancerimagingarchive.net/analysis-result/qin-lungct-seg"> **QIN Lung CT**</a> <br>
 ***Keyboard:*** Nodule, CT Scan, Segmentation <br>
 ![licence](src/CcLogo.png) CC BY 3.0
@@ -1919,6 +1923,10 @@ Containing 1252 CT scans that are positive for SARS-CoV-2 infection (COVID-19) a
 Manually Segmented Lungs Masks for Shenzhen Hospital Chest X-ray Set<br>
 <a href="https://ieeexplore.ieee.org/document/8477564"> ![paper](src/paper.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/24108713"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY-NC-SA 4.0
+
+- <a href="https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation"> **SIIM-ACR Pneumothorax Segmentation**</a><br>
+Identify Pneumothorax disease in chest x-rays<br>
+<a href="https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
 - <a href="http://www.via.cornell.edu/databases/simbadb.html"> **SIMBA**</a> <br>
 Chest Health Analysis System Public Lung Image Database.<br>
