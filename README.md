@@ -1648,6 +1648,11 @@ COVID19 severity score assessment project and database. <br>
 CT-Scan images with different types of chest cancer <br>
 ***Keyboard:*** CT-scan, Labeled<br>
 
+- <a href="https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia"> **Chest X-Ray Images (Pneumonia)**</a><br>
+There are 5,863 X-Ray images and 2 categories (Pneumonia/Normal).<br>
+<a href="https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
+
 - <a href="https://cxr-covid19.grand-challenge.org"> **Chest XR COVID-19 detection**</a> <br>
 The dataset contains 20,000+ images and 3 classes: COVID-19, Pneumonia and Normal (healthy). <br>
 ***Keyboard:*** X-ray, Labeled <br>
@@ -1877,6 +1882,11 @@ Detectition mediastinal lesions from 1100 CT scans, consisting of 770 CTs for tr
 The dataset contains 377,110 images corresponding to 227,835 radiographic. <br>
 ***Keyboard:*** X-ray <br>
 <a href="https://www.nature.com/articles/s41597-019-0322-0"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/1901.07042"> ![paper](src/paper.png)</a><br>![licence](src/CcLogo.png) PhysioNet Credentialed Health Data License 1.5.0
+
+- <a href="https://physionet.org/content/mimic-cxr-jpg"> **MIMIC-CXR-JPG**</a><br>
+The MIMIC-CXR-JPG dataset is wholly derived from MIMIC-CXR, providing JPG format files derived from the DICOM images and structured labels derived from the free-text reports.<br>
+***Keyboard:*** X-ray<br>
+<a href="https://arxiv.org/abs/1901.07042"> ![paper](src/paper.png)</a><br>![licence](src/CcLogo.png) PhysioNet Credentialed Health Data License 1.5.0
 
 - <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=5800702"> **NLST**</a> (National Lung Screening Trial)<br>
 26,254 low-dose CT scans <br>
