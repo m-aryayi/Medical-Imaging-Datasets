@@ -1915,6 +1915,10 @@ Diagnose tuberculosis and other diseases from x-rays.<br>
 ***Keyboard:*** Nodule, CT Scan, Segmentation <br>
 ![licence](src/CcLogo.png) CC BY 3.0
 
+- <a href="https://www.cancerimagingarchive.net/collection/rider-lung-ct"> **RIDER Lung CT**</a><br>
+Coffee-break lung CT collection with scan images reconstructed at multiple imaging parameters<br>
+![licence](src/CcLogo.png) CC BY 4.0
+
 - <a href="https://www.rsna.org/rsnai/ai-image-challenge/RSNA-Pneumonia-Detection-Challenge-2018"> **RSNA Pneumonia Detection**</a> (Radiological Society of North America 2018) <br>
 30,000 frontal view chest radiographs <br>
 ***Keyboard:*** X-ray, Labeled <br>
@@ -1941,6 +1945,11 @@ Identify Pneumothorax disease in chest x-rays<br>
 - <a href="http://www.via.cornell.edu/databases/simbadb.html"> **SIMBA**</a> <br>
 Chest Health Analysis System Public Lung Image Database.<br>
 ***Keyboard:*** CT scan, Labeled <br>
+
+- <a href="https://www.cancerimagingarchive.net/collection/spie-aapm-lung-ct-challenge"> **SPIE-AAPM Lung CT Challenge**</a><br>
+SPIE-AAPM-NCI Lung Nodule Classification Challenge Dataset<br>
+<a href="https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-3/issue-04/044506/LUNGx-Challenge-for-computerized-lung-nodule-classification/10.1117/1.JMI.3.4.044506.full#_=_"> ![paper](src/paper.png)</a> | <a href="https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-2/issue-02/020103/Special-Section-Guest-Editorial--LUNGx-Challenge-for-computerized-lung/10.1117/1.JMI.2.2.020103.full#_=_"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 - <a href="https://stoic2021.grand-challenge.org"> **STOIC2021**</a> <br>
 Study of Thoracic CT in COVID-19 <br>
