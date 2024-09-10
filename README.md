@@ -1099,6 +1099,11 @@ It contains 22,032 reconstructed DBT volumes belonging to 5,610 studies from 5,0
 <a href="https://arxiv.org/abs/2011.07995"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY-NC 4.0
 
+- <a href="https://www.cancerimagingarchive.net/collection/breast-diagnosis"> **BREAST-DIAGNOSIS**</a> <br>
+It contains cases that are high-risk normals, DCIS, fibroids and lobular carcinomas.<br>
+***Keyboard:*** Cancer <br>
+![licence](src/CcLogo.png) CC BY 3.0
+
 - <a href="https://www.cancerimagingarchive.net/collection/breast-mri-nact-pilot"> **Breast-MRI-NACT-Pilot**</a> <br>
 Single site breast DCE-MRI data and segmentations from patients undergoing neoadjuvant chemotherapy<br>
 ***Keyboard:*** Labeled, Cancer <br>
