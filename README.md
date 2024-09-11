@@ -1859,6 +1859,12 @@ Nodule location detection <br>
 ***Keyboard:*** Cancer, CT-scan <br>
 <a href="https://luna16.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841517301020"> ![paper](src/paper.png) Overview paper</a> </a> <br> ![licence](src/CcLogo.png) Creative Commons Attribution 4.0 International License
 
+- <a href="https://www.cancerimagingarchive.net/collection/lung-fused-ct-pathology"> **Lung-Fused-CT-Pathology**</a><br>
+Mapping the extent of Invasive Adenocarcinoma onto in vivo lung CT <br>
+***Keyboard:*** Cancer, CT scan, Labeled<br>
+<a href="https://link.springer.com/article/10.1007/s00330-017-4813-0"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 3.0
+
 - <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70224216"> **Lung-PET-CT-Dx**</a> <br>
 A Large-Scale CT and PET/CT Dataset for Lung Cancer Diagnosis <br>
 ***Keyboard:*** Cancer, Labeled <br>![licence](src/CcLogo.png) CC BY 4.0
@@ -1902,6 +1908,11 @@ The MIMIC-CXR-JPG dataset is wholly derived from MIMIC-CXR, providing JPG format
 Detection and generation of lung nodules. <br>
 ***Keyboard:*** X-ray <br>
 <a href="https://node21.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2401.02192"> ![paper](src/paper.png)</a><br>![licence](src/CcLogo.png) CC BY-NC-ND 4.0
+
+- <a href="https://www.cancerimagingarchive.net/analysis-result/nsclc-radiogenomics-stanford"> **NSCLC Radiogenomics-Stanford**</a> (Non-Small Cell Lung Cancer) <br>
+This collection contains images from patients with NSCLC imaged prior to surgical excision with both thin-section computed tomography (CT) and whole body positron emissions tomography (PET)/CT scans <br>
+<a href="https://pubs.rsna.org/doi/10.1148/radiol.12111607"> ![paper](src/paper.png)</a> <br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 - <a href="https://www.cancerimagingarchive.net/collection/nsclc-radiomics"> **NSCLC-Radiomics**</a> (Non-Small Cell Lung Cancer) <br>
 This collection contains images from 422 patients.  <br>
