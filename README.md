@@ -2477,6 +2477,11 @@ Facilitating diagnosis and treatment of diseases in hollow organs. <br>
 ***Keyboard:***  Multi-tissue, Multi-modality, Video Endoscopy, Labeled <br>
 <a href="https://ead2019.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/1905.03209"> ![paper](src/paper.png)</a>
 
+- <a href="https://ead2020.grand-challenge.org"> **EAD 2020**</a> (Endoscopy artifact detection) <br>
+The 8 classes in this challenge include specularity, bubbles, saturation, contrast, blood, instrument, blur and imaging artefacts. <br>
+***Keyboard:***  Multi-tissue, Multi-modality, Video Endoscopy, Labeled <br>
+<a href="https://www.researchgate.net/publication/344671984_Endoscopic_Artefact_Detection_with_Ensemble_of_Deep_Neural_Networks_and_False_Positive_Elimination"> ![paper](src/paper.png)</a>
+
 - <a href="https://fastmri.med.nyu.edu"> **fastMRI**</a><br>
 ***Keyboard:*** *Knee, Brain, and Prostate*, MRI<br>
 <a href="https://arxiv.org/abs/1811.08839"> ![paper](src/paper.png)</a> | <a href="https://pubs.rsna.org/doi/10.1148/ryai.2020190007"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/2304.09254"> ![paper](src/paper.png)</a>
