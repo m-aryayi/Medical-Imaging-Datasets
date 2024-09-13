@@ -2527,6 +2527,12 @@ The dataset contains color 25,000 Lung and colon histopathological images <br>
 ***Keyboard:*** *Lung and Colon*, Cancer, Labeled <br>
 <a href="https://arxiv.org/abs/1912.12142v1"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.cancerimagingarchive.net/collection/ldct-and-projection-data"> **LDCT-and-Projection-data**</a> (Low Dose CT)<br>
+Reconstructed images, patient age and gender, and pathology annotation are also provided for these de-identified data sets.<br>
+***Keyboard:*** *Head, Chest, and Abdomen*, CT scan<br>
+<a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.14594"> ![paper](src/paper.png)</a> | <a href="https://aapm.onlinelibrary.wiley.com/doi/10.1118/1.4935406"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) TCIA Restricted - CC BY 3.0
+
 - <a href="https://learn2reg.grand-challenge.org"> **Learn2Reg 2024**</a> <br>
 The dataset has over 46,000 nuclei, 71 patients, four organs, and four nucleus types.<br>
 ***Keyboard:*** Multi-modality, Registration<br>
