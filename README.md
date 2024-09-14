@@ -1918,6 +1918,10 @@ This collection contains images from patients with NSCLC imaged prior to surgica
 This collection contains images from 422 patients.  <br>
 ***Keyboard:*** CT Scan, Labeled <br>![licence](src/CcLogo.png) CC BY-NC 3.0
 
+- <a href="https://www.cancerimagingarchive.net/collection/nsclc-radiomics-interobserver1/"> **NSCLC-Radiomics-Interobserver1**</a> (Non-Small Cell Lung Cancer)<br>
+This collection contains clinical data and computed tomography from 22 non-small cell lung cancer radiotherapy patients.<br>
+***Keyboard:*** CT Scan, Labeled<br>![licence](src/CcLogo.png) CC BY-NC 3.0
+
 - <a href="https://bimcv.cipf.es/bimcv-projects/padchest"> **PadChest**</a> <br>
 This dataset includes more than 160,000 images of 67,000 patients. <br>
 ***Keyboard:*** X-ray, Labeled <br>
