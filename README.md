@@ -1909,6 +1909,11 @@ Detection and generation of lung nodules. <br>
 ***Keyboard:*** X-ray <br>
 <a href="https://node21.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2401.02192"> ![paper](src/paper.png)</a><br>![licence](src/CcLogo.png) CC BY-NC-ND 4.0
 
+- <a href="https://www.cancerimagingarchive.net/collection/nsclc-radiogenomics"> **NSCLC Radiogenomics**</a> (Non-Small Cell Lung Cancer)<br>
+The dataset comprises Computed Tomography (CT), Positron Emission Tomography (PET)/CT images, semantic annotations of the tumors as observed on the medical images using a controlled vocabulary, segmentation maps of tumors in the CT scans, and quantitative values obtained from the PET/CT scans.<br>
+<a href="https://pubs.rsna.org/doi/10.1148/radiol.12111607"> ![paper](src/paper.png)</a> <br>
+![licence](src/CcLogo.png) CC BY 3.0
+
 - <a href="https://www.cancerimagingarchive.net/analysis-result/nsclc-radiogenomics-stanford"> **NSCLC Radiogenomics-Stanford**</a> (Non-Small Cell Lung Cancer) <br>
 This collection contains images from patients with NSCLC imaged prior to surgical excision with both thin-section computed tomography (CT) and whole body positron emissions tomography (PET)/CT scans <br>
 <a href="https://pubs.rsna.org/doi/10.1148/radiol.12111607"> ![paper](src/paper.png)</a> <br>
@@ -1926,6 +1931,12 @@ This collection contains clinical data and computed tomography from 22 non-small
 This dataset includes more than 160,000 images of 67,000 patients. <br>
 ***Keyboard:*** X-ray, Labeled <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841520301614"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.cancerimagingarchive.net/collection/phantom-fda"> **Phantom FDA**</a><br>
+As part of a more general effort to probe the interrelated factors impacting the accuracy and precision of lung nodule size estimation, it has been presented with an anthropomorphic thoracic phantom containing a vasculature insert on which synthetic nodules were inserted or attached.<br>
+***Keyboard:*** CT scan<br>
+<a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-18-14-15244&id=203597"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 3.0
 
 - <a href="https://www.kaggle.com/datasets/kmader/pulmonary-chest-xray-abnormalities"> **Pulmonary Chest X-Ray Abnormalities**</a><br>
 Diagnose tuberculosis and other diseases from x-rays.<br>

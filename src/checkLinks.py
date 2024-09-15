@@ -37,7 +37,8 @@ def check_for_duplicates(links):
         'https://academic.oup.com/gigascience/article/7/6/giy065/5026175',
         'https://pubs.rsna.org/doi/10.1148/radiol.2021203957',
         'https://ieeexplore.ieee.org/document/6975210',
-        'https://ieeexplore.ieee.org/document/8458220'
+        'https://ieeexplore.ieee.org/document/8458220',
+        'https://pubs.rsna.org/doi/10.1148/radiol.12111607',
     ] #List of links that relate to some datasets
     
     seen_links = {}
