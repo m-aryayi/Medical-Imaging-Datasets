@@ -1790,6 +1790,10 @@ The 3D medical imaging dataset that pairs images with textual reports. <br>
 <a href="https://arxiv.org/abs/2403.17834"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY-NC-SA
 
+- <a href="https://www.aapm.org/GrandChallenge/CTVIE"> **CTVIE19**</a> <br>
+Data consist of PFTs, multi-inflation non-contrast CT (4D or breath-hold) and contrast-based ventilation images (nuclear imaging or hyperpolarised gas MRI) for patients with lung cancer and several non-oncological obstructive respiratory diseases including cystic fibrosis, asthma and COPD.<br>
+***Keyboard:*** CT scan, Labeled, Segmentation<br>
+
 - <a href="https://physionet.org/content/chest-x-ray-segmentation"> **CXLSeg**</a> <br>
 Segmented Chest X-ray radiographs based on the MIMIC-CXR dataset. <br>
 ***Keyboard:*** Segmentation <br>
@@ -1992,6 +1996,11 @@ Study of Thoracic CT in COVID-19 <br>
 Data from 69 Participants <br>
 ***Keyboard:*** Multi-modality <br>
 ![licence](src/CcLogo.png) CC BY 3.0
+
+- <a href="https://image-x.sydney.edu.au/vampire-challenge"> **VAMPIRE**</a> (Ventilation And Medical Pulmonary Image Registration Evaluation)<br>
+It includes 50 pairs of 4DCT scans and corresponding clinical or experimental ventilation scans, referred to as reference ventilation images (RefVIs). The dataset includes 25 humans imaged with Galligas 4DPET/CT, 21 humans imaged with DTPA-SPECT, and 4 sheep imaged with Xenon-CT.<br>
+***Keyboard:*** CT-scan, Animal<br>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6605778"> ![paper](src/paper.png)</a>
 
 - <a href="https://vessel12.grand-challenge.org/"> **VESSEL12**</a> (VESsel SEgmentation in the Lung 2012) <br>
 Automatic (and semi-automatic) segmentation of blood vessels in the lungs from CT images <br>
