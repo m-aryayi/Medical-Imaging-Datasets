@@ -1739,8 +1739,15 @@ This collection of cases was acquired at Stony Brook University from patients wh
 3616 COVID-19 Chest X-ray images and lung masks <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S001048252100113X"> ![paper](src/paper.png)</a> | <a href="https://ieeexplore.ieee.org/document/9144185"> ![paper](src/paper.png)</a>
 
+- <a href="https://github.com/jannisborn/covid19_ultrasound"> **COVID-19 Ultrasound**</a><br>
+200 LUS videos labelled with a diagnostic outcome <br>
+<a href="https://thorax.bmj.com/content/76/Suppl_1/A230.2"> ![paper](src/paper.png) Abstract</a> | <a href="https://www.mdpi.com/2076-3417/11/2/672"> ![paper](src/paper.png) Full paper</a> | <a href="https://arxiv.org/abs/2004.12084"> ![paper](src/paper.png)</a>
+
 - <a href="https://github.com/v7labs/covid-19-xray-dataset"> **COVID-19 xray**</a> <br>
 This dataset contains 6500 images of AP/PA chest x-rays with pixel-level polygonal lung segmentations <br>
+
+- <a href="https://github.com/NinaWie/COVID-BLUES"> **COVID-BLUES**</a> (Bluepoint Lung Ultrasound)<br>
+It contains bluepoint-specific lung ultrasound videos recorded included 63 patients (33 COVID-positive and 30 COVID-negative), with the inclusion criteria being symptoms of a lung infection.<br>
 
 - <a href="https://github.com/ieee8023/covid-chestxray-dataset"> **COVID-ChestXRay**</a> <br>
 An database of COVID-19 cases with chest X-ray or CT images <br>
