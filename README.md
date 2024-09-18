@@ -1712,6 +1712,11 @@ Chest Imaging with Clinical and Genomic Correlates Representing a Rural COVID-19
 <a href="https://www.nature.com/articles/s41597-020-00741-6"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY 4.0
 
+- <a href="https://www.kaggle.com/datasets/bachrr/covid-chest-xray"> **COVID-19 chest xray**</a> <br>
+It contains COVID-19 cases as well as MERS, SARS, and ARDS.<br>
+***Keyboard:*** X-ray, CT scan<br>
+![licence](src/CcLogo.png) CC0: Public Domain
+
 - <a href="https://zenodo.org/records/3757476"> **COVID-19 CT Lung and Infection**</a> <br>
 The dataset contains 20 labeled COVID-19 CT scans <br>
 ***Keyboard:*** Segmentation <br>
@@ -2270,6 +2275,11 @@ Dataset of prostatectomy and biopsy specimens with annotations  <br>
 ***Keyboard:*** Cancer<br>
 <a href="https://auto-rtp.grand-challenge.org/evaluation/data-format-confirmation/leaderboard"> ![Leaderboard](src/leaderboard.png)</a><br>
 ![licence](src/CcLogo.png) Use of the data is restricted to this challenge and related publications
+
+- <a href="https://zenodo.org/records/13254318">**BIMCV-Prostate**</a><br>
+It includes a total of 9,341 prostate MRI sessions, distributed among 8,441 subjects.<br>
+***Keyboard:*** Cancer<br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://www.cancerimagingarchive.net/collection/cmb-pca">**CMB-PCA**</a> (Cancer Moonshot Biobank - Prostate Cancer) <br>
 ***Keyboard:*** Multi-modality <br>
