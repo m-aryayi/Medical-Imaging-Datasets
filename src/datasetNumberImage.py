@@ -37,11 +37,11 @@ data = {
        'Heart and Blood Vessels': 54, 
        'Kidneys and Urinary Tract': 10,
        'Liver': 11, 
-       'Lungs': 89,
+       'Lungs': 90,
        'Bones': 13, 
        'Joints': 10, 
        'Female Reproductive Organs': 17,
-       'Male Reproductive Organs': 16,
+       'Male Reproductive Organs': 17,
        'Lymph Nodes': 8,
        'Skin': 9,
        'Multi Organs Datasets' : 55
