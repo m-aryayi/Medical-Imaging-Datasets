@@ -1885,6 +1885,10 @@ Mapping the extent of Invasive Adenocarcinoma onto in vivo lung CT <br>
 A Large-Scale CT and PET/CT Dataset for Lung Cancer Diagnosis <br>
 ***Keyboard:*** Cancer, Labeled <br>![licence](src/CcLogo.png) CC BY 4.0
 
+- <a href="https://figshare.com/articles/dataset/MedSeg_Covid_Dataset_1/13521488"> **MedSeg Covid Dataset**</a><br>
+This is a dataset of 100 axial CT images from >40 patients with COVID-19 <br>
+![licence](src/CcLogo.png) CC0
+
 - <a href="https://mela.grand-challenge.org"> **MELA**</a> (Mediastinal Lesion Analysis) <br>
 Detectition mediastinal lesions from 1100 CT scans, consisting of 770 CTs for training, 110 CTs for validation, and 220 CTs for testing. <br>
 ***Keyboard:*** CT Scan <br>
@@ -2588,6 +2592,9 @@ The test set contains Region of Interests (ROIs) selected from whole-slide image
 Foundation Model Prompting for Medical Image Classification <br>
 ***Keyboard:*** *Thoracic and Colon*, Multli Modalities <br>
 <a href="https://medfm2023.grand-challenge.org/evaluation/challenge-for-public-long-term/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://www.medseg.ai"> **MedSeg**</a><br>
+An AI tool for segmentation CT scan and MRI images. There are segmented images of other public dataset in their website<br>
 
 - <a href="https://medshapenet.ikim.nrw"> **MedShapeNet**</a> <br>
 This dataset contains over 100,000 3D medical shapes, including bones, organs, vessels, muscles, etc., as well as surgical instruments. It has used in <a href='https://autoimplant.grand-challenge.org'> AutoImplant </a> <br>
