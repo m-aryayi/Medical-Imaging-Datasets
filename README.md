@@ -1238,6 +1238,12 @@ The dataset contains data from 150 multi-equipments CMRI recordings with referen
 - <a href="https://www.cardiacatlas.org/amrg-cardiac-atlas"> **AMRG Cardiac Atlas**</a><br>
 There are 4 protocols used to create the cardiac atlas: T1-Weighted Images, True FISP Cines, MR tagging and contrast MRI. <br>
 
+- <a href="https://data.mendeley.com/datasets/ydrm75xywg/1"> **Angiographic dataset for stenosis detection**</a><br>
+All patients had angiographically and/or functionally confirmed one-vessel coronary artery disease.<br>
+<a href="https://www.nature.com/articles/s41598-021-87174-2"> ![paper](src/paper.png)</a>
+<br>
+![licence](src/CcLogo.png) CC BY 4.0
+
 - <a href="https://arcade.grand-challenge.org"> **ARCADE**</a> <br>
 Automatic Region-based Coronary Artery Disease Diagnostics Using X-Ray Angiography Images <br>
 ***Keyboard:***  X-ray coronary angiography, Labeled <br>
@@ -1480,6 +1486,10 @@ The dataset consist of 45 cine-MRI images from a mixed of patients and pathologi
 This dataset is designed to have the most reliable ground truth myocardial contours from short-axis MRI with multiple pathologies (1 healthy and 3 cardiac disease).<br>
 ***Keyboard:*** Segmentation, Labeled <br>
 <a href="https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-015-0170-9"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.kaggle.com/competitions/second-annual-data-science-bowl"> **Second Annual Data Science Bowl**</a><br>
+***Keyboard:*** cardiac MRI, Registration<br>
+<a href="https://www.kaggle.com/competitions/second-annual-data-science-bowl/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> 
 
 - <a href="https://multicenteraorta.grand-challenge.org"> **SEG.A. 2023**</a> (Segmentation of the Aorta) <br>
 ***Keyboard:*** CTA (Computed tomography angiography), Labeled, Aorta <br>
