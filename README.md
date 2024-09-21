@@ -1566,6 +1566,10 @@ A dataset containing 300 images and 3,562 manually annotated urinary cells label
 ***Keyboard:*** MRI, Cancer, Labeled <br>
 <a href="https://atlas-challenge.u-bourgogne.fr/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.mdpi.com/2306-5729/8/5/79"> ![paper](src/paper.png)</a> | <a href="https://www.nature.com/articles/s41598-024-53528-9"> ![paper](src/paper.png)</a>
 
+- <a href="https://clust.ethz.ch"> **CLUST**</a> (Challenge on Liver Ultrasound Tracking)<br>
+It has two versions <br>
+<a href="https://clust.ethz.ch/results.html"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://clust.ethz.ch/publications.html"> ![paper](src/paper.png)</a>
+
 - <a href="https://www.cancerimagingarchive.net/collection/colorectal-liver-metastases"> **Colorectal Liver Metastases**</a><br>
 This collection consists of images for 197 patients with Colorectal Liver Metastases (CRLM). <br>
 ***Keyboard:*** CT scan, Cancer, Segmentation, Labeled<br>
@@ -2668,6 +2672,12 @@ Nuclei labels across 19 different tissue types.<br>
 ***Keyboard:*** Multi-tissue, whole-slide images (WSIs), Classification, Segmentation<br>
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-23937-4_2"> ![paper](src/paper.png) Details</a> | <a href="https://arxiv.org/abs/2003.10778"> ![paper](src/paper.png) Details</a><br>
 ![licence](src/CcLogo.png) CC BY-NC-SA 4.0
+
+- <a href="https://huggingface.co/datasets/flaviagiammarino/path-vqa"> **PathVQA**</a> (Pathology Visual Question Answering)<br>
+This version of the dataset contains a total of 5,004 images and 32,795 question-answer pairs.<br>
+***Keyboard:*** Labeled, Text<br>
+<a href="https://arxiv.org/abs/2003.10286"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) MIT License
 
 - <a href="https://huggingface.co/datasets/xmcmic/PMC-VQA"> **PMC-VQA**</a><br>
 It contains 227k VQA (Visual Question Answerin) pairs of 149k images, covering various modalities or diseases <br>
