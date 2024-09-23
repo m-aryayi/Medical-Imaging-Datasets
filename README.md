@@ -2266,6 +2266,11 @@ It consists of two sub-sets with two modalities, which are OTU_2d and OTU_CEUS r
 ***Keyboard:*** Labeled, Segmentation, Classification, Cancer <br>
 <a href="https://arxiv.org/abs/2207.06799"> ![paper](src/paper.png)</a>
 
+- <a href="https://cs.adelaide.edu.au/~carneiro/isbi14_challenge/">**Overlapping Cervical Cytology Image Segmentation**</a><br>
+The targets are to extract the boundaries of individual cytoplasm and nucleus from overlapping cervical cytology images.<br>
+***Keyboard:*** Segmentation, Cancer<br>
+<a href="https://cs.adelaide.edu.au/~carneiro/isbi14_challenge/results_release.html"> ![Leaderboard](src/leaderboard.png)</a>
+
 - <a href="https://cs.adelaide.edu.au/~carneiro/isbi15_challenge">**Overlapping Cervical Cytology Image Segmentation 2**</a><br>
 The targets are to extract the boundaries of individual cytoplasm and nucleus from overlapping cervical cytology images.<br>
 ***Keyboard:*** Segmentation, Cancer<br>
