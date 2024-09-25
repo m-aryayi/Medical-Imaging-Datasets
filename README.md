@@ -962,6 +962,11 @@ Containing 19,400 frames and a total of 5,200 polyp instances from 10 unique pol
 ***Keyboard:*** Multi-modality, Cancer <br>
 ![licence](src/CcLogo.png) CC BY 4.0 - TCIA Restricted
 
+- <a href="https://zenodo.org/records/53169#.W6HwwP4zbOQ"> **Collection of textures in colorectal cancer histology**</a><br>
+***Keyboard:*** Labeled, Mulyi tissue<br>
+<a href="https://www.nature.com/articles/srep27988"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
+
 - <a href="https://conic-challenge.grand-challenge.org"> **CoNIC**</a> (Colon Nuclei Identification and Counting) <br>
 ***Keyboard:*** whole-slide images (WSI), Nuclear segmentation and classification <br>
 <a href="https://conic-challenge.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2111.14485"> ![paper](src/paper.png)</a> 
