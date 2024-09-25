@@ -32,7 +32,7 @@ data = {
        'Brain': 126,
        'Ears, Nose, Teeth, and Throat': 17, 
        'Eyes': 36,
-       'Bowel': 18,
+       'Bowel': 19,
        'Breast': 37,
        'Heart and Blood Vessels': 56, 
        'Kidneys and Urinary Tract': 10,
