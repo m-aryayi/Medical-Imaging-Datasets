@@ -2524,6 +2524,11 @@ A large-scale abdominal multi-organ benchmark for versatile medical image segmen
 ***Keyboard:***  Multi-tissue (15 abdominal organs), MRI, CT scan<br>
 <a href="https://amos22.grand-challenge.org/evaluation/amos-ct-regular-evaluation/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://anhir.grand-challenge.org"> **ANHIR**</a> (Automatic Non-rigid Histological Image Registration)<br>
+They have assembled 8 datasets, containing 355 images with 18 different stains, resulting in 481 image pairs to be registered.<br>
+***Keyboard:***  Multi-tissue, Whole-slide images<br>
+<a href="https://anhir.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/9058666"> ![paper](src/paper.png)</a>
+
 - <a href="https://www.cancerimagingarchive.net/collection/apollo-5"> **APOLLO-5**</a> (Applied Proteogenomics OrganizationaL Learning and Outcomes)<br>
 A collection of 31 datasets for different organs. <br>
 ***Keyboard:*** Cancer, Multi-modality<br>
