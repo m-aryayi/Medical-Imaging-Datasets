@@ -71,6 +71,10 @@ T1-weighted MRI scans and fluid intelligence scores for children aged 9–10 yea
 <a href="https://pubmed.ncbi.nlm.nih.gov/23774715"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY-NC-SA 3.0
 
+- <a href="http://fcon_1000.projects.nitrc.org/indi/abide"> **ACPI MTA**</a> (Addiction Connectome Preprocessed Initiative)<br>
+Multimodal Treatment of Attention Deficit Hyperactivity Disorder (MTA) - Preprocessed<br>
+![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+
 - <a href="http://fcon_1000.projects.nitrc.org/indi/adhd200"> **ADHD-200**</a> (Attention Deficit Hyperactivity Disorder) <br>
 776 resting-state fMRI and anatomical datasets aggregated across 8 independent imaging sites. <br>
 <a href="http://fcon_1000.projects.nitrc.org/indi/adhd200/results.html"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/pii/S105381191630283X"> ![paper](src/paper.png)</a><br>
