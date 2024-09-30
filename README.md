@@ -71,11 +71,11 @@ T1-weighted MRI scans and fluid intelligence scores for children aged 9–10 yea
 <a href="https://pubmed.ncbi.nlm.nih.gov/23774715"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY-NC-SA 3.0
 
-- <a href="http://fcon_1000.projects.nitrc.org/indi/abide"> **ACPI MTA**</a> (Addiction Connectome Preprocessed Initiative)<br>
+- <a href="http://fcon_1000.projects.nitrc.org/indi/ACPI/html/acpi_mta_1.html"> **ACPI MTA**</a> (Addiction Connectome Preprocessed Initiative)<br>
 Multimodal Treatment of Attention Deficit Hyperactivity Disorder (MTA) - Preprocessed<br>
 ![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
 
-- <a href="http://fcon_1000.projects.nitrc.org/indi/abide"> **ACPI NYU**</a> (Addiction Connectome Preprocessed Initiative)<br>
+- <a href="http://fcon_1000.projects.nitrc.org/indi/ACPI/html/acpi_nyu_1.html"> **ACPI NYU**</a> (Addiction Connectome Preprocessed Initiative)<br>
 These data were collected to study functional and structural connectivity in cocaine addiction. This release contains R-fMRI and behavioral assessments and phenotypic information data from 29 cocaine-dependent individuals and 24 healthy comparison participants.<br>
 ![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
 
