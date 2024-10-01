@@ -71,6 +71,10 @@ T1-weighted MRI scans and fluid intelligence scores for children aged 9–10 yea
 <a href="https://pubmed.ncbi.nlm.nih.gov/23774715"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY-NC-SA 3.0
 
+- <a href="http://fcon_1000.projects.nitrc.org/indi/ACPI/html/acpi_du_1.html"> **ACPI DU LaBar**</a> (Addiction Connectome Preprocessed Initiative)<br>
+This dataset includes Scan Parameters, Demographic Information and Demographic Key<br>
+![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+
 - <a href="http://fcon_1000.projects.nitrc.org/indi/ACPI/html/acpi_mta_1.html"> **ACPI MTA**</a> (Addiction Connectome Preprocessed Initiative)<br>
 Multimodal Treatment of Attention Deficit Hyperactivity Disorder (MTA) - Preprocessed<br>
 ![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
