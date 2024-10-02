@@ -534,6 +534,12 @@ NKI-RS is an ongoing, institutionally centered endeavor aimed at creating a larg
 ***Keyboard:*** MRI<br>
 <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2012.00152/full"> ![paper](src/paper.png)</a>
 
+- <a href="http://fcon_1000.projects.nitrc.org/indi/retro/NorthShoreLIJ.html"> **North Shore - LIJ**</a><br>
+It includes 6 patients with medically intractable epilepsy that underwent implantation of intracranial electrodes for seizure onset localization prior to resective neurosurgery.<br>
+***Keyboard:*** Resting state fMRI (R-fMRI)<br>
+<a href="https://www.pnas.org/doi/10.1073/pnas.1019750108"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+
 - <a href="http://www.naturalscenesdataset.org"> **NSD**</a> (Natural Scenes Dataset) <br>
 High-resolution fMRI responses to tens of thousands of richly annotated natural scenes <br>
 ***Keyboard:*** fMRI, Labeled <br>
