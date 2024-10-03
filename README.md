@@ -253,6 +253,11 @@ T1-weighted structural MRI study of cannabis users at baseline and 3 years follo
 <a href="https://pubmed.ncbi.nlm.nih.gov/27224247"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY-NC
 
+- <a href="http://fcon_1000.projects.nitrc.org/indi/retro/ClevelandCCF.html"> **Cleveland CCF**</a><br>
+It includes 31 control adults (11M/20F; ages: 24-60). In addition to the resting state scan this sample includes physiological measurements (heart rate and breathing) obtained during the resting state scan.<br>
+***Keyboard:*** Resting state fMRI (R-fMRI)<br>
+![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+
 - <a href="http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network"> **CMI-HBN**</a> (Child Mind Institute Healthy Brain Network) <br>
 Data from 10,000 children and adolescents (ages 5-21). <br>
 ***Keyboard:*** Neuroimaging, MRI, EEG <br>
