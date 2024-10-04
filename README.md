@@ -361,6 +361,9 @@ Personality and cognitive measures were obtained on a subset of participants. Ea
 It focuses on the effect of the local reconstruction accuracy on the quality of connectivity reconstruction. <br>
 ***Keyboard:*** Diffusion MRI <br>
 
+- <a href="http://fcon_1000.projects.nitrc.org/indi/hbn_ssi"> **HBN-SSI**</a> (Healthy Brain Network Serial Scanning Initiative)<br>
+The primary goal is to assess and compare test-retest reliabilities for full-brain connectivity patterns derived from functional MRI data obtained during different scan conditions.<br>
+
 - <a href="http://www.humanconnectomeproject.org"> **HCP**</a> (Human Connectome Project)<br>
 ***Keyboard:*** MRI<br>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.1647"> ![paper](src/paper.png)</a>
