@@ -118,6 +118,11 @@ These data include 180 healthy controls from a community sample. <br>
 ***Keyboard:*** resting state fMRI<br>
 ![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
 
+- <a href="http://fcon_1000.projects.nitrc.org/indi/pro/BeijingShortTR.html"> **Beijing Short TR Sample**</a><br>
+Data is obtained with a short TR (0.4 seconds) and a long TR (2.0 seconds).<br>
+***Keyboard:*** Resting state fMRI<br>
+![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+
 - <a href="https://github.com/White65534/BHSD"> **BHSD**</a> (Brain Hemorrhage Segmentation Dataset)<br>
 A 3D multi-class ICH dataset containing 192 volumes with pixel-level annotations and 2200 volumes with slice-level annotations across five categories of ICH.<br>
 ***Keyboard:*** Intracranial hemorrhage (ICH), CT scan, Labeled<br>
