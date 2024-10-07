@@ -584,6 +584,11 @@ It was collected from three traveling subjects with identical acquisition settin
 ***Keyboard:*** MRI, Labeled <br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/33964608">![paper](src/paper.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/32474466"> ![paper](src/paper.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/34192666"> ![paper](src/paper.png)</a>
 
+- <a href="http://fcon_1000.projects.nitrc.org/indi/pro/Quiron-Valencia.html"> **Quiron-Valencia**</a><br>
+The first release includes data for 45 participants. Each participant has an anatomical as well as a resting state fMRI scan.<br>
+***Keyboard:*** Resting state fMRI (R-fMRI)<br>
+![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+
 - <a href="https://realnoisemri.grand-challenge.org"> **RealNoiseMRI**</a> <br>
 Evaluating the performance of markerless prospective motion correction and selective reacquisition in a general clinical protocol <br>
 ***Keyboard:*** MRI <br>
