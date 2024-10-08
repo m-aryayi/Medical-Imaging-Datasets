@@ -558,6 +558,11 @@ High-resolution fMRI responses to tens of thousands of richly annotated natural 
 ***Keyboard:*** fMRI, Labeled <br>
 <a href="https://www.nature.com/articles/s41593-021-00962-x">![paper](src/paper.png) Description of the dataset</a>
 
+- <a href="http://fcon_1000.projects.nitrc.org/indi/pro/nyu.html"> **NYUIQ**</a><br>
+It consists of datasets from 49 psychiatrically neurotypical adults, with age, gender and intelligence quotient (IQ) information provided.<br>
+***Keyboard:*** T1 weighted MRI, Resting state fMRI scans (R-fMRI)<br>
+![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+
 - <a href="https://oasis-brains.org"> **OASIS**</a> (Open Access Series of Imaging Studies) <br>
 It has multi versions. <br>
 ***Keyboard:*** Multi modality, Neuroimaging <br>
@@ -702,6 +707,11 @@ Multi-parametric magnetic resonance imaging scans for de novo Glioblastoma patie
 - <a href="https://valdo.grand-challenge.org"> **VALDO**</a> (VAscular Lesions DetectiOn)  <br>
 ***Keyboard:*** MRI, cerebral small vessel disease (CSVD), Labeled  <br>
 <a href="https://zenodo.org/records/4600654"> ![paper](src/paper.png)</a>
+
+- <a href="http://fcon_1000.projects.nitrc.org/indi/pro/VirginiaTech.html"> **Virginia Tech**</a><br>
+The Virginia Tech Carillon Research Institute sample is a collection of past and present scans obtained from psychiatrically screened individuals ranging in age from 18 to 65 years old. The initial release consists of datasets from 25 healthy (community sample) adults, with age, sex, education level, and ethnicity provided.<br>
+***Keyboard:*** T1 weighted MRI, Resting state fMRI scans (R-fMRI)<br>
+![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
 
 - <a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/AECRSD"> **WMH**</a> (White Matter Hyperintensity)<br>
 ***Keyboard:*** MRI, Segmentation<br>
