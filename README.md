@@ -698,6 +698,12 @@ Topology-Aware Anatomical Segmentation of the Circle of Willis <br>
 <a href="https://topcow23.grand-challenge.org/evaluation/validation-cta-multiclass/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2312.17670"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY-NC
 
+- <a href="http://fcon_1000.projects.nitrc.org/indi/pro/unam_barrios_hypnosis_index.html"> **UNAM Hynosis**</a> (Universidad Nacional Autónoma de México)<br>
+Resting state of the static hypnotic state.<br>
+***Keyboard:*** Resting state fMRI scans (rs-fMRI)<br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/37786280"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+
 - <a href="https://www.cancerimagingarchive.net/collection/upenn-gbm"> **UPenn-GBM**</a> (University of Pennsylvania glioblastoma)<br>
 Multi-parametric magnetic resonance imaging scans for de novo Glioblastoma patients.<br>
 ***Keyboard:*** Cancer, mpMRI, Segmentation, Labeled<br>
