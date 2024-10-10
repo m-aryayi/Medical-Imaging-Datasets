@@ -534,6 +534,10 @@ It was collected from three traveling subjects with identical acquisition settin
 <a href="https://www.nature.com/articles/s41597-020-0493-8"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY 4.0
 
+- <a href="http://fcon_1000.projects.nitrc.org/indi/pro/wchsu_li_index.html"> **Multimodal MRI of chess players**</a><br>
+It is a MRI dataset of 29 professional Chinese chess players.<br>
+![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/Narratives.html"> **Narratives**</a><br>
 fMRI data for evaluating models of naturalistic language comprehension. <br>
 ***Keyboard:*** fMRI, Labeled <br>
