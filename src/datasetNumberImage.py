@@ -29,7 +29,7 @@ plt.rcParams['text.color']='#333F4B'
 
 
 data = {
-       'Brain': 138,
+       'Brain': 139,
        'Ears, Nose, Teeth, and Throat': 17, 
        'Eyes': 36,
        'Bowel': 19,
@@ -71,7 +71,7 @@ ax.set_ylabel('')
 # set axis
 ax.tick_params(axis='both', which='major', labelsize=12)
 plt.yticks(range_y, df.index)
-plt.xticks(np.arange(0, np.ceil(df['number'].max()*1.1), step=10))
+plt.xticks(np.arange(0, np.ceil(df['number'].max()*1.05), step=20))
 ax.set_xlim(0,np.ceil(df['number'].max()*1.1))
 
 # add an horizonal label for the y axis 
