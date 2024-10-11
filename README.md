@@ -123,6 +123,11 @@ Data is obtained with a short TR (0.4 seconds) and a long TR (2.0 seconds).<br>
 ***Keyboard:*** Resting state fMRI<br>
 ![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
 
+- <a href="http://fcon_1000.projects.nitrc.org/indi/retro/BeijingEOEC.html"> **BeijingEOEC**</a> (Eyes Open Eyes Closed)<br>
+These data include 48 healthy controls from a community (student) sample.<br>\
+***Keyboard:*** Resting state fMRI<br>
+![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+
 - <a href="https://github.com/White65534/BHSD"> **BHSD**</a> (Brain Hemorrhage Segmentation Dataset)<br>
 A 3D multi-class ICH dataset containing 192 volumes with pixel-level annotations and 2200 volumes with slice-level annotations across five categories of ICH.<br>
 ***Keyboard:*** Intracranial hemorrhage (ICH), CT scan, Labeled<br>
