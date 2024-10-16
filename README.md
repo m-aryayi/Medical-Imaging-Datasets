@@ -557,6 +557,11 @@ fMRI data for evaluating models of naturalistic language comprehension. <br>
 ***Keyboard:*** fMRI, Labeled <br>
 ![licence](src/CcLogo.png) CC0
 
+- <a href="http://fcon_1000.projects.nitrc.org/indi/retro/nat_view.html"> **Naturalistic Viewing**</a><br>
+The dataset represents simultaneously collected electroencephalography (EEG) and function magnetic resonance imaging (fMRI) recordings obtained from 22 individuals between the ages of 23 and 51 years-old.<br>
+<a href="https://www.biorxiv.org/content/10.1101/2022.11.23.517540v2"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
+
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/NEO2012.html"> **NEO2012**</a><br>
 The dataset consists of male and female adults, all healthy controls with no psychiatric history used in the 2011 PLoS ONE study.<br>
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0027633"> ![paper](src/paper.png)</a><br>
