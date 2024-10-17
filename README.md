@@ -351,6 +351,11 @@ A dataset of manually segmented pathological and non-pathological fetal magnetic
 ***Keyboard:*** MRI, Labeled, Segmentation <br>
 <a href="https://www.nature.com/articles/s41597-021-00946-3"> ![paper](src/paper.png)</a>
 
+- <a href="http://fcon_1000.projects.nitrc.org/indi/retro/find_stanford.html"> **FIND Lab**</a> ( Functional Imaging in Neuropsychiatric Disorders)<br>
+This dataset is comprised of 13 subjects, ages 18-29, 8 female, with both strutural and functional MRI. The functional paradigms collected are as Episodic Memory, Music, Subtraction<br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/21616982"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+
 - <a href="http://niftyweb.cs.ucl.ac.uk/program.php?p=CHALLENGE"> **GMSC**</a> (Grey matter segmentation challenge)<br>
 ***Keyboard:*** MRI, Labeled<br>
 <a href="https://www.sciencedirect.com/science/article/pii/S1053811917302185"> ![paper](src/paper.png)</a><br>
