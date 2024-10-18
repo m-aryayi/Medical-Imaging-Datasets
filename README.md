@@ -575,6 +575,12 @@ The dataset consists of male and female adults, all healthy controls with no psy
 - <a href="http://www.neuromorphometrics.com/?page_id=23"> **NeuAtlas Labeled Brain Scans**</a><br>
 ***Keyboard:*** MRI, Labeled, Segmentation <br>
 
+- <a href="fcon_1000.projects.nitrc.org/indi/retro/Power2012.html"> **NeuroImage article by Power et al.**</a><br>
+The dataset consists of children, adolescents, and adults, all of which are controls with no diagnosis.<br>
+***Keyboard:*** MRI<br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/22019881"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+
 - <a href="https://openneuro.org/datasets/ds001021"> **NKI-RS**</a> (Nathan Kline Institute-Rockland Sample)<br>
 NKI-RS is an ongoing, institutionally centered endeavor aimed at creating a large-scale (N > 1000), deeply phenotyped, community-ascertained, lifespan sample (ages 6–85 years old) with advanced neuroimaging and genetics. <br>
 ***Keyboard:*** MRI<br>
