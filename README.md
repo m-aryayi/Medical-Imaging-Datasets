@@ -704,6 +704,11 @@ Part of the <a href="http://www.developingconnectome.org"> dHCP</a> (Developing 
 ***Keyboard:*** MRI <br>
 <a href="https://slcn.grand-challenge.org/evaluation/preliminary-phase/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="http://fcon_1000.projects.nitrc.org/indi/retro/southwestuni_qiu_index.html"> **SLIM**</a> (Southwest University Longitudinal Imaging Multimodal)<br>
+A Long-term Test-Retest Sample of Young Healthy Adults in Southwest China.<br>
+***Keyboard:*** Resting state fMRI (rs-fMRI)<br>
+![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+
 - <a href="https://www.studyforrest.org"> **StudyForrest**</a> <br>
 A Collection of datasets <br>
 <a href="https://www.studyforrest.org/publications.html"> ![paper](src/paper.png) List of publications</a><br>
