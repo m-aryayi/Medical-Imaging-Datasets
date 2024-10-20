@@ -39,6 +39,7 @@ def check_for_duplicates(links):
         'https://ieeexplore.ieee.org/document/6975210',
         'https://ieeexplore.ieee.org/document/8458220',
         'https://pubs.rsna.org/doi/10.1148/radiol.12111607',
+        'https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5',
     ] #List of links that relate to some datasets
     
     seen_links = {}

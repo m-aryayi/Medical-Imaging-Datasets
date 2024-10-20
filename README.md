@@ -2053,7 +2053,7 @@ Detectition mediastinal lesions from 1100 CT scans, consisting of 770 CTs for tr
 - <a href="https://physionet.org/content/mimic-cxr"> **MIMIC-CXR**</a> <br>
 The dataset contains 377,110 images corresponding to 227,835 radiographic. <br>
 ***Keyboard:*** X-ray <br>
-<a href="https://www.nature.com/articles/s41597-019-0322-0"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/1901.07042"> ![paper](src/paper.png)</a><br>![licence](src/CcLogo.png) PhysioNet Credentialed Health Data License 1.5.0
+<a href="https://www.nature.com/articles/s41597-019-0322-0"> ![paper](src/paper.png)</a><br>![licence](src/CcLogo.png) PhysioNet Credentialed Health Data License 1.5.0
 
 - <a href="https://physionet.org/content/mimic-cxr-jpg"> **MIMIC-CXR-JPG**</a><br>
 The MIMIC-CXR-JPG dataset is wholly derived from MIMIC-CXR, providing JPG format files derived from the DICOM images and structured labels derived from the free-text reports.<br>
