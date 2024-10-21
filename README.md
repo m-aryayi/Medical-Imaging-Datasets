@@ -772,6 +772,16 @@ The Virginia Tech Carillon Research Institute sample is a collection of past and
 ***Keyboard:*** T1 weighted MRI, Resting state fMRI scans (R-fMRI)<br>
 ![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
 
+- <a href="http://fcon_1000.projects.nitrc.org/indi/retro/wayne_10.html"> **Wayne 10**</a><br>
+The Wayne State longitudinal data set for the Brain Aging in Detroit Longitudinal Study, comprises 114 extensively-sampled healthy individuals. The overarching aim of the Brain Aging in Detroit Longitudinal Study, is understanding the mechanisms driving human brain changes over the adult lifespan, identifying the risk factors and protective influences that modify the rate of change, and elucidating the relationships between changes in brain properties and cognitive performance.<br>
+***Keyboard:*** MRI<br>
+![licence](src/CcLogo.png) CC-BY-NC-SA
+
+- <a href="http://fcon_1000.projects.nitrc.org/indi/retro/wayne_11.html"> **Wayne 11**</a><br>
+The Wayne State longitudinal data set (collected on 4T Bruker scanner, with Siemens user interface) for the Brain Aging in Detroit Longitudinal Study, comprises 200 healthy individuals.<br>
+***Keyboard:*** MRI<br>
+![licence](src/CcLogo.png) CC-BY-NC-SA
+
 - <a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/AECRSD"> **WMH**</a> (White Matter Hyperintensity)<br>
 ***Keyboard:*** MRI, Segmentation<br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/30908194"> ![paper](src/paper.png)</a><br>
