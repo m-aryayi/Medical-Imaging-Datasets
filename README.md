@@ -782,6 +782,12 @@ The Wayne State longitudinal data set (collected on 4T Bruker scanner, with Siem
 ***Keyboard:*** MRI<br>
 ![licence](src/CcLogo.png) CC-BY-NC-SA
 
+- <a href="http://fcon_1000.projects.nitrc.org/indi/retro/wayne_EF.html"> **Wayne EF**</a> (Executive Functions)<br>
+The Wayne State executive function data set, comprises 112 extensively-sampled healthy individuals. The overarching aim of the executive function study is to explore the mediating role of differences in brain structure, EF, and processing speed in age-related differences in episodic memory.<br>
+***Keyboard:*** MRI<br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/16857855"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC-BY-NC-SA
+
 - <a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/AECRSD"> **WMH**</a> (White Matter Hyperintensity)<br>
 ***Keyboard:*** MRI, Segmentation<br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/30908194"> ![paper](src/paper.png)</a><br>
