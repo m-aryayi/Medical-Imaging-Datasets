@@ -760,7 +760,7 @@ Resting state of the static hypnotic state.<br>
 - <a href="https://www.cancerimagingarchive.net/collection/upenn-gbm"> **UPenn-GBM**</a> (University of Pennsylvania glioblastoma)<br>
 Multi-parametric magnetic resonance imaging scans for de novo Glioblastoma patients.<br>
 ***Keyboard:*** Cancer, mpMRI, Segmentation, Labeled<br>
-<a href="https://www.nature.com/articles/s41597-022-01560-7"> ![paper](src/paper.png)</a><br>
+<a href="https://www.nature.com/articles/s41597-022-01560-7"> ![paper](src/paper.png)</a><br>'2
 ![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://valdo.grand-challenge.org"> **VALDO**</a> (VAscular Lesions DetectiOn)  <br>
@@ -773,7 +773,7 @@ The Virginia Tech Carillon Research Institute sample is a collection of past and
 ![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
 
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/wayne_10.html"> **Wayne 10**</a><br>
-The Wayne State longitudinal data set for the Brain Aging in Detroit Longitudinal Study, comprises 114 extensively-sampled healthy individuals. The overarching aim of the Brain Aging in Detroit Longitudinal Study, is understanding the mechanisms driving human brain changes over the adult lifespan, identifying the risk factors and protective influences that modify the rate of change, and elucidating the relationships between changes in brain properties and cognitive performance.<br>
+The Wayne State longitudinal data set for the Brain Aging in Detroit Longitudinal Study, comprises 114 extensively-sampled healthy individuals. The overarching aim of the Brain Aging in Detroit Longitudinal Study, is understanding the mechanisms driving human brain changes over the adult lifespan, identifying the risk factors and protective influences that modify the rate of change, and elucidating the relationships between changes in brain properties and cognitive performance.<br>;8
 ***Keyboard:*** MRI<br>
 ![licence](src/CcLogo.png) CC-BY-NC-SA
 
@@ -792,6 +792,12 @@ The Wayne State executive function data set, comprises 112 extensively-sampled h
 ***Keyboard:*** MRI, Segmentation<br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/30908194"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC-BY-NC-4.0
+
+- <a href="http://fcon_1000.projects.nitrc.org/indi/retro/yale_hires.html"> **Yale Hires**</a><br>
+The Yale High-Resolution Controls (Yale Hires) comprises 120 healthy individuals and was collected with the purpose of assessing the intrinsic organization of the human brain at rest.<br>
+***Keyboard:*** fMRI<br>
+<a href="https://www.nature.com/articles/nn.4135"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC-BY-NC-SA
 
 
 
