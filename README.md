@@ -799,6 +799,11 @@ The Yale High-Resolution Controls (Yale Hires) comprises 120 healthy individuals
 <a href="https://www.nature.com/articles/nn.4135"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC-BY-NC-SA
 
+- <a href="http://fcon_1000.projects.nitrc.org/indi/retro/yale_lowres.html"> **Yale Lowres**</a><br>
+The Yale Low-Resolution Controls (Yale Lowres) comprises 100 healthy individuals and was collected with the purpose of assessing the intrinsic organization of the human brain at rest.<br>
+***Keyboard:*** fMRI<br>
+![licence](src/CcLogo.png) CC-BY-NC-SA
+
 
 
 ### Ears, Nose, Teeth, and Throat
