@@ -128,7 +128,7 @@ Data is obtained with a short TR (0.4 seconds) and a long TR (2.0 seconds).<br>
 ![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
 
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/BeijingEOEC.html"> **BeijingEOEC**</a> (Eyes Open Eyes Closed)<br>
-These data include 48 healthy controls from a community (student) sample.<br>\
+These data include 48 healthy controls from a community (student) sample.<br>
 ***Keyboard:*** Resting state fMRI<br>
 ![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
 
@@ -168,8 +168,8 @@ Containing 3064 T1-weighted contrast-inhanced images from 233 patients with thre
 
 - <a href="https://www.cancerimagingarchive.net/collection/brain-tumor-progression"> **Brain-Tumor-Progression**</a><br>
 Each patient had two MR exams acquired: within ninety days after completing chemi-radiation therapy and at the progression state which was based on the integration of the clinical performance and/or imaging outcomes.<br>
-***Keyboard:*** Cancer, MRI, Labeled <br>
-<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7392220"> ![paper](src/paper.png)</a>
+***Keyboard:*** Cancer, MRI, Labeled<br>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7392220"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) TCIA Restricted
 
 - <a href="https://aimi.stanford.edu/brainmetshare"> **BrainMetShare**</a> <br>
@@ -500,7 +500,7 @@ Scan-rescan imaging sessions on 21 healthy volunteers. <br>
 ***Keyboard:*** MRI, resting state fMRI <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1053811910015259"> ![paper](src/paper.png)</a>
 
-- <a href="https://openneuro.org/datasets/ds000221"> **MPILMBB**</a> (MPI-Leipzig Mind-Brain-Body)<br>
+- <a href="https://openneuro.org/datasets/ds000221"> **MPILMBB**</a> (Max Planck Institut Leipzig Mind Brain Body)<br>
 A functional connectome phenotyping dataset including cognitive state and personality measures. <br>
 ***Keyboard:*** MRI, Cognitive Data <br>
 <a href="https://www.nature.com/articles/sdata2018307"> ![paper](src/paper.png)</a><br>
@@ -579,7 +579,7 @@ The dataset consists of male and female adults, all healthy controls with no psy
 - <a href="http://www.neuromorphometrics.com/?page_id=23"> **NeuAtlas Labeled Brain Scans**</a><br>
 ***Keyboard:*** MRI, Labeled, Segmentation <br>
 
-- <a href="fcon_1000.projects.nitrc.org/indi/retro/Power2012.html"> **NeuroImage article by Power et al.**</a><br>
+- <a href="http://fcon_1000.projects.nitrc.org/indi/retro/Power2012.html"> **NeuroImage article by Power et al.**</a><br>
 The dataset consists of children, adolescents, and adults, all of which are controls with no diagnosis.<br>
 ***Keyboard:*** MRI<br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/22019881"> ![paper](src/paper.png)</a><br>
@@ -760,7 +760,7 @@ Resting state of the static hypnotic state.<br>
 - <a href="https://www.cancerimagingarchive.net/collection/upenn-gbm"> **UPenn-GBM**</a> (University of Pennsylvania glioblastoma)<br>
 Multi-parametric magnetic resonance imaging scans for de novo Glioblastoma patients.<br>
 ***Keyboard:*** Cancer, mpMRI, Segmentation, Labeled<br>
-<a href="https://www.nature.com/articles/s41597-022-01560-7"> ![paper](src/paper.png)</a><br>'2
+<a href="https://www.nature.com/articles/s41597-022-01560-7"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://valdo.grand-challenge.org"> **VALDO**</a> (VAscular Lesions DetectiOn)  <br>
