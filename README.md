@@ -73,15 +73,15 @@ T1-weighted MRI scans and fluid intelligence scores for children aged 9–10 yea
 
 - <a href="http://fcon_1000.projects.nitrc.org/indi/ACPI/html/acpi_du_1.html"> **ACPI DU LaBar**</a> (Addiction Connectome Preprocessed Initiative)<br>
 This dataset includes Scan Parameters, Demographic Information and Demographic Key<br>
-![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+![licence](src/CcLogo.png) Attribution - Non-Commercial
 
 - <a href="http://fcon_1000.projects.nitrc.org/indi/ACPI/html/acpi_mta_1.html"> **ACPI MTA**</a> (Addiction Connectome Preprocessed Initiative)<br>
 Multimodal Treatment of Attention Deficit Hyperactivity Disorder (MTA) - Preprocessed<br>
-![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+![licence](src/CcLogo.png) Attribution - Non-Commercial
 
 - <a href="http://fcon_1000.projects.nitrc.org/indi/ACPI/html/acpi_nyu_1.html"> **ACPI NYU**</a> (Addiction Connectome Preprocessed Initiative)<br>
 These data were collected to study functional and structural connectivity in cocaine addiction. This release contains R-fMRI and behavioral assessments and phenotypic information data from 29 cocaine-dependent individuals and 24 healthy comparison participants.<br>
-![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+![licence](src/CcLogo.png) Attribution - Non-Commercial
 
 - <a href="http://fcon_1000.projects.nitrc.org/indi/adhd200"> **ADHD-200**</a> (Attention Deficit Hyperactivity Disorder) <br>
 776 resting-state fMRI and anatomical datasets aggregated across 8 independent imaging sites. <br>
@@ -120,17 +120,17 @@ A larger dataset of T1w MRIs and manually segmented lesion masks <br>
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/BeijingEnhanced.html"> **Beijing Enhanced**</a><br>
 These data include 180 healthy controls from a community sample. <br>
 ***Keyboard:*** resting state fMRI<br>
-![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+![licence](src/CcLogo.png) Attribution - Non-Commercial
 
 - <a href="http://fcon_1000.projects.nitrc.org/indi/pro/BeijingShortTR.html"> **Beijing Short TR Sample**</a><br>
 Data is obtained with a short TR (0.4 seconds) and a long TR (2.0 seconds).<br>
 ***Keyboard:*** Resting state fMRI<br>
-![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+![licence](src/CcLogo.png) Attribution - Non-Commercial
 
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/BeijingEOEC.html"> **BeijingEOEC**</a> (Eyes Open Eyes Closed)<br>
 These data include 48 healthy controls from a community (student) sample.<br>
 ***Keyboard:*** Resting state fMRI<br>
-![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+![licence](src/CcLogo.png) Attribution - Non-Commercial
 
 - <a href="https://github.com/White65534/BHSD"> **BHSD**</a> (Brain Hemorrhage Segmentation Dataset)<br>
 A 3D multi-class ICH dataset containing 192 volumes with pixel-level annotations and 2200 volumes with slice-level annotations across five categories of ICH.<br>
@@ -270,7 +270,7 @@ T1-weighted structural MRI study of cannabis users at baseline and 3 years follo
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/ClevelandCCF.html"> **Cleveland CCF**</a><br>
 It includes 31 control adults (11M/20F; ages: 24-60). In addition to the resting state scan this sample includes physiological measurements (heart rate and breathing) obtained during the resting state scan.<br>
 ***Keyboard:*** Resting state fMRI (R-fMRI)<br>
-![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+![licence](src/CcLogo.png) Attribution - Non-Commercial
 
 - <a href="http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network"> **CMI-HBN**</a> (Child Mind Institute Healthy Brain Network) <br>
 Data from 10,000 children and adolescents (ages 5-21). <br>
@@ -358,7 +358,7 @@ A dataset of manually segmented pathological and non-pathological fetal magnetic
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/find_stanford.html"> **FIND Lab**</a> ( Functional Imaging in Neuropsychiatric Disorders)<br>
 This dataset is comprised of 13 subjects, ages 18-29, 8 female, with both strutural and functional MRI. The functional paradigms collected are as Episodic Memory, Music, Subtraction<br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/21616982"> ![paper](src/paper.png)</a><br>
-![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+![licence](src/CcLogo.png) Attribution - Non-Commercial
 
 - <a href="http://niftyweb.cs.ucl.ac.uk/program.php?p=CHALLENGE"> **GMSC**</a> (Grey matter segmentation challenge)<br>
 ***Keyboard:*** MRI, Labeled<br>
@@ -559,7 +559,7 @@ It was collected from three traveling subjects with identical acquisition settin
 
 - <a href="http://fcon_1000.projects.nitrc.org/indi/pro/wchsu_li_index.html"> **Multimodal MRI of chess players**</a><br>
 It is a MRI dataset of 29 professional Chinese chess players.<br>
-![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+![licence](src/CcLogo.png) Attribution - Non-Commercial
 
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/Narratives.html"> **Narratives**</a><br>
 fMRI data for evaluating models of naturalistic language comprehension. <br>
@@ -574,7 +574,7 @@ The dataset represents simultaneously collected electroencephalography (EEG) and
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/NEO2012.html"> **NEO2012**</a><br>
 The dataset consists of male and female adults, all healthy controls with no psychiatric history used in the 2011 PLoS ONE study.<br>
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0027633"> ![paper](src/paper.png)</a><br>
-![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+![licence](src/CcLogo.png) Attribution - Non-Commercial
 
 - <a href="http://www.neuromorphometrics.com/?page_id=23"> **NeuAtlas Labeled Brain Scans**</a><br>
 ***Keyboard:*** MRI, Labeled, Segmentation <br>
@@ -583,7 +583,7 @@ The dataset consists of male and female adults, all healthy controls with no psy
 The dataset consists of children, adolescents, and adults, all of which are controls with no diagnosis.<br>
 ***Keyboard:*** MRI<br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/22019881"> ![paper](src/paper.png)</a><br>
-![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+![licence](src/CcLogo.png) Attribution - Non-Commercial
 
 - <a href="https://openneuro.org/datasets/ds001021"> **NKI-RS**</a> (Nathan Kline Institute-Rockland Sample)<br>
 NKI-RS is an ongoing, institutionally centered endeavor aimed at creating a large-scale (N > 1000), deeply phenotyped, community-ascertained, lifespan sample (ages 6–85 years old) with advanced neuroimaging and genetics. <br>
@@ -594,7 +594,7 @@ NKI-RS is an ongoing, institutionally centered endeavor aimed at creating a larg
 It includes 6 patients with medically intractable epilepsy that underwent implantation of intracranial electrodes for seizure onset localization prior to resective neurosurgery.<br>
 ***Keyboard:*** Resting state fMRI (R-fMRI)<br>
 <a href="https://www.pnas.org/doi/10.1073/pnas.1019750108"> ![paper](src/paper.png)</a><br>
-![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+![licence](src/CcLogo.png) Attribution - Non-Commercial
 
 - <a href="http://www.naturalscenesdataset.org"> **NSD**</a> (Natural Scenes Dataset) <br>
 High-resolution fMRI responses to tens of thousands of richly annotated natural scenes <br>
@@ -604,7 +604,7 @@ High-resolution fMRI responses to tens of thousands of richly annotated natural 
 - <a href="http://fcon_1000.projects.nitrc.org/indi/pro/nyu.html"> **NYUIQ**</a><br>
 It consists of datasets from 49 psychiatrically neurotypical adults, with age, gender and intelligence quotient (IQ) information provided.<br>
 ***Keyboard:*** T1 weighted MRI, Resting state fMRI scans (R-fMRI)<br>
-![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+![licence](src/CcLogo.png) Attribution - Non-Commercial
 
 - <a href="https://oasis-brains.org"> **OASIS**</a> (Open Access Series of Imaging Studies) <br>
 It has multi versions. <br>
@@ -640,7 +640,7 @@ It was collected from three traveling subjects with identical acquisition settin
 - <a href="http://fcon_1000.projects.nitrc.org/indi/pro/Quiron-Valencia.html"> **Quiron-Valencia**</a><br>
 The first release includes data for 45 participants. Each participant has an anatomical as well as a resting state fMRI scan.<br>
 ***Keyboard:*** Resting state fMRI (R-fMRI)<br>
-![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+![licence](src/CcLogo.png) Attribution - Non-Commercial
 
 - <a href="https://realnoisemri.grand-challenge.org"> **RealNoiseMRI**</a> <br>
 Evaluating the performance of markerless prospective motion correction and selective reacquisition in a general clinical protocol <br>
@@ -676,7 +676,7 @@ A dataset of more than 25,000 annotated cranial CT exams <br>
 494 healthy adults (age range: 19-80 years; Males=187) were recruited and completed two multi-modal MRI scan sessions. <br>
 ***Keyboard:*** MRI, resting-state functional MRI (rs-fMRI)<br>
 <a href="https://www.biorxiv.org/content/10.1101/177279v2"> ![paper](src/paper.png) Detailed description </a><br>
-![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+![licence](src/CcLogo.png) Attribution - Non-Commercial
 
 - <a href="https://openneuro.org/datasets/ds001378/versions/00003"> **SCA2 Diffusion Tensor Imaging**</a><br>
 Nine SCA2 (Spinocerebellar ataxia type II) patients and 16 age-matched healthy controls, were examined twice on the same 1.5T MRI scanner<br>
@@ -707,7 +707,7 @@ Part of the <a href="http://www.developingconnectome.org"> dHCP</a> (Developing 
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/southwestuni_qiu_index.html"> **SLIM**</a> (Southwest University Longitudinal Imaging Multimodal)<br>
 A Long-term Test-Retest Sample of Young Healthy Adults in Southwest China.<br>
 ***Keyboard:*** Resting state fMRI (rs-fMRI)<br>
-![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+![licence](src/CcLogo.png) Attribution - Non-Commercial
 
 - <a href="https://www.studyforrest.org"> **StudyForrest**</a> <br>
 A Collection of datasets <br>
@@ -743,7 +743,7 @@ Data from 199 subjects.<br>
 - <a href="http://fcon_1000.projects.nitrc.org/indi/pro/Berlin.html"> **The Neuro Bureau - Berlin: Mind & Brain**</a><br>
 It represents a community sample including individuals ranging in age from 18 to 60 years old. Each participant copmleted at least two 7.5-minute resting state scans.<br>
 ***Keyboard:*** Resting state fMRI (R-fMRI)<br>
-![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+![licence](src/CcLogo.png) Attribution - Non-Commercial
 
 - <a href="https://topcow23.grand-challenge.org"> **TopCoW**</a> <br>
 Topology-Aware Anatomical Segmentation of the Circle of Willis <br>
@@ -755,7 +755,7 @@ Topology-Aware Anatomical Segmentation of the Circle of Willis <br>
 Resting state of the static hypnotic state.<br>
 ***Keyboard:*** Resting state fMRI scans (rs-fMRI)<br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/37786280"> ![paper](src/paper.png)</a><br>
-![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+![licence](src/CcLogo.png) Attribution - Non-Commercial
 
 - <a href="https://www.cancerimagingarchive.net/collection/upenn-gbm"> **UPenn-GBM**</a> (University of Pennsylvania glioblastoma)<br>
 Multi-parametric magnetic resonance imaging scans for de novo Glioblastoma patients.<br>
@@ -770,7 +770,7 @@ Multi-parametric magnetic resonance imaging scans for de novo Glioblastoma patie
 - <a href="http://fcon_1000.projects.nitrc.org/indi/pro/VirginiaTech.html"> **Virginia Tech**</a><br>
 The Virginia Tech Carillon Research Institute sample is a collection of past and present scans obtained from psychiatrically screened individuals ranging in age from 18 to 65 years old. The initial release consists of datasets from 25 healthy (community sample) adults, with age, sex, education level, and ethnicity provided.<br>
 ***Keyboard:*** T1 weighted MRI, Resting state fMRI scans (R-fMRI)<br>
-![licence](src/CcLogo.png) Creative Commons License: Attribution - Non-Commercial
+![licence](src/CcLogo.png) Attribution - Non-Commercial
 
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/wayne_10.html"> **Wayne 10**</a><br>
 The Wayne State longitudinal data set for the Brain Aging in Detroit Longitudinal Study, comprises 114 extensively-sampled healthy individuals. The overarching aim of the Brain Aging in Detroit Longitudinal Study, is understanding the mechanisms driving human brain changes over the adult lifespan, identifying the risk factors and protective influences that modify the rate of change, and elucidating the relationships between changes in brain properties and cognitive performance.<br>;8
