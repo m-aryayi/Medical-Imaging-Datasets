@@ -2337,8 +2337,8 @@ Diagnosis of abnormalities from Knee MRs <br>
 <a href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002699"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) Stanford University School of Medicine MRNet Dataset Research Use Agreement
 
-- <a href="https://pubdata.zib.de"> **OAI**</a> (Osteoarthritis Initiative) <br>
-The dataset contains cases of moderate and severe OA. <br>
+- <a href="https://nda.nih.gov/oai"> **OAI**</a> (Osteoarthritis Initiative)<br>
+The dataset contains cases of moderate and severe OA.<br>
 ***Keyboard:*** MRI<br>
 <a href="https://www.sciencedirect.com/science/article/pii/S1361841518304882"> ![paper](src/paper.png)</a>
 
@@ -2711,9 +2711,9 @@ Medical Segmentation Decathlon (MSD) Generalisable 3D Semantic Segmentation. <br
 ![licence](src/CcLogo.png) CC-BY-SA 4.0
 
 - <a href="https://nihcc.app.box.com/v/DeepLesion"> **DeepLesion**</a><br>
-A dataset with 32,735 lesions in 32,120 CT slices from 10,594 studies of 4,427 unique patients. <br>
+A dataset with 32,735 lesions in 32,120 CT slices from 10,594 studies of 4,427 unique patients.<br>
 ***Keyboard:*** *Bone, Abdomen, Mediastinum, Liver, Lung, Kidney, Soft tissue, and Pelvis*, CT scan, Cancer<br>
-<a href="https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-5/issue-03/036501/DeepLesion--automated-mining-of-large-scale-lesion-annotations-and/10.1117/1.JMI.5.3.036501.full#_=_"> ![paper](src/paper.png)</a>
+<a href="https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-5/issue-03/036501/DeepLesion--automated-mining-of-large-scale-lesion-annotations-and/10.1117/1.JMI.5.3.036501.full"> ![paper](src/paper.png)</a>
 
 - <a href="https://ead2019.grand-challenge.org/"> **EAD 2019**</a> (Endoscopy artifact detection) <br>
 Facilitating diagnosis and treatment of diseases in hollow organs. <br>
