@@ -500,6 +500,11 @@ Scan-rescan imaging sessions on 21 healthy volunteers. <br>
 ***Keyboard:*** MRI, resting state fMRI <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1053811910015259"> ![paper](src/paper.png)</a>
 
+- <a href="http://fcon_1000.projects.nitrc.org/indi/retro/mni_hipposeg.html"> **MNI-HiSUB25**</a> (Montreal Neurological Institute)<br>
+A multi-contrast and submillimetric 3-Tesla MRI hippocampal subfield segmentation protocol and dataset<br>
+<a href="https://www.nature.com/articles/sdata201559"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Attribution - Non-Commercial
+
 - <a href="https://openneuro.org/datasets/ds000221"> **MPILMBB**</a> (Max Planck Institut Leipzig Mind Brain Body)<br>
 A functional connectome phenotyping dataset including cognitive state and personality measures. <br>
 ***Keyboard:*** MRI, Cognitive Data <br>
