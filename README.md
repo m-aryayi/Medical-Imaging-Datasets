@@ -402,6 +402,11 @@ This dataset contains T1-weighted MR images of 50 subjects, 40 of whom are patie
 <a href="https://pubmed.ncbi.nlm.nih.gov/21286946"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) The dataset is free to use for research and education.
 
+- <a href="http://fcon_1000.projects.nitrc.org/indi/retro/hnu_liu_short_tr_index.html"> **HNU Short TR**</a><br>
+Short-TR Eyes-open/Eyes-closed Resting State fMRI Data<br>
+<a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2014.00503/full"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) Attribution - Non-Commercial
+
 - <a href="https://www.nitrc.org/projects/ibsr/"> **IBSR**</a> (Internet Brain Segmentation Repository)  <br>
 Manually-guided expert segmentation results along with magnetic resonance brain image data  <br>
 ***Keyboard:*** MRI, Labeled <br>
