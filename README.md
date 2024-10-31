@@ -764,6 +764,11 @@ Topology-Aware Anatomical Segmentation of the Circle of Willis <br>
 <a href="https://topcow23.grand-challenge.org/evaluation/validation-cta-multiclass/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2312.17670"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY-NC
 
+- <a href="http://fcon_1000.projects.nitrc.org/indi/retro/Train-39.html"> **TRAIN-39**</a><br>
+The overall goal of this project was to better understand how the brain successfully acquires skills relevant to complex tasks.<br>
+***Keyboard:*** fMRI<br>
+![licence](src/CcLogo.png) Attribution - Non-Commercial
+
 - <a href="http://fcon_1000.projects.nitrc.org/indi/pro/unam_barrios_hypnosis_index.html"> **UNAM Hynosis**</a> (Universidad Nacional Autónoma de México)<br>
 Resting state of the static hypnotic state.<br>
 ***Keyboard:*** Resting state fMRI scans (rs-fMRI)<br>
