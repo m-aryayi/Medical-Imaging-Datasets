@@ -359,6 +359,11 @@ A dataset of manually segmented pathological and non-pathological fetal magnetic
 ***Keyboard:*** multi-parametric MRI (mpMRI), Cancer, Labeled<br>
 <a href="https://www.synapse.org/Synapse:syn28546456/wiki/617250"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://www.synapse.org/Synapse:syn54079892/wiki"> **FeTS 2024**</a> (Federated Tumor Segmentation)<br>
+FeTS borrows its data from the BraTS Continuous Evaluation, but additionally providing a data partitioning according to the acquisition origin for the training data.<br>
+***Keyboard:*** multi-parametric MRI (mpMRI), Cancer, Labeled<br>
+<a href="https://www.synapse.org/Synapse:syn54079892/wiki/626856"> ![Leaderboard](src/leaderboard.png)</a>
+
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/find_stanford.html"> **FIND Lab**</a> ( Functional Imaging in Neuropsychiatric Disorders)<br>
 This dataset is comprised of 13 subjects, ages 18-29, 8 female, with both strutural and functional MRI. The functional paradigms collected are as Episodic Memory, Music, Subtraction<br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/21616982"> ![paper](src/paper.png)</a><br>
