@@ -326,6 +326,10 @@ The 2023 edition extends the segmentation task by including multi-institutional,
 Examination of the neural correlates of differential treatment response to stimulants (methylphenidate and lisdexamfetamine) in boys and girls with ADHD treated in a naturalistic context.<br>
 ***Keyboard:*** MRI, Resting state fMRI, Perfusion/arterial spin labeling (ASL)<br>
 
+- <a href="https://curious2022.grand-challenge.org"> **Curious2022**</a><br>
+***Keyboard:*** MRI, Intra-operative Ultrasound (iUS), Segmentation, Cancer<br>
+<a href="https://curious2022.grand-challenge.org/evaluation/task-1-brain-tumor-in-pre-resection-ultrasound/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
 - <a href="https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000607.v3.p2"> **dbGaP**</a> (Genotypes and Phenotype)<br>
 Study about Neurodevelopmental Genomics: Trajectories of Complex Phenotypes<br>
 ***Keyboard:*** MRI, Multimodal Neuroimaging <br>
