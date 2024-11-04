@@ -108,6 +108,11 @@ It is a collection of three datasets with multimodal (3T) MRI data <br>
 ***Keyboard:*** MRI <br>
 <a href="https://www.nature.com/articles/s41597-021-00870-6"> ![paper](src/paper.png) Dataset is described </a>
 
+- <a href="https://bivl2ab.uis.edu.co/challenges/apis"> **APIS**</a><br>
+A Paired CT-MRI Dataset for Ischemic Stroke Segmentation<br>
+<a href="https://www.nature.com/articles/s41598-024-71273-x"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
+
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/atlas_R1.html"> **ATLAS R1.1**</a> (Anatomical Tracings of Lesions After Stroke) <br>
 An dataset of 229 T1-weighted MRI scans (n=220) with manually segmented lesions and metadata.<br>
 <a href="https://www.nature.com/articles/sdata201811"> ![paper](src/paper.png)</a>
