@@ -719,6 +719,9 @@ White Matter Multiple Sclerosis (MS) lesion segmentation in 3D Magnetic Resonanc
 ***Keyboard:*** MRI <br>
 <a href="https://shifts.grand-challenge.org/evaluation/ms-lesion-segmentation-phase-i/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://www.synapse.org/Synapse:syn45774070/wiki/619953"> **SHINY-ICARUS**</a> (Segmentation over tHree dImensional rotational aNgiographY of Internal Carotid ArteRy with aneUrySm)<br>
+***Keyboard:*** Brain vasculature, Labeled<br>
+
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/SIMON.html"> **SIMON**</a> (Single Individual volunteer for Multiple Observations across Networks)<br>
 A sample of convenience of one healthy male aged between 29 and 46 years old, scanned in 73 sessions at multiple sites and with various scanner models.<br>
 ***Keyboard:*** MRI<br>
