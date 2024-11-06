@@ -743,6 +743,9 @@ A Long-term Test-Retest Sample of Young Healthy Adults in Southwest China.<br>
 ***Keyboard:*** Resting state fMRI (rs-fMRI)<br>
 ![licence](src/CcLogo.png) Attribution - Non-Commercial
 
+- <a href="https://www.synapse.org/Synapse:syn47164761/wiki/620033"> **SMILE-UHURA**</a> (Small Vessel Segmentation at MesoscopIc ScaLE from Ultra-High ResolUtion 7T Magnetic Resonance Angiograms)<br>
+***Keyboard:*** MRI, Labeled<br>
+
 - <a href="https://www.studyforrest.org"> **StudyForrest**</a> <br>
 A Collection of datasets <br>
 <a href="https://www.studyforrest.org/publications.html"> ![paper](src/paper.png) List of publications</a><br>
