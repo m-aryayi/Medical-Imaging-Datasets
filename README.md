@@ -2652,6 +2652,11 @@ A biopsy-proven skin disease dataset with diverse skin tone representation. <br>
 1300 High quality skin lesion images. <br>
 ***Keyboard:*** Segmentation, Labeled<br>
 
+- <a href="https://fusc.grand-challenge.org"> **FUSC**</a> (Foot Ulcer Segmentation Challenge)<br>
+In the dataset provided, over 1200 images are collected over 2 years from hundreds of patients.<br>
+***Keyboard:*** Labeled<br>
+<a href="https://fusc.grand-challenge.org/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.nature.com/articles/s41598-020-78799-w"> ![paper](src/paper.png)</a>
+
 - <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T"> **HAM10000**</a> <br>
 A collection of multi-source dermatoscopic images of common pigmented skin lesions <br>
 ***Keyboard:*** Dermatoscopic images <br>
@@ -2659,8 +2664,7 @@ A collection of multi-source dermatoscopic images of common pigmented skin lesio
 - <a href="https://challenge.isic-archive.com/data"> **ISIC**</a> (International Skin Imaging Collaboration) <br>
 It has multi versions. <br>
 ***Keyboard:*** Dermoscopic images <br>
-<a href="https://arxiv.org/abs/1605.01397"> ![paper](src/paper.png)</a> | 
-<a href="https://ieeexplore.ieee.org/document/8363547"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/1902.03368"> ![paper](src/paper.png)</a>
+<a href="https://arxiv.org/abs/1605.01397"> ![paper](src/paper.png)</a> | <a href="https://ieeexplore.ieee.org/document/8363547"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/1902.03368"> ![paper](src/paper.png)</a>
 
 - <a href="https://www.uco.es/grupos/ayrna/ieeetmi2015"> **Melanoma Dataset**</a> <br>
 ***Keyboard:*** Classification, Dermatoscopic images <br>
