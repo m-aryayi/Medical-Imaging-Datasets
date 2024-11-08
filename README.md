@@ -2808,9 +2808,9 @@ This collection contains clinical data and computed tomography (CT) from 137 hea
 <a href="https://www.nature.com/articles/ncomms5006"> ![paper](src/paper.png)</a> <br>
 ![licence](src/CcLogo.png) TCIA No Commercial Limited - CC BY-NC 3.0
 
-- <a href="https://hecktor.grand-challenge.org"> **HECKTOR**</a> (HEad and neCK TumOR segmentation and outcome prediction) <br>
-The data were collected for a total of 883 cases consisting of FDG-PET/CT images and clinical information. <br>
-***Keyboard:*** *Head, Neck, Lymph nodes*, FDG-PET/CT images, Cancer, Labeled <br>
+- <a href="https://hecktor.grand-challenge.org"> **HECKTOR 2022**</a> (HEad and neCK TumOR)<br>
+The data were collected for a total of 883 cases consisting of FDG-PET/CT images and clinical information.<br>
+***Keyboard:*** *Head, Neck, Lymph nodes*, FDG-PET/CT images, Cancer, Segmentation, Labeled<br>
 <a href="https://hecktor.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/37195050"> ![paper](src/paper.png) Overview paper</a>
 
 - <a href="https://academictorrents.com/details/7a638ed187a6180fd6e464b3666a6ea0499af4af"> **LC25000**</a> <br>
