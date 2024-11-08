@@ -1448,8 +1448,7 @@ There are 4 protocols used to create the cardiac atlas: T1-Weighted Images, True
 - <a href="https://data.mendeley.com/datasets/ydrm75xywg/1"> **Angiographic dataset for stenosis detection**</a><br>
 All patients had angiographically and/or functionally confirmed one-vessel coronary artery disease.<br>
 <a href="https://www.nature.com/articles/s41598-021-87174-2"> ![paper](src/paper.png)</a>
-<br>
-![licence](src/CcLogo.png) CC BY 4.0
+<br> ![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://arcade.grand-challenge.org"> **ARCADE**</a> <br>
 Automatic Region-based Coronary Artery Disease Diagnostics Using X-Ray Angiography Images <br>
@@ -1473,8 +1472,7 @@ The dataset consists of clinical exams from 500 patients<br>
 
 - <a href="https://www.kaggle.com/datasets/xiaoweixumedicalai/cardiacudc-dataset"> **CardiacUDA**</a> (Unsupervised Domain Adaption) <br>
 ***Keyboard:*** Echocardiogram Videos <br>
-<a href="https://arxiv.org/abs/2309.11145"> ![paper](src/paper.png)</a><br>
-![licence](src/CcLogo.png) Apache 2.0
+<a href="https://arxiv.org/abs/2309.11145"> ![paper](src/paper.png)</a><br> ![licence](src/CcLogo.png) Apache 2.0
 
 - <a href="https://vessel-wall-segmentation.grand-challenge.org"> **Carotid Artery Vessel Wall**</a> <br>
 ***Keyboard:*** Segmentation, Labeled <br>
