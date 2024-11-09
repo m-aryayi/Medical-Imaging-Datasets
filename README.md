@@ -2806,6 +2806,11 @@ This collection contains clinical data and computed tomography (CT) from 137 hea
 <a href="https://www.nature.com/articles/ncomms5006"> ![paper](src/paper.png)</a> <br>
 ![licence](src/CcLogo.png) TCIA No Commercial Limited - CC BY-NC 3.0
 
+- <a href="https://www.aicrowd.com/challenges/miccai-2020-hecktor"> **HECKTOR 2020**</a> (HEad and neCK TumOR)<br>
+Automatic bi-modal approaches for the segmentation of H&N tumors in PET-CT scans, focusing on oropharyngeal cancers. <br>
+***Keyboard:*** *Head, Neck*, FDG-PET/CT scan, Cancer, Labeled <br>
+<a href="https://www.aicrowd.com/challenges/miccai-2020-hecktor/leaderboards"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://link.springer.com/chapter/10.1007/978-3-030-67194-5_1"> ![paper](src/paper.png) Overview paper</a>
+
 - <a href="https://hecktor.grand-challenge.org"> **HECKTOR 2022**</a> (HEad and neCK TumOR)<br>
 The data were collected for a total of 883 cases consisting of FDG-PET/CT images and clinical information.<br>
 ***Keyboard:*** *Head, Neck, Lymph nodes*, FDG-PET/CT images, Cancer, Segmentation, Labeled<br>
