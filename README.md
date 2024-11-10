@@ -2811,6 +2811,11 @@ Automatic bi-modal approaches for the segmentation of H&N tumors in PET-CT scans
 ***Keyboard:*** *Head, Neck*, FDG-PET/CT scan, Cancer, Labeled <br>
 <a href="https://www.aicrowd.com/challenges/miccai-2020-hecktor/leaderboards"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://link.springer.com/chapter/10.1007/978-3-030-67194-5_1"> ![paper](src/paper.png) Overview paper</a>
 
+- <a href="https://www.aicrowd.com/challenges/miccai-2021-hecktor"> **HECKTOR 2021**</a> (HEad and neCK TumOR)<br>
+The automatic segmentation of Head and Neck (H&N) primary tumors in FDG-PET and CT images and the prediction of patient outcomes, namely Progression Free Survival (PFS)<br>
+***Keyboard:*** *Head, Neck*, FDG-PET/CT images, Cancer, Labeled <br>
+<a href="https://www.aicrowd.com/challenges/miccai-2021-hecktor/leaderboards"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://link.springer.com/chapter/10.1007/978-3-030-98253-9_1"> ![paper](src/paper.png) Overview paper</a>
+
 - <a href="https://hecktor.grand-challenge.org"> **HECKTOR 2022**</a> (HEad and neCK TumOR)<br>
 The data were collected for a total of 883 cases consisting of FDG-PET/CT images and clinical information.<br>
 ***Keyboard:*** *Head, Neck, Lymph nodes*, FDG-PET/CT images, Cancer, Segmentation, Labeled<br>
