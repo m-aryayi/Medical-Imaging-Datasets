@@ -1011,6 +1011,11 @@ A ultra-wide optical coherence tomography angiography (UW-OCTA) dataset addressi
 ***Keyboard:*** Retinal, Segmentation <br>
 <a href="https://drive.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> 
 
+- <a href="https://people.duke.edu/~sf59/Rabbani_IOVS_2014_dataset.htm"> **Duke Dataset for Fluorescein Angiography in DME eyes**</a><br>
+Fluorescein angiography images obtained from 24 eyes of 24 subjects.<br>
+***Keyboard:*** Video, Segmentation, Labeled<br>
+<a href="https://iovs.arvojournals.org/article.aspx?articleid=2212919"> ![paper](src/paper.png)</a>
+
 - <a href="https://www.adcis.net/en/third-party/e-ophtha"> **E-ophtha**</a><br>
 ***Keyboard:*** Diabetic retinopathy (DR), Color fundus images, Labeled<br>
 
