@@ -37,7 +37,7 @@ data = {
        'Heart and Blood Vessels': 57, 
        'Kidneys and Urinary Tract': 10,
        'Liver': 12, 
-       'Lungs': 91,
+       'Lungs': 92,
        'Bones': 14, 
        'Joints': 10, 
        'Female Reproductive Organs': 19,
