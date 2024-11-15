@@ -1948,6 +1948,11 @@ It contains COVID-19 cases as well as MERS, SARS, and ARDS.<br>
 ***Keyboard:*** X-ray, CT scan<br>
 ![licence](src/CcLogo.png) CC0: Public Domain
 
+- <a href="https://www.kaggle.com/competitions/covid-segmentation"> **COVID-19 CT Images Segmentation**</a><br>
+The data was provided by medicalsegmentation.<br>
+***Keyboard:*** CT scan, Labeled <br>
+<a href="https://www.kaggle.com/competitions/covid-segmentation/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
 - <a href="https://zenodo.org/records/3757476"> **COVID-19 CT Lung and Infection**</a> <br>
 The dataset contains 20 labeled COVID-19 CT scans <br>
 ***Keyboard:*** Segmentation <br>
