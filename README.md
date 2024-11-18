@@ -1114,6 +1114,10 @@ It is derived from three sources for a total of 750 images. The optic cup and di
 <a href="https://doi.org/10.1117/12.2293584"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY-NC 4.0
 
+- <a href="https://medicine.uiowa.edu/eye/rite-dataset"> **RITE**</a> (Retinal Images vessel Tree Extraction)<br>
+Segmentation or classification of arteries and veins on retinal fundus images, which is established based on the DRIVE database<br>
+<a href="https://link.springer.com/chapter/10.1007/978-3-642-40763-5_54"> ![paper](src/paper.png)</a>
+
 - <a href="http://webeye.ophth.uiowa.edu/ROC"> **ROC**</a> (Retinopathy Online Challenge) <br>
 50 training images and 50 test images <br>
 ***Keyboard:*** Diabetic retinopathy, Fundus Images, Labeled <br>
@@ -1751,6 +1755,11 @@ Multi-Structure Segmentation for Renal Cancer Treatment <br>
 
 - <a href="https://kits-challenge.org/kits23"> **KiTS23**</a> (Kidney Tumor Segmentation 2023) <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
+
+- <a href="https://www.kaggle.com/competitions/hubmap-kidney-segmentation"> **HuBMAP - Hacking the Kidney**</a> (Human BioMolecular Atlas Program)<br>
+Identify glomeruli in human kidney tissue images. It includes 11 fresh frozen and 9 Formalin Fixed Paraffin Embedded (FFPE) PAS kidney images.<br>
+***Keyboard:*** Segmentation<br>
+<a href="https://www.kaggle.com/competitions/hubmap-kidney-segmentation/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-blca"> **TCGA-BLCA**</a> (The Cancer Genome Atlas Urothelial Bladder Carcinoma)<br>
 Data from 120 subjects and 111,781 images<br>
