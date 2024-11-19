@@ -2301,6 +2301,10 @@ ______
 
 ### Bones
 
+- <a href="https://lit.fe.uni-lj.si/en/research/resources/2D-3D-GS"> **2D-3D-GS**</a><br>
+A database of CT, MR and X-ray images of cadaver lumbar spine (L1 - L5) and the gold standard registrations between these images, along with the software for registration evaluation and user manual.<br>
+![licence](src/CcLogo.png) CC BY-NC-ND
+
 - <a href="https://ivdm3seg.weebly.com"> **IVDM3Seg**</a> <br>
 Intervertebral Disc Localization and Segmentation from 3D Multi-modality MR (M3) Images <br>
 ***Keyboard:*** MRI <br>
