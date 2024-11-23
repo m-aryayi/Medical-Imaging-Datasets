@@ -2328,6 +2328,10 @@ Intervertebral Disc Localization and Segmentation from 3D Multi-modality MR (M3)
 ***Keyboard:*** CT scan, Labeled <br>
 <a href="https://link.springer.com/article/10.1007/s10916-021-01724-9"> ![paper](src/paper.png)</a>
 
+- <a href="https://lit.fe.uni-lj.si/en/research/resources/lumbar-CT-vertebrae"> **lumbar-CT-vertebrae**</a><br>
+A database of computed tomography (CT) images with reference segmentations of lumbar vertebrae.<br>
+![licence](src/CcLogo.png) CC BY-NC-ND
+
 - <a href="https://www.cs.cit.tum.de/camp/publications/leg-3d-us-dataset"> **Leg-3D-US**</a><br>
 The dataset assembles pairs of Ultrasound volumes and 3-labels muscles of the low-limb leg from 44 healthy volunteers, aged between 18 and 45 years. <br>
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268550"> ![paper](src/paper.png)</a><br>
