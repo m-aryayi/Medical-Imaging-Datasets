@@ -254,6 +254,11 @@ This version addressing additional, populations, tumors (e.g., meningioma), clin
 ***Keyboard:*** MRI, Cancer, Labeled <br>
 <a href="https://www.synapse.org/#!Synapse:syn51156910/wiki/622343"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://www.synapse.org/Synapse:syn53708249/wiki/626323"> **BRATS2024**</a> (Brain Tumor Segmentation)<br>
+This dataset is substantially expanded to ~4,500 cases towards addressing additional populations, tumors, clinical concerns, and technical considerations.<br>
+***Keyboard:*** MRI, Cancer, Labeled<br>
+<a href="https://www.synapse.org/Synapse:syn53708249/wiki/628815"> ![Leaderboard](src/leaderboard.png)</a>
+
 - <a href="https://cada.grand-challenge.org"> **CADA**</a> (Cerebral Aneurysm Detection and Analysis) <br>
 Data of patients with cerebral aneurysms without vasospasm were collected for diagnostic and treatment decision purposes.<br>
 ***Keyboard:*** X-ray rotational angiography (3DRA), Segmentation, Labeled  <br>
