@@ -2914,6 +2914,10 @@ Foundation Model Prompting for Medical Image Classification <br>
 ***Keyboard:*** *Thoracic and Colon*, Multli Modalities <br>
 <a href="https://medfm2023.grand-challenge.org/evaluation/challenge-for-public-long-term/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
+- <a href="https://zenodo.org/records/7884735"> **MedIMeta**</a> (Medical Imaging Meta-Dataset)<br>
+A multi-domain multi-task medical imaging meta-dataset containing 19 medical imaging datasets spanning 10 different domains.<br>
+<a href="https://arxiv.org/abs/2404.16000"> ![paper](src/paper.png)</a>
+
 - <a href="https://www.medseg.ai"> **MedSeg**</a><br>
 An AI tool for segmentation CT scan and MRI images. There are segmented images of other public dataset in their website<br>
 
