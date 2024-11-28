@@ -1886,6 +1886,11 @@ The images include four-dimensional (4D) fan beam (4D-FBCT) and 4D cone beam CT 
 ***Keyboard:*** Cancer, H&E staining, Pathology  <br>
 <a href="https://acdc-lunghp.grand-challenge.org/evaluation/challenge/leaderboard/"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/9265237"> ![paper](src/paper.png)</a> | <a href="http://arxiv.org/abs/1803.05471"> ![paper](src/paper.png)</a> 
 
+- <a href="https://www.cancerimagingarchive.net/collection/acrin-nsclc-fdg-pet"> **ACRIN-NSCLC-FDG-PET**</a><br>
+Positron Emission Tomography Pre- and Post-treatment Assessment for Locally Advanced Non-small Cell Lung Carcinoma<br>
+***Keyboard:*** Multi modality, Cancer<br>
+![licence](src/CcLogo.png) CC BY 3.0
+
 - <a href="https://datadryad.org/stash/dataset/doi:10.5061/dryad.mj76c"> **Airway**</a><br>
 Airway Segmentation and Centerline Extraction from Thoracic CT scan<br>
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144282"> ![paper](src/paper.png)</a><br>
