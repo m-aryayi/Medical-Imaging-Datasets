@@ -2487,11 +2487,8 @@ A dataset consisting of x-ray examinations of the lower legs performed as part o
 ![licence](src/CcLogo.png) CC BY 4.0
 
 
-<!---
-### Muscles
--->
 
-_______
+______
 
 ## Pelvis and Reproductive Organs
 
@@ -2681,6 +2678,7 @@ Data from 14 subjects and 16,790 images.<br>
 
 
 ______
+
 ## Other Organs and Systems
 
 ### Lymph Nodes
@@ -2777,6 +2775,7 @@ This includes images extracted from the public databases DermIS and DermQuest, a
 
 
 ______
+
 ## Multi Organs Datasets
 
 - <a href="https://www.cancerimagingarchive.net/collection/aapm-rt-mac"> **AAPM-RT-MAC**</a><br>
@@ -3087,6 +3086,7 @@ This dataset contains 150 abdominal CT volumes (30495 slices). <br>
 
 
 ______
+
 ## Animals
 
 - <a href="https://springernature.figshare.com/collections/A_large-scale_dataset_for_mitotic_figure_assessment_on_whole_slide_images_of_canine_cutaneous_mast_cell_tumor/4552445"> **Canine cutaneous mast cell tumor**</a><br>
@@ -3096,8 +3096,8 @@ It consists of 32 whole slide images.<br>
 
 
 
-
 ______
+
 ## Notes and Contributions
 
 The papers mentioned only use or explain the datasets. They are here to make it easier to find them. You don't have to cite them. <br>
