@@ -3089,6 +3089,10 @@ This dataset contains 150 abdominal CT volumes (30495 slices). <br>
 ______
 ## Animals
 
+- <a href="https://springernature.figshare.com/collections/A_large-scale_dataset_for_mitotic_figure_assessment_on_whole_slide_images_of_canine_cutaneous_mast_cell_tumor/4552445"> **Canine cutaneous mast cell tumor**</a><br>
+It consists of 32 whole slide images.<br>
+***Keyboard:*** *Canine*, Cancer<br>
+<a href="https://www.nature.com/articles/s41597-019-0290-4">![paper](src/paper.png)</a>
 
 
 
