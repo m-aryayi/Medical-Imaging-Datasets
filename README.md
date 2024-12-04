@@ -3097,6 +3097,11 @@ It consists of 32 whole slide images.<br>
 ***Keyboard:*** *Canine*, Cancer<br>
 <a href="https://www.nature.com/articles/s41597-019-0290-4">![paper](src/paper.png)</a>
 
+- <a href="https://www.cancerimagingarchive.net/collection/tcga-sarc"> **CATCH**</a> (CAnine CuTaneous Cancer Histology Dataset)<br>
+Data from 282 subjects<br>
+***Keyboard:*** *Canine*, Skin Cancer, Histopathology<br>
+![licence](src/CcLogo.png) CC BY 4.0
+
 - <a href="http://crt-epiggy19.surge.sh"> **CRT-EPIGGY19**</a> (Cardiac Resynchronization Therapy Electrophysiological)<br>
 ***Keyboard:*** *Pig*<br>
 
