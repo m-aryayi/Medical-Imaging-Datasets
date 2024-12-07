@@ -1993,6 +1993,10 @@ It comprises a training set of natural photos and synthetic transformations of 1
 ***Keyboard:*** Multi-modality, Cancer <br>
 ![licence](src/CcLogo.png) CC BY 4.0 - TCIA Restricted
 
+- <a href="https://med.emory.edu/departments/radiation-oncology/research-laboratories/deformable-image-registration/downloads-and-reference-data/copdgene.html"> **COPDgene**</a><br>
+Image sets and reference data of inspiratory and expiratory breath-hold CT image pairs acquired from the National Heart Lung Blood Institute COPDgene study archive.<br>
+<a href="https://iopscience.iop.org/article/10.1088/0031-9155/58/9/2861">![paper](src/paper.png)</a>
+
 - <a href="https://covid-segmentation.grand-challenge.org"> **COVID-19-20**</a> <br>
 COVID-19 Lung CT Lesion Segmentation <br>
 ***Keyboard:*** CT scan, Labeled <br>
