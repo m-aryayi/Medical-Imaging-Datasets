@@ -3113,6 +3113,10 @@ Data from 282 subjects<br>
 High-Resolution Magnetic Resonance Histology of the Embryonic and Neonatal Mouse<br>
 ***Keyboard:*** *Mouse*<br>
 
+- <a href="https://www5.cs.fau.de/research/former-projects/rabbitct"> **RabbitCT**</a><br>
+***Keyboard:*** *Rabbit*, CT scan<br>
+<a href="https://aapm.onlinelibrary.wiley.com/doi/full/10.1118/1.3180956"> ![paper](src/paper.png)</a> | <a href="https://ieeexplore.ieee.org/abstract/document/6829126"> ![paper](src/paper.png)</a> | <a href="https://cris.fau.de/publications/121437624/"> ![paper](src/paper.png)</a>
+
 - <a href="https://rnr-exm.grand-challenge.org"> **RNR-EXM**</a> (Robust Non-rigid Registration Challenge for Expansion Microscopy)<br>
 It released 24 pairs of 3D image volumes from three different species.<br>
 ***Keyboard:*** *Zebrafish, Mouse, C. elegans*, Labeled<br>
