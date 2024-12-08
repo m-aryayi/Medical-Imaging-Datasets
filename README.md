@@ -925,7 +925,7 @@ Dental Enumeration and Diagnosis on Panoramic X-rays <br>
 <a href="https://dentex.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2305.19112"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/2303.06500"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY-SA 4.0
 
-- <a href="https://www.cancerimagingarchive.net/collection/tcga-thca"> **OPC-Radiomics**</a><br>
+- <a href="https://www.cancerimagingarchive.net/collection/opc-radiomics"> **OPC-Radiomics**</a><br>
 Radiomic Biomarkers in Oropharyngeal Carcinoma<br>
 ***Keyboard:*** CT scan, Cancer <br>
 ![licence](src/CcLogo.png) CC BY 3.0 - TCIA Restricted 
@@ -3101,7 +3101,7 @@ It consists of 32 whole slide images.<br>
 ***Keyboard:*** *Canine*, Cancer<br>
 <a href="https://www.nature.com/articles/s41597-019-0290-4">![paper](src/paper.png)</a>
 
-- <a href="https://www.cancerimagingarchive.net/collection/tcga-sarc"> **CATCH**</a> (CAnine CuTaneous Cancer Histology Dataset)<br>
+- <a href="https://www.cancerimagingarchive.net/collection/catch"> **CATCH**</a> (CAnine CuTaneous Cancer Histology Dataset)<br>
 Data from 282 subjects<br>
 ***Keyboard:*** *Canine*, Skin Cancer, Histopathology<br>
 ![licence](src/CcLogo.png) CC BY 4.0
