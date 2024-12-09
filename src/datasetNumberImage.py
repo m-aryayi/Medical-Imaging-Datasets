@@ -36,7 +36,7 @@ data = {
        'Breast': 38,
        'Heart and Blood Vessels': 57, 
        'Kidneys and Urinary Tract': 11,
-       'Liver': 12, 
+       'Liver': 13, 
        'Lungs': 95,
        'Bones': 17, 
        'Joints': 10, 
