@@ -1830,6 +1830,11 @@ A dataset containing 300 images and 3,562 manually annotated urinary cells label
 ***Keyboard:*** 3D CT scan, Cancer, Labeled, Segmentation <br>
 ![licence](src/CcLogo.png) CC BY-NC-ND 4.0
 
+- <a href="https://www.cancerimagingarchive.net/collection/ahep0731"> **AHEP0731**</a><br>
+Risk-Based Therapy in Treating Younger Patients With Newly Diagnosed Liver Cancer<br>
+<a href="https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(18)30895-7"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) NCTN/NCORP Data Archive License (With Collaborative Agreement)
+
 - <a href="https://atlas-challenge.u-bourgogne.fr"> **ATLAS**</a> (A Tumour and Liver Automatic Segmentation) <br>
 60 Public images <br>
 ***Keyboard:*** MRI, Cancer, Labeled <br>
