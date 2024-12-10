@@ -2508,6 +2508,11 @@ The goal is measurement of the maximum vertical pocket (MVP) <br>
 ***Keyboard:*** Ultrasound Video Clip <br>
 ![licence](src/CcLogo.png) No publication rights are given on this data.  The data may only be used for the purpose of this challenge.
 
+- <a href="https://acouslic-ai.grand-challenge.org"> **ACOUSLIC-AI**</a> (Abdominal Circumference Operator-agnostic UltraSound measurement)<br>
+Diagnosing fetal growth restriction is challenging in low-resource settings<br>
+<a href="https://acouslic-ai.grand-challenge.org/evaluation/preliminary-development-phase/leaderboard"> ![Leaderboard](src/leaderboard.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC-SA 
+
 - <a href="https://github.com/cwwang1979/MICCAI_ATEC23challenge"> **ATEC23**</a> <br>
 Automated prediction of treatment effectiveness in ovarian cancer using histopathological images <br>
 ***Keyboard:*** Whole Slide Images (WSIs), Cancer <br>
