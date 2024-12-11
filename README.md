@@ -3033,6 +3033,10 @@ It contains 227k VQA (Visual Question Answerin) pairs of 149k images, covering v
 ***Keyboard:*** Multi-modality, Labeled<br>
 <a href="https://arxiv.org/abs/2305.10415"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.radimagenet.com"> **Radimagenet**</a><br>
+Annotated medical images from multiple modalities and of multiple pathologies.<br>
+<a href="https://www.radimagenet.com/publications"> ![paper](src/paper.png)</a>
+
 - <a href="https://www.rsna.org/rsnai/ai-image-challenge/abdominal-trauma-detection-ai-challenge"> **RSNA Abdominal Trauma Detection**</a> (Radiological Society of North America 2023) <br>
 Including more than 4,000 CT exams with various abdominal injuries and a roughly equal number of cases without injury. <br>
 ***Keyboard:*** *Liver, Spleen, Kidneys, and Bowel*, CT scan, Labeled<br>
