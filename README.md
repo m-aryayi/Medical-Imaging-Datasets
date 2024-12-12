@@ -165,9 +165,9 @@ Microscopic resolution 3D model of the human brain. <br>
 ***Keyboard:*** X-ray, Labeled <br>
 ![licence](src/CcLogo.png) CC BY-NC-SA 4.0
 
-- <a href="https://bonbid-hie2023.grand-challenge.org"> **BONBID-HIE**</a> (BOston Neonatal Brain Injury Dataset for Hypoxic Ischemic Encephalopathy) <br>
-***Keyboard:***  MRI, Segmentation, Labeled  <br>
-<a href="https://bonbid-hie2023.grand-challenge.org/evaluation/development-stage/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.biorxiv.org/content/10.1101/2023.06.30.546841v1"> ![paper](src/paper.png)  Data Descriptor</a><br>
+- <a href="https://bonbid-hie2023.grand-challenge.org"> **BONBID-HIE2023**</a> (BOston Neonatal Brain Injury Dataset for Hypoxic Ischemic Encephalopathy)<br>
+***Keyboard:***  MRI, Segmentation, Labeled<br>
+<a href="https://bonbid-hie2023.grand-challenge.org/evaluation/development-stage/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.biorxiv.org/content/10.1101/2023.06.30.546841v1"> ![paper](src/paper.png) Data Descriptor</a><br>
 ![licence](src/CcLogo.png) CC BY NC ND
 
 - <a href="https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection"> **BR35H**</a><br>
@@ -824,9 +824,9 @@ It represents a community sample including individuals ranging in age from 18 to
 ***Keyboard:*** Resting state fMRI (R-fMRI)<br>
 ![licence](src/CcLogo.png) Attribution - Non-Commercial
 
-- <a href="https://topcow23.grand-challenge.org"> **TopCoW**</a> <br>
-Topology-Aware Anatomical Segmentation of the Circle of Willis <br>
-***Keyboard:*** Magnetic Resonance Angiography (MRA) and Computed Tomography Angiography (CTA) <br>
+- <a href="https://topcow23.grand-challenge.org"> **TopCoW23*</a><br>
+Topology-Aware Anatomical Segmentation of the Circle of Willis<br>
+***Keyboard:*** Magnetic Resonance Angiography (MRA) and Computed Tomography Angiography (CTA)<br>
 <a href="https://topcow23.grand-challenge.org/evaluation/validation-cta-multiclass/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2312.17670"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY-NC
 
@@ -1677,7 +1677,7 @@ Right Ventricular Segmentation in Cardiac MRI <br>
 ***Keyboard:***  Cardiac MRI (CMR)<br>
 <a href="https://competitions.codalab.org/competitions/31559#results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/10103611"> ![paper](src/paper.png)</a>
 
-- <a href="https://codalab.lisn.upsaclay.fr/competitions/18516"> **MBAS24**</a> (Multi-class Bi-Atrial  2024)<br>
+- <a href="https://codalab.lisn.upsaclay.fr/competitions/18516"> **MBAS24**</a> (Multi-class Bi-Atrial 2024)<br>
 Concluding 70 3D LGE-MRI scans for training, 30 for validation, and an additional 100 designated for the final test phase.<br>
 ![licence](src/CcLogo.png) CC BY NC ND
 
