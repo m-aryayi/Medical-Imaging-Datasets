@@ -325,9 +325,9 @@ It has aggregated 1,629 typical individuals resting state fMRI data. <br>
 ***Keyboard:*** Multi-modality, Cancer <br>
 ![licence](src/CcLogo.png) CC BY 3.0 - TCIA Restricted
 
-- <a href="http://headctstudy.qure.ai"> **CQ500**</a> <br>
-A dataset of 491 scans with 193,317 slices <br>
-***Keyboard:*** CT Scan <br>
+- <a href="https://academictorrents.com/details/47e9d8aab761e75fd0a81982fa62bddf3a173831"> **CQ500**</a><br> <!-- old link:http://headctstudy.qure.ai -->
+A dataset of 491 scans with 193,317 slices<br>
+***Keyboard:*** CT Scan<br>
 <a href="https://arxiv.org/abs/1803.05854"> ![paper](src/paper.png)</a>
 
 - <a href="https://openneuro.org/datasets/ds002236/versions/1.1.1"> **Cross-Sectional Multidomain Lexical Processing**</a><br>
@@ -2458,10 +2458,10 @@ A dataset of high-resolution 3D knee MRI including raw k-space data and post-pro
 ***Keyboard:*** X-ray, Labeled<br>
 ![licence](src/CcLogo.png) CC BY 4.0
 
-- <a href="http://www.riteh.uniri.hr/~istajduh/projects/kneeMRI"> **kneeMRI**</a> <br>
-The dataset consists of 917 12-bit grayscale volumes of either left or right knees. <br>
+- <a href="https://www.kaggle.com/datasets/sohaibanwaar1203/kneemridataset"> **kneeMRI**</a><br> <!-- old link:http://www.riteh.uniri.hr/~istajduh/projects/kneeMRI -->
+The dataset consists of 917 12-bit grayscale volumes of either left or right knees.<br>
 ***Keyboard:*** MRI scans, Labeled<br>
-<a href="https://pubmed.ncbi.nlm.nih.gov/28254071"> ![paper](src/paper.png)</a> <br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/28254071"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY-NC-ND 4.0
 
 - <a href="https://knoap2020.grand-challenge.org"> **KNOAP2020**</a> (KNee OsteoArthritis Prediction) <br>
