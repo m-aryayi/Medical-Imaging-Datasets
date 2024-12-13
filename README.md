@@ -1506,6 +1506,10 @@ All patients had angiographically and/or functionally confirmed one-vessel coron
 <a href="https://www.nature.com/articles/s41598-021-87174-2"> ![paper](src/paper.png)</a>
 <br> ![licence](src/CcLogo.png) CC BY 4.0
 
+- <a href="https://aortaseg24.grand-challenge.org"> **AortaSeg24**</a><br>
+Multi-Class Segmentation of Aortic Branches and Zones in Computed Tomography Angiography (CTA)<br>
+<a href="https://aortaseg24.grand-challenge.org/evaluation/preliminary-development-phase/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
 - <a href="https://arcade.grand-challenge.org"> **ARCADE**</a> <br>
 Automatic Region-based Coronary Artery Disease Diagnostics Using X-Ray Angiography Images <br>
 ***Keyboard:***  X-ray coronary angiography, Labeled <br>
