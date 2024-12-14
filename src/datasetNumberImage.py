@@ -40,7 +40,7 @@ data = {
        'Lungs': 95,
        'Bones': 17, 
        'Joints': 10, 
-       'Female Reproductive Organs': 20,
+       'Female Reproductive Organs': 21,
        'Male Reproductive Organs': 17,
        'Lymph Nodes': 8,
        'Skin': 10,
