@@ -2555,6 +2555,11 @@ Measurement of fetal head circumference (HC)<br>
 - <a href="https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening/overview"> **Intel & MobileODT Cervical Cancer Screening**</a><br>
 ***Keyboard:*** Colposcopy, Classification, Cancer <br>
 
+- <a href="https://codalab.lisn.upsaclay.fr/competitions/18413"> **IUGC**</a> (Intrapartum Ultrasound Grand Challenge 2024)<br>
+Intrapartum ultrasound videos, aiming for participants to develop an automated fetal biometry measurement method<br>
+***Keyboard:*** Classification, Segmentation<br>
+<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8468956"> ![paper](src/paper.png)</a>
+
 - <a href="https://figshare.com/articles/dataset/JNU-IFM/14371652"> **JNU-IFM**</a> <br>
 An intrapartum transperineal ultrasound dataset of the Intelligent Fetal Monitoring <br>
 ***Keyboard:*** Ultrasound videos, Labeled <br>
