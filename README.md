@@ -3146,6 +3146,11 @@ High-Resolution Magnetic Resonance Histology of the Embryonic and Neonatal Mouse
 ***Keyboard:*** *Mouse*, Segmentation, MRI<br>
 <a href="https://www.nature.com/articles/s41597-019-0290-4">![paper](src/paper.png)</a>
 
+- <a href="https://www.cancerimagingarchive.net/collection/mouse-mammary"> **Mouse-Mammary**</a><br>
+Data from 32 subjects<br>
+***Keyboard:*** *Mouse*, Breast, Cancer, MRI<br>
+![licence](src/CcLogo.png) CC BY 3.0
+
 - <a href="https://www5.cs.fau.de/research/former-projects/rabbitct"> **RabbitCT**</a><br>
 ***Keyboard:*** *Rabbit*, CT scan<br>
 <a href="https://aapm.onlinelibrary.wiley.com/doi/full/10.1118/1.3180956"> ![paper](src/paper.png)</a> | <a href="https://ieeexplore.ieee.org/abstract/document/6829126"> ![paper](src/paper.png)</a> | <a href="https://cris.fau.de/publications/121437624/"> ![paper](src/paper.png)</a>
