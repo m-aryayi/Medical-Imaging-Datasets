@@ -830,11 +830,17 @@ It represents a community sample including individuals ranging in age from 18 to
 ***Keyboard:*** Resting state fMRI (R-fMRI)<br>
 ![licence](src/CcLogo.png) Attribution - Non-Commercial
 
-- <a href="https://topcow23.grand-challenge.org"> **TopCoW23*</a><br>
+- <a href="https://topcow23.grand-challenge.org"> **TopCoW23**</a><br>
 Topology-Aware Anatomical Segmentation of the Circle of Willis<br>
 ***Keyboard:*** Magnetic Resonance Angiography (MRA) and Computed Tomography Angiography (CTA)<br>
 <a href="https://topcow23.grand-challenge.org/evaluation/validation-cta-multiclass/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2312.17670"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY-NC
+
+- <a href="https://topcow24.grand-challenge.org"> **TopCoW24**</a><br>
+Topology-Aware Anatomical Segmentation of the Circle of Willis<br>
+***Keyboard:*** Magnetic Resonance Angiography (MRA) and Computed Tomography Angiography (CTA)<br>
+<a href="https://topcow24.grand-challenge.org/evaluation/validation-cta-task-2-box/leaderboard"> ![Leaderboard](src/leaderboard.png)</a><br>
+![licence](src/CcLogo.png) Open use. Must provide the source. Use for commercial purposes requires permission of the data owner.
 
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/Train-39.html"> **TRAIN-39**</a><br>
 The overall goal of this project was to better understand how the brain successfully acquires skills relevant to complex tasks.<br>
