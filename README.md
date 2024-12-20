@@ -2062,6 +2062,10 @@ The dataset contains 20 labeled COVID-19 CT scans <br>
 An anonymized data set of COVID-19 cases with a focus on radiological imaging <br>
 ![licence](src/CcLogo.png) CC BY 3.0
 
+- <a href="https://codalab.lisn.upsaclay.fr/competitions/7065"> **Covid-19 Infection Percentage Estimation**</a><br>
+***Keyboard:*** CT scan, Labeled<br>
+<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8468956"> ![paper](src/paper.png)</a>
+
 - <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=89096912"> **COVID-19-NY-SBU**</a><br>
 This collection of cases was acquired at Stony Brook University from patients who tested positive for COVID-19.<br>
 ![licence](src/CcLogo.png) CC BY 4.0
