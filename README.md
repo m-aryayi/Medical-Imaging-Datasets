@@ -2159,6 +2159,10 @@ The database currently consists of an image set of 50 low-dose documented whole-
 The images are volumetric chest CT scans acquired at different sites using several different scanners, scanning protocols, and reconstruction parameters. <br>
 <a href="https://ieeexplore.ieee.org/document/6249784"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.kaggle.com/datasets/raddar/chest-xrays-indiana-university"> **Indiana U. Chest X-rays**</a><br>
+Each image classified manually into frontal and lateral chest X-ray categories.<br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/26133894"> ![paper](src/paper.png)</a>
+
 - <a href="https://som-shahlab.github.io/inspect-website"> **INSPECT**</a><br>
 It contains data from 19,402 patients, including CT images, radiology report impression sections, and structured electronic health record (EHR) data. <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
