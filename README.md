@@ -2944,6 +2944,11 @@ This collection contains clinical data and computed tomography (CT) from 137 hea
 <a href="https://www.nature.com/articles/ncomms5006"> ![paper](src/paper.png)</a> <br>
 ![licence](src/CcLogo.png) TCIA No Commercial Limited - CC BY-NC 3.0
 
+- <a href="https://www.cancerimagingarchive.net/collection/healthy-total-body-cts"> **Healthy-Total-Body-CTs**</a><br>
+This data set includes low-dose whole body CT images and tissue segmentations of thirty healthy adult research participants who underwent PET/CT imaging.<br>
+<a href="https://jnm.snmjournals.org/content/63/12/1941"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) TCIA Restricted - CC BY 4.0
+
 - <a href="https://www.aicrowd.com/challenges/miccai-2020-hecktor"> **HECKTOR 2020**</a> (HEad and neCK TumOR)<br>
 Automatic bi-modal approaches for the segmentation of H&N tumors in PET-CT scans, focusing on oropharyngeal cancers. <br>
 ***Keyboard:*** *Head, Neck*, FDG-PET/CT scan, Cancer, Labeled <br>
