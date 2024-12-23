@@ -3165,6 +3165,11 @@ Data from 282 subjects<br>
 High-Resolution Magnetic Resonance Histology of the Embryonic and Neonatal Mouse<br>
 ***Keyboard:*** *Mouse*<br>
 
+- <a href="https://www.cancerimagingarchive.net/collection/mouse-astrocytoma"> **Mouse-Astrocytoma**</a><br>
+Data from 48 subjects<br>
+***Keyboard:*** *Mouse*, Head, Glioblastoma Multiforme, Cancer, MRI<br>
+![licence](src/CcLogo.png) CC BY 3.0
+
 - <a href="https://github.com/dama-lab/mouse-brain-atlas"> **Mouse Brain atlas**</a><br>
 ***Keyboard:*** *Mouse*, Segmentation, MRI<br>
 <a href="https://www.nature.com/articles/s41597-019-0290-4">![paper](src/paper.png)</a>
