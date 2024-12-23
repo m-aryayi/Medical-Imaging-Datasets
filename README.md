@@ -3165,6 +3165,10 @@ Data from 282 subjects<br>
 High-Resolution Magnetic Resonance Histology of the Embryonic and Neonatal Mouse<br>
 ***Keyboard:*** *Mouse*<br>
 
+- <a href="https://github.com/DeepMicroscopy/MITOS_WSI_CMC"> **MITOS_WSI_CMC**</a><br>
+***Keyboard:*** *Canine*, Whole slide image, Cancer, Breast<br>
+<a href="https://www.nature.com/articles/s41597-020-00756-z">![paper](src/paper.png)</a>
+
 - <a href="https://www.cancerimagingarchive.net/collection/mouse-astrocytoma"> **Mouse-Astrocytoma**</a><br>
 Data from 48 subjects<br>
 ***Keyboard:*** *Mouse*, Head, Glioblastoma Multiforme, Cancer, MRI<br>
