@@ -3161,6 +3161,12 @@ Data from 282 subjects<br>
 - <a href="http://crt-epiggy19.surge.sh"> **CRT-EPIGGY19**</a> (Cardiac Resynchronization Therapy Electrophysiological)<br>
 ***Keyboard:*** *Pig*<br>
 
+- <a href="https://www.cancerimagingarchive.net/collection/icdc-glioma"> **ICDC-Glioma**</a> (Integrated Canine Data Commons)<br>
+Data from 78 subjects<br>
+***Keyboard:*** *Canine*, Head, Cancer, MRI, Histopathology<br>
+<a href="https://www.cell.com/cancer-cell/fulltext/S1535-6108(20)30043-X">![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
+
 - <a href="https://www.civm.duhs.duke.edu/duke-CIVM-sup-devatlas"> **Magnetic Resonance Histology**</a><br>
 High-Resolution Magnetic Resonance Histology of the Embryonic and Neonatal Mouse<br>
 ***Keyboard:*** *Mouse*<br>
