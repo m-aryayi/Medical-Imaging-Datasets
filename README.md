@@ -459,6 +459,10 @@ Paired measurements of brain and behavior in 50 observers<br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/38617271"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC0
 
+- <a href="https://codalab.lisn.upsaclay.fr/competitions/7583"> **Hypothalamus Segmentation**</a><br>
+1343 hypothalamus masks from three different datasets<br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/36368499"> ![paper](src/paper.png)</a>
+
 - <a href="https://www.nitrc.org/projects/ibsr/"> **IBSR**</a> (Internet Brain Segmentation Repository)  <br>
 Manually-guided expert segmentation results along with magnetic resonance brain image data  <br>
 ***Keyboard:*** MRI, Labeled <br>
