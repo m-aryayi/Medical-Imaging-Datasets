@@ -2883,6 +2883,12 @@ There are 20 training and 20 testing cases in the CT dataset. MRI dataset contai
 ***Keyboard:*** *Liver, Kidneys, Spleen*, CT Scan, MRI, Labeled <br>
 <a href="https://chaos.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841520303145"> ![paper](src/paper.png)</a>
 
+- <a href="https://cosas.grand-challenge.org"> **COSAS**</a> (Cross-Organ and Cross-Scanner Adenocarcinoma Segmentation)<br>
+Segmenting normal gland and adenocarcinoma regions<br>
+***Keyboard:*** Whole slide images<br>
+<a href="https://cosas.grand-challenge.org/evaluation/task-1-preliminary-test-phase/leaderboard"> ![Leaderboard](src/leaderboard.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC-ND
+
 - <a href="https://www.cancerimagingarchive.net/collection/cptac-sar"> **CPTAC-SAR**</a> (The Clinical Proteomic Tumor Analysis Consortium SARcomas)<br>
 ***Keyboard:*** *Abdomen, Arm, Bladder, Chest, Head-Neck, Kidney, Leg, Retroperitoneum, Stomach, and Uterus*, Multi-modality<br>
 ![licence](src/CcLogo.png) CC BY 3.0
