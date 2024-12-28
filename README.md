@@ -1011,6 +1011,12 @@ A dataset of dental scans obtained by 3D CBCT <br>
 ***Keyboard:***  Cone Beam Computed Tomography (CBCT), Segmentation <br>
 <a href="https://toothfairy.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://link.springer.com/chapter/10.1007/978-3-031-43148-7_44"> ![paper](src/paper.png)</a>
 
+- <a href="https://ditto.ing.unimore.it/toothfairy2"> **ToothFairy2**</a><br>
+Multi-Structure Segmentation in CBCT Volumes<br>
+***Keyboard:*** Cone Beam Computed Tomography (CBCT)<br>
+<a href="https://toothfairy2.grand-challenge.org/evaluation/preliminary-phase-release-of-training-data/leaderboard"> ![Leaderboard](src/leaderboard.png)</a><br>
+![licence](src/CcLogo.png) CC BY-SA
+
 - <a href="https://www.cancerimagingarchive.net/collection/vestibular-schwannoma-seg"> **Vestibular Schwannoma SEG**</a> <br>
 242 consecutive patients with vestibular schwannoma (VS) undergoing Gamma Knife stereotactic radiosurgery (GK SRS). <br>
 ***Keyboard:*** MRI, Segmentation, Labeled<br>
