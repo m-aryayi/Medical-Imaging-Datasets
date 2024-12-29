@@ -968,6 +968,11 @@ This database contains 598 panoramic radiographs. <br>
 <a href="https://www.mdpi.com/1424-8220/21/9/3110"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY 4.0
 
+- <a href="https://ditto.ing.unimore.it/pulpy3d"> **Pulpy3D**</a><br>
+It is an extension of the dataset ToothFairy<br>
+***Keyboard:*** Cone Beam Computed Tomography (CBCT), Segmentation, Labeled<br>
+<a href="https://www.researchgate.net/publication/382307561_Automatic_Mandibular_Semantic_Segmentation_of_Teeth_Pulp_Cavity_and_Root_Canals_and_Inferior_Alveolar_Nerve_on_Pulpy3D_Dataset"> ![paper](src/paper.png)</a>
+
 - <a href="https://www.cs.cit.tum.de/camp/publications/segthy-dataset"> **SegThy**</a><br>
 Thyroid and Neck Segmentation. <br>
 ***Keyboard:*** MRI, Ultrasound <br>
