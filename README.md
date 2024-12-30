@@ -2909,6 +2909,11 @@ This dataset consists of 140 computed tomography scans come from a wide variety 
 ***Keyboard:*** *Bone, Liver, Lung, Kidney and Bladder*, CT scan<br>
 ![licence](src/CcLogo.png) CC BY 3.0
 
+- <a href="https://curvas.grand-challenge.org"> **CURVAS**</a> (Calibration and Uncertainty for multiRater Volume Assessment in multiorgan Segmentation)<br>
+***Keyboard:*** *Pancreas, Kidney and Liver*, CT scan<br>
+<a href="https://curvas.grand-challenge.org/evaluation/training-set-release/leaderboard"> ![Leaderboard](src/leaderboard.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC
+
 - <a href="http://medicaldecathlon.com"> **Decathlon**</a> <br>
 Medical Segmentation Decathlon (MSD) Generalisable 3D Semantic Segmentation. <br>
 ***Keyboard:***  *Liver, Brain, Hippocampus, Lung, Prostate, Cardiac, Pancreas, Colon,  Hepatic Vessels  and Spleen*, Multi-modality, Labeled <br>
