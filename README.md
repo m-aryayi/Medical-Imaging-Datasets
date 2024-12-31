@@ -2607,7 +2607,6 @@ Measurement of fetal head circumference (HC)<br>
 - <a href="https://codalab.lisn.upsaclay.fr/competitions/18413"> **IUGC**</a> (Intrapartum Ultrasound Grand Challenge 2024)<br>
 Intrapartum ultrasound videos, aiming for participants to develop an automated fetal biometry measurement method<br>
 ***Keyboard:*** Classification, Segmentation<br>
-<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8468956"> ![paper](src/paper.png)</a>
 
 - <a href="https://figshare.com/articles/dataset/JNU-IFM/14371652"> **JNU-IFM**</a> <br>
 An intrapartum transperineal ultrasound dataset of the Intelligent Fetal Monitoring <br>
@@ -3218,7 +3217,6 @@ Data from 48 subjects<br>
 
 - <a href="https://github.com/dama-lab/mouse-brain-atlas"> **Mouse Brain atlas**</a><br>
 ***Keyboard:*** *Mouse*, Segmentation, MRI<br>
-<a href="https://www.nature.com/articles/s41597-019-0290-4">![paper](src/paper.png)</a>
 
 - <a href="https://www.cancerimagingarchive.net/collection/mouse-mammary"> **Mouse-Mammary**</a><br>
 Data from 32 subjects<br>
