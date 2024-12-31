@@ -1626,12 +1626,12 @@ A collection of CT pulmonary angiography (CTPA) for patients susceptible to Pulm
 - <a href="https://www.cardiacatlas.org/determine"> **DETERMINE**</a> (Defibrillators to Reduce Risk by Magnetic Resonance Imaging Evaluation)<br>
 It consists of MR images and some 3D left ventricular models derived semi-automatically.<br>
 
-- <a href="https://echonet.github.io/dynamic/index.html"> **EchoNet-Dynamic**</a><br>
+- <a href="https://stanfordaimi.azurewebsites.net/datasets/834e1cd1-92f7-4268-9daa-d359198b310a"> **EchoNet-Dynamic**</a><br><!-- old link:https://echonet.github.io/dynamic/index.html -->
 A Cardiac Motion Video Data Resource for Medical Machine Learning includes 10,030 labeled echocardiogram videos <br>
 ***Keyboard:*** Echocardiography, Labeled <br>
 <a href="https://www.semanticscholar.org/paper/EchoNet-Dynamic%3A-a-Large-New-Cardiac-Motion-Video-Ouyang-He/44bfcf2409c0826584c7c409b6a2fcf8c9910c88"> ![paper](src/paper.png)</a>
 
-- <a href="https://echonet.github.io/lvh"> **EchoNet-LVH**</a><br>
+- <a href="https://stanfordaimi.azurewebsites.net/datasets/5b7fcc28-579c-4285-8b72-e4238eac7bd1"> **EchoNet-LVH**</a><br><!-- old link:https://echonet.github.io/lvh -->
 A Parasternal Long Axis Echocardiography Video Data Resource <br>
 ***Keyboard:*** Echocardiography, Labeled <br>
 <a href="https://jamanetwork.com/journals/jamacardiology/fullarticle/2789370"> ![paper](src/paper.png)</a>
