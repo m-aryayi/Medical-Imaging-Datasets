@@ -1406,6 +1406,11 @@ It is comprised of breast ultrasound images from 38 patients. It consists of 683
 ***Keyboard:*** Cancer<br>
 ![licence](src/CcLogo.png) CC BY-NC 4.0
 
+- <a href="https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset"> **BUSI**</a> (Breast Ultrasound Images)<br>
+The data collected at baseline include breast ultrasound images among women in ages between 25 and 75 years old.<br>
+***Keyboard:*** Cancer, Labeled<br>
+<a href="https://www.sciencedirect.com/science/article/pii/S2352340919312181"> ![paper](src/paper.png)</a>
+
 - <a href="http://cvprip.cs.usu.edu/busbench"> **BUSIS**</a> (Breast Ultrasound Image Segmentation)<br>
 ***Keyboard:*** Ultrasound image, Labeled, Cancer <br>
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9025635"> ![paper](src/paper.png)</a>
