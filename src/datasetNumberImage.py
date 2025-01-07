@@ -44,7 +44,7 @@ data = {
        'Male Reproductive Organs': 17,
        'Lymph Nodes': 8,
        'Skin': 10,
-       'Multi Organs Datasets' : 66,
+       'Multi Organs Datasets' : 67,
        'Animals' : 12,
 }
 
