@@ -3039,6 +3039,9 @@ Foundation Model Prompting for Medical Image Classification <br>
 A multi-domain multi-task medical imaging meta-dataset containing 19 medical imaging datasets spanning 10 different domains.<br>
 <a href="https://arxiv.org/abs/2404.16000"> ![paper](src/paper.png)</a>
 
+- <a href="https://medpix.nlm.nih.gov/home"> **MedPix**</a><br>
+Medical images, teaching cases, and clinical topics, integrating images and textual metadata including over 12,000 patient case scenarios, 9,000 topics, and nearly 59,000 images.<br>
+
 - <a href="https://www.medseg.ai"> **MedSeg**</a><br>
 An AI tool for segmentation CT scan and MRI images. There are segmented images of other public dataset in their website<br>
 
