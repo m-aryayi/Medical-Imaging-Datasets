@@ -2588,6 +2588,10 @@ A Cervical Cytology Dataset for Nucleus Detection and Image Classification and M
 ***Keyboard:*** Pap smear, Cancer, Labeled <br>
 <a href="https://arxiv.org/abs/1811.09651"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.cancerimagingarchive.net/collection/cmb-ov"> **CMB-OV**</a> (Cancer Moonshot Biobank - Ovarian Carcinoma Cancer) <br>
+***Keyboard:*** Histopathology<br>
+![licence](src/CcLogo.png) CC BY 4.0
+
 - <a href="https://www.cancerimagingarchive.net/collection/cptac-ucec"> **CPTAC-UCEC**</a> (Clinical Proteomic Tumor Analysis Consortium Uterine Corpus Endometrial Carcinoma) <br>
 ***Keyboard:*** Multi-modality, Cancer <br>
 ![licence](src/CcLogo.png) CC BY 3.0
@@ -2799,6 +2803,11 @@ Segmentation of Heterogeneous CT Data <br>
 15 CTs with corresponding lymph nodes, azygos, esophagus, and subclavian carotid arteries  <br>
 ***Keyboard:*** CT scan, Segmentation <br>
 <a href="https://www.tandfonline.com/doi/full/10.1080/21681163.2022.2043778"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.cancerimagingarchive.net/collection/mediastinal-lymph-node-seg"> **Mediastinal-Lymph-Node-SEG**</a><br>
+Mediastinal Lymph Node Quantification (LNQ): Segmentation of Heterogeneous CT Data<br>
+***Keyboard:*** CT scan, Labeled<br>
+![licence](src/CcLogo.png) CC BY 4.0
 
 - <a href="https://github.com/basveeling/pcam"> **PatchCamelyon**</a> <br>
 Image classification dataset consists of 327.680 color images extracted from histopathologic scans of lymph node sections. <br>
