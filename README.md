@@ -657,6 +657,10 @@ The dataset represents simultaneously collected electroencephalography (EEG) and
 <a href="https://www.biorxiv.org/content/10.1101/2022.11.23.517540v2"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY 4.0
 
+- <a href="https://ncanda.org"> **NCANDA-A**</a> (National Consortium on Alcohol and Neurodevelopment in Adolescence - Adulthood)<br>
+The aim is to determine the effects of alcohol use on the developing adolescent brain, and examine brain characteristics that predict alcohol use problems.<br>
+<a href="https://ncanda.org/publications.php"> ![paper](src/paper.png)</a> | <a href="https://www.sciencedirect.com/science/article/pii/S1878929324000884"> ![paper](src/paper.png)</a>
+
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/NEO2012.html"> **NEO2012**</a><br>
 The dataset consists of male and female adults, all healthy controls with no psychiatric history used in the 2011 PLoS ONE study.<br>
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0027633"> ![paper](src/paper.png)</a><br>
