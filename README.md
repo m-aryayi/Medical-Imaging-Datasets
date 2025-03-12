@@ -3243,6 +3243,10 @@ Data from 78 subjects<br>
 High-Resolution Magnetic Resonance Histology of the Embryonic and Neonatal Mouse<br>
 ***Keyboard:*** *Mouse*<br>
 
+- <a href="https://cic.ini.usc.edu"> **MCP**</a> (Mouse Connectome Project)<br>
+It is an NIH-funded venture that aims to create a complete mesoscale connectivity atlas of the mouse brain and to subsequently generate its global neural networks.
+***Keyboard:*** *Mouse*<br>
+
 - <a href="https://github.com/DeepMicroscopy/MITOS_WSI_CMC"> **MITOS_WSI_CMC**</a><br>
 ***Keyboard:*** *Canine*, Whole slide image, Cancer, Breast<br>
 <a href="https://www.nature.com/articles/s41597-020-00756-z">![paper](src/paper.png)</a>
