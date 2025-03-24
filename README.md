@@ -865,6 +865,11 @@ Topology-Aware Anatomical Segmentation of the Circle of Willis<br>
 <a href="https://topcow24.grand-challenge.org/evaluation/validation-cta-task-2-box/leaderboard"> ![Leaderboard](src/leaderboard.png)</a><br>
 ![licence](src/CcLogo.png) Open use. Must provide the source. Use for commercial purposes requires permission of the data owner.
 
+- <a href="https://trackrad2025.grand-challenge.org"> **TrackRAD2025**</a><br>
+Real-time Tumor Tracking for MRI-guided Radiotherapy<br>
+***Keyboard:*** Cancer<br>
+![licence](src/CcLogo.png) CC-BY-NC.
+
 - <a href="http://fcon_1000.projects.nitrc.org/indi/retro/Train-39.html"> **TRAIN-39**</a><br>
 The overall goal of this project was to better understand how the brain successfully acquires skills relevant to complex tasks.<br>
 ***Keyboard:*** fMRI<br>
@@ -1854,6 +1859,11 @@ Multi-Structure Segmentation for Renal Cancer Treatment <br>
 Identify glomeruli in human kidney tissue images. It includes 11 fresh frozen and 9 Formalin Fixed Paraffin Embedded (FFPE) PAS kidney images.<br>
 ***Keyboard:*** Segmentation<br>
 <a href="https://www.kaggle.com/competitions/hubmap-kidney-segmentation/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
+- <a href="https://monkey.grand-challenge.org"> **MONKEY**</a> (Machine-learning for Optimal detection of iNflammatory cells in the KidnEY)<br>
+Detection of mononuclear, inflammatory cells and detect and distinguish inflammatory cells<br>
+***Keyboard:*** WSI, Labeled<br>
+<a href="https://monkey.grand-challenge.org/evaluation/live-leaderboard/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
 - <a href="https://www.cancerimagingarchive.net/collection/tcga-blca"> **TCGA-BLCA**</a> (The Cancer Genome Atlas Urothelial Bladder Carcinoma)<br>
 Data from 120 subjects and 111,781 images<br>
