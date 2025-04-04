@@ -34,7 +34,7 @@
 
 ## Introduction
 
-This repository is a collection of publicly available medical imaging datasets. It aims to provide a comprehensive and valuable resource for researchers, healthcare professionals, and developers working in the field of medical imaging analysis.
+This repository is a collection of publicly available medical imaging datasets. It aims to provide a comprehensive and valuable resource for researchers, healthcare professionals, and developers working in the field of medical imaging analysis. I wrote about this collection on my <a href="https://medium.com/@mohammadaryayi/a-comprehensive-collection-of-medical-imaging-datasets-958396d0e76b"> Medium blog</a>.
 
 - ![Leaderboard](src/leaderboard.png) The link of leaderboard.
 - ![paper](src/paper.png) The link of related papers.
