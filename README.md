@@ -1590,6 +1590,9 @@ A total of 154 3D MRIs from patients with Atrial fibrillation (AF) are used.<br>
 ***Keyboard:*** Labeled <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841520301961"> ![paper](src/paper.png)</a>
 
+- <a href="https://www.kaggle.com/datasets/paultimothymooney/blood-cells"> **Blood Cell Images**</a><br>
+This dataset contains 12,500 augmented images of blood cells with accompanying cell type labels. The cell types are Eosinophil, Lymphocyte, Monocyte, and Neutrophil.<br> ![licence](src/CcLogo.png) MIT
+
 - <a href="https://camus.creatis.insa-lyon.fr/challenge"> **CAMUS**</a> (Cardiac Acquisitions for Multi-structure Ultrasound Segmentation) <br>
 The dataset consists of clinical exams from 500 patients<br>
 ***Keyboard:***  2D echocardiographic images <br>
@@ -1795,6 +1798,9 @@ Cardiac CT exams of 72 patients <br>
 Our dataset contains 200 3D volumes with refined pulmonary artery label <br>
 ***Keyboard:*** CT Pulmonary Angiography (CTPA) <br>
 <a href="https://parse2022.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://arxiv.org/abs/2304.03708"> ![paper](src/paper.png)</a>
+
+- <a href="https://www5.cs.fau.de/research/data/pascal"> **PASCAL**</a><br>
+Carotid Artery TOF MRA Data Set<br>
 
 - <a href="https://stanfordaimi.azurewebsites.net/datasets/3a7548a4-8f65-4ab7-85fa-3d68c9efc1bd"> **RadFusion**</a><br>
 The dataset collected data from 1794 patients susceptible to pulmonary embolism. It consists of Chest CT, patient demographics and medical history.<br>
@@ -2981,6 +2987,9 @@ Facilitating diagnosis and treatment of diseases in hollow organs. <br>
 The 8 classes in this challenge include specularity, bubbles, saturation, contrast, blood, instrument, blur and imaging artefacts. <br>
 ***Keyboard:***  Multi-tissue, Multi-modality, Video Endoscopy, Labeled <br>
 <a href="https://www.researchgate.net/publication/344671984_Endoscopic_Artefact_Detection_with_Ensemble_of_Deep_Neural_Networks_and_False_Positive_Elimination"> ![paper](src/paper.png)</a>
+
+- <a href="https://endovis.org"> **EndoVis**</a><br>
+A large collection of publicly accessible datasets comprising various computer vision tasks (classification, segmentation, detection, localization,…) and subdisciplines ranging from laparoscopy to coloscopy and surgical training.<br>
 
 - <a href="https://fastmri.med.nyu.edu"> **fastMRI**</a><br>
 ***Keyboard:*** *Knee, Brain, and Prostate*, MRI<br>
