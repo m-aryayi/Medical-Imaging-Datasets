@@ -34,7 +34,7 @@ data = {
        'Eyes': 38,
        'Bowel': 19,
        'Breast': 40,
-       'Heart and Blood Vessels': 58, 
+       'Heart and Blood Vessels': 60, 
        'Kidneys and Urinary Tract': 12,
        'Liver': 13, 
        'Lungs': 97,
@@ -44,7 +44,7 @@ data = {
        'Male Reproductive Organs': 17,
        'Lymph Nodes': 9,
        'Skin': 10,
-       'Multi Organs Datasets' : 68,
+       'Multi Organs Datasets' : 69,
        'Animals' : 14,
 }
 
