@@ -1340,7 +1340,7 @@ Data from 3 subjects and 1,796 images.<br>
 ***Keyboard:*** MRI, CT scan<br>
 ![licence](src/CcLogo.png) CC BY 3.0
 
-- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=3539213"> **The National CT Colonography Trial (ACRIN 6664)**</a> <br>
+- <a href="https://www.cancerimagingarchive.net/collection/ct-colonography"> **The National CT Colonography Trial (ACRIN 6664)**</a> <br>
 A collection contains 825 cases of CT colonography imaging with accompanying spreadsheets that provide polyp descriptions and their location within the colon segments. <br>
 <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa0800996"> ![paper](src/paper.png)</a> <br>
 ![licence](src/CcLogo.png) CC BY 3.0
@@ -1349,7 +1349,7 @@ A collection contains 825 cases of CT colonography imaging with accompanying spr
 
 ### Breast
 
-- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=30671268"> **ACRIN-FLT-Breast (ACRIN 6688)**</a> <br>
+- <a href="https://www.cancerimagingarchive.net/collection/acrin-flt-breast"> **ACRIN-FLT-Breast (ACRIN 6688)**</a> <br>
 Examination both pre-therapy and post-therapy <br>
 ***Keyboard:*** 18F-FLT PET imaging, CT Scan, Cancer <br>
 ![licence](src/CcLogo.png) CC BY 3.0
@@ -1429,7 +1429,7 @@ The data collected at baseline include breast ultrasound images among women in a
 ***Keyboard:*** Ultrasound image, Labeled, Cancer <br>
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9025635"> ![paper](src/paper.png)</a>
 
-- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=22516629"> **CBIS-DDSM**</a> (Curated Breast Imaging Subset of Digital Database for Screening Mammography) <br>
+- <a href="https://www.cancerimagingarchive.net/collection/cbis-ddsm"> **CBIS-DDSM**</a> (Curated Breast Imaging Subset of Digital Database for Screening Mammography) <br>
 The DDSM is a database of 2,620 scanned film mammography studies. It contains normal, benign, and malignant cases with verified pathology information. <br>
 ***Keyboard:***  Cancer, Labeled <br>
 <a href="https://www.nature.com/articles/sdata2017177"> ![paper](src/paper.png)</a><br>
@@ -1438,7 +1438,7 @@ The DDSM is a database of 2,620 scanned film mammography studies. It contains no
 - <a href="https://visual.ic.uff.br/dmi"> **DMR-IR**</a><br>
 ***Keyboard:*** Cancer, Thermography image<br>
 
-- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70226903"> **Duke Breast Cancer MRI**</a> <br>
+- <a href="https://www.cancerimagingarchive.net/collection/duke-breast-cancer-mri"> **Duke Breast Cancer MRI**</a> <br>
 Dynamic contrast-enhanced magnetic resonance images of breast cancer patients with tumor locations. <br>
 ***Keyboard:*** Cancer, Labeled <br>
 <a href="https://www.nature.com/articles/s41416-018-0185-8"> ![paper](src/paper.png)</a><br>
@@ -1505,17 +1505,17 @@ Assessment of Residual Breast Cancer Cellularity after Neoadjuvant Chemotherapy 
 <a href="https://onlinelibrary.wiley.com/doi/10.1002/cyto.a.23244"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY 3.0
 
-- <a href="https://wiki.cancerimagingarchive.net/display/Public/QIN-Breast"> **QIN-Breast**</a> <br>
+- <a href="https://www.cancerimagingarchive.net/collection/qin-breast"> **QIN-Breast**</a> <br>
 This collection contains longitudinal PET/CT and quantitative MR images collected for the purpose of studying treatment assessment in breast cancer in the neoadjuvant setting. <br>
 ***Keyboard:*** PET/CT, MRI, Cancer <br>
 ![licence](src/CcLogo.png) CC BY 3.0 
 
-- <a href="https://wiki.cancerimagingarchive.net/display/Public/QIN-BREAST-02"> **QIN-Breast-02**</a> <br>
+- <a href="https://www.cancerimagingarchive.net/collection/qin-breast-02"> **QIN-Breast-02**</a> <br>
 This data is from a multi-site, multi-parametric quantitative MRI study of adult (18+ years old) females diagnosed with invasive breast cancer. <br>
 ***Keyboard:*** Cancer <br>
 ![licence](src/CcLogo.png) TCIA Limited CC0 1.0 license - CC BY 3.0
 
-- <a href="https://wiki.cancerimagingarchive.net/display/Public/RIDER+Breast+MRI"> **RIDER Breast MRI**</a> (Reference Image Database to Evaluate Therapy Response) <br>
+- <a href="https://www.cancerimagingarchive.net/collection/rider-breast-mri"> **RIDER Breast MRI**</a> (Reference Image Database to Evaluate Therapy Response) <br>
 RIDER is a targeted data collection used to generate an initial consensus on how to harmonize data collection and analysis for quantitative imaging methods applied to measure the response to drug or radiation therapy. <br>
 ***Keyboard:***  Cancer <br>
 ![licence](src/CcLogo.png) CC BY 3.0 
@@ -1972,7 +1972,7 @@ It has used in <a href='https://zenodo.org/records/8179129'> LiverHccSeg </a> <b
 
 ### Lungs
 
-- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=21267414"> **4D Lung**</a> <br>
+- <a href="https://www.cancerimagingarchive.net/collection/4d-lung"> **4D Lung**</a> <br>
 The images include four-dimensional (4D) fan beam (4D-FBCT) and 4D cone beam CT (4D-CBCT) <br>
 ***Keyboard:*** Cancer <br>
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3647023"> ![paper](src/paper.png) The dataset is described</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/22391105"> ![paper](src/paper.png)</a> <br>
@@ -2126,7 +2126,7 @@ An anonymized data set of COVID-19 cases with a focus on radiological imaging <b
 ***Keyboard:*** CT scan, Labeled<br>
 <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8468956"> ![paper](src/paper.png)</a>
 
-- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=89096912"> **COVID-19-NY-SBU**</a><br>
+- <a href="https://www.cancerimagingarchive.net/collection/covid-19-ny-sbu"> **COVID-19-NY-SBU**</a><br>
 This collection of cases was acquired at Stony Brook University from patients who tested positive for COVID-19.<br>
 ![licence](src/CcLogo.png) CC BY 4.0
 
@@ -2244,7 +2244,7 @@ The database includes 154 conventional chest radiographs with a lung nodule and 
 <a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.13141"> ![paper](src/paper.png)</a> <br>
 ![licence](src/CcLogo.png) CC BY 3.0 
 
-- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254"> **LIDC-IDRI**</a> (Lung Image Database Consortium (LIDC) and Image Database Resource Initiative (IDRI)) <br>
+- <a href="https://www.cancerimagingarchive.net/collection/lidc-idri"> **LIDC-IDRI**</a> (Lung Image Database Consortium (LIDC) and Image Database Resource Initiative (IDRI)) <br>
 ***Keyboard:*** CT scan, Cancer, Labeled <br>
 <a href="https://aapm.onlinelibrary.wiley.com/doi/10.1118/1.3528204"> ![paper](src/paper.png)</a> <br>
 ![licence](src/CcLogo.png) CC BY 3.0 
@@ -2275,7 +2275,7 @@ Mapping the extent of Invasive Adenocarcinoma onto in vivo lung CT <br>
 <a href="https://link.springer.com/article/10.1007/s00330-017-4813-0"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY 3.0
 
-- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70224216"> **Lung-PET-CT-Dx**</a> <br>
+- <a href="https://www.cancerimagingarchive.net/collection/lung-pet-ct-dx"> **Lung-PET-CT-Dx**</a> <br>
 A Large-Scale CT and PET/CT Dataset for Lung Cancer Diagnosis <br>
 ***Keyboard:*** Cancer, Labeled <br>![licence](src/CcLogo.png) CC BY 4.0
 
@@ -2288,17 +2288,17 @@ Detectition mediastinal lesions from 1100 CT scans, consisting of 770 CTs for tr
 ***Keyboard:*** CT Scan <br>
 <a href="https://mela.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
-- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=80969742"> **MIDRC-RICORD-1A**</a> (Medical Imaging Data Resource Center - RSNA International COVID-19 Open Radiology Database Release 1a)<br>
+- <a href="https://www.cancerimagingarchive.net/collection/midrc-ricord-1a"> **MIDRC-RICORD-1A**</a> (Medical Imaging Data Resource Center - RSNA International COVID-19 Open Radiology Database Release 1a)<br>
 120 Chest CT Covid+ <br>
 ***Keyboard:*** CT Scan, Labeled <br>
 <a href="https://pubs.rsna.org/doi/10.1148/radiol.2021203957"> ![paper](src/paper.png)</a><br>![licence](src/CcLogo.png) CC BY-NC 4.0
 
-- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=80969771"> **MIDRC-RICORD-1B**</a> (Medical Imaging Data Resource Center - RSNA International COVID-19 Open Radiology Database Release 1b)<br>
+- <a href="https://www.cancerimagingarchive.net/collection/midrc-ricord-1b"> **MIDRC-RICORD-1B**</a> (Medical Imaging Data Resource Center - RSNA International COVID-19 Open Radiology Database Release 1b)<br>
 120 Chest CT Covid+ <br>
 ***Keyboard:*** CT Scan, Labeled <br>
 <a href="https://pubs.rsna.org/doi/10.1148/radiol.2021203957"> ![paper](src/paper.png)</a><br>![licence](src/CcLogo.png) CC BY-NC 4.0
 
-- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70230281"> **MIDRC-RICORD-1C**</a> (Medical Imaging Data Resource Center - RSNA International COVID-19 Open Radiology Database Release 1c)<br>
+- <a href="https://www.cancerimagingarchive.net/collection/midrc-ricord-1c"> **MIDRC-RICORD-1C**</a> (Medical Imaging Data Resource Center - RSNA International COVID-19 Open Radiology Database Release 1c)<br>
 998 Chest X-rays Covid+ <br>
 ***Keyboard:*** X-rays, Labeled <br>
 <a href="https://pubs.rsna.org/doi/10.1148/radiol.2021203957"> ![paper](src/paper.png)</a><br>![licence](src/CcLogo.png) CC BY-NC 4.0
@@ -2313,7 +2313,7 @@ The MIMIC-CXR-JPG dataset is wholly derived from MIMIC-CXR, providing JPG format
 ***Keyboard:*** X-ray<br>
 <a href="https://arxiv.org/abs/1901.07042"> ![paper](src/paper.png)</a><br>![licence](src/CcLogo.png) PhysioNet Credentialed Health Data License 1.5.0
 
-- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=5800702"> **NLST**</a> (National Lung Screening Trial)<br>
+- <a href="https://www.cancerimagingarchive.net/collection/nlst"> **NLST**</a> (National Lung Screening Trial)<br>
 26,254 low-dose CT scans <br>
 ***Keyboard:*** CT Scan, Labeled <br>
 <a href="https://www.nejm.org/doi/10.1056/NEJMoa1102873"> ![paper](src/paper.png)</a><br>![licence](src/CcLogo.png) CC BY 4.0
@@ -2774,7 +2774,7 @@ This dataset have been included in the PI-CAI Public Training and Development da
 ***Keyboard:*** MRI, Cancer <br>
 ![licence](src/CcLogo.png) CC BY 3.0
 
-- <a href="https://wiki.cancerimagingarchive.net/display/Public/QIN-PROSTATE-Repeatability"> **QIN-PROSTATE-Repeatability**</a> <br>
+- <a href="https://www.cancerimagingarchive.net/collection/qin-prostate-repeatability"> **QIN-PROSTATE-Repeatability**</a> <br>
 This is a dataset with multiparametric prostate MRI applied in a test-retest setting, allowing to evaluate repeatability of the MRI-based measurements in the prostate. <br>
 ***Keyboard:*** MRI, Labeled <br>
 <a href="https://www.nature.com/articles/sdata2018281"> ![paper](src/paper.png)</a><br>
@@ -2808,7 +2808,7 @@ Evaluate new and existing algorithms for automated detection and classification 
 ***Keyboard:*** Cancer, Digital pathology, Lymph node detection <br>
 <a href="https://camelyon17.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/8447230"> ![paper](src/paper.png)</a> | <a href="https://academic.oup.com/gigascience/article/7/6/giy065/5026175"> ![paper](src/paper.png)</a>
 
-- <a href="https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=19726546"> **CT Lymph nodes**</a> <br>
+- <a href="https://www.cancerimagingarchive.net/collection/ct-lymph-nodes"> **CT Lymph nodes**</a> <br>
 90 CTs dataset of lymph nodes <br>
 ***Keyboard:*** CT scan, Lymph node detection <br>
 ![licence](src/CcLogo.png) CC BY 3.0
