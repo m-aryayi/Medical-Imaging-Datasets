@@ -218,8 +218,8 @@ Data consists of 75 cases<br>
 ***Keyboard:*** MRI, Cancer, Segmentation, Labeled  <br>
 <a href="https://brainptm-2021.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
-- <a href="https://www.brainsimagebank.ac.uk"> **BRAINS**</a> (Brain Images of Normal Subjects) <br>
-***Keyboard:*** MRI <br>
+- <a href="https://datashare.ed.ac.uk/handle/10283/1957"> **BRAINS**</a> (Brain Images of Normal Subjects)<br> <!-- old link:https://www.brainsimagebank.ac.uk -->
+***Keyboard:*** MRI<br>
 <a href="https://www.sciencedirect.com/science/article/pii/S1053811916000331"> ![paper](src/paper.png)</a>
 
 - <a href="https://www.smir.ch/BRATS/Start2012"> **BRATS2012**</a> (Brain Tumor Segmentation) <br>
