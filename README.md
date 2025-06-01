@@ -610,11 +610,6 @@ The purpose is to directly compare methods for segmentation of gray matter, whit
 Magnetic Resonance Imaging Comparisons of Demented and Nondemented Adults<br>
 ***Keyboard:*** Alzheimer's Disease (AD), Labeled<br>
 
-- <a href="https://www.kaggle.com/datasets/sabermalek/mrihs"> **MRI Hippocampus Segmentation**</a> <br>
-All images are for people suffering from Alzheimer's.<br>
-***Keyboard:*** MRI, Segmentation, Alzheimer's Detection<br>
-![licence](src/CcLogo.png) CC BY-NC-SA 4.0
-
 - <a href="https://iacl.ece.jhu.edu/index.php/MSChallenge"> **MS**</a> (Multiple sclerosis) <br>
 82 data sets had the white matter lesions associated with multiple sclerosis delineated by two human expert raters. <br>
 ***Keyboard:*** MRI, Labeled, Segmentation <br>
@@ -1602,9 +1597,6 @@ The dataset consists of clinical exams from 500 patients<br>
 - <a href="https://www.kaggle.com/datasets/xiaoweixumedicalai/cardiacudc-dataset"> **CardiacUDA**</a> (Unsupervised Domain Adaption) <br>
 ***Keyboard:*** Echocardiogram Videos <br>
 <a href="https://arxiv.org/abs/2309.11145"> ![paper](src/paper.png)</a><br> ![licence](src/CcLogo.png) Apache 2.0
-
-- <a href="https://vessel-wall-segmentation.grand-challenge.org"> **Carotid Artery Vessel Wall**</a> <br>
-***Keyboard:*** Segmentation, Labeled <br>
 
 - <a href="https://www5.cs.fau.de/research/software/cavarev"> **CAVAREV**</a> (CArdiac VAsculature Reconstruction EValuation)<br>
 The goal is to enable an easy and objective comparison of different dynamic reconstruction algorithms.<br>
