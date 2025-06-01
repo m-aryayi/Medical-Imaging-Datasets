@@ -222,22 +222,22 @@ Data consists of 75 cases<br>
 ***Keyboard:*** MRI<br>
 <a href="https://www.sciencedirect.com/science/article/pii/S1053811916000331"> ![paper](src/paper.png)</a>
 
-- <a href="https://www.smir.ch/BRATS/Start2012"> **BRATS2012**</a> (Brain Tumor Segmentation) <br>
+- <a href="https://www.smir.ch/BRATS/Start2012"> **BRATS2012**</a> ![BrokenLink](src/brokenlink.png) (Brain Tumor Segmentation)<br>
 The tumor and edema regions have been manually delineated.<br>
-***Keyboard:*** Multimodal MRI, Cancer, Labeled <br>
+***Keyboard:*** Multimodal MRI, Cancer, Labeled<br>
 <a href="https://ieeexplore.ieee.org/document/6975210"> ![paper](src/paper.png)</a>
 
-- <a href="https://www.smir.ch/BRATS/Start2013"> **BRATS2013**</a> (Brain Tumor Segmentation) <br>
+- <a href="https://www.smir.ch/BRATS/Start2013"> **BRATS2013**</a> ![BrokenLink](src/brokenlink.png) (Brain Tumor Segmentation)<br>
 A collection of 60 de-identified clinical cases.l2<br>
-***Keyboard:*** Multiparametric, MRI, Cancer, Labeled <br>
+***Keyboard:*** Multiparametric, MRI, Cancer, Labeled<br>
 <a href="https://ieeexplore.ieee.org/document/6975210"> ![paper](src/paper.png)</a>
 
-- <a href="https://www.smir.ch/BRATS/Start2014"> **BRATS2014**</a> (Brain Tumor Segmentation) <br>
-***Keyboard:*** MRI, Cancer, Labeled <br>
+- <a href="https://www.smir.ch/BRATS/Start2014"> **BRATS2014**</a> ![BrokenLink](src/brokenlink.png) (Brain Tumor Segmentation)<br>
+***Keyboard:*** MRI, Cancer, Labeled<br>
 <a href="https://ieeexplore.ieee.org/document/6975210"> ![paper](src/paper.png)</a>
 
-- <a href="https://www.smir.ch/BRATS/Start2015"> **BRATS2015**</a> (Brain Tumor Segmentation) <br>
-***Keyboard:*** MRI, Cancer, Labeled <br>
+- <a href="https://www.smir.ch/BRATS/Start2015"> **BRATS2015**</a> ![BrokenLink](src/brokenlink.png) (Brain Tumor Segmentation)<br>
+***Keyboard:*** MRI, Cancer, Labeled<br>
 
 - <a href="https://www.med.upenn.edu/sbia/brats2017/data.html"> **BRATS2017**</a> (Brain Tumor Segmentation) <br>
 ***Keyboard:*** MRI, Cancer, Labeled <br>
@@ -434,13 +434,13 @@ Personality and cognitive measures were obtained on a subset of participants. Ea
 ***Keyboard:*** MRI <br>
 <a href="https://www.nature.com/articles/sdata201531"> ![paper](src/paper.png)</a>
 
-- <a href="http://hardi.epfl.ch/static/events/2012_ISBI"> **HARDI 2012**</a><br>
+- <a href="http://hardi.epfl.ch/static/events/2012_ISBI"> **HARDI 2012**</a> ![BrokenLink](src/brokenlink.png)<br>
 ***Keyboard:*** Diffusion MRI<br>
 <a href="https://ieeexplore.ieee.org/document/6630106"> ![paper](src/paper.png)</a>
 
-- <a href="http://hardi.epfl.ch/static/events/2013_ISBI"> **HARDI 2013**</a> <br>
-It focuses on the effect of the local reconstruction accuracy on the quality of connectivity reconstruction. <br>
-***Keyboard:*** Diffusion MRI <br>
+- <a href="http://hardi.epfl.ch/static/events/2013_ISBI"> **HARDI 2013**</a> ![BrokenLink](src/brokenlink.png)<br>
+It focuses on the effect of the local reconstruction accuracy on the quality of connectivity reconstruction.<br>
+***Keyboard:*** Diffusion MRI<br>
 
 - <a href="http://fcon_1000.projects.nitrc.org/indi/hbn_ssi"> **HBN-SSI**</a> (Healthy Brain Network Serial Scanning Initiative)<br>
 The primary goal is to assess and compare test-retest reliabilities for full-brain connectivity patterns derived from functional MRI data obtained during different scan conditions.<br>
@@ -635,8 +635,8 @@ A total of 100 multiple sclerosis patients<br>
 ***Keyboard:*** MRI, Segmentation<br>
 <a href="https://www.nature.com/articles/s41598-018-31911-7"> ![paper](src/paper.png)</a>
 
-- <a href="https://www.smir.ch/MTOP/Start2016"> **MTOP2016**</a> (Mild Traumatic Brain Injury Outcome Prediction) <br>
-***Keyboard:*** MRI, Labeled <br>
+- <a href="https://www.smir.ch/MTOP/Start2016"> **MTOP2016**</a> ![BrokenLink](src/brokenlink.png) (Mild Traumatic Brain Injury Outcome Prediction)<br>
+***Keyboard:*** MRI, Labeled<br>
 
 - <a href="https://figshare.com/articles/dataset/Multicenter_dataset_of_multishell_diffusion_magnetic_resonance_imaging_in_healthy_traveling_adults_with_identical_setting/8851955"> **Multi-shell diffusion MRI**</a><br>
 It was collected from three traveling subjects with identical acquisition setting in ten imaging centers. <br>
@@ -1083,8 +1083,8 @@ Surgical tool detection in 50 videos of cataract surgeries<br>
 <a href="https://cataracts.grand-challenge.org/Results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S136184151830865X"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY 4.0
 
-- <a href="https://blogs.kingston.ac.uk/retinal/chasedb1"> **CHASE-DB1**</a> <br>
-***Keyboard:*** Retinal, Labeled <br>
+- <a href="https://blogs.kingston.ac.uk/retinal/chasedb1"> **CHASE-DB1**</a> ![BrokenLink](src/brokenlink.png)<br>
+***Keyboard:*** Retinal, Labeled<br>
 
 - <a href="https://github.com/nkicsl/DDR-dataset"> **DDR**</a><br>
 13,673 fundus images from 9598 patients.<br>
@@ -1145,9 +1145,9 @@ The dataset is divided into a training subset with 101,442 gradable fundus image
 <a href="https://arxiv.org/pdf/2307.10698.pdf"> ![paper](src/paper.png) Comprehensive details</a><br>
 ![licence](src/CcLogo.png) CC BY 4.0
 
-- <a href="https://blogs.kingston.ac.uk/retinal/messidor-ma-groundturth"> **Messidor MA Groundturth**</a><br>
-Microaneurysm (MA) detection in 20 retinal images <br>
-***Keyboard:*** Retinal, Labeled <br>
+- <a href="https://blogs.kingston.ac.uk/retinal/messidor-ma-groundturth"> **Messidor MA Groundturth**</a> ![BrokenLink](src/brokenlink.png)<br>
+Microaneurysm (MA) detection in 20 retinal images<br>
+***Keyboard:*** Retinal, Labeled<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/7820998"> ![paper](src/paper.png)</a> | <a href="https://www.sciencedirect.com/science/article/pii/S2352914817300229"> ![paper](src/paper.png)</a>
 
 - <a href="https://ieee-dataport.org/open-access/octa-500"> **OCTA-500**</a> <br>
@@ -1230,9 +1230,9 @@ Images for segmentation of optical coherence tomography images with diabetic mac
 - <a href="https://cecas.clemson.edu/~ahoover/stare"> **STARE**</a> (STructured Analysis of the Retina) <br>
 ***Keyboard:*** Labeled <br>
 
-- <a href="https://blogs.kingston.ac.uk/retinal/uk-biobank"> **UK Biobank**</a> <br>
-2 sets of manual segmentations for 20 UK Biobank retinal images <br>
-***Keyboard:*** Retinal, Labeled <br>
+- <a href="https://blogs.kingston.ac.uk/retinal/uk-biobank"> **UK Biobank**</a> ![BrokenLink](src/brokenlink.png)<br>
+2 sets of manual segmentations for 20 UK Biobank retinal images<br>
+***Keyboard:*** Retinal, Labeled<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/8310108"> ![paper](src/paper.png)</a>
 
 - <a href="https://auckland.figshare.com/articles/journal_contribution/UoA-DR_Database_Info/5985208/5"> **UoA-DR**</a> (University of Auckland Diabetic Retinopathy)<br>
@@ -1956,9 +1956,9 @@ Multimodality annotated Hepatocellular carcinoma (HCC) cases with and without ad
 ***Keyboard:*** Whole-slide images (WSIs), Cancer, Segmentation, Labeled, Hepatocellular Carcinoma (HCC) <br>
 <a href="https://paip2019.grand-challenge.org/Leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
-- <a href="https://www.smir.ch/ShapeChallenge/Start2014"> **SHAPE 2014**</a><br>
-The dataset is part of the training data from the "VISCERAL Organ Segmentation and Landmark Detection Challenge" <br>
-***Keyboard:*** MRI, CT scan, Labeled, Segmentation <br>
+- <a href="https://www.smir.ch/ShapeChallenge/Start2014"> **SHAPE 2014**</a> ![BrokenLink](src/brokenlink.png)<br>
+The dataset is part of the training data from the "VISCERAL Organ Segmentation and Landmark Detection Challenge"<br>
+***Keyboard:*** MRI, CT scan, Labeled, Segmentation<br>
 
 - <a href="https://sliver07.grand-challenge.org"> **SLIVER07**</a> (Segmentation of the Liver Competition 2007) <br>
 ***Keyboard:*** 3D CT scan <br>
@@ -2516,7 +2516,7 @@ The dataset includes MRI images of T1 and T2 sagittal plane and T2 axial plane (
 ***Keyboard:*** MRI, Segmentation, Labeled<br>
 ![licence](src/CcLogo.png) CC-BY-SA-NC 4.0
 
-- <a href="http://spineweb.digitalimaginggroup.ca"> **SpineWeb**</a> <br>
+- <a href="http://spineweb.digitalimaginggroup.ca"> **SpineWeb**</a> ![BrokenLink](src/brokenlink.png)<br>
 16 spinal imaging datasets
 
 - <a href="https://github.com/anjany/verse"> **VerSe**</a> <br> Large Scale Vertebrae Segmentation <br>
@@ -2928,8 +2928,8 @@ They have assembled 8 datasets, containing 355 images with 18 different stains, 
 ***Keyboard:***  Multi-tissue, Whole-slide images<br>
 <a href="https://anhir.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/9058666"> ![paper](src/paper.png)</a>
 
-- <a href="https://www.cancerimagingarchive.net/collection/apollo-5"> **APOLLO-5**</a> (Applied Proteogenomics OrganizationaL Learning and Outcomes)<br>
-A collection of 31 datasets for different organs. <br>
+- <a href="https://www.cancerimagingarchive.net/collection/apollo-5"> **APOLLO-5**</a> ![BrokenLink](src/brokenlink.png) (Applied Proteogenomics OrganizationaL Learning and Outcomes)<br>
+A collection of 31 datasets for different organs.<br>
 ***Keyboard:*** Cancer, Multi-modality<br>
 ![licence](src/CcLogo.png) TCIA Limited (contact Support)
 
@@ -3182,8 +3182,8 @@ The dataset includes 60 3D CT scans, divided into a training set of 40 and a tes
 ***Keyboard:*** *Heart, Aorta, Trachea, and Esophagus*, CT Scan, Cancer, Labeled <br>
 <a href="https://competitions.codalab.org/competitions/21145#results"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://ieeexplore.ieee.org/document/9286453"> ![paper](src/paper.png)</a>
 
-- <a href="https://www.smir.ch/objects/214315"> **SMIR**</a> <br>
-This collection contains post mortem CT scans of the whole body. <br>
+- <a href="https://www.smir.ch/objects/214315"> **SMIR**</a> ![BrokenLink](src/brokenlink.png)<br>
+This collection contains post mortem CT scans of the whole body.<br>
 ![licence](src/CcLogo.png) CC_BY_NC_SA_3.0
 
 - <a href="https://www.cancerimagingarchive.net/collection/soft-tissue-sarcoma"> **Soft-tissue-Sarcoma**</a> <br>
