@@ -2840,6 +2840,9 @@ This collection includes 47 melanoma cases treated with anti-PD1 immunotherapy, 
 ***Keyboard:*** Multi-modality, Cancer <br>
 ![licence](src/CcLogo.png) TCIA Restricted
 
+- <a href="https://figshare.com/articles/figure/Asan_and_Hallym_Dataset_Thumbnails_/5406136?file=9318406"> **Asan and Hallym Datasets**</a><br>
+<a href="https://www.sciencedirect.com/science/article/pii/S0022202X18301118"> ![paper](src/paper.png)</a> | <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191493"> ![paper](src/paper.png)</a>
+
 - <a href="https://www.cancerimagingarchive.net/collection/cptac-cm">**CPTAC-CM**</a> (Clinical Proteomic Tumor Analysis Consortium Cutaneous Melanoma) <br>
 ***Keyboard:*** Multi-modality, Cancer <br>
 ![licence](src/CcLogo.png) CC BY 3.0
@@ -2852,6 +2855,9 @@ A biopsy-proven skin disease dataset with diverse skin tone representation. <br>
 - <a href="https://licensing.edinburgh-innovations.ed.ac.uk/product/dermofit-image-library"> **Dermofit Image Library**</a><br>
 1300 High quality skin lesion images. <br>
 ***Keyboard:*** Segmentation, Labeled<br>
+
+- <a href="https://www.dermoscopyatlas.com"> **Dermoscopy and Dermatoscopy Atlas**</a><br>
+It contains 433 diagnosis.<br>
 
 - <a href="https://fusc.grand-challenge.org"> **FUSC**</a> (Foot Ulcer Segmentation Challenge)<br>
 In the dataset provided, over 1200 images are collected over 2 years from hundreds of patients.<br>
@@ -2866,6 +2872,11 @@ A collection of multi-source dermatoscopic images of common pigmented skin lesio
 It has multi versions. <br>
 ***Keyboard:*** Dermoscopic images <br>
 <a href="https://arxiv.org/abs/1605.01397"> ![paper](src/paper.png)</a> | <a href="https://ieeexplore.ieee.org/document/8363547"> ![paper](src/paper.png)</a> | <a href="https://arxiv.org/abs/1902.03368"> ![paper](src/paper.png)</a>
+
+- <a href="https://www.cs.rug.nl/~imaging/databases/melanoma_naevi"> **MED-NODE**</a><br>
+It consists of 170 clinical images (70
+melanoma and 100 nevi cases).<br>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417415002705"> ![paper](src/paper.png)</a>
 
 - <a href="https://www.uco.es/grupos/ayrna/ieeetmi2015"> **Melanoma Dataset**</a> <br>
 ***Keyboard:*** Classification, Dermatoscopic images <br>
