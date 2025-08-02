@@ -2843,6 +2843,9 @@ This collection includes 47 melanoma cases treated with anti-PD1 immunotherapy, 
 - <a href="https://figshare.com/articles/figure/Asan_and_Hallym_Dataset_Thumbnails_/5406136?file=9318406"> **Asan and Hallym Datasets**</a><br>
 <a href="https://www.sciencedirect.com/science/article/pii/S0022202X18301118"> ![paper](src/paper.png)</a> | <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191493"> ![paper](src/paper.png)</a>
 
+- <a href="https://atlasdermatologico.com.br"> **Atlas Dermatologico**</a><br>
+It contains more than 12500 pictures of dermatology diseases.<br>
+
 - <a href="https://www.cancerimagingarchive.net/collection/cptac-cm">**CPTAC-CM**</a> (Clinical Proteomic Tumor Analysis Consortium Cutaneous Melanoma) <br>
 ***Keyboard:*** Multi-modality, Cancer <br>
 ![licence](src/CcLogo.png) CC BY 3.0
@@ -2858,6 +2861,11 @@ A biopsy-proven skin disease dataset with diverse skin tone representation. <br>
 
 - <a href="https://www.dermoscopyatlas.com"> **Dermoscopy and Dermatoscopy Atlas**</a><br>
 It contains 433 diagnosis.<br>
+
+- <a href="https://github.com/mattgroh/fitzpatrick17k"> **Fitzpatrick 17k**</a><br>
+16,577 clinical images sourced from two dermatology atlases — DermaAmin and Atlas Dermatologico<br>
+<a href="https://arxiv.org/abs/2104.09957"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC-SA 3.0
 
 - <a href="https://fusc.grand-challenge.org"> **FUSC**</a> (Foot Ulcer Segmentation Challenge)<br>
 In the dataset provided, over 1200 images are collected over 2 years from hundreds of patients.<br>
@@ -3079,6 +3087,12 @@ Foundation Model Prompting for Medical Image Classification <br>
 - <a href="https://zenodo.org/records/7884735"> **MedIMeta**</a> (Medical Imaging Meta-Dataset)<br>
 A multi-domain multi-task medical imaging meta-dataset containing 19 medical imaging datasets spanning 10 different domains.<br>
 <a href="https://arxiv.org/abs/2404.16000"> ![paper](src/paper.png)</a>
+
+- <a href="https://medmnist.com"> **MedMNIST**</a><br>
+18x Standardized Datasets for 2D and 3D Biomedical Image Classification
+with Multiple Size Options: 28 (MNIST-Like), 64, 128, and 224<br>
+<a href="https://ieeexplore.ieee.org/document/9434062"> ![paper](src/paper.png)</a> | <a href="https://www.nature.com/articles/s41597-022-01721-8"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0 - CC BY-NC 4.0
 
 - <a href="https://medpix.nlm.nih.gov/home"> **MedPix**</a><br>
 Medical images, teaching cases, and clinical topics, integrating images and textual metadata including over 12,000 patient case scenarios, 9,000 topics, and nearly 59,000 images.<br>
