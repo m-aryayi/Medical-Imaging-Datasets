@@ -2835,6 +2835,12 @@ Image classification dataset consists of 327.680 color images extracted from his
 
 ### Skin
 
+- <a href="https://huggingface.co/datasets/resyhgerwshshgdfghsdfgh/SD-198"> **7-point criteria evaluation**</a><br>
+For evaluating computerized image-based prediction of the 7-point skin lesion malignancy checklist.<br>
+***Keyboard:*** Labeled<br>
+<a href="https://ieeexplore.ieee.org/document/8333693"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC-ND
+
 - <a href="https://www.cancerimagingarchive.net/collection/anti-pd-1_melanoma">**Anti-PD-1_MELANOMA**</a><br>
 This collection includes 47 melanoma cases treated with anti-PD1 immunotherapy, each with pre-treatment and 1 or more imaging follow-up timepoints. <br>
 ***Keyboard:*** Multi-modality, Cancer <br>
@@ -2894,6 +2900,11 @@ melanoma and 100 nevi cases).<br>
 The database contains a total of 200 dermoscopic images of melanocytic lesions <br>
 ***Keyboard:*** Classification, Segmentation, Dermoscopic images, Labeled <br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/24110966"> ![paper](src/paper.png)</a>
+
+- <a href="https://huggingface.co/datasets/resyhgerwshshgdfghsdfgh/SD-198"> **SD-198**</a> (Skin Disease)<br>
+It contains 198 different diseases from different types of eczema, acne and various cancerous conditions.<br>
+***Keyboard:*** Labeled<br>
+<a href="https://link.springer.com/chapter/10.1007/978-3-319-46466-4_13"> ![paper](src/paper.png)</a>
 
 - <a href="https://uwaterloo.ca/vision-image-processing-lab/research-demos/skin-cancer-detection"> **Skin Cancer Detection**</a><br>
 This includes images extracted from the public databases DermIS and DermQuest, along with manual segmentations of the lesions. <br>
