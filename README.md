@@ -1042,6 +1042,12 @@ Multi-Structure Segmentation in CBCT Volumes<br>
 <a href="https://toothfairy2.grand-challenge.org/evaluation/preliminary-phase-release-of-training-data/leaderboard"> ![Leaderboard](src/leaderboard.png)</a><br>
 ![licence](src/CcLogo.png) CC BY-SA
 
+- <a href="https://ditto.ing.unimore.it/toothfairy3/"> **ToothFairy3**</a><br>
+Multi-Structure Segmentation in CBCT Volumes<br>
+***Keyboard:*** Cone Beam Computed Tomography (CBCT), Segmentation<br>
+<a href="https://toothfairy3.grand-challenge.org/evaluation/debugging-phase/leaderboard"> ![Leaderboard](src/leaderboard.png)</a><br>
+![licence](src/CcLogo.png) CC-BY-NC-SA
+
 - <a href="https://www.cancerimagingarchive.net/collection/vestibular-schwannoma-seg"> **Vestibular Schwannoma SEG**</a> <br>
 242 consecutive patients with vestibular schwannoma (VS) undergoing Gamma Knife stereotactic radiosurgery (GK SRS). <br>
 ***Keyboard:*** MRI, Segmentation, Labeled<br>
