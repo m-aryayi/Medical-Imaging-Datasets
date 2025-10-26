@@ -746,9 +746,9 @@ It contains data generated through the Glioma Molecular Diagnostic Initiative fr
 ***Keyboard:*** MRI<br>
 ![licence](src/CcLogo.png) TCIA Restricted - CC BY 3.0
 
-- <a href="https://archive.norstore.no/pages/public/datasetDetail.jsf?id=10.11582/2017.00004"> **RESECT**</a> (REtroSpective Evaluation of Cerebral Tumors)  <br>
-A clinical database of pre-oper, ative MRI and intra-operative ultrasound in low-grade glioma surgeries <br>
-***Keyboard:*** Cancer, Registration, Labeled <br>
+- <a href="https://archive.norstore.no/pages/public/datasetDetail.jsf?id=10.11582/2017.00004"> **RESECT**</a> ![BrokenLink](src/brokenlink.png) (REtroSpective Evaluation of Cerebral Tumors)<br>
+A clinical database of pre-oper, ative MRI and intra-operative ultrasound in low-grade glioma surgeries<br>
+***Keyboard:*** Cancer, Registration, Labeled<br>
 <a href="https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.12268"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY 4.0
 
@@ -1633,8 +1633,8 @@ Coronary Calcium and chest CT’s.<br>
 <a href="https://vessel-wall-segmentation-2022.grand-challenge.org/evaluation/validation/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
 
 - <a href="http://cmr.miccai.cloud"> **CMRxMotion**</a><br>
-Extreme Cardiac MRI Analysis under Respiratory Motion <br>
-<a href="http://cmr.miccai.cloud/validation-leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+Extreme Cardiac MRI Analysis under Respiratory Motion<br>
+<a href="https://arxiv.org/abs/2507.19165"> ![paper](src/paper.png)</a> | <a href="http://cmr.miccai.cloud/papers"> ![paper](src/paper.png)</a>
 
 - <a href="https://cmrxrecon.github.io/Home.html"> **CMRxRecon**</a><br>
 It aims to establish a platform for fast CMR image reconstruction<br>
@@ -2043,9 +2043,9 @@ The dataset contains 20,000+ images and 3 classes: COVID-19, Pneumonia and Norma
 It consists of 3578 images from NIH ChestX-14 <br>
 ***Keyboard:*** X-ray, Segmentation, Labeled <br>
 
-- <a href="https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community"> **ChestX-ray8**</a> (ChestXray-NIHCC) <br>
-100,000 anonymized chest x-ray images <br>
-***Keyboard:*** X-ray, Labeled <br>
+- <a href="https://huggingface.co/datasets/alkzar90/NIH-Chest-X-ray-dataset"> **ChestX-ray8**</a> (ChestXray-NIHCC)<br>
+100,000 anonymized chest x-ray images<br>
+***Keyboard:*** X-ray, Labeled<br>
 <a href="https://arxiv.org/abs/1705.02315"> ![paper](src/paper.png)</a> 
 
 - <a href="https://www.v7labs.com/open-datasets/chestx-ray14"> **ChestX-ray14**</a> (ChestXray-NIHCC) <br>
@@ -2522,9 +2522,9 @@ The dataset includes MRI images of T1 and T2 sagittal plane and T2 axial plane (
 <a href="https://verse2019.grand-challenge.org/evaluation/challenge/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841521002127"> ![paper](src/paper.png)</a> | <a href="https://pubs.rsna.org/doi/10.1148/ryai.2020190138"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY-SA 4.0
 
-- <a href="https://lit.fe.uni-lj.si/xVertSeg/overview.php"> **xVertSeg**</a> <br>
-Classify and segment vertebrae from the spine images that include fractured and non-fractured cases <br>
-***Keyboard:*** CT scan, Segmentation, Classification <br>
+- <a href="https://lit.fe.uni-lj.si/en/research/resources/xVertSeg"> **xVertSeg**</a><br>
+Classify and segment vertebrae from the spine images that include fractured and non-fractured cases<br>
+***Keyboard:*** CT scan, Segmentation, Classification<br>
 
 
 
@@ -2841,7 +2841,7 @@ Image classification dataset consists of 327.680 color images extracted from his
 
 ### Skin
 
-- <a href="https://huggingface.co/datasets/resyhgerwshshgdfghsdfgh/SD-198"> **7-point criteria evaluation**</a><br>
+- <a href="https://derm.cs.sfu.ca/Welcome.html"> **7-point criteria evaluation**</a><br>
 For evaluating computerized image-based prediction of the 7-point skin lesion malignancy checklist.<br>
 ***Keyboard:*** Labeled<br>
 <a href="https://ieeexplore.ieee.org/document/8333693"> ![paper](src/paper.png)</a><br>
