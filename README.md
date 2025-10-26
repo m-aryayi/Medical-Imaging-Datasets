@@ -2902,6 +2902,12 @@ melanoma and 100 nevi cases).<br>
 ***Keyboard:*** Classification, Dermatoscopic images <br>
 <a href="https://ieeexplore.ieee.org/document/7348708"> ![paper](src/paper.png)</a>
 
+- <a href="https://data.mendeley.com/datasets/zr7vgbcyr2/1"> **PAD-UFES-20**</a><br>
+There are 1,373 patients, 1,641 skin lesions, and 2,298 images present in the dataset.<br>
+***Keyboard:*** Cancer, Detection<br>
+<a href="https://www.sciencedirect.com/science/article/pii/S235234092031115X"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY 4.0
+
 - <a href="https://www.fc.up.pt/addi/ph2%20database.html"> **PH<sup>2</sup>**</a> <br>
 The database contains a total of 200 dermoscopic images of melanocytic lesions <br>
 ***Keyboard:*** Classification, Segmentation, Dermoscopic images, Labeled <br>
