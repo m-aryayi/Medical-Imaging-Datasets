@@ -1649,6 +1649,10 @@ A collection of CT pulmonary angiography (CTPA) for patients susceptible to Pulm
 ***Keyboard:*** Labeled<br>
 ![licence](src/CcLogo.png) Stanford university dataset research use aggrement
 
+- <a href="https://dehazingecho2025.grand-challenge.org"> **DehazingEcho2025**</a><br>
+Dehazing and enhancing echocardiography for patients who are typically more difficult to image
+<a href="https://dehazingecho2025.grand-challenge.org/evaluation/timeline/leaderboard"> ![Leaderboard](src/leaderboard.png)</a>
+
 - <a href="https://www.cardiacatlas.org/determine"> **DETERMINE**</a> (Defibrillators to Reduce Risk by Magnetic Resonance Imaging Evaluation)<br>
 It consists of MR images and some 3D left ventricular models derived semi-automatically.<br>
 
