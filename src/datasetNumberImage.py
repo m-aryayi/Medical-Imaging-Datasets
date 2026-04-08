@@ -34,7 +34,7 @@ data = {
        'Eyes': 38,
        'Bowel': 19,
        'Breast': 40,
-       'Heart and Blood Vessels': 59, 
+       'Heart and Blood Vessels': 60, 
        'Kidneys and Urinary Tract': 12,
        'Liver': 13, 
        'Lungs': 97,
