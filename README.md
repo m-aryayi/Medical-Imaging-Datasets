@@ -1677,6 +1677,12 @@ The database consists of 150 exams divided into 50 cases with normal MRI after i
 <a href="https://emidec.com/leaderboard"> ![Leaderboard](src/leaderboard.png)</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522000792"> ![paper](src/paper.png)</a> | <a href="https://emidec.com/accepted-papers"> ![paper](src/paper.png)</a><br>
 ![licence](src/CcLogo.png) CC BY-NC-SA 4.0
 
+- <a href="https://huggingface.co/datasets/Ahus-AIM/EchoXFlow"> **EchoXFlow**</a><br>
+35,377 recordings from 666 clinical examinations with native beamspace B-mode, Doppler and synchronized ECG; 2D contours and 3D LV meshes on annotated subsets.<br>
+***Keyboard:*** Echocardiography, Doppler, ECG, Multimodal, 3D, Contours, Meshes<br>
+<a href="https://arxiv.org/abs/2605.05447"> ![paper](src/paper.png)</a><br>
+![licence](src/CcLogo.png) CC BY-NC-SA 4.0
+
 - <a href="https://www.kaggle.com/datasets/aysendegerli/hmcqu-dataset"> **HMC-QU**</a><br>
 The dataset includes a collection of apical 4-chamber (A4C) and apical 2-chamber (A2C) view 2D echocardiography.<br>
 ***Keyboard:*** Myocardial Infarction, Detection, Segmentation, Labeled <br>
